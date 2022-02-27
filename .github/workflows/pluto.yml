@@ -2,7 +2,7 @@ name: aditya
 
 on:
   schedule:
-    - cron: "47 13,1 * * *"
+    - cron: "47 13 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
