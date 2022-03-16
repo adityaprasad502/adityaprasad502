@@ -89,11 +89,11 @@
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-160%20hrs%2058%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-162%20hrs%2031%20mins-blue?style=plastic&logo=Codepen)
 
 **🐱 My GitHub Data** 
 
-> 🏆 987 Contributions in the Year 2022
+> 🏆 991 Contributions in the Year 2022
  > 
 > 📦 73.1 kB Used in GitHub's Storage 
  > 
@@ -128,15 +128,14 @@ Sunday       50 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   17 hrs 17 mins      ███████████████████████░░   94.21% 
-Text                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+Python                   15 hrs 13 mins      ███████████████████████░░   94.56% 
+Text                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
 
 🔥 Editors: 
-VS Code                  18 hrs 21 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 5 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  18 hrs 21 mins      █████████████████████████   100.0%
+Windows                  16 hrs 5 mins       █████████████████████████   100.0%
 ```
 
 **🧑‍💻 I Mostly Code in Python** 
@@ -154,8 +153,8 @@ TypeScript               1 repo              ██░░░░░░░░░�
 **📝 Note**
 
 ```
-Last Updated precisely on 15/03/2022 at 19:28:00 IST
-Next Update is roughly by 16/03/2022 at 07:25:00 IST
+Last Updated precisely on 16/03/2022 at 19:27:05 IST
+Next Update is roughly by 17/03/2022 at 07:25:05 IST
 ```
 
 <!--END_SECTION:waka-->
