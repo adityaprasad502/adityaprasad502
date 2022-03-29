@@ -89,15 +89,15 @@
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-178%20hrs%2058%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-179%20hrs%2059%20mins-blue?style=plastic&logo=Codepen)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,040 Contributions in the Year 2022
+> 🏆 1,041 Contributions in the Year 2022
  > 
-> 📦 82.8 kB Used in GitHub's Storage 
+> 📦 82.9 kB Used in GitHub's Storage 
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 ∞ private repositories.
 
@@ -128,16 +128,18 @@ Sunday       55 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         ███████████░░░░░░░░░░░░░░   46.4% 
-Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-CSS                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
-HTML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94%
+Python                   4 hrs 20 mins       ████████████████░░░░░░░░░   64.23% 
+JavaScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.0%
+Windows                  6 hrs 45 mins       █████████████████████████   100.0%
 ```
 
 **🧑‍💻 I Mostly Code in Python** 
@@ -155,8 +157,8 @@ TypeScript               1 repo              ██░░░░░░░░░�
 **📝 Note**
 
 ```
-Last Updated precisely on 28/03/2022 at 19:28:01 IST
-Next Update is roughly by 29/03/2022 at 07:25:00 IST
+Last Updated precisely on 29/03/2022 at 19:26:44 IST
+Next Update is roughly by 30/03/2022 at 07:25:40 IST
 ```
 
 <!--END_SECTION:waka-->
