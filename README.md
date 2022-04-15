@@ -15,21 +15,6 @@
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
 
 <details>
-  <summary><b>About Me </b></summary>
-  <a href="https://da.gd/aditya"> <img width="55%" align="right" alt="Github"
-      src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> </a>
-
-  > - 🔭 I’m currently working on [@nedzbot](https://t.me/nedzbot) in Telegram.
-  >
-  > - 🌱 I’m currently learning Python, Java etc.
-  >
-  > - 💬 Talk to me about Python, Java, Open Source, Telegram, Android etc.
-</details>
-
-<a href="https://da.gd/aditya"> <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </a>
-
-<details>
   <summary><b>Git Stats</b></summary>
   <br>
   <p align="center">
