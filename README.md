@@ -74,11 +74,11 @@
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-240%20hrs%2044%20mins-blue?logo=wakatime)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-240%20hrs%2053%20mins-blue?logo=wakatime)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,512 Contributions in the Year 2022
+> 🏆 3,608 Contributions in the Year 2022
  > 
 > 📦 91.4 KiB Used in GitHub's Storage 
  > 
@@ -94,13 +94,13 @@
 🌃 Evening    56 commits     ███████░░░░░░░░░░░░░░░░░░   29.95% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.68% 
-Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-Wednesday    106 commits    ██████░░░░░░░░░░░░░░░░░░░   27.25% 
-Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Tuesday      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
+Wednesday    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
+Thursday     145 commits    █████████░░░░░░░░░░░░░░░░   37.28% 
 Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
 Saturday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
 Sunday       96 commits     ██████░░░░░░░░░░░░░░░░░░░   24.68%
@@ -113,13 +113,13 @@ Sunday       96 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   44 mins             █████████████████████████   100.0%
+Didn't Touch PC Last Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.0%
+Didn't Touch PC Last Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+Didn't Touch PC Last Week
 ```
 
 **🧑‍💻 I Mostly Code in Python** 
@@ -138,8 +138,8 @@ Java                     1 repo              █░░░░░░░░░░�
 **📝 Note**
 
 ```
-Last Updated precisely on 12/05/2022 at 19:37:23 IST
-Next Update is roughly by 13/05/2022 at 19:35:20 IST
+Last Updated precisely on 13/05/2022 at 19:41:52 IST
+Next Update is roughly by 14/05/2022 at 19:40:50 IST
 ```
 
 <!--END_SECTION:waka-->
