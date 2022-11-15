@@ -13,23 +13,23 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/73ace3ac83a4c5ac34732790d3e33232236e32b74643d39912d5c1d091884e86/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d353030253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-500%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 10,288+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 15.7 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 10,310+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 15.8 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
 <p><strong><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji> I'm a Night <g-emoji class="g-emoji" alias="owl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f989.png">🦉</g-emoji></strong></p>
-<pre lang="text"><code>🌞 Morning    134 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.09% 
+<pre lang="text"><code>🌞 Morning    139 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.03% 
 🌆 Daytime    86 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.1% 
-🌃 Evening    127 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.78% 
+🌃 Evening    122 commits    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.85% 
 🌙 Night      187 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.02%
 </code></pre>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
 <pre lang="text"><code>Monday       60 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.24% 
-Tuesday      50 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.36% 
+Tuesday      67 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.55% 
 Wednesday    37 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.93% 
-Thursday     45 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.43% 
-Friday       66 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.36% 
+Thursday     33 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.18% 
+Friday       61 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.42% 
 Saturday     88 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.48% 
 Sunday       188 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.21%
 </code></pre>
@@ -60,8 +60,8 @@ CSS                      x repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Shell                    x repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.7%
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 14/11/2022 at 19:43:06 IST
-Next Update is roughly by 15/11/2022 at 19:40:05 IST
+<pre><code>Last Updated precisely on 15/11/2022 at 19:25:24 IST
+Next Update is roughly by 16/11/2022 at 19:25:20 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
