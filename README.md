@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/15a2a426a084d9e788ef36f8fa8159616466481d1a47a64a1b570b3a2a76ddc4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d35303925323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-509%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 10,817+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 10,839+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 15.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -55,15 +55,15 @@
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>56 commits</td>
+<td>51 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.43%</td>
+<td>9.5%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>62 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.55%</td>
+<td>49 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.12%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
@@ -85,9 +85,9 @@
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>171 commits</td>
+<td>189 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.84%</td>
+<td>35.2%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,33 +95,33 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>6 hrs 17 mins</td>
+<td>6 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.16%</td>
+<td>70.52%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 14 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.93%</td>
+<td>13.76%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>55 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.26%</td>
+<td>10.14%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>21 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.97%</td>
+<td>3.92%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.86%</td>
+<td>0.85%</td>
 </tr> 
  <tr>
 <td>JSON</td>
@@ -138,14 +138,14 @@
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 58 mins</td>
+<td>9 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 58 mins</td>
+<td>9 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -184,25 +184,27 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> Random Joke for Today</strong></p>
-<pre><code>"We messed up the keming again guys."
+<pre><code>There are 10 kinds of people in this world.
+</code></pre>
+<pre><code>~&gt; Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Random Facts for Today</strong></p>
-<pre><code>1 ~&gt; Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
+<pre><code>1 ~&gt; Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."
 </code></pre>
-<pre><code>2 ~&gt; When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.
+<pre><code>2 ~&gt; Leonardo da Vinci could write with one hand while drawing with the other
 </code></pre>
-<pre><code>3 ~&gt; The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.
+<pre><code>3 ~&gt; You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Random Quotes for Today</strong></p>
-<pre><code>1 ~&gt; Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. - Joan Rivers
+<pre><code>1 ~&gt; The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be. - William James
 </code></pre>
-<pre><code>2 ~&gt; It is never too late to be what you might have been. - George Eliot
+<pre><code>2 ~&gt; A lie gets halfway around the world before the truth has a chance to get its pants on. - Winston Churchill
 </code></pre>
-<pre><code>3 ~&gt; The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character. - Margaret Chase Smith
+<pre><code>3 ~&gt; Never idealize others. They will never live up to your expectations. - Leo Buscaglia
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 03/12/2022 at 19:23:32 IST
-Next Update is roughly by 04/12/2022 at 19:20:30 IST
+<pre><code>Last Updated precisely on 04/12/2022 at 19:23:23 IST
+Next Update is roughly by 05/12/2022 at 19:20:20 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
