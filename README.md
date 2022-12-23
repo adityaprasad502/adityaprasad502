@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9b2c82e26c3d1c8d67be905164cd9014af96b2dcec9e1371dd5acd399f56ff9a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d353637253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-567%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c7e0607c395c6d6425f5b1e5282d2ca9eeb2d5831f5ee3dcbf28908848305f35/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d35373225323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-572%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 11,428+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 11,501+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 18.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,9 +22,9 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>118 commits</td>
+<td>111 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.32%</td>
+<td>23.82%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
@@ -34,9 +34,9 @@
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>112 commits</td>
+<td>119 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.03%</td>
+<td>25.54%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
@@ -49,15 +49,15 @@
 <table>
  <tbody><tr>
 <td>Monday</td>
-<td>49 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.52%</td>
+<td>33 commits</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.08%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>63 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.52%</td>
+<td>50 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.73%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
@@ -73,9 +73,9 @@
 </tr> 
  <tr>
 <td>Friday</td>
-<td>42 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.01%</td>
+<td>71 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.24%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
@@ -95,39 +95,39 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>23 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>72.76%</td>
+<td>27 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.27%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>5 hrs 58 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.19%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 hr 16 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.89%</td>
+<td>3 hrs 5 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.53%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>44 mins</td>
+<td>50 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.28%</td>
+<td>2.58%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>24 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.24%</td>
+<td>1.25%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.84%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>10 mins</td>
+<td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.55%</td>
+<td>0.33%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -138,14 +138,14 @@
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>32 hrs 49 mins</td>
+<td>32 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>32 hrs 49 mins</td>
+<td>32 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,27 +190,27 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> Random Joke for Today</strong></p>
-<pre><code>How many programmers does it take to change a lightbulb?
+<pre><code>What's the best thing about a Boolean?
 </code></pre>
-<pre><code>~&gt; None that's a hardware problem
+<pre><code>~&gt; Even if you're wrong, you're only off by a bit.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Random Facts for Today</strong></p>
-<pre><code>1 ~&gt; In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
+<pre><code>1 ~&gt; Donald Duck`s middle name is Fauntleroy.  
 </code></pre>
-<pre><code>2 ~&gt; Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+<pre><code>2 ~&gt; 100% of lottery winners do gain weight
 </code></pre>
-<pre><code>3 ~&gt; 2,000 pounds of space dust and other space debris fall on the Earth every day.
+<pre><code>3 ~&gt; the bird is the word
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Random Quotes for Today</strong></p>
-<pre><code>1 ~&gt; I have never been hurt by anything I didn't say. - Calvin Coolidge
+<pre><code>1 ~&gt; Don't look back. Something might be gaining on you. - Satchel Paige
 </code></pre>
-<pre><code>2 ~&gt; Belief consists in accepting the affirmations of the soul; Unbelief, in denying them. - Ralph Waldo Emerson
+<pre><code>2 ~&gt; Do not follow where the path may lead. Go, instead, where there is no path and leave a trail. - Ralph Waldo Emerson
 </code></pre>
-<pre><code>3 ~&gt; Life isn't about finding yourself. Life is about creating yourself. - Bernard Shaw
+<pre><code>3 ~&gt; Do not turn back when you are just at the goal. - Publilius Syrus
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 22/12/2022 at 19:23:32 IST
-Next Update is roughly by 23/12/2022 at 19:20:30 IST
+<pre><code>Last Updated precisely on 23/12/2022 at 19:22:55 IST
+Next Update is roughly by 24/12/2022 at 19:20:55 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
