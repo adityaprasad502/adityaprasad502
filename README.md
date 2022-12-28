@@ -10,11 +10,11 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a90756470699fa5ef14cf79ad2d4f6145c6dfea4edaf66562c568c9a39bb4e89/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36303525323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-605%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4e4df273301c9bd6b907c9d368e7655c7cc99434c2f0400d8eea5017e61926c2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36313525323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-615%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 11,741+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 18.8 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 11,796+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 18.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -22,25 +22,25 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>103 commits</td>
+<td>109 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.1%</td>
+<td>23.24%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>81 commits</td>
+<td>78 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.38%</td>
+<td>16.63%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>127 commits</td>
+<td>126 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.25%</td>
+<td>26.87%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>155 commits</td>
+<td>156 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>33.26%</td>
 </tr>
@@ -51,43 +51,43 @@
 <td>Monday</td>
 <td>65 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.95%</td>
+<td>13.86%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>59 commits</td>
+<td>60 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.66%</td>
+<td>12.79%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>38 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.15%</td>
+<td>79 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.84%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
 <td>33 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.08%</td>
+<td>7.04%</td>
 </tr> 
  <tr>
 <td>Friday</td>
 <td>43 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.23%</td>
+<td>9.17%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>90 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.31%</td>
+<td>67 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.29%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>138 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.61%</td>
+<td>122 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.01%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,57 +95,57 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>37 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.53%</td>
+<td>41 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>87.47%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>2 hrs 43 mins</td>
+<td>2 hrs 58 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.51%</td>
+<td>6.27%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>39 mins</td>
+<td>1 hr 4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.57%</td>
+<td>2.27%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>30 mins</td>
+<td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.2%</td>
+<td>1.63%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.58%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
-<td>13 mins</td>
+<td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.53%</td>
+<td>0.5%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.51%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.33%</td>
+<td>0.45%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>41 hrs 52 mins</td>
+<td>47 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>41 hrs 52 mins</td>
+<td>47 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,62 +155,62 @@
  <tbody><tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.96%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>64.29%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.81%</td>
+<td>14.29%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.11%</td>
+<td>10.71%</td>
 </tr> 
  <tr>
 <td>Shell</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.57%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.57%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.57%</td>
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> Random Joke for Today</strong></p>
-<pre><code>Why did the Python programmer not respond to the foreign mails he got?
+<pre><code>What's the best thing about a Boolean?
 </code></pre>
-<pre><code>~&gt; Because his interpreter was busy collecting garbage.
+<pre><code>~&gt; Even if you're wrong, you're only off by a bit.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Random Facts for Today</strong></p>
-<pre><code>1 ~&gt; No word in the English language rhymes with month, orange, silver and purple.
+<pre><code>1 ~&gt; Napoleon`s penis was sold to an American Urologist for $40,000.
 </code></pre>
-<pre><code>2 ~&gt; The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.
+<pre><code>2 ~&gt; Shakespeare spelled his OWN name several different ways.
 </code></pre>
-<pre><code>3 ~&gt; Prince Charles is an avid collecter of toilet seats.
+<pre><code>3 ~&gt; The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Random Quotes for Today</strong></p>
-<pre><code>1 ~&gt; May our hearts garden of awakening bloom with hundreds of flowers. - Thích Nhất Hạnh
+<pre><code>1 ~&gt; Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech. - Benjamin Franklin
 </code></pre>
-<pre><code>2 ~&gt; Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith. - Gordon Hinckley
+<pre><code>2 ~&gt; Never mistake activity for achievement. - John Wooden
 </code></pre>
-<pre><code>3 ~&gt; Love is the flower you've got to let grow. - John Lennon
+<pre><code>3 ~&gt; Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine. - Nikola Tesla
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 27/12/2022 at 19:23:55 IST
-Next Update is roughly by 28/12/2022 at 19:20:55 IST
+<pre><code>Last Updated precisely on 28/12/2022 at 19:23:17 IST
+Next Update is roughly by 29/12/2022 at 19:20:15 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
