@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c30bf8e80e1ee993a76f6da7ad48d59b63672cdc3adafb6f28fc5847af08909a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36313825323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-618%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d1ec71e16056d62f52568e2561e035f247131f72e4562873b90d38fc084315aa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d363139253230687273253230372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-619%20hrs%207%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 11,912+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 11,942+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 18.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,9 +22,9 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>140 commits</td>
+<td>149 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.6%</td>
+<td>26.19%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
@@ -34,9 +34,9 @@
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>134 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.55%</td>
+<td>125 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.97%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
@@ -49,9 +49,9 @@
 <table>
  <tbody><tr>
 <td>Monday</td>
-<td>54 commits</td>
+<td>53 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.49%</td>
+<td>9.31%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
@@ -61,15 +61,15 @@
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>75 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.18%</td>
+<td>56 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.84%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
-<td>80 commits</td>
+<td>73 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.06%</td>
+<td>12.83%</td>
 </tr> 
  <tr>
 <td>Friday</td>
@@ -85,9 +85,9 @@
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>142 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.96%</td>
+<td>169 commits</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.7%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,63 +95,63 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>38 hrs 7 mins</td>
+<td>29 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.23%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>2 hrs 47 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.18%</td>
+<td>84.17%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>1 hr 22 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.03%</td>
+<td>1 hr 20 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.83%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>1 hr 18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.75%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>1 hr 17 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.85%</td>
+<td>1 hr 15 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.6%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>32 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.21%</td>
+<td>1.56%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.64%</td>
+<td>0.83%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.53%</td>
+<td>0.67%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>45 hrs 6 mins</td>
+<td>34 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.65%</td>
+<td>99.55%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
+<td>0.45%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>45 hrs 15 mins</td>
+<td>34 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -196,27 +196,27 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> Random Joke for Today</strong></p>
-<pre><code>What's the best part about TCP jokes?
+<pre><code>Programming is like sex.
 </code></pre>
-<pre><code>~&gt; I get to keep telling them until you get them.
+<pre><code>~&gt; Make one mistake and you end up supporting it for the rest of your life.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Random Facts for Today</strong></p>
-<pre><code>1 ~&gt; Over 1000 birds a year die from smashing into windows!
+<pre><code>1 ~&gt; Pearls melt in vinegar.
 </code></pre>
-<pre><code>2 ~&gt; Babies are most likely to be born on Tuesdays.
+<pre><code>2 ~&gt; In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.
 </code></pre>
-<pre><code>3 ~&gt; Coca-Cola was originally green.
+<pre><code>3 ~&gt; The human heart creates enough pressure to squirt blood 30ft.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Random Quotes for Today</strong></p>
-<pre><code>1 ~&gt; If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing. - Margaret Thatcher
+<pre><code>1 ~&gt; Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. - Albert Schweitzer
 </code></pre>
-<pre><code>2 ~&gt; It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err. - Mahatma Gandhi
+<pre><code>2 ~&gt; It is far better to be alone, than to be in bad company. - George Washington
 </code></pre>
-<pre><code>3 ~&gt; The best thing in every noble dream is the dreamer... - Moncure D. Conway
+<pre><code>3 ~&gt; True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Isocrates
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 31/12/2022 at 19:23:03 IST
-Next Update is roughly by 01/01/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 01/01/2023 at 19:23:06 IST
+Next Update is roughly by 02/01/2023 at 19:20:05 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
