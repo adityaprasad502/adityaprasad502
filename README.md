@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd9ce00bbe8bcc067a8e72084c6d66f86244586c8740c4e7b0c18ac1927dce59/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36313925323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-619%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 12,097+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 12,129+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 18.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,9 +22,9 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>141 commits</td>
+<td>144 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.74%</td>
+<td>25.26%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
@@ -34,9 +34,9 @@
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>133 commits</td>
+<td>130 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.33%</td>
+<td>22.81%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
@@ -55,15 +55,15 @@
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>66 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.58%</td>
+<td>43 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.54%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>77 commits</td>
+<td>74 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.51%</td>
+<td>12.98%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
@@ -79,9 +79,9 @@
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>80 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.04%</td>
+<td>106 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.6%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
@@ -95,51 +95,21 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.18%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>9 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.52%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.18%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>9 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.82%</td>
+<td>17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>30 mins</td>
+<td>17 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -184,27 +154,26 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> Random Joke for Today</strong></p>
-<pre><code>Why is peter pan always flying?
-</code></pre>
-<pre><code>~&gt; Because he neverlands
+<pre><code>My wife and I have reached the difficult decision that we do not want children.
+If anybody does, please just send me your contact details and we can drop them off tomorrow.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Random Facts for Today</strong></p>
-<pre><code>1 ~&gt; In Vermont, the ratio of cows to people is 10:1
+<pre><code>1 ~&gt; On average, Americans eat 18 acres of pizza everyday.
 </code></pre>
-<pre><code>2 ~&gt; William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth
+<pre><code>2 ~&gt; The electric chair was invented by a dentist.
 </code></pre>
-<pre><code>3 ~&gt; There are 1,575 steps from the ground floor to the top of the Empire State building.
+<pre><code>3 ~&gt; The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Random Quotes for Today</strong></p>
-<pre><code>1 ~&gt; That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along. - Lisa Alther
+<pre><code>1 ~&gt; He who conquers others is strong; He who conquers himself is mighty. - Laozi
 </code></pre>
-<pre><code>2 ~&gt; When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless. - Pema Chödrön
+<pre><code>2 ~&gt; From error to error one discovers the entire truth. - Sigmund Freud
 </code></pre>
-<pre><code>3 ~&gt; Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions. - Yoko Ono
+<pre><code>3 ~&gt; Problems are only opportunities with thorns on them. - Hugh Miller
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 06/01/2023 at 19:22:55 IST
-Next Update is roughly by 07/01/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 07/01/2023 at 19:23:37 IST
+Next Update is roughly by 08/01/2023 at 19:20:35 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
