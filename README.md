@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e825f382cf3f1dc800ea6b1fd37d7ad45e713c658dfecffe16b1b35306e1344b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36323325323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-623%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 12,251+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 12,285+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 23.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,9 +22,9 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>141 commits</td>
+<td>144 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.69%</td>
+<td>25.22%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
@@ -34,9 +34,9 @@
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>133 commits</td>
+<td>130 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.29%</td>
+<td>22.77%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
@@ -67,9 +67,9 @@
 </tr> 
  <tr>
 <td>Thursday</td>
-<td>53 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.28%</td>
+<td>81 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.19%</td>
 </tr> 
  <tr>
 <td>Friday</td>
@@ -79,15 +79,15 @@
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>83 commits</td>
+<td>79 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.54%</td>
+<td>13.84%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>174 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.47%</td>
+<td>150 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.27%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -195,22 +195,22 @@
 <pre><code>~&gt; Because they need to C#
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Random Facts for Today</strong></p>
-<pre><code>1 ~&gt; Hot water is heavier than cold.
+<pre><code>1 ~&gt; Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
 </code></pre>
-<pre><code>2 ~&gt; Half of all Americans live within 50 miles of their birthplace.
+<pre><code>2 ~&gt; The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.
 </code></pre>
-<pre><code>3 ~&gt; The HyperMart outside of Garland Texas has 58 check-outs.
+<pre><code>3 ~&gt; 111,111,111 x 111,111,111 = 12,345,678,987,654,321
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Random Quotes for Today</strong></p>
-<pre><code>1 ~&gt; Where there is charity and wisdom, there is neither fear nor ignorance. - Francis of Assisi
+<pre><code>1 ~&gt; Success is getting what you want. Happiness is wanting what you get. - Dale Carnegie
 </code></pre>
-<pre><code>2 ~&gt; Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary. - Margaret Cousins
+<pre><code>2 ~&gt; Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. - Marcel Proust
 </code></pre>
-<pre><code>3 ~&gt; Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. - Dalai Lama
+<pre><code>3 ~&gt; The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
 </code></pre>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 11/01/2023 at 19:23:24 IST
-Next Update is roughly by 12/01/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 12/01/2023 at 19:23:45 IST
+Next Update is roughly by 13/01/2023 at 19:20:45 IST
 </code></pre>
 
 <!--END_SECTION:waka-->
