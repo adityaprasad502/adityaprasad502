@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/044790e7276c77d3262d6d4722ea586ea19730667e4afd4e71d11e2ab8abd675/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36343425323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-644%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8b808087d4fc8ec555b6db81acb4497b044d336b8c35f5fe48c205659b38d125/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36343425323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-644%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,475+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,476+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,57 +95,57 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>15 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.36%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 40 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.13%</td>
+<td>15 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>79.9%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>1 hr 2 mins</td>
+<td>1 hr 9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.02%</td>
+<td>6.1%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>41 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.69%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.88%</td>
+<td>3.14%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>26 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.13%</td>
+<td>2.32%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.86%</td>
+<td>2.09%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.61%</td>
+<td>1.73%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>20 hrs 38 mins</td>
+<td>18 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>20 hrs 38 mins</td>
+<td>18 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 20/01/2023 at 19:23:23 IST
-Next Update is roughly by 21/01/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 21/01/2023 at 19:23:35 IST
+Next Update is roughly by 22/01/2023 at 19:20:35 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 21/01/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What did the cannibal do after he dumped his girlfriend?</code></pre>
-<pre><code>~&gt; He wiped his ass.</code></pre>
+<pre><code>How does the moon cut his hair?</code></pre>
+<pre><code>~&gt; Eclipse it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 21/01/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 ~&gt; To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
-<pre><code>2 ~&gt; Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.</code></pre>
-<pre><code>3 ~&gt; The dot over the letter `i` is called a tittle.  </code></pre>
+<pre><code>1 ~&gt; It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</code></pre>
+<pre><code>2 ~&gt; The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </code></pre>
+<pre><code>3 ~&gt; The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 21/01/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 ~&gt; Self-trust is the first secret of success. - Ralph Waldo Emerson</code></pre>
-<pre><code>2 ~&gt; Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything. - Muhammad Ali</code></pre>
-<pre><code>3 ~&gt; The only person who never makes mistakes is the person who never does anything. - Denis Waitley</code></pre>
+<pre><code>1 ~&gt; Learning never exhausts the mind. - Leonardo da Vinci</code></pre>
+<pre><code>2 ~&gt; Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved. - Helen Keller</code></pre>
+<pre><code>3 ~&gt; We are masters of the unsaid words, but slaves of those we let slip out. - Winston Churchill</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
