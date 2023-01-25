@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/204372f9dede77d5b34deb40eefddc3902ec6fd2437bf8abe50faaadae170155/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d363534253230687273253230342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-654%20hrs%204%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c3906c0707272ab2d8ad335af76d5e7debfbb970c5c303e4852c12d7eb03c5bc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36353525323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-655%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,514+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,518+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,72 +22,72 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>73 commits</td>
+<td>71 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.44%</td>
+<td>16.03%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>96 commits</td>
+<td>95 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.62%</td>
+<td>21.44%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>93 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.95%</td>
+<td>20.99%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>182 commits</td>
+<td>184 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.99%</td>
+<td>41.53%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
 <table>
  <tbody><tr>
 <td>Monday</td>
-<td>40 commits</td>
+<td>39 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.01%</td>
+<td>8.8%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>87 commits</td>
+<td>88 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.59%</td>
+<td>19.86%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
 <td>37 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.33%</td>
+<td>8.35%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
 <td>32 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.21%</td>
+<td>7.22%</td>
 </tr> 
  <tr>
 <td>Friday</td>
 <td>39 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.78%</td>
+<td>8.8%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>67 commits</td>
+<td>66 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.09%</td>
+<td>14.9%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>142 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.98%</td>
+<td>32.05%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,57 +95,57 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>19 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>85.78%</td>
+<td>11 hrs 27 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>79.3%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 59 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.92%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.81%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>46 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.48%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>11 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.88%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.39%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>10 mins</td>
+<td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.81%</td>
+<td>1.35%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.09%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.05%</td>
+</tr> 
+ <tr>
+<td>Git Config</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.01%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>22 hrs 22 mins</td>
+<td>14 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>22 hrs 22 mins</td>
+<td>14 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 24/01/2023 at 19:23:19 IST
-Next Update is roughly by 25/01/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 25/01/2023 at 19:23:23 IST
+Next Update is roughly by 26/01/2023 at 19:20:20 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 25/01/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why do programmers confuse Halloween and Christmas?</code></pre>
-<pre><code>~&gt; Because Oct 31 = Dec 25</code></pre>
+<pre><code>Why did the scarecrow win an award?</code></pre>
+<pre><code>~&gt; Because he was outstanding in his field.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 25/01/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 ~&gt; The most common name in world is Mohammed.</code></pre>
-<pre><code>2 ~&gt; Half of all Americans live within 50 miles of their birthplace.</code></pre>
-<pre><code>3 ~&gt; Van Gogh only sold one painting when he was alive.</code></pre>
+<pre><code>1 ~&gt; The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.</code></pre>
+<pre><code>2 ~&gt; the bird is the word</code></pre>
+<pre><code>3 ~&gt; Starfish haven`t got brains.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 25/01/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 ~&gt; The price of greatness is responsibility. - Winston Churchill</code></pre>
-<pre><code>2 ~&gt; We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. - Ralph Waldo Emerson</code></pre>
-<pre><code>3 ~&gt; Excellence is not a skill. It is an attitude. - Ralph Marston</code></pre>
+<pre><code>1 ~&gt; With pride, there are many curses. With humility, there come many blessings. - Ezra Taft Benson</code></pre>
+<pre><code>2 ~&gt; Wishing to be friends is quick work, but friendship is a slow ripening fruit. - Aristotle</code></pre>
+<pre><code>3 ~&gt; Better to have loved and lost, than to have never loved at all. - Augustine of Hippo</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
