@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c3906c0707272ab2d8ad335af76d5e7debfbb970c5c303e4852c12d7eb03c5bc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36353525323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-655%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d6e99db12faad3e36f4faecfe6ae2c30f7dea64908dec24414b810d925447baf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36353525323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-655%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,518+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,520+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,39 +95,39 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>11 hrs 27 mins</td>
+<td>9 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.3%</td>
+<td>76.08%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 59 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.81%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.99%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.39%</td>
+<td>6.24%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.35%</td>
+<td>1.56%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
+<td>0.11%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>0.02%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
@@ -138,14 +138,14 @@
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>14 hrs 26 mins</td>
+<td>12 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 26 mins</td>
+<td>12 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 25/01/2023 at 19:23:23 IST
-Next Update is roughly by 26/01/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 26/01/2023 at 19:22:49 IST
+Next Update is roughly by 27/01/2023 at 19:20:45 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 26/01/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why did the scarecrow win an award?</code></pre>
-<pre><code>~&gt; Because he was outstanding in his field.</code></pre>
+<pre><code>What do you call a bee that lives in America?</code></pre>
+<pre><code>~&gt; A USB.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 26/01/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 ~&gt; The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.</code></pre>
-<pre><code>2 ~&gt; the bird is the word</code></pre>
-<pre><code>3 ~&gt; Starfish haven`t got brains.</code></pre>
+<pre><code>1 ~&gt; It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
+<pre><code>2 ~&gt; Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
+<pre><code>3 ~&gt; A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 26/01/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 ~&gt; With pride, there are many curses. With humility, there come many blessings. - Ezra Taft Benson</code></pre>
-<pre><code>2 ~&gt; Wishing to be friends is quick work, but friendship is a slow ripening fruit. - Aristotle</code></pre>
-<pre><code>3 ~&gt; Better to have loved and lost, than to have never loved at all. - Augustine of Hippo</code></pre>
+<pre><code>1 ~&gt; Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. - Mark Twain</code></pre>
+<pre><code>2 ~&gt; We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves. - Buddha</code></pre>
+<pre><code>3 ~&gt; The universe is made of stories, not atoms. - Muriel Rukeyser</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
