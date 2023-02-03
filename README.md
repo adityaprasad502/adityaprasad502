@@ -13,8 +13,8 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/41babe44f03fa0bd7c392a01374966d2b94b4c059ac92a012e4b4d8ca186ebb3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373025323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-670%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,547+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.2 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,548+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -95,57 +95,57 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>7 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.2%</td>
+<td>7 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.86%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.24%</td>
+<td>33.81%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.9%</td>
+<td>6.19%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>27 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.04%</td>
+<td>3.19%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.38%</td>
+<td>2.5%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.82%</td>
+<td>1.91%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.23%</td>
+<td>1.29%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 3 mins</td>
+<td>14 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 3 mins</td>
+<td>14 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 02/02/2023 at 19:23:16 IST
-Next Update is roughly by 03/02/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 03/02/2023 at 19:23:10 IST
+Next Update is roughly by 04/02/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 03/02/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>I'm not saying my son is ugly...</code></pre>
-<pre><code>» But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.</code></pre>
+<pre><code>What's the difference between Jesus and a hooker?</code></pre>
+<pre><code>» The look on their face when you are nailing them.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 03/02/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</code></pre>
-<pre><code>2 » A whale`s penis is called a dork.</code></pre>
-<pre><code>3 » A shark is the only fish that can blink with both eyes.</code></pre>
+<pre><code>1 » The average person`s left hand does 56% of the typing.</code></pre>
+<pre><code>2 » Walt Disney was afraid of mice.</code></pre>
+<pre><code>3 » Deborah Winger did the voice of E.T.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 03/02/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand. - Woodrow Wilson</code></pre>
-<pre><code>2 » To avoid criticism, do nothing, say nothing, be nothing. - Elbert Hubbard</code></pre>
-<pre><code>3 » Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. - Joan Rivers</code></pre>
+<pre><code>1 » It's not what happens to you, but how you react to it that matters. - Epictetus</code></pre>
+<pre><code>2 » Let yourself be silently drawn by the stronger pull of what you really love. - Rumi</code></pre>
+<pre><code>3 » Remember always that you not only have the right to be an individual, you have an obligation to be one. - Eleanor Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
