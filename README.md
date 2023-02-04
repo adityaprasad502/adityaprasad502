@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/41babe44f03fa0bd7c392a01374966d2b94b4c059ac92a012e4b4d8ca186ebb3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373025323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-670%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,548+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,549+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 03/02/2023 at 19:23:10 IST
-Next Update is roughly by 04/02/2023 at 19:20:10 IST
+<pre><code>Last Updated precisely on 04/02/2023 at 19:23:25 IST
+Next Update is roughly by 05/02/2023 at 19:20:25 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 04/02/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What's the difference between Jesus and a hooker?</code></pre>
-<pre><code>» The look on their face when you are nailing them.</code></pre>
+<pre><code>What animal is always at a game of cricket?</code></pre>
+<pre><code>» A bat.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 04/02/2023 at 19:20:10 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average person`s left hand does 56% of the typing.</code></pre>
-<pre><code>2 » Walt Disney was afraid of mice.</code></pre>
-<pre><code>3 » Deborah Winger did the voice of E.T.</code></pre>
+<pre><code>1 » In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</code></pre>
+<pre><code>2 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
+<pre><code>3 » Most Egyptians died by the time they were 30 about 300 years ago,</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 04/02/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It's not what happens to you, but how you react to it that matters. - Epictetus</code></pre>
-<pre><code>2 » Let yourself be silently drawn by the stronger pull of what you really love. - Rumi</code></pre>
-<pre><code>3 » Remember always that you not only have the right to be an individual, you have an obligation to be one. - Eleanor Roosevelt</code></pre>
+<pre><code>1 » When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness. - Joseph Campbell</code></pre>
+<pre><code>2 » The best argument against democracy is a five-minute conversation with the average voter. - Winston Churchill</code></pre>
+<pre><code>3 » A man sees in the world what he carries in his heart. - Johann Wolfgang von Goethe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
