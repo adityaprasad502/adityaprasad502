@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5dbb82b47daab8bea101cbf14cecc3f060ca596ad9ea202cec30767b2bb62dad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373125323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-671%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8360aeb560f210ca189f2ac85e584b64a453c483473d0a446c6d7ccb04d0a77b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373625323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-676%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,554+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,566+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,9 +22,9 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>83 commits</td>
+<td>85 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.57%</td>
+<td>19.02%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
@@ -34,15 +34,15 @@
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>85 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.02%</td>
+<td>90 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.13%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>186 commits</td>
+<td>179 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.61%</td>
+<td>40.04%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -55,9 +55,9 @@
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>66 commits</td>
+<td>68 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.77%</td>
+<td>15.21%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
@@ -67,9 +67,9 @@
 </tr> 
  <tr>
 <td>Thursday</td>
-<td>32 commits</td>
+<td>33 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.16%</td>
+<td>7.38%</td>
 </tr> 
  <tr>
 <td>Friday</td>
@@ -79,73 +79,73 @@
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>81 commits</td>
+<td>74 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.12%</td>
+<td>16.55%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>151 commits</td>
+<td>155 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.78%</td>
+<td>34.68%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
-<td>JavaScript</td>
-<td>4 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.8%</td>
+<td>Python</td>
+<td>4 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.25%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>3 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.96%</td>
+<td>JavaScript</td>
+<td>1 hr 2 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.79%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.69%</td>
+<td>6.46%</td>
 </tr> 
  <tr>
-<td>TOML</td>
+<td>HTML</td>
 <td>18 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.13%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.31%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>16 mins</td>
+<td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.81%</td>
+<td>3.26%</td>
 </tr> 
  <tr>
-<td>Docker</td>
-<td>11 mins</td>
+<td>TOML</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>1.1%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>5 mins</td>
+<td>YAML</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.93%</td>
+<td>0.92%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 44 mins</td>
+<td>7 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 44 mins</td>
+<td>7 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 05/02/2023 at 19:23:10 IST
-Next Update is roughly by 06/02/2023 at 19:20:10 IST
+<pre><code>Last Updated precisely on 06/02/2023 at 19:23:18 IST
+Next Update is roughly by 07/02/2023 at 19:20:15 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 06/02/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why did the octopus beat the shark in a fight?</code></pre>
-<pre><code>» Because it was well armed.</code></pre>
+<pre><code>Did you hear the story about the cheese that saved the world?</code></pre>
+<pre><code>» It was legend dairy.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 06/02/2023 at 19:20:10 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</code></pre>
-<pre><code>2 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
-<pre><code>3 » The most common street name in the U.S. is Second Street.</code></pre>
+<pre><code>1 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
+<pre><code>2 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
+<pre><code>3 » The highest per capita Jell-O comsumption in the US is Des Moines.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 06/02/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Some people go to priests; others to poetry; I to my friends. - Virginia Woolf</code></pre>
-<pre><code>2 » Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good. - Ralph Waldo Emerson</code></pre>
-<pre><code>3 » The greatest gift of life is friendship, and I have received it. - Hubert Humphrey</code></pre>
+<pre><code>1 » There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them. - Denis Waitley</code></pre>
+<pre><code>2 » Memory is the mother of all wisdom. - Samuel Johnson</code></pre>
+<pre><code>3 » Reviewing what you have learned and learning anew, you are fit to be a teacher. - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
