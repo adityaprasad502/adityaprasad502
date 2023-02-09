@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8360aeb560f210ca189f2ac85e584b64a453c483473d0a446c6d7ccb04d0a77b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373625323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-676%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,568+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,569+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,57 +95,57 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>6 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.32%</td>
+<td>5 hrs 37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.33%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>13 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.26%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.71%</td>
+<td>5.06%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.41%</td>
+<td>0.48%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
+<td>0.42%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.26%</td>
+<td>0.31%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.28%</td>
+</tr> 
+ <tr>
+<td>Batchfile</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.11%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 4 mins</td>
+<td>6 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 4 mins</td>
+<td>6 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 08/02/2023 at 19:23:01 IST
-Next Update is roughly by 09/02/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 09/02/2023 at 19:22:57 IST
+Next Update is roughly by 10/02/2023 at 19:20:55 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 09/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What is a dying programmer's last program?</code></pre>
-<pre><code>» Goodbye, world!</code></pre>
+<pre><code>Why did the tree go to the dentist?</code></pre>
+<pre><code>» It needed a root canal.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 09/02/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In England, the Speaker of the House is not allowed to speak.</code></pre>
-<pre><code>2 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
-<pre><code>3 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
+<pre><code>1 » The Human eyes never grow, but nose and ears never stop growing.</code></pre>
+<pre><code>2 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
+<pre><code>3 » The state of Florida is bigger than England!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 09/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish. - John Adams</code></pre>
-<pre><code>2 » He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God. - Aeschylus</code></pre>
-<pre><code>3 » Get busy living or get busy dying. - Stephen King</code></pre>
+<pre><code>1 » Never promise more than you can perform. - Publilius Syrus</code></pre>
+<pre><code>2 » He who conquers others is strong; He who conquers himself is mighty. - Laozi</code></pre>
+<pre><code>3 » Always bear in mind that your own resolution to succeed is more important than any other. - Abraham Lincoln</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
