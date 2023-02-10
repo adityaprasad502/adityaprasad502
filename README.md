@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8360aeb560f210ca189f2ac85e584b64a453c483473d0a446c6d7ccb04d0a77b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373625323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-676%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,569+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,570+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 09/02/2023 at 19:22:57 IST
-Next Update is roughly by 10/02/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 10/02/2023 at 19:22:57 IST
+Next Update is roughly by 11/02/2023 at 19:20:55 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 10/02/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why did the tree go to the dentist?</code></pre>
-<pre><code>» It needed a root canal.</code></pre>
+<pre><code>Where do you learn to make banana splits?</code></pre>
+<pre><code>» At sundae school.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 10/02/2023 at 19:20:55 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Human eyes never grow, but nose and ears never stop growing.</code></pre>
-<pre><code>2 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
-<pre><code>3 » The state of Florida is bigger than England!</code></pre>
+<pre><code>1 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
+<pre><code>2 » Canada makes up 6.67 percent of the Earth`s land area</code></pre>
+<pre><code>3 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 10/02/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Never promise more than you can perform. - Publilius Syrus</code></pre>
-<pre><code>2 » He who conquers others is strong; He who conquers himself is mighty. - Laozi</code></pre>
-<pre><code>3 » Always bear in mind that your own resolution to succeed is more important than any other. - Abraham Lincoln</code></pre>
+<pre><code>1 » Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again. - John McCain</code></pre>
+<pre><code>2 » The only way to make sense out of change is to plunge into it, move with it, and join the dance. - Alan Watts</code></pre>
+<pre><code>3 » Never complain and never explain. - Benjamin Disraeli</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
