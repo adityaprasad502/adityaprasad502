@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/34d8ec70b5a9d6a7d22d3a1f21c264f782b2b4b52cfb95c36db1356ec2b17c30/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d363738253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-678%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,581+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,582+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,57 +95,45 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>91.58%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>18 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.76%</td>
+<td>4 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.18%</td>
 </tr> 
  <tr>
 <td>YAML</td>
-<td>9 mins</td>
+<td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.46%</td>
+<td>3.08%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
+<td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.46%</td>
+<td>0.63%</td>
+</tr> 
+ <tr>
+<td>Git Config</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.09%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.31%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.27%</td>
-</tr> 
- <tr>
-<td>Batchfile</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>0.02%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 24 mins</td>
+<td>4 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 24 mins</td>
+<td>4 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +178,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 12/02/2023 at 19:23:01 IST
-Next Update is roughly by 13/02/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 13/02/2023 at 19:23:13 IST
+Next Update is roughly by 14/02/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +189,7 @@ Next Update is roughly by 13/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>How do you make a tissue dance?</code></pre>
-<pre><code>» You put a little boogie on it.</code></pre>
+<pre><code>I have a joke about trickle down economics, but 99% of you will never get it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +198,9 @@ Next Update is roughly by 13/02/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
-<pre><code>2 » 101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.</code></pre>
-<pre><code>3 » The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</code></pre>
+<pre><code>1 » The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</code></pre>
+<pre><code>2 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
+<pre><code>3 » 40,000 Americans are injured by toilets each year.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +210,9 @@ Next Update is roughly by 13/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah. - Afrika Bambaataa</code></pre>
-<pre><code>2 » Every man takes the limits of his own field of vision for the limits of the world. - Arthur Schopenhauer</code></pre>
-<pre><code>3 » When we are no longer able to change a situation - we are challenged to change ourselves. - Viktor Frankl</code></pre>
+<pre><code>1 » Imagination is not a talent of some men but is the health of every man. - Ralph Waldo Emerson</code></pre>
+<pre><code>2 » No party has a monopoly on wisdom. No democracy works without compromise. - Barack Obama</code></pre>
+<pre><code>3 » Many of life's failures are people who did not realize how close they were to success when they gave up. - Thomas Edison</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
