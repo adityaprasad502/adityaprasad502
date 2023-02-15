@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0f81007d3e689543f62b1eea55c6860c1fd47c9424bdcfd44ba6ac5aeb10244e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373925323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-679%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/759d1b3dc4612d2034f802d7c643573402b340fb86ee2d0614de5427fc4f5c9f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373925323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-679%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,592+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,594+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,27 +95,27 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.48%</td>
+<td>2 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>91.83%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>7 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.42%</td>
+<td>4.23%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.89%</td>
+<td>2.77%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.91%</td>
+<td>0.87%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
@@ -138,14 +138,14 @@
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs</td>
+<td>3 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs</td>
+<td>3 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 14/02/2023 at 19:23:03 IST
-Next Update is roughly by 15/02/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 15/02/2023 at 19:23:36 IST
+Next Update is roughly by 16/02/2023 at 19:20:35 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 15/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What do you call a monkey in a mine field?</code></pre>
-<pre><code>» A babooooom!</code></pre>
+<pre><code>I was gonna tell you a joke about UDP...</code></pre>
+<pre><code>» ...but you might not get it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 15/02/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
-<pre><code>2 » Rubber bands last longer when refrigerated.  </code></pre>
-<pre><code>3 » Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</code></pre>
+<pre><code>1 » James Bond`s car had three different license plates in Goldfinger</code></pre>
+<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
+<pre><code>3 » Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 15/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I never think of the future. It comes soon enough. - Albert Einstein</code></pre>
-<pre><code>2 » True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances. - Daisaku Ikeda</code></pre>
-<pre><code>3 » People grow through experience if they meet life honestly and courageously. This is how character is built. - Eleanor Roosevelt</code></pre>
+<pre><code>1 » I'd rather regret the things that I have done than the things that I have not done. - Lucille Ball</code></pre>
+<pre><code>2 » Quality means doing it right when no one is looking. - Henry Ford</code></pre>
+<pre><code>3 » It has become appallingly obvious that our technology has exceeded our humanity. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
