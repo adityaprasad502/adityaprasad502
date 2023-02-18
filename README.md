@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/02e635656be98c5c508a71c1d26bd46144ffcf28119eca7ed46b90b96d841429/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36373925323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-679%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f95844999cef812a29c4ea0b7f5fad5dc460f51878a1c840571f2dea152b77cd/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36383525323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-685%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,596+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,623+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,27 +22,27 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>85 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.02%</td>
+<td>93 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.81%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>98 commits</td>
+<td>103 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.92%</td>
+<td>23.04%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>79 commits</td>
+<td>86 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.67%</td>
+<td>19.24%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>185 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.39%</td>
+<td>165 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.91%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -55,15 +55,15 @@
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>50 commits</td>
+<td>37 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.19%</td>
+<td>8.28%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>38 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.5%</td>
+<td>28 commits</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.26%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
@@ -79,15 +79,15 @@
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>78 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.45%</td>
+<td>104 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.27%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>160 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.79%</td>
+<td>157 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.12%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,27 +95,27 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 54 mins</td>
+<td>2 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>91.91%</td>
+<td>91.58%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>7 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.19%</td>
+<td>4.36%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.75%</td>
+<td>2.86%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.86%</td>
+<td>0.9%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
@@ -138,14 +138,14 @@
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 9 mins</td>
+<td>3 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 9 mins</td>
+<td>3 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 17/02/2023 at 19:23:07 IST
-Next Update is roughly by 18/02/2023 at 19:20:05 IST
+<pre><code>Last Updated precisely on 18/02/2023 at 19:23:27 IST
+Next Update is roughly by 19/02/2023 at 19:20:25 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 18/02/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What kind of bees produce milk?</code></pre>
-<pre><code>» Boo-Bees.</code></pre>
+<pre><code>What was the pumpkin’s favorite sport?</code></pre>
+<pre><code>» Squash.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 18/02/2023 at 19:20:05 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » You burn more calories sleeping than you do watching TV.</code></pre>
-<pre><code>2 » Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.</code></pre>
-<pre><code>3 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
+<pre><code>1 » More people are killed annually by donkeys than airplane crashes.</code></pre>
+<pre><code>2 » The Vatican city registered 0 births in 1983</code></pre>
+<pre><code>3 » 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 18/02/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » For everything that lives is holy, life delights in life. - William Blake</code></pre>
-<pre><code>2 » Chaos and Order are not enemies, only opposites. - Richard Garriott</code></pre>
-<pre><code>3 » Learning is finding out what you already know. - Richard Bach</code></pre>
+<pre><code>1 » It is one of the blessings of old friends that you can afford to be stupid with them. - Ralph Waldo Emerson</code></pre>
+<pre><code>2 » An invasion of armies can be resisted, but not an idea whose time has come. - Victor Hugo</code></pre>
+<pre><code>3 » Our doubts are traitors and make us lose the good we often might win, by fearing to attempt. - Jane Addams</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
