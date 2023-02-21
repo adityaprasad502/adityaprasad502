@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/60278341d019a76c11fd3d75b5c19384d4d83677d842496a58710b861992522a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d363933253230687273253230372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%207%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/10ff4fa9fe012f56c99f4b1f9586c503df54a4284e4ce01fd0bfd73e41f3a7a4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d363933253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,655+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,660+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -34,15 +34,15 @@
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>88 commits</td>
+<td>89 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.6%</td>
+<td>19.82%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>170 commits</td>
+<td>169 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.86%</td>
+<td>37.64%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -95,57 +95,33 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>13 hrs 26 mins</td>
+<td>11 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>89.1%</td>
+<td>88.42%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 30 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.01%</td>
+<td>11.25%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>7 mins</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.86%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
-</tr> 
- <tr>
-<td>Git Config</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
-</tr> 
- <tr>
-<td>Docker</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>0.33%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 4 mins</td>
+<td>13 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 4 mins</td>
+<td>13 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +166,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 20/02/2023 at 19:23:04 IST
-Next Update is roughly by 21/02/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 21/02/2023 at 19:23:04 IST
+Next Update is roughly by 22/02/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +177,8 @@ Next Update is roughly by 21/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What does a female snake use for support?</code></pre>
-<pre><code>» A co-Bra!</code></pre>
+<pre><code>What kind of pants do ghosts wear?</code></pre>
+<pre><code>» Boo jeans.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +187,9 @@ Next Update is roughly by 21/02/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average woman consumes 6 lbs of lipstick in her lifetime.</code></pre>
-<pre><code>2 » 10,000 Dutch cows pass through the Amsterdam airport each year.</code></pre>
-<pre><code>3 » Intelligent people have more zinc and copper in their hair.</code></pre>
+<pre><code>1 » Most toilets flush in E flat.</code></pre>
+<pre><code>2 » The longest one-syllable word in the English language is "screeched."</code></pre>
+<pre><code>3 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +199,9 @@ Next Update is roughly by 21/02/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I'm a great believer in luck and I find the harder I work, the more I have of it. - Thomas Jefferson</code></pre>
-<pre><code>2 » A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love. - Basil of Caesarea</code></pre>
-<pre><code>3 » Quick decisions are unsafe decisions. - Sophocles</code></pre>
+<pre><code>1 » Gratitude is riches. Complaint is poverty. - Doris Day</code></pre>
+<pre><code>2 » There is only one happiness in life, to love and be loved. - George Sand</code></pre>
+<pre><code>3 » Good judgment comes from experience, and a lot of that comes from bad judgment. - Will Rogers</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
