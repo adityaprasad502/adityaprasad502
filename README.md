@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/992c27e2270192a8f37dffe9d0df4705e67bc2e00df4485bd361940394b33757/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393325323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,663+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,664+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -166,8 +166,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 22/02/2023 at 19:23:05 IST
-Next Update is roughly by 23/02/2023 at 19:20:05 IST
+<pre><code>Last Updated precisely on 23/02/2023 at 19:23:23 IST
+Next Update is roughly by 24/02/2023 at 19:20:20 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,8 +177,8 @@ Next Update is roughly by 23/02/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why do cows wear bells?</code></pre>
-<pre><code>» Because their horns don't work!</code></pre>
+<pre><code>What's the difference between an apple and a black guy?</code></pre>
+<pre><code>» The apple will eventually fall from the tree that it's hanging from!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -187,9 +187,9 @@ Next Update is roughly by 23/02/2023 at 19:20:05 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</code></pre>
-<pre><code>2 » If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.</code></pre>
-<pre><code>3 » Lawn darts are illegal in Canada.</code></pre>
+<pre><code>1 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
+<pre><code>2 » In the Philippine jungle, the yo-yo was first used as a weapon.</code></pre>
+<pre><code>3 » In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +199,9 @@ Next Update is roughly by 23/02/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Even youngish men can acquire wisdom as time goes by. - John Bercow</code></pre>
-<pre><code>2 » Numberless are the worlds wonders, but none more wonderful than man. - Sophocles</code></pre>
-<pre><code>3 » Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise? - Confucius</code></pre>
+<pre><code>1 » If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. - John Steinbeck</code></pre>
+<pre><code>2 » A true friend is the greatest of all blessings, and that which we take the least care of all to acquire. - François de La Rochefoucauld</code></pre>
+<pre><code>3 » Experience is simply the name we give our mistakes. - Oscar Wilde</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
