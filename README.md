@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/992c27e2270192a8f37dffe9d0df4705e67bc2e00df4485bd361940394b33757/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393325323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,664+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,665+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,15 +95,15 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>11 hrs 51 mins</td>
+<td>11 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.71%</td>
+<td>86.68%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 30 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.04%</td>
+<td>11.06%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -114,14 +114,14 @@
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 40 mins</td>
+<td>13 hrs 38 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 40 mins</td>
+<td>13 hrs 38 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -166,8 +166,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 23/02/2023 at 19:23:23 IST
-Next Update is roughly by 24/02/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 24/02/2023 at 19:23:14 IST
+Next Update is roughly by 25/02/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,8 +177,8 @@ Next Update is roughly by 24/02/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What's the difference between an apple and a black guy?</code></pre>
-<pre><code>» The apple will eventually fall from the tree that it's hanging from!</code></pre>
+<pre><code>What do you think, Haruhi? Do you find this large crab to be......</code></pre>
+<pre><code>» crab-tivating?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -187,9 +187,9 @@ Next Update is roughly by 24/02/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
-<pre><code>2 » In the Philippine jungle, the yo-yo was first used as a weapon.</code></pre>
-<pre><code>3 » In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</code></pre>
+<pre><code>1 » The Black Widow spider eats her mate during or after sex.</code></pre>
+<pre><code>2 » Honey is the only food which does not spoil.</code></pre>
+<pre><code>3 » The S in Harry S. Truman did not stand for anything.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +199,9 @@ Next Update is roughly by 24/02/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. - John Steinbeck</code></pre>
-<pre><code>2 » A true friend is the greatest of all blessings, and that which we take the least care of all to acquire. - François de La Rochefoucauld</code></pre>
-<pre><code>3 » Experience is simply the name we give our mistakes. - Oscar Wilde</code></pre>
+<pre><code>1 » A friendship founded on business is better than a business founded on friendship. - John Locke</code></pre>
+<pre><code>2 » As you think, so shall you become. - Bruce Lee</code></pre>
+<pre><code>3 » Lord, make me an instrument of thy peace. Where there is hatred, let me sow love. - Francis of Assisi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
