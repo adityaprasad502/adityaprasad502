@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/278a4b40f8af113a3b3ba74cc1f682eca49972c9cf9544bcc4b27961d726b1a3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393325323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8ea6d8b756c7235bd1ee493ee5cfdcc497c8f5be24b4f8cb67ff34d618f28ed9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393325323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,666+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,667+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,33 +95,33 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>11 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.73%</td>
+<td>3 hrs 19 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.63%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>1 hr 30 mins</td>
+<td>26 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.03%</td>
+<td>10.82%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>18 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.25%</td>
+<td>15 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.55%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 41 mins</td>
+<td>4 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 41 mins</td>
+<td>4 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -166,8 +166,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 25/02/2023 at 19:23:08 IST
-Next Update is roughly by 26/02/2023 at 19:20:05 IST
+<pre><code>Last Updated precisely on 26/02/2023 at 19:23:00 IST
+Next Update is roughly by 27/02/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,8 +177,8 @@ Next Update is roughly by 26/02/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>How many Jews can you fit into a car?</code></pre>
-<pre><code>» Two in the front, three in the back, and a hundred in the ashtray.</code></pre>
+<pre><code>What do you call a group of disorganized cats?</code></pre>
+<pre><code>» A cat-tastrophe.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -187,9 +187,9 @@ Next Update is roughly by 26/02/2023 at 19:20:05 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The state of Florida is bigger than England!</code></pre>
-<pre><code>2 » 10,000 Dutch cows pass through the Amsterdam airport each year.</code></pre>
-<pre><code>3 » Poland is the "stolen car capital of the world".</code></pre>
+<pre><code>1 » One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.</code></pre>
+<pre><code>2 » All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.</code></pre>
+<pre><code>3 » All polar bears are left-handed.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +199,9 @@ Next Update is roughly by 26/02/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » With every experience, you alone are painting your own canvas, thought by thought, choice by choice. - Oprah Winfrey</code></pre>
-<pre><code>2 » Discipline is the bridge between goals and accomplishment. - Jim Rohn</code></pre>
-<pre><code>3 » All things change; nothing perishes. - Ovid</code></pre>
+<pre><code>1 » Speak low, if you speak love. - William Shakespeare</code></pre>
+<pre><code>2 » Adopt the pace of nature: her secret is patience. - Ralph Waldo Emerson</code></pre>
+<pre><code>3 » Compassion and happiness are not a sign of weakness but a sign of strength. - Dalai Lama</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
