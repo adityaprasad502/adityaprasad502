@@ -13,7 +13,7 @@
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8ea6d8b756c7235bd1ee493ee5cfdcc497c8f5be24b4f8cb67ff34d618f28ed9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393325323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,669+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,670+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -95,27 +95,21 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.31%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.69%</td>
+<td>8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>31 mins</td>
+<td>8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>31 mins</td>
+<td>8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -160,8 +154,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 28/02/2023 at 19:23:24 IST
-Next Update is roughly by 01/03/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 01/03/2023 at 19:23:14 IST
+Next Update is roughly by 02/03/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -171,7 +165,8 @@ Next Update is roughly by 01/03/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!</code></pre>
+<pre><code>Why did Santa's helper see the doctor?</code></pre>
+<pre><code>» Because he had a low "elf" esteem!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +175,9 @@ Next Update is roughly by 01/03/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</code></pre>
-<pre><code>2 » Each month, there is at least one report of UFOs from each province of Canada.</code></pre>
-<pre><code>3 » 3.6 cans of Spam are consumed each second.</code></pre>
+<pre><code>1 » The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</code></pre>
+<pre><code>2 » The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</code></pre>
+<pre><code>3 » No word in the English language rhymes with month, orange, silver and purple.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +187,9 @@ Next Update is roughly by 01/03/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Time stays long enough for anyone who will use it. - Leonardo da Vinci</code></pre>
-<pre><code>2 » Honesty is the best policy. - Benjamin Franklin</code></pre>
-<pre><code>3 » To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. - Kahlil Gibran</code></pre>
+<pre><code>1 » I have friends in overalls whose friendship I would not swap for the favor of the kings of the world. - Thomas Edison</code></pre>
+<pre><code>2 » Always tell the truth. That way, you don't have to remember what you said. - Mark Twain</code></pre>
+<pre><code>3 » Things do not change; we change. - Henry David Thoreau</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
