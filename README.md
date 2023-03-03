@@ -10,11 +10,11 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8ea6d8b756c7235bd1ee493ee5cfdcc497c8f5be24b4f8cb67ff34d618f28ed9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393325323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-693%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/115b2e3db6db53bc1b09306f1717d7e43f2caad7885485bddf14b36e13c47f3d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393425323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-694%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,671+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.5 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,679+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -22,27 +22,27 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>94 commits</td>
+<td>95 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.94%</td>
+<td>21.11%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
 <td>96 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.38%</td>
+<td>21.33%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>91 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.27%</td>
+<td>20.22%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
 <td>168 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.42%</td>
+<td>37.33%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -51,43 +51,43 @@
 <td>Monday</td>
 <td>49 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.91%</td>
+<td>10.89%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
 <td>38 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.46%</td>
+<td>8.44%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
 <td>28 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.24%</td>
+<td>6.22%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
-<td>33 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.35%</td>
+<td>34 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.56%</td>
 </tr> 
  <tr>
 <td>Friday</td>
-<td>39 commits</td>
+<td>45 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.69%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>121 commits</td>
+<td>115 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.95%</td>
+<td>25.56%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>141 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.4%</td>
+<td>31.33%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,21 +95,21 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>8 mins</td>
+<td>11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 mins</td>
+<td>11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 mins</td>
+<td>11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -154,8 +154,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 02/03/2023 at 19:23:29 IST
-Next Update is roughly by 03/03/2023 at 19:20:25 IST
+<pre><code>Last Updated precisely on 03/03/2023 at 19:23:20 IST
+Next Update is roughly by 04/03/2023 at 19:20:20 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -165,8 +165,8 @@ Next Update is roughly by 03/03/2023 at 19:20:25 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why did the chicken get a penalty?</code></pre>
-<pre><code>» For fowl play.</code></pre>
+<pre><code>If you see a robbery at an Apple Store...</code></pre>
+<pre><code>» Does that make you an iWitness?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -175,9 +175,9 @@ Next Update is roughly by 03/03/2023 at 19:20:25 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Tom Sawyer was the first novel written on a typewriter.</code></pre>
-<pre><code>2 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
-<pre><code>3 » Average number of days a West German goes without washing his underwear: 7</code></pre>
+<pre><code>1 » The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.</code></pre>
+<pre><code>2 » Deborah Winger did the voice of E.T.</code></pre>
+<pre><code>3 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -187,9 +187,9 @@ Next Update is roughly by 03/03/2023 at 19:20:25 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If the stars should appear but one night every thousand years how man would marvel and adore. - Ralph Waldo Emerson</code></pre>
-<pre><code>2 » In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves. - Buddha</code></pre>
-<pre><code>3 » A single rose can be my garden... a single friend, my world. - Leo Buscaglia</code></pre>
+<pre><code>1 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>2 » How wonderful that we have met with a paradox. Now we have some hope of making progress. - Niels Bohr</code></pre>
+<pre><code>3 » There is only one success - to be able to spend your life in your own way. - Christopher Morley</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
