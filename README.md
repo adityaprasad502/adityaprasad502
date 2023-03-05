@@ -10,10 +10,10 @@
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e1afd89e37cac4c855446f8b66f32ee9a5dc752c477c7eabce8cd5e512b7de5a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393725323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-697%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d9493b6f0549d7ef21aae611f87fbf90b3bb95f4764a3609af4da2a56292fa5b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d36393825323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-698%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,695+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,704+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -22,27 +22,27 @@
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>89 commits</td>
+<td>92 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.78%</td>
+<td>20.4%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>103 commits</td>
+<td>100 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.89%</td>
+<td>22.17%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>91 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.22%</td>
+<td>20.18%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>167 commits</td>
+<td>168 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.11%</td>
+<td>37.25%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -51,43 +51,43 @@
 <td>Monday</td>
 <td>49 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.89%</td>
+<td>10.86%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>38 commits</td>
+<td>37 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.44%</td>
+<td>8.2%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
 <td>28 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.22%</td>
+<td>6.21%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
 <td>34 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.56%</td>
+<td>7.54%</td>
 </tr> 
  <tr>
 <td>Friday</td>
 <td>46 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.22%</td>
+<td>10.2%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>120 commits</td>
+<td>122 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.67%</td>
+<td>27.05%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>135 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.0%</td>
+<td>29.93%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -95,39 +95,45 @@
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>91.7%</td>
+<td>3 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>88.78%</td>
+</tr> 
+ <tr>
+<td>Batchfile</td>
+<td>20 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.19%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.62%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.72%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.21%</td>
+<td>1.14%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.47%</td>
+<td>0.17%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 28 mins</td>
+<td>4 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 28 mins</td>
+<td>4 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -172,8 +178,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 04/03/2023 at 19:23:00 IST
-Next Update is roughly by 05/03/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 05/03/2023 at 19:23:12 IST
+Next Update is roughly by 06/03/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,8 +189,8 @@ Next Update is roughly by 05/03/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What did the duck say when he bought lipstick?</code></pre>
-<pre><code>» Put it on my bill</code></pre>
+<pre><code>Why did the gym close down?</code></pre>
+<pre><code>» Because it just didn't work out.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -193,9 +199,9 @@ Next Update is roughly by 05/03/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Half of all Americans live within 50 miles of their birthplace.</code></pre>
-<pre><code>2 » The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</code></pre>
-<pre><code>3 » The average person spends 12 weeks a year `looking for things`.</code></pre>
+<pre><code>1 » Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</code></pre>
+<pre><code>2 » To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</code></pre>
+<pre><code>3 » Honey is the only food which does not spoil.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -205,9 +211,9 @@ Next Update is roughly by 05/03/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be. - Alan Watts</code></pre>
-<pre><code>2 » The greatest mistake you can make in life is to be continually fearing you will make one. - Elbert Hubbard</code></pre>
-<pre><code>3 » The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. - Winston Churchill</code></pre>
+<pre><code>1 » The doors of wisdom are never shut. - Benjamin Franklin</code></pre>
+<pre><code>2 » I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind. - Albert Einstein</code></pre>
+<pre><code>3 » Get busy living or get busy dying. - Stephen King</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
