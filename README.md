@@ -1,19 +1,37 @@
-<h2 align='center'>
-	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="36px" width="36px"> Hello Fellow
-	< Developers />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px" width="36px">
+<h1 align='center'>
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="36px" width="36px"> Helo < Peeople />! 
+	<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px" width="36px">
 	<br>
-	<p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230778F7&center=true&vCenter=true&width=500&height=30&lines=I+am+Aditya+Prasad+S;Thanks+for+checking+out+my+profile...;I+am+a+Computer+Student...+Just+16+y.o...;Has+Interests+in+Programming...;Love+To+Learn+New+Things..." />
-	</p>
-</h2>
-<h3 align='center'> :octocat: # My Github Stats // :electron: </h3>
+</h1>
+
+```kt
+// run this on a Kotlin IDE
+fun printMessage() {
+    val mt = listOf(65, 68, 73, 84, 89, 65, 32, 80, 82, 65, 83, 65, 68, 32, 83)
+
+    while (true) {
+        for (i in 0..13) {
+            println("--".repeat(i) + mt[i].toChar())
+            Thread.sleep(96)
+        }
+        for (i in 14 downTo 1) {
+            println("--".repeat(i) + mt[i].toChar())
+            Thread.sleep(96)
+        }
+    }
+}
+
+fun main() {printMessage()}
+```
+
+<h2 align='center'> :octocat: Github Stats :electron: </h2>
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/98ccc5781617d0438bf492f231819e0d05810a5c34537b7f29fdf8906ff77b91/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37303325323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-703%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7ab73db2b4fbcedefa0e695ecfb860fe3c10d1a5fdc0f22622c9044448529ac9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37303425323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-704%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,730+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,731+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -196,8 +214,8 @@
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 08/03/2023 at 19:23:19 IST
-Next Update is roughly by 09/03/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 09/03/2023 at 19:23:11 IST
+Next Update is roughly by 10/03/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,7 +225,8 @@ Next Update is roughly by 09/03/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>There are only 10 kinds of people in this world: those who know binary and those who don't.</code></pre>
+<pre><code>What do you call a dictionary on drugs?</code></pre>
+<pre><code>» High definition.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +235,9 @@ Next Update is roughly by 09/03/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</code></pre>
-<pre><code>2 » In the Philippine jungle, the yo-yo was first used as a weapon.</code></pre>
-<pre><code>3 » There are 1 million ants for every human in the world.</code></pre>
+<pre><code>1 » Coca-Cola was originally green.</code></pre>
+<pre><code>2 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
+<pre><code>3 » The first owner of the Marlboro company died of lung cancer.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -228,9 +247,9 @@ Next Update is roughly by 09/03/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education. - Thomas Carlyle</code></pre>
-<pre><code>2 » If you surrender to the wind, you can ride it. - Toni Morrison</code></pre>
-<pre><code>3 » There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded. - Mark Twain</code></pre>
+<pre><code>1 » In order to succeed, we must first believe that we can. - Nikos Kazantzakis</code></pre>
+<pre><code>2 » I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture. - Susan Orlean</code></pre>
+<pre><code>3 » To lead people walk behind them. - Laozi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
