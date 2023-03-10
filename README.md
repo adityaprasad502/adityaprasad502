@@ -28,10 +28,10 @@ fun main() {printMessage()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7ab73db2b4fbcedefa0e695ecfb860fe3c10d1a5fdc0f22622c9044448529ac9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37303425323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-704%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/765b8042270763a9bb8a7803c96f7383c4b3ae1c2d58b8781c6b4799a98cf038/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37303625323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-706%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,731+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,732+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,63 +113,69 @@ fun main() {printMessage()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>9 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.97%</td>
+<td>9 hrs 21 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.87%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>2 hrs 21 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.62%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.62%</td>
+<td>3.65%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>18 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.48%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.73%</td>
+<td>0.58%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.54%</td>
+<td>0.43%</td>
 </tr> 
  <tr>
-<td>TOML</td>
-<td>0 secs</td>
+<td>XML</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
-</tr> 
- <tr>
-<td>INI</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>0.14%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.8%</td>
+<td>10 hrs 16 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.03%</td>
+</tr> 
+ <tr>
+<td>IntelliJ</td>
+<td>2 hrs 23 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.81%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.2%</td>
+<td>0.16%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 1 min</td>
+<td>12 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -214,8 +220,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 09/03/2023 at 19:23:11 IST
-Next Update is roughly by 10/03/2023 at 19:20:10 IST
+<pre><code>Last Updated precisely on 10/03/2023 at 19:23:11 IST
+Next Update is roughly by 11/03/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,8 +231,8 @@ Next Update is roughly by 10/03/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What do you call a dictionary on drugs?</code></pre>
-<pre><code>» High definition.</code></pre>
+<pre><code>Why are modern programming languages so materialistic?</code></pre>
+<pre><code>» Because they are object-oriented.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +241,9 @@ Next Update is roughly by 10/03/2023 at 19:20:10 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Coca-Cola was originally green.</code></pre>
-<pre><code>2 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
-<pre><code>3 » The first owner of the Marlboro company died of lung cancer.</code></pre>
+<pre><code>1 »  was Harrison Ford`s idea so that he could take a bathroom break.</code></pre>
+<pre><code>2 » The Vatican city registered 0 births in 1983</code></pre>
+<pre><code>3 » In The Empire Strikes Back there is a potato hidden in the asteroid field</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -247,9 +253,9 @@ Next Update is roughly by 10/03/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In order to succeed, we must first believe that we can. - Nikos Kazantzakis</code></pre>
-<pre><code>2 » I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture. - Susan Orlean</code></pre>
-<pre><code>3 » To lead people walk behind them. - Laozi</code></pre>
+<pre><code>1 » Be slow to fall into friendship; but when thou art in, continue firm and constant. - Isocrates</code></pre>
+<pre><code>2 » He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God. - Aeschylus</code></pre>
+<pre><code>3 » Friends... they cherish one another's hopes. They are kind to one another's dreams. - Henry David Thoreau</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
