@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/952ca17fd8c4aebf8e4cedd9c37ba9d85eae6e9ca1ae0995d66af8e0c22d0216/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37313525323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-715%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,739+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,740+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 21.8 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -112,70 +112,64 @@ fun main() {printMessage()}
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
-<td>Python</td>
-<td>5 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.65%</td>
+<td>JavaScript</td>
+<td>5 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.28%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>3 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.86%</td>
+<td>Python</td>
+<td>5 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.44%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 21 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.0%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>1 hr 13 mins</td>
+<td>1 hr 51 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.31%</td>
+<td>11.24%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>34 mins</td>
+<td>37 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.89%</td>
+<td>3.81%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>18 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.14%</td>
+<td>1.91%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>8 mins</td>
+<td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.0%</td>
+<td>1.55%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 20 mins</td>
+<td>14 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>83.7%</td>
+<td>85.55%</td>
 </tr> 
  <tr>
 <td>IntelliJ</td>
 <td>2 hrs 23 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.16%</td>
-</tr> 
- <tr>
-<td>PyCharm</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.14%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.45%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 44 mins</td>
+<td>16 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -220,8 +214,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 12/03/2023 at 19:23:26 IST
-Next Update is roughly by 13/03/2023 at 19:20:25 IST
+<pre><code>Last Updated precisely on 13/03/2023 at 19:23:25 IST
+Next Update is roughly by 14/03/2023 at 19:20:25 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,8 +225,8 @@ Next Update is roughly by 13/03/2023 at 19:20:25 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What time is it?</code></pre>
-<pre><code>» I don't know... it keeps changing.</code></pre>
+<pre><code>Why do German showers have 11 holes?</code></pre>
+<pre><code>» Because Jews only have 10 fingers.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +235,9 @@ Next Update is roughly by 13/03/2023 at 19:20:25 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
-<pre><code>2 » Dolphins sleep with one eye open!</code></pre>
-<pre><code>3 » Mr. Rogers is an ordained minister.</code></pre>
+<pre><code>1 » A bull can inseminate 300 cows from one single ejaculation.</code></pre>
+<pre><code>2 » February 1865 is the only month in recorded history not to have a full moon.</code></pre>
+<pre><code>3 » The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -253,9 +247,9 @@ Next Update is roughly by 13/03/2023 at 19:20:25 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side. - Yolanda Hadid</code></pre>
-<pre><code>2 » Technology is anything that wasn't around when you were born. - Man Ray</code></pre>
-<pre><code>3 » We should not give up and we should not allow the problem to defeat us. - A. P. J. Abdul Kalam</code></pre>
+<pre><code>1 » By accepting yourself and being fully what you are, your presence can make others happy. - Jane Roberts</code></pre>
+<pre><code>2 » You must do the things you think you cannot do. - Eleanor Roosevelt</code></pre>
+<pre><code>3 » I have done my best: that is about all the philosophy of living one needs. - Lin Yutang</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
