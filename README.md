@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/87fd67c877d7ec45ecb13770e71a7a2cee74dd92e6ad9a91a1a16ce8da0088a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323325323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-723%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,753+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,754+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -157,8 +157,8 @@ Didn't Touch PC Last Week
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 23/03/2023 at 19:23:22 IST
-Next Update is roughly by 24/03/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 24/03/2023 at 19:23:38 IST
+Next Update is roughly by 25/03/2023 at 19:20:35 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,10 +168,8 @@ Next Update is roughly by 24/03/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What does the MacBook have in common with Donald Trump?
-
-I would tell you....
-But I don't compare apples to oranges.</code></pre>
+<pre><code>Want to hear a joke about construction?</code></pre>
+<pre><code>» Nah, I'm still working on it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +178,9 @@ But I don't compare apples to oranges.</code></pre>
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
-<pre><code>2 » Starfish haven`t got brains.</code></pre>
-<pre><code>3 » Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.</code></pre>
+<pre><code>1 » A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.</code></pre>
+<pre><code>2 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
+<pre><code>3 » The sperm of a mouse is actually longer than the sperm of an elephant.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +190,9 @@ But I don't compare apples to oranges.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In wartime, truth is so precious that she should always be attended by a bodyguard of lies. - Winston Churchill</code></pre>
-<pre><code>2 » Ideas are the beginning points of all fortunes. - Napoleon Hill</code></pre>
-<pre><code>3 » It all depends on how we look at things, and not how they are in themselves. - Carl Jung</code></pre>
+<pre><code>1 » Our intention creates our reality. - Wayne Dyer</code></pre>
+<pre><code>2 » No man has a good enough memory to be a successful liar. - Abraham Lincoln</code></pre>
+<pre><code>3 » The more you know yourself, the more you forgive yourself. - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
