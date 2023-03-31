@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/87fd67c877d7ec45ecb13770e71a7a2cee74dd92e6ad9a91a1a16ce8da0088a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323325323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-723%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,760+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,761+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.0 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -157,8 +157,8 @@ Didn't Touch PC Last Week
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 30/03/2023 at 19:23:25 IST
-Next Update is roughly by 31/03/2023 at 19:20:25 IST
+<pre><code>Last Updated precisely on 31/03/2023 at 19:23:11 IST
+Next Update is roughly by 01/04/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,8 +168,9 @@ Next Update is roughly by 31/03/2023 at 19:20:25 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What do you call a pile of cats?</code></pre>
-<pre><code>»  A Meowtain.</code></pre>
+<pre><code>Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -178,9 +179,9 @@ Next Update is roughly by 31/03/2023 at 19:20:25 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The pupils of a goat`s eyes are square.</code></pre>
-<pre><code>2 » It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</code></pre>
-<pre><code>3 » The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</code></pre>
+<pre><code>1 » A `jiffy` is a unit of time for 1/100th of a second.</code></pre>
+<pre><code>2 » The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</code></pre>
+<pre><code>3 » A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -190,9 +191,9 @@ Next Update is roughly by 31/03/2023 at 19:20:25 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Everything that irritates us about others can lead us to an understanding of ourselves. - Carl Jung</code></pre>
-<pre><code>2 » Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity. - Robert Louis Stevenson</code></pre>
-<pre><code>3 » I prefer the folly of enthusiasm to the indifference of wisdom. - Anatole France</code></pre>
+<pre><code>1 » If we look at the world with a love of life, the world will reveal its beauty to us. - Daisaku Ikeda</code></pre>
+<pre><code>2 » Remember that sometimes not getting what you want is a wonderful stroke of luck. - Dalai Lama</code></pre>
+<pre><code>3 » What is a weed? A plant whose virtues have not yet been discovered. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
