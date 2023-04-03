@@ -31,8 +31,8 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/87fd67c877d7ec45ecb13770e71a7a2cee74dd92e6ad9a91a1a16ce8da0088a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323325323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-723%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,763+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.0 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,764+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -157,8 +157,8 @@ Didn't Touch PC Last Week
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 02/04/2023 at 19:22:58 IST
-Next Update is roughly by 03/04/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 03/04/2023 at 19:23:17 IST
+Next Update is roughly by 04/04/2023 at 19:20:15 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,8 +168,8 @@ Next Update is roughly by 03/04/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What is the leading cause of dry skin?</code></pre>
-<pre><code>» Towels</code></pre>
+<pre><code>Why do programmers always get Christmas and Halloween mixed up?</code></pre>
+<pre><code>» Because DEC 25 = OCT 31</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -178,9 +178,9 @@ Next Update is roughly by 03/04/2023 at 19:20:55 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average person`s left hand does 56% of the typing.</code></pre>
-<pre><code>2 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
-<pre><code>3 » Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</code></pre>
+<pre><code>1 » Ten percent of the Russian government`s income comes from the sale of vodka.</code></pre>
+<pre><code>2 » In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</code></pre>
+<pre><code>3 » The giant squid has the largest eyes in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -190,9 +190,9 @@ Next Update is roughly by 03/04/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Don't look back. Something might be gaining on you. - Satchel Paige</code></pre>
-<pre><code>2 » You were not born a winner, and you were not born a loser. You are what you make yourself be. - Lou Holtz</code></pre>
-<pre><code>3 » Every friendship is different because everyone's personality is different. - Nargis Fakhri</code></pre>
+<pre><code>1 » Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary. - Margaret Cousins</code></pre>
+<pre><code>2 » Experience is not what happens to a man. It is what a man does with what happens to him. - Aldous Huxley</code></pre>
+<pre><code>3 » Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
