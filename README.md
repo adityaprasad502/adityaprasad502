@@ -28,10 +28,10 @@ fun main() {printMessage()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/87fd67c877d7ec45ecb13770e71a7a2cee74dd92e6ad9a91a1a16ce8da0088a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323325323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-723%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e2cfc2295af1f1e42d6a74a1c74db13b1a08dab68ae881fe8668f8fe0dbc4903/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323725323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-727%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,764+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,767+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -40,27 +40,27 @@ fun main() {printMessage()}
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>89 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.43%</td>
+<td>91 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.78%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
 <td>113 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.67%</td>
+<td>24.57%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>96 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.96%</td>
+<td>20.87%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
 <td>160 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.93%</td>
+<td>34.78%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -69,43 +69,43 @@ fun main() {printMessage()}
 <td>Monday</td>
 <td>61 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.32%</td>
+<td>13.26%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>45 commits</td>
+<td>47 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.83%</td>
+<td>10.22%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
 <td>28 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.11%</td>
+<td>6.09%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
 <td>34 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.42%</td>
+<td>7.39%</td>
 </tr> 
  <tr>
 <td>Friday</td>
 <td>44 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.61%</td>
+<td>9.57%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
 <td>112 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.45%</td>
+<td>24.35%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>134 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.26%</td>
+<td>29.13%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -132,16 +132,16 @@ Didn't Touch PC Last Week
 <td>16.0%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
-</tr> 
- <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.0%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>x repos</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>Shell</td>
@@ -157,8 +157,8 @@ Didn't Touch PC Last Week
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 03/04/2023 at 19:23:17 IST
-Next Update is roughly by 04/04/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 04/04/2023 at 19:24:31 IST
+Next Update is roughly by 05/04/2023 at 19:20:30 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,8 +168,8 @@ Next Update is roughly by 04/04/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why do programmers always get Christmas and Halloween mixed up?</code></pre>
-<pre><code>» Because DEC 25 = OCT 31</code></pre>
+<pre><code>Everyone says that Hitler really loved animals.</code></pre>
+<pre><code>» Then why did he kill 6 million of them?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -178,9 +178,9 @@ Next Update is roughly by 04/04/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Ten percent of the Russian government`s income comes from the sale of vodka.</code></pre>
-<pre><code>2 » In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</code></pre>
-<pre><code>3 » The giant squid has the largest eyes in the world.</code></pre>
+<pre><code>1 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
+<pre><code>2 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
+<pre><code>3 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -190,9 +190,9 @@ Next Update is roughly by 04/04/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary. - Margaret Cousins</code></pre>
-<pre><code>2 » Experience is not what happens to a man. It is what a man does with what happens to him. - Aldous Huxley</code></pre>
-<pre><code>3 » Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » Allow the world to live as it chooses, and allow yourself to live as you choose. - Richard Bach</code></pre>
+<pre><code>2 » What you do today can improve all your tomorrows. - Ralph Marston</code></pre>
+<pre><code>3 » I have no special talent. I am only passionately curious. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
