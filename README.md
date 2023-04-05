@@ -28,10 +28,10 @@ fun main() {printMessage()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e2cfc2295af1f1e42d6a74a1c74db13b1a08dab68ae881fe8668f8fe0dbc4903/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323725323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-727%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f164b2ba03b1f5b764cd1328dd35f7a8cfb6a719de0c331f06e78ddbf1de67ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323725323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-727%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,767+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,768+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -109,14 +109,65 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
- 
-Didn't Touch PC Last Week
- 
-Didn't Touch PC Last Week
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr></tbody></table>
+<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.2%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>1 hr 16 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.6%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>45 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.16%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>10 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.77%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.16%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.06%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.04%</td>
+</tr>
+<tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>3 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+<tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
+ <tr>
+<td>Windows</td>
+<td>3 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I have more Python Repos</strong></p>
 <table>
  <tbody><tr>
@@ -157,8 +208,8 @@ Didn't Touch PC Last Week
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 04/04/2023 at 19:24:31 IST
-Next Update is roughly by 05/04/2023 at 19:20:30 IST
+<pre><code>Last Updated precisely on 05/04/2023 at 19:23:02 IST
+Next Update is roughly by 06/04/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,8 +219,8 @@ Next Update is roughly by 05/04/2023 at 19:20:30 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Everyone says that Hitler really loved animals.</code></pre>
-<pre><code>» Then why did he kill 6 million of them?</code></pre>
+<pre><code>How many optometrists does it take to change a light bulb?</code></pre>
+<pre><code>» 1 or 2? 1... or 2?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -178,9 +229,9 @@ Next Update is roughly by 05/04/2023 at 19:20:30 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
-<pre><code>2 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
-<pre><code>3 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
+<pre><code>1 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
+<pre><code>2 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
+<pre><code>3 » There are two credit cards for every person in the United States.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -190,9 +241,9 @@ Next Update is roughly by 05/04/2023 at 19:20:30 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Allow the world to live as it chooses, and allow yourself to live as you choose. - Richard Bach</code></pre>
-<pre><code>2 » What you do today can improve all your tomorrows. - Ralph Marston</code></pre>
-<pre><code>3 » I have no special talent. I am only passionately curious. - Albert Einstein</code></pre>
+<pre><code>1 » If you correct your mind, the rest of your life will fall into place. - Laozi</code></pre>
+<pre><code>2 » A man is not old as long as he is seeking something. - Edmond Rostand</code></pre>
+<pre><code>3 » Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom. - The Buddha</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
