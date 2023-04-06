@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f164b2ba03b1f5b764cd1328dd35f7a8cfb6a719de0c331f06e78ddbf1de67ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323725323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-727%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,768+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,769+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,57 +113,57 @@ fun main() {printMessage()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 22 mins</td>
+<td>1 hr 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.2%</td>
+<td>35.83%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.6%</td>
+<td>1 hr 25 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.27%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>45 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.16%</td>
+<td>58 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.34%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>10 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.77%</td>
+<td>4.32%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.16%</td>
+<td>0.14%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.05%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>0.03%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 35 mins</td>
+<td>4 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 35 mins</td>
+<td>4 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -208,8 +208,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 05/04/2023 at 19:23:02 IST
-Next Update is roughly by 06/04/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 06/04/2023 at 19:22:50 IST
+Next Update is roughly by 07/04/2023 at 19:20:50 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,8 +219,8 @@ Next Update is roughly by 06/04/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>How many optometrists does it take to change a light bulb?</code></pre>
-<pre><code>» 1 or 2? 1... or 2?</code></pre>
+<pre><code>Life's like my dick.</code></pre>
+<pre><code>» The more children you have, the harder it gets.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +229,9 @@ Next Update is roughly by 06/04/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
-<pre><code>2 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
-<pre><code>3 » There are two credit cards for every person in the United States.</code></pre>
+<pre><code>1 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
+<pre><code>2 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
+<pre><code>3 » It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +241,9 @@ Next Update is roughly by 06/04/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you correct your mind, the rest of your life will fall into place. - Laozi</code></pre>
-<pre><code>2 » A man is not old as long as he is seeking something. - Edmond Rostand</code></pre>
-<pre><code>3 » Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom. - The Buddha</code></pre>
+<pre><code>1 » I think and that is all that I am. - Wayne Dyer</code></pre>
+<pre><code>2 » He who lives in harmony with himself lives in harmony with the world. - Marcus Aurelius</code></pre>
+<pre><code>3 » To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win. - Ian Botham</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
