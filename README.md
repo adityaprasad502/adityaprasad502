@@ -28,10 +28,10 @@ fun main() {printMessage()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f164b2ba03b1f5b764cd1328dd35f7a8cfb6a719de0c331f06e78ddbf1de67ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37323725323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-727%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8deed1e442206bbda741b1f58ba21bd768d32f9f5d1133e9065456e5ad9f984c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d373332253230687273253230332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-732%20hrs%203%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,769+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,776+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -40,27 +40,27 @@ fun main() {printMessage()}
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>91 commits</td>
+<td>96 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.78%</td>
+<td>20.73%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>113 commits</td>
+<td>112 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.57%</td>
+<td>24.19%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>96 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.87%</td>
+<td>20.73%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>160 commits</td>
+<td>159 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.78%</td>
+<td>34.34%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -69,43 +69,43 @@ fun main() {printMessage()}
 <td>Monday</td>
 <td>61 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.26%</td>
+<td>13.17%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>47 commits</td>
+<td>45 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.22%</td>
+<td>9.72%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
 <td>28 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.09%</td>
+<td>6.05%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
 <td>34 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.39%</td>
+<td>7.34%</td>
 </tr> 
  <tr>
 <td>Friday</td>
-<td>44 commits</td>
+<td>52 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.57%</td>
+<td>11.23%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>112 commits</td>
+<td>109 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.35%</td>
+<td>23.54%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>134 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.13%</td>
+<td>28.94%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -208,8 +208,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 06/04/2023 at 19:22:50 IST
-Next Update is roughly by 07/04/2023 at 19:20:50 IST
+<pre><code>Last Updated precisely on 07/04/2023 at 19:22:48 IST
+Next Update is roughly by 08/04/2023 at 19:20:45 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,8 +219,8 @@ Next Update is roughly by 07/04/2023 at 19:20:50 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Life's like my dick.</code></pre>
-<pre><code>» The more children you have, the harder it gets.</code></pre>
+<pre><code>Say what you want about pedophiles...</code></pre>
+<pre><code>» But at least they drive slowly through the school zones.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +229,9 @@ Next Update is roughly by 07/04/2023 at 19:20:50 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
-<pre><code>2 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
-<pre><code>3 » It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</code></pre>
+<pre><code>1 » %60 of all people using the Internet, use it for pornography.</code></pre>
+<pre><code>2 » "Underground" is the only word in the English language that begins and ends with the letters "und"</code></pre>
+<pre><code>3 » In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +241,9 @@ Next Update is roughly by 07/04/2023 at 19:20:50 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I think and that is all that I am. - Wayne Dyer</code></pre>
-<pre><code>2 » He who lives in harmony with himself lives in harmony with the world. - Marcus Aurelius</code></pre>
-<pre><code>3 » To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win. - Ian Botham</code></pre>
+<pre><code>1 » Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots. - H. Jackson Brown Jr.</code></pre>
+<pre><code>2 » The way you see people is the way you treat them, and the way you treat them is what they become. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » The only way to make sense out of change is to plunge into it, move with it, and join the dance. - Alan Watts</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
