@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fba0319eb046457ef2001cc17e6c56db124f5695494ce2966e6444a7038cc0e8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d37333725323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-737%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,782+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,783+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -115,61 +115,61 @@ fun main() {printMessage()}
 <td>Batchfile</td>
 <td>2 hrs 52 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.19%</td>
+<td>19.98%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 12 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.31%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.38%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 53 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.14%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 44 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.77%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 43 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.76%</td>
+<td>12.04%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 27 mins</td>
+<td>1 hr 33 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.79%</td>
+<td>10.81%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 26 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.61%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 1 min</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.56%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.12%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
 <td>9 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.92%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.81%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.08%</td>
+<td>4 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.19%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 34 mins</td>
+<td>14 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -214,8 +214,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 10/04/2023 at 19:23:11 IST
-Next Update is roughly by 11/04/2023 at 19:20:10 IST
+<pre><code>Last Updated precisely on 11/04/2023 at 19:23:18 IST
+Next Update is roughly by 12/04/2023 at 19:20:15 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,8 +225,8 @@ Next Update is roughly by 11/04/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What's the best thing about a Boolean?</code></pre>
-<pre><code>» Even if you're wrong, you're only off by a bit.</code></pre>
+<pre><code>Never take advice from electrons.</code></pre>
+<pre><code>» They are always negative.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +235,9 @@ Next Update is roughly by 11/04/2023 at 19:20:10 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average lifespan of an eyelash is five months.</code></pre>
-<pre><code>2 » There are 1 million ants for every human in the world.</code></pre>
-<pre><code>3 » %60 of all people using the Internet, use it for pornography.</code></pre>
+<pre><code>1 » Elephants are the only animals that can`t jump.</code></pre>
+<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
+<pre><code>3 » The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -247,9 +247,9 @@ Next Update is roughly by 11/04/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The greatest good you can do for another is not just share your riches but reveal to them their own. - Benjamin Disraeli</code></pre>
-<pre><code>2 » You don't choose your family. They are God's gift to you, as you are to them. - Desmond Tutu</code></pre>
-<pre><code>3 » More often than not, anger is actually an indication of weakness rather than of strength. - Dalai Lama</code></pre>
+<pre><code>1 » Do all things with love. - Og Mandino</code></pre>
+<pre><code>2 » Technology is the campfire around which we tell our stories. - Laurie Anderson</code></pre>
+<pre><code>3 » I know not age, nor weariness nor defeat. - Rose Kennedy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
