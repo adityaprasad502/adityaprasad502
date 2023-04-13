@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/12b08b1103bc2f4349663a5cc1ffe12bbbade7dc4a8b2bcf864691fa3d8a47a0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d373338253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-738%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,785+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,786+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.2 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -114,62 +114,62 @@ fun main() {printMessage()}
  <tr>
 <td>Batchfile</td>
 <td>2 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.51%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.61%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 53 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.41%</td>
+<td>18.13%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 43 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.92%</td>
+<td>16.57%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>1 hr 33 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.35%</td>
+<td>14.94%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>58 mins</td>
+<td>50 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.04%</td>
+<td>8.06%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>34 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.28%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
-<td>HTML</td>
+<td>Gradle</td>
 <td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.45%</td>
+<td>2.4%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 13 mins</td>
+<td>5 hrs 47 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.3%</td>
+<td>55.54%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.7%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.46%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 51 mins</td>
+<td>10 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -214,8 +214,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 12/04/2023 at 19:23:00 IST
-Next Update is roughly by 13/04/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 13/04/2023 at 19:23:02 IST
+Next Update is roughly by 14/04/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,8 +225,8 @@ Next Update is roughly by 13/04/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>How do you know God is a shitty programmer?</code></pre>
-<pre><code>» He wrote the OS for an entire universe, but didn't leave a single useful comment.</code></pre>
+<pre><code>Why did the coffee file a police report?</code></pre>
+<pre><code>» It got mugged.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +235,9 @@ Next Update is roughly by 13/04/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » If Texas were a country, its GNP would be the fifth largest of any country in the world.</code></pre>
-<pre><code>2 » In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</code></pre>
-<pre><code>3 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
+<pre><code>1 » A pig`s orgasm lasts for 30 minutes.</code></pre>
+<pre><code>2 » On average, people fear spiders more than they do death.</code></pre>
+<pre><code>3 » It has been estimated that humans use only 10% of their brain.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -247,9 +247,9 @@ Next Update is roughly by 13/04/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The best way out is always through. - Robert Frost</code></pre>
-<pre><code>2 » You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back? - W. Clement Stone</code></pre>
-<pre><code>3 » Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful. - Harvey Mackay</code></pre>
+<pre><code>1 » How wonderful it is that nobody need wait a single moment before starting to improve the world. - Anne Frank</code></pre>
+<pre><code>2 » Don't ruin the present with the ruined past. - Ellen Gilchrist</code></pre>
+<pre><code>3 » If you want to go east, don't go west. - Ramakrishna</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
