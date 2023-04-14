@@ -31,7 +31,7 @@ fun main() {printMessage()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/12b08b1103bc2f4349663a5cc1ffe12bbbade7dc4a8b2bcf864691fa3d8a47a0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f312f323032322d373338253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/1/2022-738%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,786+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,787+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.2 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -115,7 +115,7 @@ fun main() {printMessage()}
 <td>Batchfile</td>
 <td>2 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.61%</td>
+<td>27.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
@@ -214,8 +214,8 @@ fun main() {printMessage()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 13/04/2023 at 19:23:02 IST
-Next Update is roughly by 14/04/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 14/04/2023 at 19:23:37 IST
+Next Update is roughly by 15/04/2023 at 19:20:35 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,8 +225,8 @@ Next Update is roughly by 14/04/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why did the coffee file a police report?</code></pre>
-<pre><code>» It got mugged.</code></pre>
+<pre><code>Teacher - school, do you know the definition of it?</code></pre>
+<pre><code>» School= No anime for 7 hours</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +235,9 @@ Next Update is roughly by 14/04/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A pig`s orgasm lasts for 30 minutes.</code></pre>
-<pre><code>2 » On average, people fear spiders more than they do death.</code></pre>
-<pre><code>3 » It has been estimated that humans use only 10% of their brain.</code></pre>
+<pre><code>1 » A goldfish has a memory span of three seconds.  </code></pre>
+<pre><code>2 » The most common street name in the U.S. is Second Street.</code></pre>
+<pre><code>3 » The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -247,9 +247,9 @@ Next Update is roughly by 14/04/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » How wonderful it is that nobody need wait a single moment before starting to improve the world. - Anne Frank</code></pre>
-<pre><code>2 » Don't ruin the present with the ruined past. - Ellen Gilchrist</code></pre>
-<pre><code>3 » If you want to go east, don't go west. - Ramakrishna</code></pre>
+<pre><code>1 » Never deny a diagnosis but do deny the negative verdict that may go with it. - Norman Cousins</code></pre>
+<pre><code>2 » First say to yourself what you would be; and then do what you have to do. - Epictetus</code></pre>
+<pre><code>3 » It is good even for old men to learn wisdom. - Aeschylus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
