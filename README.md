@@ -1,12 +1,12 @@
 <h1 align='center'>
-	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="36px" width="36px"> Helo < Peeople />! 
-	<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px" width="36px">
+	<a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="36px" width="36px"> </a> Howdy < Peepers />! 
+	<a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px" width="36px"> </a>
 	<br>
 </h1>
 
 ```kt
-// run this on a Kotlin IDE
-fun printMessage() {
+// try this on a Kotlin IDE, IntelliJ IDEA?
+fun cuteMsg() {
     val mt = listOf(65, 68, 73, 84, 89, 65, 32, 80, 82, 65, 83, 65, 68, 32, 83)
 
     while (true) {
@@ -21,7 +21,7 @@ fun printMessage() {
     }
 }
 
-fun main() {printMessage()}
+fun main() {cuteMsg()}
 ```
 
 <h2 align='center'> :octocat: Github Stats :electron: </h2>
@@ -262,27 +262,11 @@ Next Update is roughly by 16/04/2023 at 19:20:15 IST
 </p>
 <details>
 	<summary>
-		<b>Last.fm Stats</b>
-	</summary>
-	<br>
-	<p align="center">
-		<a href="https://adityaprasad.eu.org" rel="nofollow">
-			<img width="100%" src="https://camo.githubusercontent.com/ec1ef9b6e62df513022e0c00ab5cfb454233b0542a2b7b85665d97917fbe90cb/68747470733a2f2f6c617374666d2d726563656e746c792d706c617965642e76657263656c2e6170702f6170693f757365723d6164697479617072617361643530322677696474683d36303026636f756e743d32" style="max-width:100%;">
-		</a>
-	</p>
-</details>
-<p>
-	<a href="https://adityaprasad.eu.org" rel="nofollow">
-		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
-	</a>
-</p>
-<details>
-	<summary>
 		<b>Note For You</b>
 	</summary>
 	<br>
 	<p align="center">
-		<i>Hey, This github stats only includes a part of my activity on my github account and wakatime installed IDE/editor in my PC. This doesn't include time/stats spend in other places of similar activites, etc. </i>
+		<i>The GitHub and Wakatime statistics shown here do not capture all of my activity across all platforms and tools. They reflect only a portion of my overall activity on GitHub and time spent using IDEs and editors with Wakatime installed on my personal computer. Keep in mind that my involvement in similar activities elsewhere may not be accounted for in these statistics..!</i>
 	</p>
 </details>
 <p>
@@ -290,7 +274,7 @@ Next Update is roughly by 16/04/2023 at 19:20:15 IST
 		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 	</a>
 </p>
-<p align="center"> Copyright © 2020 - present <br>
+<p align="center"> Copyright © 2020 - 2023 <br>
 	<br>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
 		<img src="https://da.gd/track" style="max-width:100%;">
