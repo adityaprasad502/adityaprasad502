@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7e6a7847c0adb3f13000df1be80470e45702637cfafd3374da191fa40cb7c417/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37343825323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-748%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,853+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,854+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.2 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,57 +113,57 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 56 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.68%</td>
+<td>6 hrs 34 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>63.14%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 28 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.36%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.23%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>53 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.57%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>24 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.59%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>14 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.66%</td>
+<td>3.99%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.26%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.39%</td>
+<td>2.07%</td>
 </tr> 
  <tr>
 <td>INI</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.74%</td>
+<td>1.51%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 2 mins</td>
+<td>10 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 2 mins</td>
+<td>10 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -214,8 +214,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 20/04/2023 at 19:23:18 IST
-Next Update is roughly by 21/04/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 21/04/2023 at 19:23:15 IST
+Next Update is roughly by 22/04/2023 at 19:20:15 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +225,8 @@ Next Update is roughly by 21/04/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What do Santa's little helpers learn at school?</code></pre>
-<pre><code>» The elf-abet!
-</code></pre>
+<pre><code>What do you call cheese by itself?</code></pre>
+<pre><code>» Provolone.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -236,9 +235,9 @@ Next Update is roughly by 21/04/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</code></pre>
-<pre><code>2 » Conception occurs most in the month of December.</code></pre>
-<pre><code>3 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
+<pre><code>1 » Tigers not only have striped fur, they have striped skin!</code></pre>
+<pre><code>2 » The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</code></pre>
+<pre><code>3 » Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -248,9 +247,9 @@ Next Update is roughly by 21/04/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Adversity causes some men to break, others to break records. - William Arthur Ward</code></pre>
-<pre><code>2 » The final proof of greatness lies in being able to endure criticism without resentment. - Elbert Hubbard</code></pre>
-<pre><code>3 » Begin at once to live and count each separate day as a separate life. - Seneca the Younger</code></pre>
+<pre><code>1 » If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut. - Albert Einstein</code></pre>
+<pre><code>2 » Meetings are indispensable when you don't want to do anything. - John Kenneth Galbraith</code></pre>
+<pre><code>3 » Freedom is the right to live as we wish. - Epictetus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
