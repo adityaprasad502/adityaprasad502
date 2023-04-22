@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7e6a7847c0adb3f13000df1be80470e45702637cfafd3374da191fa40cb7c417/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37343825323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-748%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ddb5a9fb540e5cc9d596d71b6276f3fe92f570457a6ec0bb193eeac0fd662ad0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37353025323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-750%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,854+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.2 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,858+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.3 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -40,27 +40,27 @@ fun main() {cuteMsg()}
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>106 commits</td>
+<td>108 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.41%</td>
+<td>22.74%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>107 commits</td>
+<td>108 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.62%</td>
+<td>22.74%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>90 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.03%</td>
+<td>18.95%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>170 commits</td>
+<td>169 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.94%</td>
+<td>35.58%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -69,43 +69,43 @@ fun main() {cuteMsg()}
 <td>Monday</td>
 <td>81 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.12%</td>
+<td>17.05%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
 <td>47 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.94%</td>
+<td>9.89%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
 <td>51 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.78%</td>
+<td>10.74%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
 <td>37 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.82%</td>
+<td>7.79%</td>
 </tr> 
  <tr>
 <td>Friday</td>
 <td>50 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.57%</td>
+<td>10.53%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
-<td>83 commits</td>
+<td>85 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.55%</td>
+<td>17.89%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>124 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.22%</td>
+<td>26.11%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -115,13 +115,13 @@ fun main() {cuteMsg()}
 <td>Python</td>
 <td>6 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>63.14%</td>
+<td>63.13%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 28 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.23%</td>
+<td>14.22%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -131,9 +131,9 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>24 mins</td>
+<td>25 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.99%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -214,8 +214,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 21/04/2023 at 19:23:15 IST
-Next Update is roughly by 22/04/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 22/04/2023 at 19:22:47 IST
+Next Update is roughly by 23/04/2023 at 19:20:45 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,8 +225,8 @@ Next Update is roughly by 22/04/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What do you call cheese by itself?</code></pre>
-<pre><code>» Provolone.</code></pre>
+<pre><code>What's the difference between a school bus and a cactus?</code></pre>
+<pre><code>» A cactus keeps the little pricks on the outside.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +235,9 @@ Next Update is roughly by 22/04/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Tigers not only have striped fur, they have striped skin!</code></pre>
-<pre><code>2 » The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</code></pre>
-<pre><code>3 » Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</code></pre>
+<pre><code>1 » In England, the Speaker of the House is not allowed to speak.</code></pre>
+<pre><code>2 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
+<pre><code>3 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -247,9 +247,9 @@ Next Update is roughly by 22/04/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut. - Albert Einstein</code></pre>
-<pre><code>2 » Meetings are indispensable when you don't want to do anything. - John Kenneth Galbraith</code></pre>
-<pre><code>3 » Freedom is the right to live as we wish. - Epictetus</code></pre>
+<pre><code>1 » The best way to predict your future is to create it. - Peter Drucker</code></pre>
+<pre><code>2 » A single lamp may light hundreds of thousands of lamps without itself being diminished. - The Buddha</code></pre>
+<pre><code>3 » To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. - Henri Bergson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
