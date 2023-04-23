@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ddb5a9fb540e5cc9d596d71b6276f3fe92f570457a6ec0bb193eeac0fd662ad0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37353025323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-750%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/21a0077a7855e2e838f1b21bdae45be6893b952a10b518f2c728f757d9b06dbf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37353025323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-750%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,858+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,859+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.3 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 6 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,57 +113,57 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>6 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>63.13%</td>
+<td>8 hrs 56 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.93%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 28 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.22%</td>
+<td>11.6%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>53 mins</td>
+<td>58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.57%</td>
+<td>7.57%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>25 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>20 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.62%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.26%</td>
+<td>1.84%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.07%</td>
+<td>1.69%</td>
 </tr> 
  <tr>
 <td>INI</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.51%</td>
+<td>1.23%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>10 hrs 25 mins</td>
+<td>12 hrs 47 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 25 mins</td>
+<td>12 hrs 47 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -214,8 +214,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 22/04/2023 at 19:22:47 IST
-Next Update is roughly by 23/04/2023 at 19:20:45 IST
+<pre><code>Last Updated precisely on 23/04/2023 at 19:23:05 IST
+Next Update is roughly by 24/04/2023 at 19:20:05 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,8 +225,8 @@ Next Update is roughly by 23/04/2023 at 19:20:45 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What's the difference between a school bus and a cactus?</code></pre>
-<pre><code>» A cactus keeps the little pricks on the outside.</code></pre>
+<pre><code>What do you call an elephant that doesn’t matter?</code></pre>
+<pre><code>» An irrelephant.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +235,9 @@ Next Update is roughly by 23/04/2023 at 19:20:45 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In England, the Speaker of the House is not allowed to speak.</code></pre>
-<pre><code>2 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
-<pre><code>3 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
+<pre><code>1 » 3.9% of all women do not wear underwear.</code></pre>
+<pre><code>2 » The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</code></pre>
+<pre><code>3 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -247,9 +247,9 @@ Next Update is roughly by 23/04/2023 at 19:20:45 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The best way to predict your future is to create it. - Peter Drucker</code></pre>
-<pre><code>2 » A single lamp may light hundreds of thousands of lamps without itself being diminished. - The Buddha</code></pre>
-<pre><code>3 » To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly. - Henri Bergson</code></pre>
+<pre><code>1 » The greatest gift of life is friendship, and I have received it. - Hubert Humphrey</code></pre>
+<pre><code>2 » The way you see people is the way you treat them, and the way you treat them is what they become. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » Goals are the fuel in the furnace of achievement. - Brian Tracy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
