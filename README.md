@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/718dd2a13be8ad72484cddcab2f9650d43396d2a119641d07f8a520e2a4377d9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37363725323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-767%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,954+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,955+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,33 +113,27 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>15 hrs 51 mins</td>
+<td>15 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.66%</td>
+<td>99.71%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.28%</td>
-</tr> 
- <tr>
-<td>Batchfile</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.29%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 54 mins</td>
+<td>15 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 54 mins</td>
+<td>15 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -184,8 +178,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 01/05/2023 at 19:23:11 IST
-Next Update is roughly by 02/05/2023 at 19:20:10 IST
+<pre><code>Last Updated precisely on 02/05/2023 at 19:23:19 IST
+Next Update is roughly by 03/05/2023 at 19:20:15 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,8 +189,8 @@ Next Update is roughly by 02/05/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What's long and hard and has cum in it?</code></pre>
-<pre><code>» A cucumber.</code></pre>
+<pre><code>What do you call an eagle who can play the piano?</code></pre>
+<pre><code>» Talonted!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -205,9 +199,9 @@ Next Update is roughly by 02/05/2023 at 19:20:10 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average person spends about two years on the phone in a lifetime.</code></pre>
-<pre><code>2 » Poland is the "stolen car capital of the world".</code></pre>
-<pre><code>3 » Tigers not only have striped fur, they have striped skin!</code></pre>
+<pre><code>1 » Babies are most likely to be born on Tuesdays.</code></pre>
+<pre><code>2 » 166,875,000,000 pieces of mail are delivered each year in the US</code></pre>
+<pre><code>3 » Spain leads the world in cork production</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -217,9 +211,9 @@ Next Update is roughly by 02/05/2023 at 19:20:10 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary. - Margaret Cousins</code></pre>
-<pre><code>2 » People are not lazy. They simply have impotent goals - that is, goals that do not inspire them. - Tony Robbins</code></pre>
-<pre><code>3 » Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving. - John Dewey</code></pre>
+<pre><code>1 » All this worldly wisdom was once the unamiable heresy of some wise man. - Henry David Thoreau</code></pre>
+<pre><code>2 » Freedom is the right to live as we wish. - Epictetus</code></pre>
+<pre><code>3 » Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible. - Hannah Arendt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
