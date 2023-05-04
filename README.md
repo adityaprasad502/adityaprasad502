@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/718dd2a13be8ad72484cddcab2f9650d43396d2a119641d07f8a520e2a4377d9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37363725323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-767%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,956+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,957+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,27 +113,27 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>12 hrs 26 mins</td>
+<td>9 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.65%</td>
+<td>99.53%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
+<td>0.47%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 29 mins</td>
+<td>9 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>12 hrs 29 mins</td>
+<td>9 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -178,8 +178,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 03/05/2023 at 19:22:58 IST
-Next Update is roughly by 04/05/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 04/05/2023 at 19:23:00 IST
+Next Update is roughly by 05/05/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,8 +189,8 @@ Next Update is roughly by 04/05/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What does a pirate pay for his corn?</code></pre>
-<pre><code>» A buccaneer!</code></pre>
+<pre><code>Why shouldn't you visit an expensive wig shop?</code></pre>
+<pre><code>» It's too high a price "toupee."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +199,9 @@ Next Update is roughly by 04/05/2023 at 19:20:55 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 1 in 8 Americans has worked at a McDonalds restaurant.</code></pre>
-<pre><code>2 » In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</code></pre>
-<pre><code>3 » The katydid bug hears through holes in its hind legs!</code></pre>
+<pre><code>1 » Only 6 people in the whole world have died from moshing.</code></pre>
+<pre><code>2 » The buzz from an electric razor in America plays in the key of B flat; Key of G in England.</code></pre>
+<pre><code>3 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 04/05/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle. - Amy Bloom</code></pre>
-<pre><code>2 » Whoso loves, believes the impossible. - Elizabeth Browning</code></pre>
-<pre><code>3 » True friendship can afford true knowledge. It does not depend on darkness and ignorance. - Henry David Thoreau</code></pre>
+<pre><code>1 » Everything that happens as it should, and if you observe carefully, you will find this to be so. - Marcus Aurelius</code></pre>
+<pre><code>2 » Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson</code></pre>
+<pre><code>3 » Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life. - Lord Byron</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
