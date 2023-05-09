@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4048f94f3107b65927c22dbe94f8d068e4e3e961c128dfd4f3a18060eb517425/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37363825323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-768%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 4,828+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 4,829+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -114,38 +114,56 @@ fun main() {cuteMsg()}
  <tr>
 <td>Python</td>
 <td>14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>72.7%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.83%</td>
+</tr> 
+ <tr>
+<td>INI</td>
+<td>10 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.12%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>7 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.61%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>3 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.71%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.72%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>1 min</td>
+<td>2 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.42%</td>
+<td>6.48%</td>
 </tr> 
  <tr>
-<td>Docker</td>
+<td>JSON</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>2.45%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.01%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>19 mins</td>
+<td>40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>19 mins</td>
+<td>40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +208,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 08/05/2023 at 19:23:02 IST
-Next Update is roughly by 09/05/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 09/05/2023 at 19:23:03 IST
+Next Update is roughly by 10/05/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +219,8 @@ Next Update is roughly by 09/05/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What’s the advantage of living in Switzerland?</code></pre>
-<pre><code>» Well, the flag is a big plus.</code></pre>
+<pre><code>I can't believe I got fired from the calendar factory.</code></pre>
+<pre><code>» All I did was take a day off.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +229,9 @@ Next Update is roughly by 09/05/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Napoleon`s penis was sold to an American Urologist for $40,000.</code></pre>
-<pre><code>2 » Nearly 80% of all animals on earth have six legs.</code></pre>
-<pre><code>3 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
+<pre><code>1 » Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</code></pre>
+<pre><code>2 » The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  </code></pre>
+<pre><code>3 » The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +241,9 @@ Next Update is roughly by 09/05/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Every man is a volume if you know how to read him. - William Ellery Channing</code></pre>
-<pre><code>2 » Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has. - Margaret Mead</code></pre>
-<pre><code>3 » We must become the change we want to see. - Mahatma Gandhi</code></pre>
+<pre><code>1 » We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us. - Marcel Proust</code></pre>
+<pre><code>2 » The amount of happiness that you have depends on the amount of freedom you have in your heart. - Thích Nhất Hạnh</code></pre>
+<pre><code>3 » An invasion of armies can be resisted, but not an idea whose time has come. - Victor Hugo</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
