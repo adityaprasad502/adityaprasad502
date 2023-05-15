@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/dbabc4c2f473f5012f1373c4d6523534a86b44493255b643d6b4155b729ad166/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37373925323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-779%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,147+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,148+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -115,55 +115,55 @@ fun main() {cuteMsg()}
 <td>JavaScript</td>
 <td>5 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.14%</td>
+<td>43.34%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 28 mins</td>
+<td>4 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.65%</td>
+<td>36.66%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.23%</td>
+<td>8.46%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>37 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.25%</td>
+<td>5.4%</td>
 </tr> 
  <tr>
 <td>INI</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.47%</td>
+<td>1.51%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.41%</td>
+<td>1.45%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.33%</td>
+<td>1.37%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 53 mins</td>
+<td>11 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>11 hrs 53 mins</td>
+<td>11 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -208,8 +208,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 14/05/2023 at 19:22:54 IST
-Next Update is roughly by 15/05/2023 at 19:20:50 IST
+<pre><code>Last Updated precisely on 15/05/2023 at 19:23:03 IST
+Next Update is roughly by 16/05/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,10 +219,8 @@ Next Update is roughly by 15/05/2023 at 19:20:50 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Mickey Mouse and Minnie Mouse are in the divorce court.
-"Mickey", the judge says, "I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me."</code></pre>
-<pre><code>» "I didn't say she was insane", exclaims Mickey.
-"I said she was fucking Goofy."</code></pre>
+<pre><code>What do you call a dad that has fallen through the ice?</code></pre>
+<pre><code>» A Popsicle.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +229,9 @@ Next Update is roughly by 15/05/2023 at 19:20:50 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It is illegal to eat oranges while bathing in California.</code></pre>
-<pre><code>2 » Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</code></pre>
-<pre><code>3 » In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</code></pre>
+<pre><code>1 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
+<pre><code>2 » Cats urine glows under a black light.</code></pre>
+<pre><code>3 » The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -243,9 +241,9 @@ Next Update is roughly by 15/05/2023 at 19:20:50 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us. - Helen Keller</code></pre>
-<pre><code>2 » You can't shake hands with a clenched fist. - Indira Gandhi</code></pre>
-<pre><code>3 » God has given you one face, and you make yourself another. - William Shakespeare</code></pre>
+<pre><code>1 » Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose. - Eknath Easwaran</code></pre>
+<pre><code>2 » When in doubt, don't. - Benjamin Franklin</code></pre>
+<pre><code>3 » In friendship as well as love, ignorance very often contributes more to our happiness than knowledge. - François de La Rochefoucauld</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
