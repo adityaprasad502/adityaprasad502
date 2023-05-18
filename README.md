@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/dbabc4c2f473f5012f1373c4d6523534a86b44493255b643d6b4155b729ad166/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37373925323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-779%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,149+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,150+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,57 +113,57 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.08%</td>
+<td>4 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>78.13%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>3 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.55%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>36 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.46%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>23 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.15%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>9 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.71%</td>
+<td>1 hr 4 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.06%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>9 mins</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.68%</td>
+<td>0.97%</td>
 </tr> 
  <tr>
-<td>TypeScript</td>
+<td>CSS</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
+<td>0.25%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.18%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.17%</td>
+</tr> 
+ <tr>
+<td>Git Config</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.1%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 23 mins</td>
+<td>5 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 23 mins</td>
+<td>5 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -208,8 +208,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 17/05/2023 at 19:23:01 IST
-Next Update is roughly by 18/05/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 18/05/2023 at 19:23:02 IST
+Next Update is roughly by 19/05/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,8 +219,8 @@ Next Update is roughly by 18/05/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What did the spaghetti say to the other spaghetti?</code></pre>
-<pre><code>» Pasta la vista, baby!</code></pre>
+<pre><code>Why do bees hum?</code></pre>
+<pre><code>» Because they don't know the words.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +229,9 @@ Next Update is roughly by 18/05/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
-<pre><code>2 » NBA superstar Michael Jordan was originally cut from his high school basketball team.</code></pre>
-<pre><code>3 » The average person spends 6 months of their life sitting at red lights.</code></pre>
+<pre><code>1 » The word "samba" means "to rub navels together."</code></pre>
+<pre><code>2 » A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</code></pre>
+<pre><code>3 » If you went out into space, you would explode before you suffocated because there`s no air pressure.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +241,9 @@ Next Update is roughly by 18/05/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Gratitude is the fairest blossom which springs from the soul. - Henry K. Beecher</code></pre>
-<pre><code>2 » To know oneself is to study oneself in action with another person. - Bruce Lee</code></pre>
-<pre><code>3 » The world is a book, and those who do not travel read only a page. - Augustine of Hippo</code></pre>
+<pre><code>1 » A successful person is one who can lay a firm foundation with the bricks that others throw at him or her. - David Brinkley</code></pre>
+<pre><code>2 » There is no greater harm than that of time wasted. - Michelangelo</code></pre>
+<pre><code>3 » There surely is in human nature an inherent propensity to extract all the good out of all the evil. - Benjamin Haydon</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
