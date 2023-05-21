@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0d2933bca46bc2b9a7ba76ea57aba793f7f5553c3374995dca0cfcc3b95fceec/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37383125323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-781%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,153+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,154+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 23.0 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -112,46 +112,46 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
-<td>JavaScript</td>
-<td>1 hr 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.44%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>26 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.04%</td>
-</tr> 
- <tr>
 <td>CSS</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.87%</td>
+<td>51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.71%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>34 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.34%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>31 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.91%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>0.03%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 32 mins</td>
+<td>1 hr 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 32 mins</td>
+<td>1 hr 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -196,8 +196,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 20/05/2023 at 19:23:06 IST
-Next Update is roughly by 21/05/2023 at 19:20:05 IST
+<pre><code>Last Updated precisely on 21/05/2023 at 19:22:50 IST
+Next Update is roughly by 22/05/2023 at 19:20:50 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,8 +207,8 @@ Next Update is roughly by 21/05/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Lady: How do I spread love in this cruel world?</code></pre>
-<pre><code>» Random Dude: [...💘]</code></pre>
+<pre><code>Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?</code></pre>
+<pre><code>» Because there’s a Shortstop in between!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -217,9 +217,9 @@ Next Update is roughly by 21/05/2023 at 19:20:05 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Donald Duck comics were banned from Finland because he doesn`t wear pants!</code></pre>
-<pre><code>2 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
-<pre><code>3 » Honking of car horns for a couple that just got married is an old superstition to insure great sex.</code></pre>
+<pre><code>1 » Hot water is heavier than cold.</code></pre>
+<pre><code>2 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
+<pre><code>3 » The word "samba" means "to rub navels together."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +229,9 @@ Next Update is roughly by 21/05/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict. - William Ellery Channing</code></pre>
-<pre><code>2 » Time is the wisest counsellor of all. - Pericles</code></pre>
-<pre><code>3 » True friends stab you in the front. - Oscar Wilde</code></pre>
+<pre><code>1 » Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill</code></pre>
+<pre><code>2 » Good actions give strength to ourselves and inspire good actions in others. - Plato</code></pre>
+<pre><code>3 » Knowledge is proud that it knows so much; wisdom is humble that it knows no more. - William Cowper</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
