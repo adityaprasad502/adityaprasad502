@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0d2933bca46bc2b9a7ba76ea57aba793f7f5553c3374995dca0cfcc3b95fceec/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37383125323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-781%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,154+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,155+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 23.0 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -196,8 +196,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 21/05/2023 at 19:22:50 IST
-Next Update is roughly by 22/05/2023 at 19:20:50 IST
+<pre><code>Last Updated precisely on 22/05/2023 at 19:22:53 IST
+Next Update is roughly by 23/05/2023 at 19:20:50 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,8 +207,8 @@ Next Update is roughly by 22/05/2023 at 19:20:50 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?</code></pre>
-<pre><code>» Because there’s a Shortstop in between!</code></pre>
+<pre><code>Whats the Grinchs least favorite band?</code></pre>
+<pre><code>» The Who.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -217,9 +217,9 @@ Next Update is roughly by 22/05/2023 at 19:20:50 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Hot water is heavier than cold.</code></pre>
-<pre><code>2 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
-<pre><code>3 » The word "samba" means "to rub navels together."</code></pre>
+<pre><code>1 » Giraffes have no vocal cords.</code></pre>
+<pre><code>2 » One third of all cancers are sun related.</code></pre>
+<pre><code>3 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +229,9 @@ Next Update is roughly by 22/05/2023 at 19:20:50 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill</code></pre>
-<pre><code>2 » Good actions give strength to ourselves and inspire good actions in others. - Plato</code></pre>
-<pre><code>3 » Knowledge is proud that it knows so much; wisdom is humble that it knows no more. - William Cowper</code></pre>
+<pre><code>1 » All great men are gifted with intuition. They know without reasoning or analysis, what they need to know. - Alexis Carrel</code></pre>
+<pre><code>2 » A day of worry is more exhausting than a day of work. - John Lubbock</code></pre>
+<pre><code>3 » Do you know what my favorite part of the game is? The opportunity to play. - Mike Singletary (basketball)</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
