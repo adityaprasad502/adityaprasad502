@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6945a0c0d3ac819a0ac664ac4e645199f3a782897f4584c81f22fc4cc2251136/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37383225323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-782%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,159+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,160+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 23.1 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -114,32 +114,38 @@ fun main() {cuteMsg()}
  <tr>
 <td>CSS</td>
 <td>51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.15%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.54%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>34 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.3%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.19%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>31 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.95%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.26%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>26 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.03%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.57%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.92%</td>
 </tr> 
  <tr>
-<td>Batchfile</td>
+<td>TOML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.05%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -150,14 +156,14 @@ fun main() {cuteMsg()}
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 1 min</td>
+<td>2 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 1 min</td>
+<td>2 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -202,8 +208,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 26/05/2023 at 19:22:55 IST
-Next Update is roughly by 27/05/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 27/05/2023 at 19:22:53 IST
+Next Update is roughly by 28/05/2023 at 19:20:50 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,8 +219,8 @@ Next Update is roughly by 27/05/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>A ham sandwhich walks into a bar and orders a beer. The bartender says...</code></pre>
-<pre><code>» I'm sorry, we don't serve food here</code></pre>
+<pre><code>Can I watch the TV?</code></pre>
+<pre><code>» Yes, but don’t turn it on.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +229,9 @@ Next Update is roughly by 27/05/2023 at 19:20:55 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</code></pre>
-<pre><code>2 » The ant always falls over on its right side when intoxicated.</code></pre>
-<pre><code>3 » On the ground, a group of geese is a gaggle, in the sky it is a skein.</code></pre>
+<pre><code>1 » One third of all cancers are sun related.</code></pre>
+<pre><code>2 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
+<pre><code>3 » A goldfish has a memory span of three seconds.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -235,9 +241,9 @@ Next Update is roughly by 27/05/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Loss is nothing else but change, and change is Nature's delight. - Marcus Aurelius</code></pre>
-<pre><code>2 » There is no fear for one whose mind is not filled with desires. - The Buddha</code></pre>
-<pre><code>3 » Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk. - Doug Larson</code></pre>
+<pre><code>1 » Accept challenges, so that you may feel the exhilaration of victory. - George S. Patton</code></pre>
+<pre><code>2 » There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain. - Plato</code></pre>
+<pre><code>3 » If the stars should appear but one night every thousand years how man would marvel and adore. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
