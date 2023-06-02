@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d4ce12f728bc1bac756386f02bd15dff4fe94bd38123139ffd28c4c978e5ec41/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37383925323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-789%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/74664540820f0f8c451f4e82f1ee83ef441c2f5b0425c5af93c61aa27c9d1477/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37393225323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-792%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,181+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,192+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -40,27 +40,27 @@ fun main() {cuteMsg()}
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
-<td>137 commits</td>
+<td>141 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.81%</td>
+<td>27.22%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
 <td>102 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.96%</td>
+<td>19.69%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>88 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.22%</td>
+<td>16.99%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>184 commits</td>
+<td>187 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.01%</td>
+<td>36.1%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -69,43 +69,43 @@ fun main() {cuteMsg()}
 <td>Monday</td>
 <td>43 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.41%</td>
+<td>8.3%</td>
 </tr> 
  <tr>
 <td>Tuesday</td>
 <td>55 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.76%</td>
+<td>10.62%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>52 commits</td>
+<td>49 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.18%</td>
+<td>9.46%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
-<td>38 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.44%</td>
+<td>44 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.49%</td>
 </tr> 
  <tr>
 <td>Friday</td>
-<td>88 commits</td>
+<td>92 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.22%</td>
+<td>17.76%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
 <td>82 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.05%</td>
+<td>15.83%</td>
 </tr> 
  <tr>
 <td>Sunday</td>
 <td>153 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.94%</td>
+<td>29.54%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -114,56 +114,56 @@ fun main() {cuteMsg()}
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.41%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 45 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.19%</td>
+<td>3 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.29%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>54 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.33%</td>
+<td>8.82%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>39 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.2%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.39%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>10 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.65%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.83%</td>
+<td>0.65%</td>
 </tr> 
  <tr>
-<td>TypeScript</td>
-<td>0 secs</td>
+<td>Git Config</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.27%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 57 mins</td>
+<td>10 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 57 mins</td>
+<td>10 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,43 +173,43 @@ fun main() {cuteMsg()}
  <tbody><tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.0%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.67%</td>
+<td>16.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.67%</td>
+<td>16.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.33%</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>Shell</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.17%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.17%</td>
+<td>4.0%</td>
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 01/06/2023 at 19:23:24 IST
-Next Update is roughly by 02/06/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 02/06/2023 at 19:22:48 IST
+Next Update is roughly by 03/06/2023 at 19:20:45 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,8 +219,8 @@ Next Update is roughly by 02/06/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>I bought some shoes from a drug dealer.</code></pre>
-<pre><code>» I don't know what he laced them with, but I was tripping all day!</code></pre>
+<pre><code>One time I masturbated on a plane.</code></pre>
+<pre><code>» I called it "highjacking".</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +229,9 @@ Next Update is roughly by 02/06/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » `Stewardesses` is the longest word that is typed with only the left hand.</code></pre>
-<pre><code>2 » Most dust particles in your house are made from dead skin.</code></pre>
-<pre><code>3 » Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </code></pre>
+<pre><code>1 » Donald Duck comics were banned from Finland because he doesn`t wear pants!</code></pre>
+<pre><code>2 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
+<pre><code>3 » The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +241,9 @@ Next Update is roughly by 02/06/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » God always takes the simplest way. - Albert Einstein</code></pre>
-<pre><code>2 » Never do things others can do and will do, if there are things others cannot do or will not do. - Amelia Earhart</code></pre>
-<pre><code>3 » First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we've realized it's a brochure. - Douglas Adams</code></pre>
+<pre><code>1 » In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you. - Janet Jackson</code></pre>
+<pre><code>2 » We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far. - Swami Vivekananda</code></pre>
+<pre><code>3 » Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity. - William C. Menninger</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
