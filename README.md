@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/74664540820f0f8c451f4e82f1ee83ef441c2f5b0425c5af93c61aa27c9d1477/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d37393225323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-792%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/79b263983e1448187e24e3dccb2eebfb67575af234de0a7a41c36ba7443cf402/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313025323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-810%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,192+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,193+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -114,56 +114,56 @@ fun main() {cuteMsg()}
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.7%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.38%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.29%</td>
+<td>4 hrs 34 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.38%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>54 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.82%</td>
+<td>8.56%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>39 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.39%</td>
+<td>12 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.97%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.65%</td>
+<td>1.61%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.63%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.27%</td>
+<td>0.26%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>10 hrs 13 mins</td>
+<td>10 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 13 mins</td>
+<td>10 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -208,8 +208,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 02/06/2023 at 19:22:48 IST
-Next Update is roughly by 03/06/2023 at 19:20:45 IST
+<pre><code>Last Updated precisely on 03/06/2023 at 19:23:21 IST
+Next Update is roughly by 04/06/2023 at 19:20:20 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,8 +219,7 @@ Next Update is roughly by 03/06/2023 at 19:20:45 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>One time I masturbated on a plane.</code></pre>
-<pre><code>» I called it "highjacking".</code></pre>
+<pre><code>A perfectionist walked into a bar... apparently, the bar was not set high enough.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +228,9 @@ Next Update is roughly by 03/06/2023 at 19:20:45 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Donald Duck comics were banned from Finland because he doesn`t wear pants!</code></pre>
-<pre><code>2 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
-<pre><code>3 » The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</code></pre>
+<pre><code>1 » 400-quarter pounders can be made from 1 cow.</code></pre>
+<pre><code>2 » The average North American will eat 35,000 cookies during their life span.</code></pre>
+<pre><code>3 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +240,9 @@ Next Update is roughly by 03/06/2023 at 19:20:45 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you. - Janet Jackson</code></pre>
-<pre><code>2 » We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far. - Swami Vivekananda</code></pre>
-<pre><code>3 » Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity. - William C. Menninger</code></pre>
+<pre><code>1 » First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination. - Napoleon Hill</code></pre>
+<pre><code>2 » The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin</code></pre>
+<pre><code>3 » Only put off until tomorrow what you are willing to die having left undone. - Pablo Picasso</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
