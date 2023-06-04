@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/79b263983e1448187e24e3dccb2eebfb67575af234de0a7a41c36ba7443cf402/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313025323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-810%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,193+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,194+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -208,8 +208,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 03/06/2023 at 19:23:21 IST
-Next Update is roughly by 04/06/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 04/06/2023 at 19:23:17 IST
+Next Update is roughly by 05/06/2023 at 19:20:15 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,7 +219,9 @@ Next Update is roughly by 04/06/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>A perfectionist walked into a bar... apparently, the bar was not set high enough.</code></pre>
+<pre><code>Went to the doctors for a prostate exam.
+During the exam he said it's not unusual to become aroused or even ejaculate.</code></pre>
+<pre><code>» But still, I wish he hadn't.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -228,9 +230,9 @@ Next Update is roughly by 04/06/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 400-quarter pounders can be made from 1 cow.</code></pre>
-<pre><code>2 » The average North American will eat 35,000 cookies during their life span.</code></pre>
-<pre><code>3 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
+<pre><code>1 » The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</code></pre>
+<pre><code>2 » The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.</code></pre>
+<pre><code>3 » During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -240,9 +242,9 @@ Next Update is roughly by 04/06/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination. - Napoleon Hill</code></pre>
-<pre><code>2 » The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin</code></pre>
-<pre><code>3 » Only put off until tomorrow what you are willing to die having left undone. - Pablo Picasso</code></pre>
+<pre><code>1 » Our greatest glory is not in never falling, but in rising every time we fall. - Confucius</code></pre>
+<pre><code>2 » Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either. - Albert Einstein</code></pre>
+<pre><code>3 » Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us! - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
