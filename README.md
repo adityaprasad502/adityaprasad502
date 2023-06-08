@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/45d502f57bffbe4a96f9a0c466b6ba699adb26339c784b37a37112e154187a46/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313025323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-810%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,200+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,201+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -113,57 +113,39 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.63%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>2 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.62%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>44 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.68%</td>
+<td>3 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.42%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>10 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.2%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.77%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.47%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.11%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
+<td>0.82%</td>
+</tr> 
+ <tr>
+<td>INI</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.65%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 40 mins</td>
+<td>3 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 40 mins</td>
+<td>3 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -208,8 +190,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 07/06/2023 at 19:23:24 IST
-Next Update is roughly by 08/06/2023 at 19:20:20 IST
+<pre><code>Last Updated precisely on 08/06/2023 at 19:23:20 IST
+Next Update is roughly by 09/06/2023 at 19:20:20 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,8 +201,7 @@ Next Update is roughly by 08/06/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What musical instrument is found in the bathroom?</code></pre>
-<pre><code>» A tuba toothpaste.</code></pre>
+<pre><code>Your mama's so FAT she can't save files bigger than 4GB.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -229,9 +210,9 @@ Next Update is roughly by 08/06/2023 at 19:20:20 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A jellyfish is 95 percent water!</code></pre>
-<pre><code>2 » A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
-<pre><code>3 » Most Egyptians died by the time they were 30 about 300 years ago,</code></pre>
+<pre><code>1 » James Bond`s car had three different license plates in Goldfinger</code></pre>
+<pre><code>2 » More bullets were fired in `Starship Troopers` than any other movie ever made.</code></pre>
+<pre><code>3 » Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -241,9 +222,9 @@ Next Update is roughly by 08/06/2023 at 19:20:20 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A man should look for what is, and not for what he thinks should be. - Albert Einstein</code></pre>
-<pre><code>2 » Quality is never an accident; it is always the result of intelligent effort. - John Ruskin</code></pre>
-<pre><code>3 » A man who doesn't trust himself can never really trust anyone else. - Jean François Paul de Gondi</code></pre>
+<pre><code>1 » Independence is happiness. - Susan B. Anthony</code></pre>
+<pre><code>2 » An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage. - Jack Welch</code></pre>
+<pre><code>3 » Happiness often sneaks in through a door you didn't know you left open. - John Barrymore</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
