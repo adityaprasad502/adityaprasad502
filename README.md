@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/45d502f57bffbe4a96f9a0c466b6ba699adb26339c784b37a37112e154187a46/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313025323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-810%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,203+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,204+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -172,8 +172,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 10/06/2023 at 19:23:19 IST
-Next Update is roughly by 11/06/2023 at 19:20:15 IST
+<pre><code>Last Updated precisely on 11/06/2023 at 19:22:59 IST
+Next Update is roughly by 12/06/2023 at 19:20:55 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,8 +183,8 @@ Next Update is roughly by 11/06/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>I just saw my wife trip over and drop a basket full of ironed clothes.</code></pre>
-<pre><code>» I watched it all unfold.</code></pre>
+<pre><code>Why do crabs never give to charity?</code></pre>
+<pre><code>» Because they’re shellfish.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -193,9 +193,9 @@ Next Update is roughly by 11/06/2023 at 19:20:15 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Koala is Aboriginal for "no drink".</code></pre>
-<pre><code>2 » In 1986 Congress &amp; President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.</code></pre>
-<pre><code>3 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
+<pre><code>1 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
+<pre><code>2 » 166,875,000,000 pieces of mail are delivered each year in the US</code></pre>
+<pre><code>3 » Walt Disney was afraid of mice.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -205,9 +205,9 @@ Next Update is roughly by 11/06/2023 at 19:20:15 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. - George Bernard Shaw</code></pre>
-<pre><code>2 » Experience is not what happens to a man. It is what a man does with what happens to him. - Aldous Huxley</code></pre>
-<pre><code>3 » It is not enough to have a good mind; the main thing is to use it well. - René Descartes</code></pre>
+<pre><code>1 » History is written by the victors. - Winston Churchill</code></pre>
+<pre><code>2 » To study and not think is a waste. To think and not study is dangerous. - Confucius</code></pre>
+<pre><code>3 » All wisdom does not reside in Delhi. - P. Chidambaram</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
