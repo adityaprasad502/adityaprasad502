@@ -31,8 +31,8 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/45d502f57bffbe4a96f9a0c466b6ba699adb26339c784b37a37112e154187a46/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313025323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-810%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,204+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.7 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,205+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.8 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -172,8 +172,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 11/06/2023 at 19:22:59 IST
-Next Update is roughly by 12/06/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 12/06/2023 at 19:23:03 IST
+Next Update is roughly by 13/06/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,8 +183,8 @@ Next Update is roughly by 12/06/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why do crabs never give to charity?</code></pre>
-<pre><code>» Because they’re shellfish.</code></pre>
+<pre><code>What do you get when you cross a rabbit with a water hose?</code></pre>
+<pre><code>» Hare spray.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -193,9 +193,9 @@ Next Update is roughly by 12/06/2023 at 19:20:55 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
-<pre><code>2 » 166,875,000,000 pieces of mail are delivered each year in the US</code></pre>
-<pre><code>3 » Walt Disney was afraid of mice.</code></pre>
+<pre><code>1 » American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</code></pre>
+<pre><code>2 » The Black Widow spider eats her mate during or after sex.</code></pre>
+<pre><code>3 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -205,9 +205,9 @@ Next Update is roughly by 12/06/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » History is written by the victors. - Winston Churchill</code></pre>
-<pre><code>2 » To study and not think is a waste. To think and not study is dangerous. - Confucius</code></pre>
-<pre><code>3 » All wisdom does not reside in Delhi. - P. Chidambaram</code></pre>
+<pre><code>1 » In three words I can sum up everything I've learned about life: it goes on. - Robert Frost</code></pre>
+<pre><code>2 » Never do things others can do and will do, if there are things others cannot do or will not do. - Amelia Earhart</code></pre>
+<pre><code>3 » Love doesn't make the world go round; love is what makes the ride worthwhile. - Elizabeth Browning</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
