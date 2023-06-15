@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7557194b7ec2f11f3a7643b0a6ddc77ad64b054a54f2df91c742ede4c764d973/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313125323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-811%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,208+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,209+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -178,8 +178,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 14/06/2023 at 19:22:59 IST
-Next Update is roughly by 15/06/2023 at 19:20:55 IST
+<pre><code>Last Updated precisely on 15/06/2023 at 19:22:59 IST
+Next Update is roughly by 16/06/2023 at 19:20:55 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,8 +189,8 @@ Next Update is roughly by 15/06/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why don't eggs tell jokes?</code></pre>
-<pre><code>» Because they would crack each other up.</code></pre>
+<pre><code>What did one snowman say to the other snow man?</code></pre>
+<pre><code>» Do you smell carrot?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +199,9 @@ Next Update is roughly by 15/06/2023 at 19:20:55 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Tehran is the most expensive city on earth.</code></pre>
-<pre><code>2 » A whale`s penis is called a dork.</code></pre>
-<pre><code>3 » William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</code></pre>
+<pre><code>1 » Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</code></pre>
+<pre><code>2 » It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</code></pre>
+<pre><code>3 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 15/06/2023 at 19:20:55 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Knowledge rests not upon truth alone, but upon error also. - Carl Jung</code></pre>
-<pre><code>2 » The key to growth is the introduction of higher dimensions of consciousness into our awareness. - Laozi</code></pre>
-<pre><code>3 » The ladder of success is never crowded at the top. - Napoleon Hill</code></pre>
+<pre><code>1 » If the stars should appear but one night every thousand years how man would marvel and adore. - Ralph Waldo Emerson</code></pre>
+<pre><code>2 » All this modern technology just makes people try to do everything at once. - Bill Watterson</code></pre>
+<pre><code>3 » We don't stop playing because we grow old; we grow old because we stop playing. - Bernard Shaw</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
