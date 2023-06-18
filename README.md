@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7557194b7ec2f11f3a7643b0a6ddc77ad64b054a54f2df91c742ede4c764d973/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38313125323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-811%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,211+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,212+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -178,8 +178,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 17/06/2023 at 19:23:03 IST
-Next Update is roughly by 18/06/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 18/06/2023 at 19:23:14 IST
+Next Update is roughly by 19/06/2023 at 19:20:10 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,8 +189,8 @@ Next Update is roughly by 18/06/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Where does Napoleon keep his armies?</code></pre>
-<pre><code>» In his sleevies.</code></pre>
+<pre><code>A DHCP packet walks into a bar and asks for a beer.</code></pre>
+<pre><code>» Bartender says, "here, but I’ll need that back in an hour!"</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +199,9 @@ Next Update is roughly by 18/06/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
-<pre><code>2 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
-<pre><code>3 » Leonardo da Vinci could write with one hand while drawing with the other</code></pre>
+<pre><code>1 » To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</code></pre>
+<pre><code>2 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
+<pre><code>3 » the bird is the word</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 18/06/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » He who talks more is sooner exhausted. - Laozi</code></pre>
-<pre><code>2 » Tragedy is a tool for the living to gain wisdom, not a guide by which to live. - Robert F. Kennedy</code></pre>
-<pre><code>3 » It is not fair to ask of others what you are unwilling to do yourself. - Eleanor Roosevelt</code></pre>
+<pre><code>1 » The gambling known as business looks with austere disfavor upon the business known as gambling. - Ambrose Bierce</code></pre>
+<pre><code>2 » The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind. - Kahlil Gibran</code></pre>
+<pre><code>3 » You can't let praise or criticism get to you. It's a weakness to get caught up in either one. - John Wooden</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
