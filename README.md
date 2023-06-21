@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c7c97c39da25716b81989521b5e339df4c83471076d3c459836c3674e5b4707/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38323025323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-820%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/904465031393e036deeb2ebc905b0220cd4694c0e1497bc33facd67801f5ac0c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d38323125323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-821%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,300+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,313+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -46,21 +46,21 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>115 commits</td>
+<td>114 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.07%</td>
+<td>21.88%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>87 commits</td>
+<td>96 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.7%</td>
+<td>18.43%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>170 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.63%</td>
+<td>162 commits</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.09%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="date" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c5.png">📅</g-emoji> <strong>I'm Most Productive on Sunday</strong></p>
@@ -73,27 +73,27 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td>Tuesday</td>
-<td>90 commits</td>
+<td>100 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.27%</td>
+<td>19.19%</td>
 </tr> 
  <tr>
 <td>Wednesday</td>
-<td>37 commits</td>
+<td>38 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.1%</td>
+<td>7.29%</td>
 </tr> 
  <tr>
 <td>Thursday</td>
-<td>42 commits</td>
+<td>41 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.06%</td>
+<td>7.87%</td>
 </tr> 
  <tr>
 <td>Friday</td>
-<td>75 commits</td>
+<td>74 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.4%</td>
+<td>14.2%</td>
 </tr> 
  <tr>
 <td>Saturday</td>
@@ -103,9 +103,9 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td>Sunday</td>
-<td>133 commits</td>
+<td>124 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.53%</td>
+<td>23.8%</td>
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
@@ -113,39 +113,39 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 26 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.45%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>51 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.76%</td>
+<td>10 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.81%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.7%</td>
+<td>1.41%</td>
 </tr> 
  <tr>
-<td>CSS</td>
-<td>0 secs</td>
+<td>JavaScript</td>
+<td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
+<td>0.94%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>5 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.84%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 26 mins</td>
+<td>10 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 26 mins</td>
+<td>10 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -190,8 +190,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 20/06/2023 at 19:23:06 IST
-Next Update is roughly by 21/06/2023 at 19:20:05 IST
+<pre><code>Last Updated precisely on 21/06/2023 at 19:23:02 IST
+Next Update is roughly by 22/06/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 21/06/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Can a kangaroo jump higher than the Empire State Building?</code></pre>
-<pre><code>» Of course. The Empire State Building can't jump.</code></pre>
+<pre><code>Where do sheep go to get their hair cut?</code></pre>
+<pre><code>» The baa-baa shop.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 21/06/2023 at 19:20:05 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
-<pre><code>2 » Porcupines can float in water.</code></pre>
-<pre><code>3 » The average person spends 6 months of their life sitting at red lights.</code></pre>
+<pre><code>1 » Simplistic passwords contribute to over 80% of all computer password break-ins.</code></pre>
+<pre><code>2 » Most lipstick contains fish scales!</code></pre>
+<pre><code>3 » The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 21/06/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. - Joan Rivers</code></pre>
-<pre><code>2 » It is a characteristic of wisdom not to do desperate things. - Henry David Thoreau</code></pre>
-<pre><code>3 » Short words are best and the old words when short are best of all. - Winston Churchill</code></pre>
+<pre><code>1 » I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match. - Mia Hamm</code></pre>
+<pre><code>2 » Our intention creates our reality. - Wayne Dyer</code></pre>
+<pre><code>3 » Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance. - Thomas Carlyle</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
