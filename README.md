@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7eac42272bd52e36c67c0c997235305fb323e5ae26d895fc01b43db01df7fc7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3832322532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-822%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,314+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,315+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -190,8 +190,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 24/06/2023 at 19:30:52 IST
-Next Update is roughly by 25/06/2023 at 19:30:50 IST
+<pre><code>Last Updated precisely on 25/06/2023 at 19:22:58 IST
+Next Update is roughly by 26/06/2023 at 19:20:55 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,8 +201,8 @@ Next Update is roughly by 25/06/2023 at 19:30:50 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What do you call a fly without wings?</code></pre>
-<pre><code>» A walk.</code></pre>
+<pre><code>What's red and bad for your teeth?</code></pre>
+<pre><code>» A Brick.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ Next Update is roughly by 25/06/2023 at 19:30:50 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Some lions mate over 50 times a day.</code></pre>
-<pre><code>2 » There are 293 ways to make change for a dollar.</code></pre>
-<pre><code>3 » Spain leads the world in cork production</code></pre>
+<pre><code>1 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
+<pre><code>2 » 111,111,111 x 111,111,111 = 12,345,678,987,654,321</code></pre>
+<pre><code>3 » A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ Next Update is roughly by 25/06/2023 at 19:30:50 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A friend in power is a friend lost. - Henry Adams</code></pre>
-<pre><code>2 » There is more wisdom in your body than in your deepest philosophy. - Friedrich Nietzsche</code></pre>
-<pre><code>3 » Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship. - Epicurus</code></pre>
+<pre><code>1 » A failure is a man who has blundered but is not capable of cashing in on the experience. - Elbert Hubbard</code></pre>
+<pre><code>2 » In all chaos there is a cosmos, in all disorder a secret order. - Carl Jung</code></pre>
+<pre><code>3 » I will prepare and someday my chance will come. - Abraham Lincoln</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
