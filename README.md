@@ -31,12 +31,12 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7eac42272bd52e36c67c0c997235305fb323e5ae26d895fc01b43db01df7fc7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3832322532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-822%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,317+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,318+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
-<p>🔑 ∞ private repositories.</p>
+<p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
-<p><strong><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji> I'm a Night <g-emoji class="g-emoji" alias="owl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f989.png">🦉</g-emoji></strong></p>
+<p><strong>👻 I'm a Night 🦉</strong></p>
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
@@ -51,13 +51,13 @@ fun main() {cuteMsg()}
 <td>19.24%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
+<td>🌃 Evening</td>
 <td>76 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>18.05%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
+<td>🌙 Night</td>
 <td>142 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>33.73%</td>
@@ -108,32 +108,26 @@ fun main() {cuteMsg()}
 <td>23.04%</td>
 </tr>
 </tbody></table>
-<p>📊 <strong>This Week I Spent My Time On</strong></p>
+<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
 <table>
-<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
+<tbody><tr><th colspan="4">💬 Programming Languages</th></tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.55%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.45%</td>
+<td>23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
-<tr><th colspan="4">🔥 Editors</th></tr> 
+<tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 4 mins</td>
+<td>23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 <tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 4 mins</td>
+<td>23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,9 +171,9 @@ fun main() {cuteMsg()}
 <td>4.0%</td>
 </tr>
 </tbody></table>
-<p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 27/06/2023 at 19:23:06 IST
-Next Update is roughly by 28/06/2023 at 19:20:05 IST
+<p><strong>📝 Note</strong></p>
+<pre><code>Last Updated precisely on 28/06/2023 at 19:23:04 IST
+Next Update is roughly by 29/06/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,8 +183,8 @@ Next Update is roughly by 28/06/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why do they call it hyper terminal?</code></pre>
-<pre><code>» Too much Java.</code></pre>
+<pre><code>Why do you never see elephants hiding in trees?</code></pre>
+<pre><code>» Because they're so good at it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +193,9 @@ Next Update is roughly by 28/06/2023 at 19:20:05 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mount Olympus Mons on Mars is three times the size of Mount Everest.</code></pre>
-<pre><code>2 » The average lifespan of an eyelash is five months.</code></pre>
-<pre><code>3 » Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</code></pre>
+<pre><code>1 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
+<pre><code>2 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
+<pre><code>3 » Humans are the only primates that don`t have pigment in the palms of their hands.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +205,9 @@ Next Update is roughly by 28/06/2023 at 19:20:05 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The world is a book, and those who do not travel read only a page. - Augustine of Hippo</code></pre>
-<pre><code>2 » I am always doing that which I cannot do, in order that I may learn how to do it. - Pablo Picasso</code></pre>
-<pre><code>3 » Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people. - Mary Kay Ash</code></pre>
+<pre><code>1 » The best thing in every noble dream is the dreamer... - Moncure D. Conway</code></pre>
+<pre><code>2 » Eighty percent of success is showing up. - Woody Allen</code></pre>
+<pre><code>3 » Try not to become a man of success, but rather try to become a man of value. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
