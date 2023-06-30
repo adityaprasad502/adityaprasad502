@@ -29,9 +29,9 @@ fun main() {cuteMsg()}
 
   <!--START_SECTION:waka-->
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7eac42272bd52e36c67c0c997235305fb323e5ae26d895fc01b43db01df7fc7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3832322532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-822%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
-<p><strong>🐱 My GitHub Data</strong></p>
+<p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,320+ Commits made on Github</p>
+<p>🏆 3,321+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -57,7 +57,7 @@ fun main() {cuteMsg()}
 <td>18.01%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
+<td>🌙 Night</td>
 <td>142 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>33.65%</td>
@@ -172,8 +172,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 29/06/2023 at 19:23:01 IST
-Next Update is roughly by 30/06/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 30/06/2023 at 19:23:00 IST
+Next Update is roughly by 01/07/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,8 +183,8 @@ Next Update is roughly by 30/06/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>Why did Sweden start painting barcodes on the sides of their battleships?</code></pre>
-<pre><code>» So they could Scandinavian.</code></pre>
+<pre><code>What did the ocean say to the beach?</code></pre>
+<pre><code>» Thanks for all the sediment.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -193,9 +193,9 @@ Next Update is roughly by 30/06/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mount Olympus Mons on Mars is three times the size of Mount Everest.</code></pre>
-<pre><code>2 » Van Gogh only sold one painting when he was alive.</code></pre>
-<pre><code>3 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
+<pre><code>1 » Pearls melt in vinegar.</code></pre>
+<pre><code>2 » Meteorologists claim they`re right 85% of the time (think about that one!)</code></pre>
+<pre><code>3 » The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -205,9 +205,9 @@ Next Update is roughly by 30/06/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Both formerly and now, it is only suffering that I describe, and the cessation of suffering. - The Buddha</code></pre>
-<pre><code>2 » Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life. - Lord Byron</code></pre>
-<pre><code>3 » Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts. - Alan Cohen</code></pre>
+<pre><code>1 » The essence of true friendship is to make allowance for another's little lapses. - Ovid</code></pre>
+<pre><code>2 » What happens is not as important as how you react to what happens. - Ellen Glasgow</code></pre>
+<pre><code>3 » Strong beliefs win strong men, and then make them stronger. - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
