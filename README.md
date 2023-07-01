@@ -31,12 +31,12 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7eac42272bd52e36c67c0c997235305fb323e5ae26d895fc01b43db01df7fc7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3832322532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-822%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,321+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,322+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.9 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
-<p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
+<p>🔑 ∞ private repositories.</p>
 </blockquote>
-<p><strong>👻 I'm a Night 🦉</strong></p>
+<p><strong><g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji> I'm a Night <g-emoji class="g-emoji" alias="owl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f989.png">🦉</g-emoji></strong></p>
 <table>
  <tbody><tr>
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
@@ -51,7 +51,7 @@ fun main() {cuteMsg()}
 <td>19.19%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
+<td>🌃 Evening</td>
 <td>76 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>18.01%</td>
@@ -109,30 +109,15 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
+ 
+Didn't Touch PC Last Week
+ 
+Didn't Touch PC Last Week
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages</th></tr> 
- <tr>
-<td>Python</td>
-<td>8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-<tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr> 
- <tr>
-<td>VS Code</td>
-<td>8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-<tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr> 
- <tr>
-<td>Windows</td>
-<td>8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
-<p><strong><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I have more Python Repos</strong></p>
+<tbody><tr><th colspan="4">💬 Programming Languages</th></tr><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors</th></tr><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System</th></tr></tbody></table>
+<p><strong>🧑‍💻 I have more Python Repos</strong></p>
 <table>
  <tbody><tr>
 <td>Python</td>
@@ -172,8 +157,8 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <p><strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Note</strong></p>
-<pre><code>Last Updated precisely on 30/06/2023 at 19:23:00 IST
-Next Update is roughly by 01/07/2023 at 19:20:00 IST
+<pre><code>Last Updated precisely on 01/07/2023 at 19:23:02 IST
+Next Update is roughly by 02/07/2023 at 19:20:00 IST
 </code></pre>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,8 +168,8 @@ Next Update is roughly by 01/07/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Joke for Today</b></summary>
 <br>
-<pre><code>What did the ocean say to the beach?</code></pre>
-<pre><code>» Thanks for all the sediment.</code></pre>
+<pre><code>What do you call a monkey in a mine field?</code></pre>
+<pre><code>» A babooooom!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -193,9 +178,9 @@ Next Update is roughly by 01/07/2023 at 19:20:00 IST
 </p>
 <details><summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Pearls melt in vinegar.</code></pre>
-<pre><code>2 » Meteorologists claim they`re right 85% of the time (think about that one!)</code></pre>
-<pre><code>3 » The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.</code></pre>
+<pre><code>1 » Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</code></pre>
+<pre><code>2 » Nearly 80% of all animals on earth have six legs.</code></pre>
+<pre><code>3 » There are two credit cards for every person in the United States.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -205,9 +190,9 @@ Next Update is roughly by 01/07/2023 at 19:20:00 IST
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The essence of true friendship is to make allowance for another's little lapses. - Ovid</code></pre>
-<pre><code>2 » What happens is not as important as how you react to what happens. - Ellen Glasgow</code></pre>
-<pre><code>3 » Strong beliefs win strong men, and then make them stronger. - Richard Bach</code></pre>
+<pre><code>1 » A man who doesn't trust himself can never really trust anyone else. - Jean François Paul de Gondi</code></pre>
+<pre><code>2 » Remember that the most valuable antiques are dear old friends. - H. Jackson Brown Jr.</code></pre>
+<pre><code>3 » But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine. - Thomas Jefferson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
