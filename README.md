@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f7810f0d6e0958e037529cf00136c4ebf5d78a9028a4ccd289d3491ac6d33a39/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d383635253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-865%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8a0a531a73572aaa2ff795b6b553721d94c022d6dd14bd317ff812456862d492/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d383737253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-877%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,441+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 22.2 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,458+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 23.2 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -43,25 +43,25 @@ fun main() {cuteMsg()}
 <td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
 <td>121 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.35%</td>
+<td>24.44%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>123 commits</td>
+<td>120 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.75%</td>
+<td>24.24%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
-<td>103 commits</td>
+<td>108 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.72%</td>
+<td>21.82%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>150 commits</td>
+<td>146 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.18%</td>
+<td>29.49%</td>
 </tr>
 </tbody></table>
 <table>
@@ -69,44 +69,44 @@ fun main() {cuteMsg()}
  <tr>
 <td>Python</td>
 <td>24 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.55%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.91%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>6 hrs 21 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.93%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>5 hrs 28 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.03%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>5 hrs</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.84%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>2 hrs 13 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.12%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 16 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.53%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>44 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.07%</td>
+<td>2.81%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>37 mins</td>
+<td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.71%</td>
+<td>1.74%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>24 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.13%</td>
+<td>0.9%</td>
 </tr>
 </tbody></table>
 <table>
@@ -114,33 +114,33 @@ fun main() {cuteMsg()}
  <tr>
 <td>VS Code</td>
 <td>25 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.57%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.11%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 44 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.38%</td>
+<td>17 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.49%</td>
 </tr> 
  <tr>
 <td>IntelliJ</td>
 <td>1 hr 32 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.24%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.37%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>1 hr 22 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.81%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
  <tr>
 <td>Windows</td>
-<td>36 hrs 14 mins</td>
+<td>45 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,15 +182,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 09, 2023</td>
-<td>19:23:23 IST</td>
+<td>Monday</td>
+<td>July 10, 2023</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 10, 2023</td>
-<td>19:20:20 IST</td>
+<td>Tuesday</td>
+<td>July 11, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How do locomotives know where they're going? Lots of training</code></pre>
-<pre><code>2 » I used to work for a soft drink can crusher. It was soda pressing.</code></pre>
-<pre><code>3 » Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.</code></pre>
+<pre><code>1 » What do you get when you cross a rabbit with a water hose? Hare spray.</code></pre>
+<pre><code>2 » Why are basketball players messy eaters? Because they are always dribbling.</code></pre>
+<pre><code>3 » Where do fish keep their money? In the riverbank</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 »  was Harrison Ford`s idea so that he could take a bathroom break.</code></pre>
-<pre><code>2 » Worcestershire sauce in essentially an Anchovy Ketchup.</code></pre>
-<pre><code>3 » Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</code></pre>
+<pre><code>1 » An ostrich`s eye is bigger than its brain.  </code></pre>
+<pre><code>2 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
+<pre><code>3 »  was Harrison Ford`s idea so that he could take a bathroom break.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Fame usually comes to those who are thinking about something else. - Oliver Wendell Holmes Jr.</code></pre>
-<pre><code>2 » To be great is to be misunderstood. - Ralph Waldo Emerson</code></pre>
-<pre><code>3 » Those who will play with cats must expect to be scratched. - Miguel de Cervantes</code></pre>
+<pre><code>1 » Most people are about as happy as they make up their minds to be - Abraham Lincoln</code></pre>
+<pre><code>2 » I think somehow, we learn who we really are and then live with that decision. - Eleanor Roosevelt</code></pre>
+<pre><code>3 » Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly. - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
