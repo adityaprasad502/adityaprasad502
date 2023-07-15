@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6c0d6de83c58dc3cd5cebcf55d3a9862e22203ff7d0fe8713046f12ec47b6f83/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39303425323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-904%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/390887825d73d1a59cb895eb33259e942d092e753191d41063e7abeeb845397c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39303725323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-907%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,500+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,503+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 23.8 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -47,9 +47,9 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>126 commits</td>
+<td>125 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.2%</td>
+<td>25.0%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
@@ -59,88 +59,88 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
-<td>145 commits</td>
+<td>146 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.0%</td>
+<td>29.2%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>22 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.86%</td>
+<td>28 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.79%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>17 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.32%</td>
+<td>18 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.29%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>6 hrs 41 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.42%</td>
-</tr> 
- <tr>
-<td>Dart</td>
-<td>5 hrs 6 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.73%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 50 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.15%</td>
+<td>4 hrs 10 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.25%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>1 hr 29 mins</td>
+<td>1 hr 28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.53%</td>
+<td>2.57%</td>
+</tr> 
+ <tr>
+<td>Dart</td>
+<td>1 hr 12 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.08%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>50 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.44%</td>
+<td>1.46%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>39 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.14%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>46 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.21%</td>
+<td>49 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>86.5%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>10 hrs 14 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.49%</td>
+<td>5 hrs 50 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.14%</td>
 </tr> 
  <tr>
 <td>IntelliJ</td>
 <td>1 hr 32 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.62%</td>
+<td>2.67%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>24 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.68%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
  <tr>
 <td>Windows</td>
-<td>58 hrs 34 mins</td>
+<td>57 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,15 +182,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 14, 2023</td>
-<td>19:22:56 IST</td>
+<td>Saturday</td>
+<td>July 15, 2023</td>
+<td>19:23:23 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 15, 2023</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>July 16, 2023</td>
+<td>19:20:20 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,10 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."</code></pre>
-<pre><code>2 » Why do cows not have toes? They lactose!</code></pre>
-<pre><code>3 » Why did the tree go to the dentist? It needed a root canal.</code></pre>
+<pre><code>1 » Why did the girl smear peanut butter on the road? To go with the traffic jam.</code></pre>
+<pre><code>2 » My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.</code></pre>
+<pre><code>3 » My dentist is the best, he even has a little plaque!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</code></pre>
-<pre><code>2 » Owls are one of the only birds who can see the color blue!</code></pre>
-<pre><code>3 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
+<pre><code>1 » The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.</code></pre>
+<pre><code>2 » The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.</code></pre>
+<pre><code>3 » Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -226,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » No act of kindness, no matter how small, is ever wasted. - Aesop</code></pre>
-<pre><code>2 » When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself. - Confucius</code></pre>
-<pre><code>3 » The only way to have a friend is to be one. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion? - Friedrich Nietzsche</code></pre>
+<pre><code>2 » Go put your creed into the deed. Nor speak with double tongue. - Ralph Waldo Emerson</code></pre>
+<pre><code>3 » The young man knows the rules, but the old man knows the exceptions. - Oliver Wendell Holmes Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
