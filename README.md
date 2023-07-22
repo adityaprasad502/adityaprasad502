@@ -31,8 +31,8 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/67b112ea14751c4b832627977f37c42eebbf141048b9d0d67fbb0f6a71460380/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39333025323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-930%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,566+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 25.8 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,567+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
@@ -68,67 +68,67 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>14 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.38%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>5 hrs 19 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.58%</td>
+<td>8 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.82%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 hrs 16 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.1%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.19%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>4 hrs 7 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.57%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 47 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.23%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.9%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>1 hr 20 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.45%</td>
+<td>5.73%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>36 mins</td>
+<td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.98%</td>
+<td>3.35%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.56%</td>
+<td>2.01%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>21 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.71%</td>
+<td>14 hrs 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>63.52%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>8 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.29%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.48%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
  <tr>
 <td>Windows</td>
-<td>30 hrs 19 mins</td>
+<td>23 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -139,46 +139,46 @@ fun main() {cuteMsg()}
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.17%</td>
+<td>52.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.67%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.0%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>12.0%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>x repos</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.17%</td>
+<td>4.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 21, 2023</td>
-<td>19:22:55 IST</td>
+<td>Saturday</td>
+<td>July 22, 2023</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 22, 2023</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>July 23, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,10 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.</code></pre>
-<pre><code>2 » Want to hear a joke about construction? Nah, I'm still working on it.</code></pre>
-<pre><code>3 » Did you hear about the kidnapping at school? It's ok, he woke up.</code></pre>
+<pre><code>1 » Why do mathematicians hate the U.S.? Because it's indivisible.</code></pre>
+<pre><code>2 » I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.</code></pre>
+<pre><code>3 » You can't trust a ladder. It will always let you down</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +201,9 @@ I have no words to describe how angry I am.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</code></pre>
-<pre><code>2 » The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</code></pre>
-<pre><code>3 » Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</code></pre>
+<pre><code>1 » The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</code></pre>
+<pre><code>2 » 40,000 Americans are injured by toilets each year.</code></pre>
+<pre><code>3 » The average person spends 12 weeks a year `looking for things`.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +213,9 @@ I have no words to describe how angry I am.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish. - Ovid</code></pre>
-<pre><code>2 » The fox has many tricks. The hedgehog has but one. But that is the best of all. - Erasmus</code></pre>
-<pre><code>3 » Error is discipline through which we advance. - William Ellery Channing</code></pre>
+<pre><code>1 » Commitment is an act, not a word. - Jean-Paul Sartre</code></pre>
+<pre><code>2 » The great myth of our times is that technology is communication. - Libby Larsen</code></pre>
+<pre><code>3 » The best preparation for tomorrow is doing your best today. - H. Jackson Brown Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
