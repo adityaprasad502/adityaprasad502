@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b9d84bf925354b784a61d30490cea760cb95f31cc070df53844918dd1c90bee7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39333025323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-930%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,570+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,571+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.4 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -68,67 +68,67 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>6 hrs 38 mins</td>
+<td>4 hrs 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.77%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>4 hrs 19 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.33%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 hrs 58 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.65%</td>
+<td>34.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 47 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.63%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>2 hrs 6 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.53%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 46 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.81%</td>
+<td>13.04%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>1 hr 14 mins</td>
+<td>48 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.16%</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>46 mins</td>
+<td>36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.81%</td>
+<td>4.51%</td>
 </tr> 
  <tr>
-<td>CSS</td>
-<td>28 mins</td>
+<td>JSON</td>
+<td>21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.34%</td>
+<td>2.58%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>11 hrs 38 mins</td>
+<td>7 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.44%</td>
+<td>57.84%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 37 mins</td>
+<td>5 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.56%</td>
+<td>42.16%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
  <tr>
 <td>Windows</td>
-<td>20 hrs 15 mins</td>
+<td>13 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 23, 2023</td>
-<td>19:23:13 IST</td>
+<td>Monday</td>
+<td>July 24, 2023</td>
+<td>19:23:25 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 24, 2023</td>
-<td>19:20:10 IST</td>
+<td>Tuesday</td>
+<td>July 25, 2023</td>
+<td>19:20:25 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I always wanted to look into why I procrastinate, but I keep putting it off. </code></pre>
-<pre><code>2 » I thought about going on an all-almond diet. But that's just nuts.</code></pre>
-<pre><code>3 » I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.</code></pre>
+<pre><code>1 » I got fired from the transmission factor, turns out I didn't put on enough shifts...</code></pre>
+<pre><code>2 » I accidentally drank a bottle of invisible ink. Now Iâ��m in hospital, waiting to be seen.</code></pre>
+<pre><code>3 » What is the tallest building in the world? The library â�� itâ��s got the most stories!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Each month, there is at least one report of UFOs from each province of Canada.</code></pre>
-<pre><code>2 » The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</code></pre>
-<pre><code>3 » Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</code></pre>
+<pre><code>1 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
+<pre><code>2 » Nearly 80% of all animals on earth have six legs.</code></pre>
+<pre><code>3 » Honking of car horns for a couple that just got married is an old superstition to insure great sex.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Better to have loved and lost, than to have never loved at all. - Augustine of Hippo</code></pre>
-<pre><code>2 » If the shoe doesn't fit, must we change the foot? - Gloria Steinem</code></pre>
-<pre><code>3 » Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - Richard Bach</code></pre>
+<pre><code>1 » The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart. - Helen Keller</code></pre>
+<pre><code>2 » We cannot solve our problems with the same thinking we used when we created them. - Albert Einstein</code></pre>
+<pre><code>3 » Cleverness is not wisdom. - Euripides</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
