@@ -31,16 +31,16 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b9d84bf925354b784a61d30490cea760cb95f31cc070df53844918dd1c90bee7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39333025323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-930%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,573+ Commits made on Github</p>
-<p>📦 39.4 KiB Used in GitHub's Storage</p>
-<p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
+<p>🏆 3,574+ Commits made on Github</p>
+<p>📦 39.5 KiB Used in GitHub's Storage</p>
+<p>📜 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
-<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
+<p>📊 <strong>This Week I Spent My Time On</strong></p>
 <table>
-<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
+<tbody><tr><th colspan="4"> <g-emoji class="g-emoji" alias="smiling_face_with_three_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png">🥰</g-emoji> I'm an Early <g-emoji class="g-emoji" alias="baby_chick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png">🐤</g-emoji></th></tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
+<td>🌞 Morning</td>
 <td>128 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>24.62%</td>
@@ -58,7 +58,7 @@ fun main() {cuteMsg()}
 <td>19.81%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
+<td>🌙 Night</td>
 <td>157 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>30.19%</td>
@@ -67,62 +67,62 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.73%</td>
+<td>XML</td>
+<td>15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.76%</td>
 </tr> 
  <tr>
-<td>XML</td>
-<td>25 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.81%</td>
+<td>Kotlin</td>
+<td>12 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.35%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>12 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.23%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>11 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.73%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.46%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>2 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.3%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.49%</td>
+<td>0.11%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.58%</td>
+<td>41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.59%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>14 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.42%</td>
+<td>2 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.41%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 51 mins</td>
+<td>44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -164,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 26, 2023</td>
-<td>19:23:09 IST</td>
+<td>Thursday</td>
+<td>July 27, 2023</td>
+<td>19:23:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>July 27, 2023</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>July 28, 2023</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -183,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I have kleptomania, but when it gets bad, I take something for it.</code></pre>
-<pre><code>2 » Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.</code></pre>
-<pre><code>3 » What lies at the bottom of the ocean and twitches? A nervous wreck.</code></pre>
+<pre><code>1 » How come a man driving a train got struck by lightning? He was a good conductor.</code></pre>
+<pre><code>2 » Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.</code></pre>
+<pre><code>3 » Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » James Bond`s car had three different license plates in Goldfinger</code></pre>
-<pre><code>2 » Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</code></pre>
-<pre><code>3 » "Dreamt" is the only English word that ends in the letters "mt."</code></pre>
+<pre><code>1 » Blueberry Jelly Bellies were created especially for Ronald Reagan.</code></pre>
+<pre><code>2 » Nearly 80% of all animals on earth have six legs.</code></pre>
+<pre><code>3 » In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It's the little details that are vital. Little things make big things happen. - John Wooden</code></pre>
-<pre><code>2 » Nothing in life is so exhilarating as to be shot at without result. - Winston Churchill</code></pre>
-<pre><code>3 » A friend is what the heart needs all the time. - Henry van Dyke Jr.</code></pre>
+<pre><code>1 » Share your smile with the world. It's a symbol of friendship and peace. - Christie Brinkley</code></pre>
+<pre><code>2 » I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture. - Susan Orlean</code></pre>
+<pre><code>3 » Yesterday I dared to struggle. Today I dare to win. - Bernadette Devlin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
