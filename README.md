@@ -29,18 +29,18 @@ fun main() {cuteMsg()}
 
   <!--START_SECTION:waka-->
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b9d84bf925354b784a61d30490cea760cb95f31cc070df53844918dd1c90bee7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39333025323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-930%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
-<p><strong>🐱 My GitHub Data</strong></p>
+<p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,575+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,576+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
-<p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
+<p>🔑 ∞ private repositories.</p>
 </blockquote>
-<p>📊 <strong>This Week I Spent My Time On</strong></p>
+<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
 <table>
 <tbody><tr><th colspan="4"> <g-emoji class="g-emoji" alias="smiling_face_with_three_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png">🥰</g-emoji> I'm an Early <g-emoji class="g-emoji" alias="baby_chick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png">🐤</g-emoji></th></tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
+<td>🌞 Morning</td>
 <td>128 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>24.62%</td>
@@ -52,7 +52,7 @@ fun main() {cuteMsg()}
 <td>25.38%</td>
 </tr> 
  <tr>
-<td>🌃 Evening</td>
+<td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>103 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>19.81%</td>
@@ -67,56 +67,26 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
-<td>XML</td>
-<td>15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.8%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>12 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.38%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>12 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.49%</td>
-</tr> 
- <tr>
 <td>HTML</td>
 <td>2 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.31%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.69%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
 <td>2 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.31%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>43 mins</td>
+<td>2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -158,15 +128,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 28, 2023</td>
-<td>19:23:33 IST</td>
+<td>Saturday</td>
+<td>July 29, 2023</td>
+<td>19:23:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 29, 2023</td>
-<td>19:20:30 IST</td>
+<td>Sunday</td>
+<td>July 30, 2023</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -177,8 +147,8 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Whatâ��s the advantage of living in Switzerland? Well, the flag is a big plus.</code></pre>
-<pre><code>2 » So a duck walks into a pharmacy and says â��Give me some chap-stickâ�¦ and put it on my billâ��</code></pre>
+<pre><code>1 » I went to a Foo Fighters Concert once... It was Everlong...</code></pre>
+<pre><code>2 » What's the worst thing about ancient history class? The teachers tend to Babylon.</code></pre>
 <pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
 </details>
 <p>
@@ -189,9 +159,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It is illegal to hunt camels in the state of Arizona.</code></pre>
-<pre><code>2 » In the 1980`s American migraines increased by 60%.</code></pre>
-<pre><code>3 » There are more than 10 million bricks in the Empire State Building!</code></pre>
+<pre><code>1 » The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</code></pre>
+<pre><code>2 » The praying mantis is the only insect that can turn its head</code></pre>
+<pre><code>3 » On the ground, a group of geese is a gaggle, in the sky it is a skein.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +171,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins. - Charles Eastman</code></pre>
-<pre><code>2 » Think in the morning. Act in the noon. Eat in the evening. Sleep in the night. - William Blake</code></pre>
-<pre><code>3 » The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for. - Oscar Wilde</code></pre>
+<pre><code>1 » Never complain and never explain. - Benjamin Disraeli</code></pre>
+<pre><code>2 » Kindness is the language which the deaf can hear and the blind can see. - Mark Twain</code></pre>
+<pre><code>3 » Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions. - Samuel Johnson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
