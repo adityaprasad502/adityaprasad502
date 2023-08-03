@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b9d84bf925354b784a61d30490cea760cb95f31cc070df53844918dd1c90bee7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39333025323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-930%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,580+ Commits made on Github</p>
+<p>🏆 3,581+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 4 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -52,7 +52,7 @@ fun main() {cuteMsg()}
 <td>25.38%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
+<td>🌃 Evening</td>
 <td>103 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>19.81%</td>
@@ -71,7 +71,7 @@ Didn't Touch PC Last Week
  
 Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr></tbody></table>
  
 Didn't Touch PC Last Week
 <table>
@@ -113,15 +113,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>August 02, 2023</td>
-<td>19:23:08 IST</td>
+<td>Thursday</td>
+<td>August 03, 2023</td>
+<td>19:23:04 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 03, 2023</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>August 04, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -132,9 +132,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Just read a few facts about frogs. They were ribbiting.</code></pre>
-<pre><code>2 » Where do owls go to buy their baby clothes? The owlet malls.</code></pre>
-<pre><code>3 » Recent survey revealed 6 out of 7 dwarf's aren't happy.</code></pre>
+<pre><code>1 » How do robots eat guacamole? With computer chips.</code></pre>
+<pre><code>2 » It takes guts to be an organ donor.</code></pre>
+<pre><code>3 » What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -144,9 +144,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 1,575 steps from the ground floor to the top of the Empire State building.</code></pre>
-<pre><code>2 » Only one person in two billion will live to be 116 or older.</code></pre>
-<pre><code>3 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
+<pre><code>1 » The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.</code></pre>
+<pre><code>2 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
+<pre><code>3 » There are 1,575 steps from the ground floor to the top of the Empire State building.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -156,9 +156,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Friendship always benefits; love sometimes injures. - Seneca the Younger</code></pre>
-<pre><code>2 » Two persons cannot long be friends if they cannot forgive each other's little failings. - Jean de La Bruyère</code></pre>
-<pre><code>3 » Every gift from a friend is a wish for your happiness. - Richard Bach</code></pre>
+<pre><code>1 » You are the only person on earth who can use your ability. - Zig Ziglar</code></pre>
+<pre><code>2 » The weak can never forgive. Forgiveness is the attribute of the strong. - Mahatma Gandhi</code></pre>
+<pre><code>3 » When I let go of what I am, I become what I might be. - Laozi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
