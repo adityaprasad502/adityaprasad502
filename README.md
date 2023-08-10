@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f913f9276b37e4013377691f3fc44621a94c81bfda07ac1bec3df6eba59f0bf6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39353825323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-958%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,730+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 3,731+ Commits made on Github</p>
 <p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.5 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
@@ -52,7 +52,7 @@ fun main() {cuteMsg()}
 <td>25.57%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
+<td>🌃 Evening</td>
 <td>118 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>22.52%</td>
@@ -65,7 +65,7 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
 <td>Python</td>
 <td>13 hrs 1 min</td>
@@ -125,7 +125,7 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
 <td>27 hrs 53 mins</td>
@@ -134,7 +134,7 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4"> <g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I have more Python Repos <g-emoji class="g-emoji" alias="file_folder" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png">📁</g-emoji></th></tr> 
+<tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
 <td>Python</td>
 <td>xx repos</td>
@@ -173,18 +173,18 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
+<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>August 09, 2023</td>
-<td>19:23:14 IST</td>
+<td>Thursday</td>
+<td>August 10, 2023</td>
+<td>19:23:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 10, 2023</td>
-<td>19:20:10 IST</td>
+<td>Friday</td>
+<td>August 11, 2023</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What did the fish say when it swam into a wall? Damn!</code></pre>
-<pre><code>2 » What do computers and air conditioners have in common? They both become useless when you open windows.</code></pre>
-<pre><code>3 » Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.</code></pre>
+<pre><code>1 » Itâ��s hard to explain puns to kleptomaniacs, because they take everything literally.</code></pre>
+<pre><code>2 » Did you hear about the guy whose whole left side was cut off? He's all right now.</code></pre>
+<pre><code>3 » Why can't you use "Beef stew" as a password? Because it's not stroganoff.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » the bird is the word</code></pre>
-<pre><code>2 » 40,000 Americans are injured by toilets each year.</code></pre>
-<pre><code>3 » It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.</code></pre>
+<pre><code>1 » There are two credit cards for every person in the United States.</code></pre>
+<pre><code>2 » Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </code></pre>
+<pre><code>3 » You were born with 300 bones, but by the time you are an adult you will only have 206.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You can stand tall without standing on someone. You can be a victor without having victims. - Harriet Woods</code></pre>
-<pre><code>2 » Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings. - Arthur Rubinstein</code></pre>
-<pre><code>3 » To conquer fear is the beginning of wisdom. - Bertrand Russell</code></pre>
+<pre><code>1 » I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. - Kurt Vonnegut</code></pre>
+<pre><code>2 » However rare true love may be, it is less so than true friendship. - François de La Rochefoucauld</code></pre>
+<pre><code>3 » We choose our joys and sorrows long before we experience them. - Kahlil Gibran</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
