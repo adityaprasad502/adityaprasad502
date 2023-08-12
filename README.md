@@ -28,107 +28,107 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bbe425e62724626d356753d8abcbcb0f818245246244a5f048560b8e24d93b38/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39363325323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-963%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
-<p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/30c0471203a4665236d62563adc83c88cc8765ff79f2fd8422869bd9e2ed30c4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39363625323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-966%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 1,973+ Commits made on Github</p>
-<p>📦 39.7 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 1,976+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.6 KiB Used in GitHub's Storage</p>
 <p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
-<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
+<p>📊 <strong>This Week I Spent My Time On</strong></p>
 <table>
 <tbody><tr><th colspan="4"> <g-emoji class="g-emoji" alias="smiling_face_with_three_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png">🥰</g-emoji> I'm an Early <g-emoji class="g-emoji" alias="baby_chick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png">🐤</g-emoji></th></tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
+<td>🌞 Morning</td>
 <td>112 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.35%</td>
+<td>26.23%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>133 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.29%</td>
+<td>135 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.62%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
 <td>95 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.35%</td>
+<td>22.25%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
+<td>🌙 Night</td>
 <td>85 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>19.91%</td>
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
 <td>Python</td>
-<td>13 hrs 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.72%</td>
+<td>16 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.58%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>6 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.75%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.09%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 1 min</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.45%</td>
+<td>12.83%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>1 hr 51 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.66%</td>
+<td>5.91%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.76%</td>
+<td>2.45%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>25 mins</td>
+<td>26 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.49%</td>
+<td>1.38%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.04%</td>
+<td>0.92%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>14 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.98%</td>
+<td>18 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.24%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>13 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.02%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.76%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>27 hrs 53 mins</td>
+<td>31 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,18 +173,18 @@ fun main() {cuteMsg()}
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
+<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 11, 2023</td>
-<td>19:22:50 IST</td>
+<td>Saturday</td>
+<td>August 12, 2023</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 12, 2023</td>
-<td>19:20:50 IST</td>
+<td>Sunday</td>
+<td>August 13, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What did the pirate say on his 80th birthday? Aye Matey!</code></pre>
-<pre><code>2 » What do you call a cow with two legs? Lean beef.</code></pre>
-<pre><code>3 » What's brown and sticky? A stick.</code></pre>
+<pre><code>1 » Do I enjoy making courthouse puns? Guilty</code></pre>
+<pre><code>2 » What do you call a bee that lives in America? A USB.</code></pre>
+<pre><code>3 » It doesn't matter how much you push the envelope. It will still be stationary.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There`s a systematic lull in conversation every 7 minutes.</code></pre>
-<pre><code>2 » Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</code></pre>
-<pre><code>3 » The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)</code></pre>
+<pre><code>1 » The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</code></pre>
+<pre><code>2 » The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </code></pre>
+<pre><code>3 » The Vatican city registered 0 births in 1983</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim. - Brooks Adams</code></pre>
-<pre><code>2 » Avoid having your ego so close to your position that when your position falls, your ego goes with it. - Colin Powell</code></pre>
-<pre><code>3 » Problems are only opportunities with thorns on them. - Hugh Miller</code></pre>
+<pre><code>1 » Living at risk is jumping off the cliff and building your wings on the way down. - Ray Bradbury</code></pre>
+<pre><code>2 » It is the supreme art of the teacher to awaken joy in creative expression and knowledge. - Albert Einstein</code></pre>
+<pre><code>3 » A long habit of not thinking a thing wrong gives it a superficial appearance of being right. - Thomas Paine</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
