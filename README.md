@@ -28,107 +28,107 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/329f8fdb4b528496342fe680f6396199c3df50b82511159dac6d8ff9e4147f55/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39363925323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-969%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/283ea423e85b683746e622ad9516ebb258b88951d98e3b1e45f47148d942fce7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373125323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-971%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong><g-emoji class="g-emoji" alias="cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f431.png">🐱</g-emoji> My GitHub Data</strong></p>
 <blockquote>
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 2,002+ Commits made on Github</p>
-<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.6 KiB Used in GitHub's Storage</p>
-<p>📜 5 Public Repositories</p>
+<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> 2,007+ Commits made on Github</p>
+<p><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> 39.7 KiB Used in GitHub's Storage</p>
+<p><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> 5 Public Repositories</p>
 <p><g-emoji class="g-emoji" alias="key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f511.png">🔑</g-emoji> ∞ private repositories.</p>
 </blockquote>
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
 <table>
 <tbody><tr><th colspan="4"> <g-emoji class="g-emoji" alias="smiling_face_with_three_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png">🥰</g-emoji> I'm an Early <g-emoji class="g-emoji" alias="baby_chick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f424.png">🐤</g-emoji></th></tr> 
  <tr>
-<td>🌞 Morning</td>
-<td>111 commits</td>
+<td><g-emoji class="g-emoji" alias="sun_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31e.png">🌞</g-emoji> Morning</td>
+<td>108 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.0%</td>
+<td>25.23%</td>
 </tr> 
  <tr>
 <td><g-emoji class="g-emoji" alias="city_sunset" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f306.png">🌆</g-emoji> Daytime</td>
-<td>137 commits</td>
+<td>141 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.08%</td>
+<td>32.94%</td>
 </tr> 
  <tr>
-<td><g-emoji class="g-emoji" alias="night_with_stars" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f303.png">🌃</g-emoji> Evening</td>
+<td>🌃 Evening</td>
 <td>95 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.25%</td>
+<td>22.2%</td>
 </tr> 
  <tr>
-<td>🌙 Night</td>
+<td><g-emoji class="g-emoji" alias="crescent_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f319.png">🌙</g-emoji> Night</td>
 <td>84 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.67%</td>
+<td>19.63%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Programming Languages<g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> </th></tr> 
  <tr>
 <td>Python</td>
-<td>18 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>63.07%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>3 hrs 42 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.68%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 hrs 52 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.81%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>1 hr 51 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.32%</td>
+<td>21 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.25%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>24 mins</td>
+<td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.42%</td>
+<td>1.64%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.12%</td>
+<td>1.39%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>19 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.36%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>15 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.1%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.83%</td>
+<td>1.02%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>12 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.86%</td>
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Editors<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </th></tr> 
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>20 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.23%</td>
+<td>23 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.14%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>9 hrs</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.77%</td>
+<td>26 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.86%</td>
 </tr>
 </tbody></table>
 <table>
-<tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Operating System<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> </th></tr> 
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>29 hrs 15 mins</td>
+<td>23 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"><g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji> Refresh Stats <g-emoji class="g-emoji" alias="hourglass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/231b.png">⌛</g-emoji></th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 13, 2023</td>
-<td>19:22:41 IST</td>
+<td>Monday</td>
+<td>August 14, 2023</td>
+<td>19:23:04 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 14, 2023</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>August 15, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.</code></pre>
-<pre><code>2 » A book just fell on my head. I only have my shelf to blame.</code></pre>
-<pre><code>3 » What do you get when you cross a rabbit with a water hose? Hare spray.</code></pre>
+<pre><code>1 » Don't buy flowers at a monastery. Because only you can prevent florist friars.</code></pre>
+<pre><code>2 » What do you get if you put a duck in a cement mixer? Quacks in the pavement.</code></pre>
+<pre><code>3 » Why do bees hum? Because they don't know the words.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.</code></pre>
-<pre><code>2 » The HyperMart outside of Garland Texas has 58 check-outs.</code></pre>
-<pre><code>3 » Donald Duck`s middle name is Fauntleroy.  </code></pre>
+<pre><code>1 » The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.</code></pre>
+<pre><code>2 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
+<pre><code>3 » There are 336 dimples on a regulation golf ball.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I never did anything worth doing by accident, nor did any of my inventions come by accident - Thomas Edison</code></pre>
-<pre><code>2 » I know but one freedom and that is the freedom of the mind. - Antoine de Saint-Exupéry</code></pre>
-<pre><code>3 » Don't smother each other. No one can grow in the shade. - Leo Buscaglia</code></pre>
+<pre><code>1 » If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it. - Michael Jordan</code></pre>
+<pre><code>2 » Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. - Richard Bach</code></pre>
+<pre><code>3 » I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can. - Bernard Shaw</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
