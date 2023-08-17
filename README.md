@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/16eae3042af9d2a780e1e0f625c9b8a00a6283e9f28a4534b27c16f6ad4505f5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373325323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-973%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0d77ecaebd618e261b45b32ea9bdc346cb0e7687d5d21ea494ec7217ef8825ed/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373325323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-973%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,014+ Commits made on Github</p>
+<p>🏆 2,015+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -47,9 +47,9 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>138 commits</td>
+<td>137 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.17%</td>
+<td>31.93%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -59,76 +59,76 @@ fun main() {cuteMsg()}
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>88 commits</td>
+<td>89 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.51%</td>
+<td>20.75%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>9 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.92%</td>
+<td>10 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.4%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 31 mins</td>
+<td>2 hrs 32 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.26%</td>
+<td>16.62%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>57 mins</td>
+<td>1 hr</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.57%</td>
+<td>6.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>14 mins</td>
+<td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.69%</td>
+<td>1.87%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>13 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.5%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.38%</td>
+<td>1.33%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.96%</td>
-</tr> 
- <tr>
-<td>Docker</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.68%</td>
+<td>0.92%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>10 hrs 53 mins</td>
+<td>11 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.36%</td>
+<td>73.63%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 45 mins</td>
+<td>4 hrs 1 min</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.64%</td>
+<td>26.37%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 39 mins</td>
+<td>15 hrs 16 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>August 16, 2023</td>
-<td>19:23:01 IST</td>
+<td>Thursday</td>
+<td>August 17, 2023</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 17, 2023</td>
-<td>19:20:00 IST</td>
+<td>Friday</td>
+<td>August 18, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Whereâ��s the bin? Dad: I havenâ��t been anywhere!</code></pre>
-<pre><code>2 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
-<pre><code>3 » Whatâ��s the longest word in the dictionary? Smiles. Because thereâ��s a mile between the two Sâ��s.</code></pre>
+<pre><code>1 » What do you call a group of disorganized cats? A cat-tastrophe.</code></pre>
+<pre><code>2 » Someone broke into my house last night and stole my limbo trophy. How low can you go?</code></pre>
+<pre><code>3 » My first time using an elevator was an uplifting experience. The second time let me down.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
-<pre><code>2 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
-<pre><code>3 » When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."</code></pre>
+<pre><code>1 » In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</code></pre>
+<pre><code>2 » Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </code></pre>
+<pre><code>3 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much. - Jim Rohn</code></pre>
-<pre><code>2 » We shall never know all the good that a simple smile can do. - Mother Teresa</code></pre>
-<pre><code>3 » It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own. - Jessamyn West</code></pre>
+<pre><code>1 » Spread love everywhere you go. Let no one ever come to you without leaving happier. - Mother Teresa</code></pre>
+<pre><code>2 » People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » One that desires to excel should endeavor in those things that are in themselves most excellent. - Epictetus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
