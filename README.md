@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0d77ecaebd618e261b45b32ea9bdc346cb0e7687d5d21ea494ec7217ef8825ed/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373325323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-973%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6288453b6784fcc26b58f4391d49790ede03c1b57a8270cd76988a139b0cfc48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3937352532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,016+ Commits made on Github</p>
+<p>🏆 2,019+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -41,94 +41,94 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>107 commits</td>
+<td>109 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.94%</td>
+<td>25.35%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>137 commits</td>
+<td>136 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.93%</td>
+<td>31.63%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>96 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.38%</td>
+<td>22.33%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>89 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.75%</td>
+<td>20.7%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>10 hrs 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.4%</td>
+<td>5 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.16%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 32 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.62%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.95%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.91%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.87%</td>
+<td>2.8%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
+<td>2.26%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>12 mins</td>
+<td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.33%</td>
+<td>1.58%</td>
 </tr> 
  <tr>
-<td>Bash</td>
-<td>8 mins</td>
+<td>CSS</td>
+<td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.92%</td>
+<td>1.22%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.63%</td>
+<td>6 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.41%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 1 min</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.37%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.59%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 16 mins</td>
+<td>10 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 18, 2023</td>
-<td>19:22:49 IST</td>
+<td>Saturday</td>
+<td>August 19, 2023</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 19, 2023</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>August 20, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.</code></pre>
-<pre><code>2 » Have you heard the story about the magic tractor? It drove down the road and turned into a field.</code></pre>
-<pre><code>3 » What did the Zen Buddist say to the hotdog vendor? Make me one with everything.</code></pre>
+<pre><code>1 » A man walks into a bar and orders helicopter flavor chips. The barman replies â��sorry mate we only do plainâ��</code></pre>
+<pre><code>2 » What do you call an elephant that doesnâ��t matter? An irrelephant.</code></pre>
+<pre><code>3 » The urge to sing the Lion King song is just a whim away.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</code></pre>
-<pre><code>2 » Honey is the only food which does not spoil.</code></pre>
-<pre><code>3 » The name Wendy was made up for the book "Peter Pan."</code></pre>
+<pre><code>1 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
+<pre><code>2 » Conception occurs most in the month of December.</code></pre>
+<pre><code>3 » 111,111,111 x 111,111,111 = 12,345,678,987,654,321</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Time is the most valuable thing a man can spend. - Theophrastus</code></pre>
-<pre><code>2 » Learning is finding out what you already know. - Richard Bach</code></pre>
-<pre><code>3 » We are what we repeatedly do. Excellence, then, is not an act, but a habit. - Aristotle</code></pre>
+<pre><code>1 » In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed. - Kahlil Gibran</code></pre>
+<pre><code>2 » We cannot be more sensitive to pleasure without being more sensitive to pain. - Alan Watts</code></pre>
+<pre><code>3 » If one way be better than another, that you may be sure is nature's way. - Aristotle</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
