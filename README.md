@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6288453b6784fcc26b58f4391d49790ede03c1b57a8270cd76988a139b0cfc48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3937352532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,019+ Commits made on Github</p>
+<p>🏆 2,020+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,68 +67,68 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>5 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.16%</td>
+<td>Kotlin</td>
+<td>3 hrs 15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.4%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>2 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.95%</td>
+<td>Python</td>
+<td>3 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.91%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>17 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.91%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>13 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.26%</td>
+<td>18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.68%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>9 mins</td>
+<td>Groovy</td>
+<td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.58%</td>
+<td>3.26%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>14 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.94%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.22%</td>
+<td>1.46%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>6 hrs 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.41%</td>
+<td>Android Studio</td>
+<td>4 hrs 59 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.89%</td>
 </tr> 
  <tr>
-<td>Android Studio</td>
-<td>4 hrs 1 min</td>
+<td>VS Code</td>
+<td>3 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.59%</td>
+<td>41.11%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 10 mins</td>
+<td>8 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 19, 2023</td>
-<td>19:22:50 IST</td>
+<td>Sunday</td>
+<td>August 20, 2023</td>
+<td>19:22:43 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 20, 2023</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>August 21, 2023</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A man walks into a bar and orders helicopter flavor chips. The barman replies â��sorry mate we only do plainâ��</code></pre>
-<pre><code>2 » What do you call an elephant that doesnâ��t matter? An irrelephant.</code></pre>
-<pre><code>3 » The urge to sing the Lion King song is just a whim away.</code></pre>
+<pre><code>1 » Without geometry life is pointless.</code></pre>
+<pre><code>2 » Recent survey revealed 6 out of 7 dwarf's aren't happy.</code></pre>
+<pre><code>3 » What did the left eye say to the right eye? Between us, something smells!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
-<pre><code>2 » Conception occurs most in the month of December.</code></pre>
-<pre><code>3 » 111,111,111 x 111,111,111 = 12,345,678,987,654,321</code></pre>
+<pre><code>1 » Reindeer like to eat bananas.</code></pre>
+<pre><code>2 » You can`t kill yourself by holding your breath.  </code></pre>
+<pre><code>3 » `Stewardesses` is the longest word that is typed with only the left hand.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In the sweetness of friendship let there be laughter and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed. - Kahlil Gibran</code></pre>
-<pre><code>2 » We cannot be more sensitive to pleasure without being more sensitive to pain. - Alan Watts</code></pre>
-<pre><code>3 » If one way be better than another, that you may be sure is nature's way. - Aristotle</code></pre>
+<pre><code>1 » The minute you settle for less than you deserve, you get even less than you settled for. - Maureen Dowd</code></pre>
+<pre><code>2 » It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life. - Sigmund Freud</code></pre>
+<pre><code>3 » Always seek out the seed of triumph in every adversity. - Og Mandino</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
