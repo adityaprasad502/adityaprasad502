@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6288453b6784fcc26b58f4391d49790ede03c1b57a8270cd76988a139b0cfc48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3937352532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,020+ Commits made on Github</p>
+<p>🏆 2,021+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -69,44 +69,44 @@ fun main() {cuteMsg()}
  <tr>
 <td>Kotlin</td>
 <td>3 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.4%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>3 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.7%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.93%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.91%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.89%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.68%</td>
+<td>5.84%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>16 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.26%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.17%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>14 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.94%</td>
+<td>Python</td>
+<td>11 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.55%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.46%</td>
+<td>2.32%</td>
+</tr> 
+ <tr>
+<td>Smali</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.19%</td>
 </tr>
 </tbody></table>
 <table>
@@ -114,21 +114,21 @@ fun main() {cuteMsg()}
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.89%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.44%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.11%</td>
+<td>21 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.56%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 29 mins</td>
+<td>5 hrs 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 20, 2023</td>
-<td>19:22:43 IST</td>
+<td>Monday</td>
+<td>August 21, 2023</td>
+<td>19:23:08 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 21, 2023</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>August 22, 2023</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,11 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Without geometry life is pointless.</code></pre>
-<pre><code>2 » Recent survey revealed 6 out of 7 dwarf's aren't happy.</code></pre>
-<pre><code>3 » What did the left eye say to the right eye? Between us, something smells!</code></pre>
+<pre><code>1 » What do I look like? A JOKE MACHINE!?</code></pre>
+<pre><code>2 » Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.</code></pre>
+<pre><code>3 » Camping is intense.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +209,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Reindeer like to eat bananas.</code></pre>
-<pre><code>2 » You can`t kill yourself by holding your breath.  </code></pre>
-<pre><code>3 » `Stewardesses` is the longest word that is typed with only the left hand.</code></pre>
+<pre><code>1 » Giraffes have no vocal cords.</code></pre>
+<pre><code>2 » Honking of car horns for a couple that just got married is an old superstition to insure great sex.</code></pre>
+<pre><code>3 » Leonardo da Vinci could write with one hand while drawing with the other</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +221,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The minute you settle for less than you deserve, you get even less than you settled for. - Maureen Dowd</code></pre>
-<pre><code>2 » It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life. - Sigmund Freud</code></pre>
-<pre><code>3 » Always seek out the seed of triumph in every adversity. - Og Mandino</code></pre>
+<pre><code>1 » Nobody will believe in you unless you believe in yourself. - Liberace</code></pre>
+<pre><code>2 » I'd rather regret the things I've done than regret the things I haven't done. - Lucille Ball</code></pre>
+<pre><code>3 » The least movement is of importance to all nature. The entire ocean is affected by a pebble. - Blaise Pascal</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
