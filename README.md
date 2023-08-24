@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6288453b6784fcc26b58f4391d49790ede03c1b57a8270cd76988a139b0cfc48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3937352532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,023+ Commits made on Github</p>
+<p>🏆 2,024+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -69,66 +69,54 @@ fun main() {cuteMsg()}
  <tr>
 <td>Kotlin</td>
 <td>43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.18%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>17 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.14%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>70.04%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>12 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.39%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.89%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>11 mins</td>
+<td>Gradle</td>
+<td>4 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.49%</td>
+<td>8.02%</td>
 </tr> 
  <tr>
-<td>CSS</td>
-<td>7 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.52%</td>
+<td>Properties</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.85%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 mins</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.86%</td>
+<td>0.18%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>2 mins</td>
+<td>Shrinker Config File</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.25%</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.74%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>21 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.26%</td>
+<td>1 hr 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 39 mins</td>
+<td>1 hr 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>August 23, 2023</td>
-<td>19:23:15 IST</td>
+<td>Thursday</td>
+<td>August 24, 2023</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 24, 2023</td>
-<td>19:20:15 IST</td>
+<td>Friday</td>
+<td>August 25, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.</code></pre>
-<pre><code>2 » I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.</code></pre>
-<pre><code>3 » What has three letters and starts with gas? A Car.</code></pre>
+<pre><code>1 » Why do bees hum? Because they don't know the words.</code></pre>
+<pre><code>2 » I'm practicing for a bug-eating contest and I've got butterflies in my stomach.</code></pre>
+<pre><code>3 » What happens when you anger a brain surgeon? They will give you a piece of your mind.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Cats have over one hundred vocal sounds, while dogs only have about ten.</code></pre>
-<pre><code>2 » Donald Duck`s middle name is Fauntleroy.  </code></pre>
-<pre><code>3 » A snail can sleep for three years.</code></pre>
+<pre><code>1 » It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</code></pre>
+<pre><code>2 » A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</code></pre>
+<pre><code>3 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I can't listen to that much Wagner. I start getting the urge to conquer Poland. - Woody Allen</code></pre>
-<pre><code>2 » Value your friendship. Value your relationships. - Barbara Bush</code></pre>
-<pre><code>3 » The only journey is the one within. - Rainer Maria Rilke</code></pre>
+<pre><code>1 » It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life. - Sigmund Freud</code></pre>
+<pre><code>2 » I never teach my pupils. I only attempt to provide the conditions in which they can learn. - Albert Einstein</code></pre>
+<pre><code>3 » The fall of dropping water wears away the Stone. - Lucretius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
