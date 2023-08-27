@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6288453b6784fcc26b58f4391d49790ede03c1b57a8270cd76988a139b0cfc48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3937352532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,026+ Commits made on Github</p>
+<p>🏆 2,027+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,63 +64,18 @@ fun main() {cuteMsg()}
 <td>20.7%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.04%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>12 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.89%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>4 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.02%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.85%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.18%</td>
-</tr> 
- <tr>
-<td>Shrinker Config File</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>1 hr 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>1 hr 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -164,15 +119,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 26, 2023</td>
-<td>19:23:03 IST</td>
+<td>Sunday</td>
+<td>August 27, 2023</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 27, 2023</td>
-<td>19:20:00 IST</td>
+<td>Monday</td>
+<td>August 28, 2023</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -183,9 +138,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."</code></pre>
-<pre><code>2 » My first time using an elevator was an uplifting experience. The second time let me down.</code></pre>
-<pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
+<pre><code>1 » It doesn't matter how much you push the envelope. It will still be stationary.</code></pre>
+<pre><code>2 » I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"</code></pre>
+<pre><code>3 » Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +150,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </code></pre>
-<pre><code>2 » The state of Florida is bigger than England!</code></pre>
-<pre><code>3 » The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</code></pre>
+<pre><code>1 » There are 1,792 steps in the Eiffel Tower</code></pre>
+<pre><code>2 » Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</code></pre>
+<pre><code>3 » There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +162,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The only limit to your impact is your imagination and commitment. - Tony Robbins</code></pre>
-<pre><code>2 » I am always doing that which I cannot do, in order that I may learn how to do it. - Pablo Picasso</code></pre>
-<pre><code>3 » No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth. - Robert Southey</code></pre>
+<pre><code>1 » One must be fond of people and trust them if one is not to make a mess of life. - E. M. Forster</code></pre>
+<pre><code>2 » I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side. - Yolanda Hadid</code></pre>
+<pre><code>3 » I am not bothered by the fact that I am unknown. I am bothered when I do not know others. - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
