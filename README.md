@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6288453b6784fcc26b58f4391d49790ede03c1b57a8270cd76988a139b0cfc48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3937352532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/07dc482c0e8117efda8955814957ea6d40b2017cc07fe5f9bc421a950cb9df18/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393735253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,027+ Commits made on Github</p>
+<p>🏆 2,029+ Commits made on Github</p>
 <p>📦 39.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -43,39 +43,54 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>109 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.35%</td>
+<td>25.29%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>136 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.63%</td>
+<td>31.55%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>96 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.33%</td>
+<td>22.27%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>89 commits</td>
+<td>90 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.7%</td>
+<td>20.88%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>JavaScript</td>
+<td>7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -119,15 +134,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 27, 2023</td>
-<td>19:22:46 IST</td>
+<td>Monday</td>
+<td>August 28, 2023</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 28, 2023</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>August 29, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -138,9 +153,13 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » It doesn't matter how much you push the envelope. It will still be stationary.</code></pre>
-<pre><code>2 » I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"</code></pre>
-<pre><code>3 » Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.</code></pre>
+<pre><code>1 » Thanks for explaining the word "many" to me. It means a lot.</code></pre>
+<pre><code>2 » A panda walks into a bar and says to the bartender â��Iâ��ll have a Scotch and . . . . . . . . . . . . . . Coke thank youâ��. 
+
+â��Sure thingâ�� the bartender replies and asks â��but whatâ��s with the big pause?â�� 
+
+The panda holds up his hands and says â��I was born with themâ��</code></pre>
+<pre><code>3 » It was so cold yesterday my computer froze. My own fault though, I left too many windows open.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +169,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 1,792 steps in the Eiffel Tower</code></pre>
-<pre><code>2 » Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</code></pre>
-<pre><code>3 » There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</code></pre>
+<pre><code>1 » Oak trees do not produce acorns until they are fifty years of age or older.</code></pre>
+<pre><code>2 » Women manage the money and pay the bills in  75% of all Americans households.</code></pre>
+<pre><code>3 » More bullets were fired in `Starship Troopers` than any other movie ever made.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +181,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » One must be fond of people and trust them if one is not to make a mess of life. - E. M. Forster</code></pre>
-<pre><code>2 » I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side. - Yolanda Hadid</code></pre>
-<pre><code>3 » I am not bothered by the fact that I am unknown. I am bothered when I do not know others. - Confucius</code></pre>
+<pre><code>1 » The grand essentials of happiness are: something to do, something to love, and something to hope for. - Alexander Chalmers</code></pre>
+<pre><code>2 » The only journey is the one within. - Rainer Maria Rilke</code></pre>
+<pre><code>3 » If you want things to be different, perhaps the answer is to become different yourself. - Norman Vincent Peale</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
