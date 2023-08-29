@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/07dc482c0e8117efda8955814957ea6d40b2017cc07fe5f9bc421a950cb9df18/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393735253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6ef8b29f1cc43a612eac0db85684267d441bab5c10eab8b52ece58683d2e22a4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373525323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,029+ Commits made on Github</p>
-<p>📦 39.6 KiB Used in GitHub's Storage</p>
+<p>🏆 2,031+ Commits made on Github</p>
+<p>📦 39.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -43,41 +43,47 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>109 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.29%</td>
+<td>25.23%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>136 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.55%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.48%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>96 commits</td>
+<td>97 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.27%</td>
+<td>22.45%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>90 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.88%</td>
+<td>20.83%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>JavaScript</td>
-<td>7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>94.17%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.83%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 mins</td>
+<td>24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -86,7 +92,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 mins</td>
+<td>24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -134,14 +140,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>August 28, 2023</td>
+<td>Tuesday</td>
+<td>August 29, 2023</td>
 <td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>August 29, 2023</td>
+<td>Wednesday</td>
+<td>August 30, 2023</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -153,13 +159,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Thanks for explaining the word "many" to me. It means a lot.</code></pre>
-<pre><code>2 » A panda walks into a bar and says to the bartender â��Iâ��ll have a Scotch and . . . . . . . . . . . . . . Coke thank youâ��. 
-
-â��Sure thingâ�� the bartender replies and asks â��but whatâ��s with the big pause?â�� 
-
-The panda holds up his hands and says â��I was born with themâ��</code></pre>
-<pre><code>3 » It was so cold yesterday my computer froze. My own fault though, I left too many windows open.</code></pre>
+<pre><code>1 » Why was the robot angry? Because someone kept pressing his buttons!</code></pre>
+<pre><code>2 » Want to hear a joke about construction? Nah, I'm still working on it.</code></pre>
+<pre><code>3 » What kind of dinosaur loves to sleep? A stega-snore-us.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -169,9 +171,9 @@ The panda holds up his hands and says â��I was born with themâ��</code
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Oak trees do not produce acorns until they are fifty years of age or older.</code></pre>
-<pre><code>2 » Women manage the money and pay the bills in  75% of all Americans households.</code></pre>
-<pre><code>3 » More bullets were fired in `Starship Troopers` than any other movie ever made.</code></pre>
+<pre><code>1 » Barbie`s full name is Barbara Millicent Roberts.</code></pre>
+<pre><code>2 » There are 293 ways to make change for a dollar.</code></pre>
+<pre><code>3 » Hot water is heavier than cold.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -181,9 +183,9 @@ The panda holds up his hands and says â��I was born with themâ��</code
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The grand essentials of happiness are: something to do, something to love, and something to hope for. - Alexander Chalmers</code></pre>
-<pre><code>2 » The only journey is the one within. - Rainer Maria Rilke</code></pre>
-<pre><code>3 » If you want things to be different, perhaps the answer is to become different yourself. - Norman Vincent Peale</code></pre>
+<pre><code>1 » Fortune favors the brave. - Virgil</code></pre>
+<pre><code>2 » To succeed, we must first believe that we can. - Michael Korda</code></pre>
+<pre><code>3 » He who has imagination without learning has wings but no feet. - Joseph Joubert</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
