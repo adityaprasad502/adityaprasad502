@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6ef8b29f1cc43a612eac0db85684267d441bab5c10eab8b52ece58683d2e22a4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373525323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/17e2a1cb8d860e77a9188d10ebd883c9f69a0af651fb9047a6cfbf6e29f29501/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373525323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,033+ Commits made on Github</p>
+<p>🏆 2,035+ Commits made on Github</p>
 <p>📦 39.8 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -43,60 +43,39 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>109 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.23%</td>
+<td>25.17%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>136 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.48%</td>
+<td>31.41%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>97 commits</td>
+<td>98 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.45%</td>
+<td>22.63%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>90 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.83%</td>
+<td>20.79%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>JavaScript</td>
-<td>23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>94.17%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.83%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>VS Code</td>
-<td>24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -141,14 +120,14 @@ fun main() {cuteMsg()}
 <tr>
 <td>Last Refresh</td>
 <td>Thursday</td>
-<td>August 31, 2023</td>
-<td>19:22:59 IST</td>
+<td>September 28, 2023</td>
+<td>20:54:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Friday</td>
-<td>September 01, 2023</td>
-<td>19:20:55 IST</td>
+<td>September 29, 2023</td>
+<td>20:50:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -159,10 +138,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Just read a few facts about frogs. They were ribbiting.</code></pre>
-<pre><code>2 » I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.</code></pre>
-<pre><code>3 » Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.</code></pre>
+<pre><code>1 » Why do bees hum? Because they don't know the words.</code></pre>
+<pre><code>2 » Why are pirates called pirates? Because they arrr!</code></pre>
+<pre><code>3 » If at first you don't succeed, sky diving is not for you!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -172,9 +150,9 @@ I have no words to describe how angry I am.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
-<pre><code>2 » The ant always falls over on its right side when intoxicated.</code></pre>
-<pre><code>3 » The first owner of the Marlboro company died of lung cancer.</code></pre>
+<pre><code>1 » Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</code></pre>
+<pre><code>2 » It is illegal to hunt camels in the state of Arizona.</code></pre>
+<pre><code>3 » Napoleon`s penis was sold to an American Urologist for $40,000.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -184,9 +162,9 @@ I have no words to describe how angry I am.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody. - Herbert Bayard Swope</code></pre>
-<pre><code>2 » An ounce of emotion is equal to a ton of facts. - John Junor</code></pre>
-<pre><code>3 » I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want. - Muhammad Ali</code></pre>
+<pre><code>1 » Don't cry because it's over. Smile because it happened. - Dr. Seuss</code></pre>
+<pre><code>2 » The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary. - Thomas Edison</code></pre>
+<pre><code>3 » Life has no blessing like a prudent friend. - Euripides</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
