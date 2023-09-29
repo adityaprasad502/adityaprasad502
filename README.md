@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/17e2a1cb8d860e77a9188d10ebd883c9f69a0af651fb9047a6cfbf6e29f29501/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373525323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-975%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5cd1aa8eb54817f17d5527e134236bc87f3fdb7ac93ba7bca6eb880252f8b133/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373625323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-976%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,035+ Commits made on Github</p>
+<p>🏆 2,036+ Commits made on Github</p>
 <p>📦 39.8 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,18 +64,75 @@ fun main() {cuteMsg()}
 <td>20.79%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Docker</td>
+<td>15 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.34%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>11 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.37%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>9 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.98%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>7 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.67%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>5 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.28%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>5 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.89%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.53%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.37%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>26 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.63%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -119,15 +176,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>September 28, 2023</td>
-<td>20:54:14 IST</td>
+<td>Friday</td>
+<td>September 29, 2023</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>September 29, 2023</td>
-<td>20:50:10 IST</td>
+<td>Saturday</td>
+<td>September 30, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -138,9 +195,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why do bees hum? Because they don't know the words.</code></pre>
-<pre><code>2 » Why are pirates called pirates? Because they arrr!</code></pre>
-<pre><code>3 » If at first you don't succeed, sky diving is not for you!</code></pre>
+<pre><code>1 » Two muffins were sitting in an oven, and the first looks over to the second, and says, â��man, itâ��s really hot in hereâ��. The second looks over at the first with a surprised look, and answers, â��WHOA, a talking muffin!â��</code></pre>
+<pre><code>2 » It doesn't matter how much you push the envelope. It will still be stationary.</code></pre>
+<pre><code>3 » How does the moon cut his hair? Eclipse it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +207,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</code></pre>
-<pre><code>2 » It is illegal to hunt camels in the state of Arizona.</code></pre>
-<pre><code>3 » Napoleon`s penis was sold to an American Urologist for $40,000.</code></pre>
+<pre><code>1 » In England, the Speaker of the House is not allowed to speak.</code></pre>
+<pre><code>2 » Weatherman Willard Scott was the first original Ronald McDonald.</code></pre>
+<pre><code>3 » The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +219,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Don't cry because it's over. Smile because it happened. - Dr. Seuss</code></pre>
-<pre><code>2 » The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary. - Thomas Edison</code></pre>
-<pre><code>3 » Life has no blessing like a prudent friend. - Euripides</code></pre>
+<pre><code>1 » Silence is the true friend that never betrays. - Confucius</code></pre>
+<pre><code>2 » Logic is the beginning of wisdom, not the end. - Leonard Nimoy</code></pre>
+<pre><code>3 » There are no failures. Just experiences and your reactions to them. - Tom Krause</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
