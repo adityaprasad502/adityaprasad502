@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5cd1aa8eb54817f17d5527e134236bc87f3fdb7ac93ba7bca6eb880252f8b133/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373625323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-976%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/17d7255dca114bee1b1de9921a3874c5c0a204261559f7aabc75b3ea6a1bee47/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393737253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-977%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,038+ Commits made on Github</p>
+<p>🏆 2,039+ Commits made on Github</p>
 <p>📦 39.8 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 01, 2023</td>
-<td>19:22:47 IST</td>
+<td>Monday</td>
+<td>October 02, 2023</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 02, 2023</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>October 03, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,10 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why don't you find hippopotamuses hiding in trees?
-They're really good at it.</code></pre>
-<pre><code>2 » What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</code></pre>
-<pre><code>3 » When is a door not a door? When it's ajar.</code></pre>
+<pre><code>1 » Why did the barber win the race? He took a short cut.</code></pre>
+<pre><code>2 » What do you call your friend who stands in a hole? Phil.</code></pre>
+<pre><code>3 » Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +207,9 @@ They're really good at it.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</code></pre>
-<pre><code>2 » It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.</code></pre>
-<pre><code>3 » There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</code></pre>
+<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
+<pre><code>2 » Average number of people airborne over the US any given hour: 61,000.</code></pre>
+<pre><code>3 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +219,9 @@ They're really good at it.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » No act of kindness, no matter how small, is ever wasted. - Aesop</code></pre>
-<pre><code>2 » The art challenges the technology, and the technology inspires the art. - John Lasseter</code></pre>
-<pre><code>3 » Make it your habit not to be critical about small things. - Edward Everett Hale</code></pre>
+<pre><code>1 » Nothing strengthens authority so much as silence. - Leonardo da Vinci</code></pre>
+<pre><code>2 » I can't change the direction of the wind, but I can adjust my sails to always reach my destination. - Jimmy Dean</code></pre>
+<pre><code>3 » If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you. - A. A. Milne</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
