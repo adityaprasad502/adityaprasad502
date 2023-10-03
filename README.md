@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/17d7255dca114bee1b1de9921a3874c5c0a204261559f7aabc75b3ea6a1bee47/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393737253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-977%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/facb42605efb3129e99c49ce22a86ba07e15954c114e8fe7222b1b6da0020d8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373725323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-977%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,039+ Commits made on Github</p>
+<p>🏆 2,040+ Commits made on Github</p>
 <p>📦 39.8 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,68 +67,68 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Kotlin</td>
+<td>41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.72%</td>
+</tr> 
+ <tr>
 <td>Docker</td>
 <td>15 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.29%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.3%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>11 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.59%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>11 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.33%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>9 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.95%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.52%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>7 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.84%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>5 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.27%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.98%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>5 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.88%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.83%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>2 mins</td>
+<td>GDScript3</td>
+<td>4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.52%</td>
+<td>4.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>31 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.46%</td>
+<td>Android Studio</td>
+<td>1 hr 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.64%</td>
 </tr> 
  <tr>
-<td>Android Studio</td>
-<td>26 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.54%</td>
+<td>VS Code</td>
+<td>34 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.36%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>57 mins</td>
+<td>1 hr 45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 02, 2023</td>
-<td>19:23:03 IST</td>
+<td>Tuesday</td>
+<td>October 03, 2023</td>
+<td>19:23:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 03, 2023</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>October 04, 2023</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the barber win the race? He took a short cut.</code></pre>
-<pre><code>2 » What do you call your friend who stands in a hole? Phil.</code></pre>
-<pre><code>3 » Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.</code></pre>
+<pre><code>1 » I was wondering why the frisbee was getting bigger, then it hit me.</code></pre>
+<pre><code>2 » I am terrified of elevators. Iâ��m going to start taking steps to avoid them.</code></pre>
+<pre><code>3 » How many bones are in the human hand? A handful of them.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
-<pre><code>2 » Average number of people airborne over the US any given hour: 61,000.</code></pre>
-<pre><code>3 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
+<pre><code>1 » The pupils of a goat`s eyes are square.</code></pre>
+<pre><code>2 » The Great Wall of China is the only man-made structure visible from space.</code></pre>
+<pre><code>3 » Honking of car horns for a couple that just got married is an old superstition to insure great sex.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Nothing strengthens authority so much as silence. - Leonardo da Vinci</code></pre>
-<pre><code>2 » I can't change the direction of the wind, but I can adjust my sails to always reach my destination. - Jimmy Dean</code></pre>
-<pre><code>3 » If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you. - A. A. Milne</code></pre>
+<pre><code>1 » The minute you settle for less than you deserve, you get even less than you settled for. - Maureen Dowd</code></pre>
+<pre><code>2 » Love and compassion open our own inner life, reducing stress, distrust and loneliness. - Dalai Lama</code></pre>
+<pre><code>3 » If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow. - The Buddha</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
