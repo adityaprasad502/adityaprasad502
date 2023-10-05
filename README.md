@@ -31,8 +31,8 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/facb42605efb3129e99c49ce22a86ba07e15954c114e8fe7222b1b6da0020d8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373725323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-977%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,041+ Commits made on Github</p>
-<p>📦 39.8 KiB Used in GitHub's Storage</p>
+<p>🏆 2,042+ Commits made on Github</p>
+<p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 04, 2023</td>
-<td>19:22:56 IST</td>
+<td>Thursday</td>
+<td>October 05, 2023</td>
+<td>19:22:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 05, 2023</td>
-<td>19:20:55 IST</td>
+<td>Friday</td>
+<td>October 06, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,10 +195,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What kind of music do mummy's like? Rap</code></pre>
-<pre><code>2 » I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.</code></pre>
-<pre><code>3 » What do you get when you cross a bee and a sheep? A bah-humbug.
+<pre><code>1 » What do you call a boy who stopped digging holes? Douglas.</code></pre>
+<pre><code>2 » What do you get when you cross a bee and a sheep? A bah-humbug.
 </code></pre>
+<pre><code>3 » Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because thereâ��s a Shortstop in between!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +208,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Coca-Cola was originally green.</code></pre>
-<pre><code>2 » Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</code></pre>
-<pre><code>3 » 3.6 cans of Spam are consumed each second.</code></pre>
+<pre><code>1 » Daffy Duck`s middle name is "Dumas"</code></pre>
+<pre><code>2 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
+<pre><code>3 » "I am." is the shortest complete sentence in the English language.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +220,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To succeed, we must first believe that we can. - Michael Korda</code></pre>
-<pre><code>2 » Excellence is to do a common thing in an uncommon way. - Booker T. Washington</code></pre>
-<pre><code>3 » That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along. - Lisa Alther</code></pre>
+<pre><code>1 » What do we live for, if it is not to make life less difficult for each other? - George Eliot</code></pre>
+<pre><code>2 » Happiness does not come from having much, but from being attached to little. - Cheng Yen</code></pre>
+<pre><code>3 » Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant. - Horace</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
