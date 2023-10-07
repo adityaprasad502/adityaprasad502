@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/facb42605efb3129e99c49ce22a86ba07e15954c114e8fe7222b1b6da0020d8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373725323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-977%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,043+ Commits made on Github</p>
+<p>🏆 2,044+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -41,27 +41,27 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>109 commits</td>
+<td>95 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.17%</td>
+<td>23.69%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>136 commits</td>
+<td>124 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.41%</td>
+<td>30.92%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>98 commits</td>
+<td>94 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.63%</td>
+<td>23.44%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>90 commits</td>
+<td>88 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.79%</td>
+<td>21.95%</td>
 </tr>
 </tbody></table>
 <table>
@@ -70,31 +70,31 @@ fun main() {cuteMsg()}
 <td>Kotlin</td>
 <td>36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>75.85%</td>
+<td>76.02%</td>
 </tr> 
  <tr>
 <td>GDScript3</td>
 <td>4 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.52%</td>
+<td>9.54%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.01%</td>
+<td>7.02%</td>
 </tr> 
  <tr>
 <td>MySQL</td>
 <td>1 min</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.89%</td>
+<td>3.9%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.01%</td>
+<td>3.02%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
@@ -103,10 +103,10 @@ fun main() {cuteMsg()}
 <td>0.27%</td>
 </tr> 
  <tr>
-<td>Python</td>
+<td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.22%</td>
+<td>0.08%</td>
 </tr>
 </tbody></table>
 <table>
@@ -115,13 +115,13 @@ fun main() {cuteMsg()}
 <td>Android Studio</td>
 <td>45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.77%</td>
+<td>93.98%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 mins</td>
+<td>2 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.23%</td>
+<td>6.02%</td>
 </tr>
 </tbody></table>
 <table>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 06, 2023</td>
-<td>19:22:59 IST</td>
+<td>Saturday</td>
+<td>October 07, 2023</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 07, 2023</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>October 08, 2023</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,11 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.</code></pre>
-<pre><code>2 » Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
-He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
-This made him a super calloused fragile mystic hexed by halitosis.</code></pre>
-<pre><code>3 » I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.</code></pre>
+<pre><code>1 » Past, present, and future walked into a bar.... It was tense.</code></pre>
+<pre><code>2 » Whatâ��s brown and sounds like a bell? Dung!</code></pre>
+<pre><code>3 » R.I.P. boiled water. You will be mist.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +207,9 @@ This made him a super calloused fragile mystic hexed by halitosis.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  </code></pre>
-<pre><code>2 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
-<pre><code>3 » The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</code></pre>
+<pre><code>1 » There are 269 steps to the top of the Leaning Tower of Pisa</code></pre>
+<pre><code>2 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
+<pre><code>3 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +219,9 @@ This made him a super calloused fragile mystic hexed by halitosis.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience. - Robert Fulghum</code></pre>
-<pre><code>2 » The pain passes, but the beauty remains. - Pierre-Auguste Renoir</code></pre>
-<pre><code>3 » Yesterday's home runs don't win today's games. - Babe Ruth</code></pre>
+<pre><code>1 » It is good even for old men to learn wisdom. - Aeschylus</code></pre>
+<pre><code>2 » Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope. - Thomas Edison</code></pre>
+<pre><code>3 » Inspiration exists, but it has to find us working. - Pablo Picasso</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
