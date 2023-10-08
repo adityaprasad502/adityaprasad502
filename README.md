@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/facb42605efb3129e99c49ce22a86ba07e15954c114e8fe7222b1b6da0020d8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39373725323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-977%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,044+ Commits made on Github</p>
+<p>🏆 2,045+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 07, 2023</td>
-<td>19:22:42 IST</td>
+<td>Sunday</td>
+<td>October 08, 2023</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 08, 2023</td>
-<td>19:20:40 IST</td>
+<td>Monday</td>
+<td>October 09, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Past, present, and future walked into a bar.... It was tense.</code></pre>
-<pre><code>2 » Whatâ��s brown and sounds like a bell? Dung!</code></pre>
-<pre><code>3 » R.I.P. boiled water. You will be mist.</code></pre>
+<pre><code>1 » Why donâ��t seagulls fly over the bay? Because then theyâ��d be bay-gulls!</code></pre>
+<pre><code>2 » What is the leading cause of dry skin? Towels</code></pre>
+<pre><code>3 » You can't run through a camp site. You can only ran, because it's past tents.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 269 steps to the top of the Leaning Tower of Pisa</code></pre>
-<pre><code>2 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
-<pre><code>3 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
+<pre><code>1 » Most Egyptians died by the time they were 30 about 300 years ago,</code></pre>
+<pre><code>2 » Ninety percent of all species that have become extinct have been birds.</code></pre>
+<pre><code>3 » The Black Widow spider eats her mate during or after sex.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It is good even for old men to learn wisdom. - Aeschylus</code></pre>
-<pre><code>2 » Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope. - Thomas Edison</code></pre>
-<pre><code>3 » Inspiration exists, but it has to find us working. - Pablo Picasso</code></pre>
+<pre><code>1 » We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly. - Sam Keen</code></pre>
+<pre><code>2 » All that I am, or hope to be, I owe to my angel mother. - Abraham Lincoln</code></pre>
+<pre><code>3 » Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
