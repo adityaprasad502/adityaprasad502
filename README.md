@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/06abf36f5e6fb40511466e48746e4d22544890f604f473ee6d9b00d6003c7044/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393739253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-979%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,058+ Commits made on Github</p>
+<p>🏆 2,059+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 15, 2023</td>
-<td>19:22:46 IST</td>
+<td>Monday</td>
+<td>October 16, 2023</td>
+<td>19:23:08 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 16, 2023</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>October 17, 2023</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,11 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why don't skeletons ride roller coasters? They don't have the stomach for it.</code></pre>
-<pre><code>2 » Don't trust atoms. They make up everything.</code></pre>
-<pre><code>3 » "I'll call you later." Don't call me later, call me Dad.</code></pre>
+<pre><code>1 » Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.</code></pre>
+<pre><code>2 » When my wife told me to stop impersonating a flamingo, I had to put my foot down.</code></pre>
+<pre><code>3 » The first time I got a universal remote control I thought to myself, "This changes everything"</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +209,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</code></pre>
-<pre><code>2 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
-<pre><code>3 » It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</code></pre>
+<pre><code>1 » Golf courses cover 4% of North America.</code></pre>
+<pre><code>2 » Blueberry Jelly Bellies were created especially for Ronald Reagan.</code></pre>
+<pre><code>3 » In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +221,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Time you enjoy wasting, was not wasted. - John Lennon</code></pre>
-<pre><code>2 » Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill</code></pre>
-<pre><code>3 » When I do good I feel good, when I do bad I feel bad, and that's my religion. - Abraham Lincoln</code></pre>
+<pre><code>1 » Science gives us knowledge, but only philosophy can give us wisdom. - Will Durant</code></pre>
+<pre><code>2 » Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement. - Ralph Marston</code></pre>
+<pre><code>3 » With pride, there are many curses. With humility, there come many blessings. - Ezra Taft Benson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
