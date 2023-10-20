@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/06abf36f5e6fb40511466e48746e4d22544890f604f473ee6d9b00d6003c7044/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393739253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-979%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,062+ Commits made on Github</p>
+<p>🏆 2,063+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,67 +68,55 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 3 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.8%</td>
+<td>46 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>67.09%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>17 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.87%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>11 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.25%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.23%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>6 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.04%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>5 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.03%</td>
-</tr> 
- <tr>
-<td>Docker</td>
 <td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.58%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.24%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.81%</td>
+<td>2.88%</td>
+</tr> 
+ <tr>
+<td>Ezhil</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.48%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.06%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.28%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>20 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.72%</td>
+<td>1 hr 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 50 mins</td>
+<td>1 hr 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 19, 2023</td>
-<td>19:22:54 IST</td>
+<td>Friday</td>
+<td>October 20, 2023</td>
+<td>19:23:15 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>October 20, 2023</td>
-<td>19:20:50 IST</td>
+<td>Saturday</td>
+<td>October 21, 2023</td>
+<td>19:20:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +183,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why don't eggs tell jokes? They'd crack each other up</code></pre>
-<pre><code>2 » I got an A on my origami assignment when I turned my paper into my teacher</code></pre>
-<pre><code>3 » Did you know that protons have mass? I didn't even know they were catholic.</code></pre>
+<pre><code>1 » What is the least spoken language in the world?
+Sign Language</code></pre>
+<pre><code>2 » I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.</code></pre>
+<pre><code>3 » If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +196,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</code></pre>
-<pre><code>2 » The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</code></pre>
-<pre><code>3 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
+<pre><code>1 » A Boeing 747`s wingspan is longer than the Wright brother`s first flight.</code></pre>
+<pre><code>2 » The Vatican city registered 0 births in 1983</code></pre>
+<pre><code>3 » Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +208,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity. - Louis Pasteur</code></pre>
-<pre><code>2 » Remember that a gesture of friendship, no matter how small, is always appreciated. - H. Jackson Brown Jr.</code></pre>
-<pre><code>3 » Having nothing, nothing can he lose. - William Shakespeare</code></pre>
+<pre><code>1 » Very little is needed to make a happy life; it is all within yourself, in your way of thinking. - Marcus Aurelius</code></pre>
+<pre><code>2 » Never idealize others. They will never live up to your expectations. - Leo Buscaglia</code></pre>
+<pre><code>3 » As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life. - Joseph Prince</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
