@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/06abf36f5e6fb40511466e48746e4d22544890f604f473ee6d9b00d6003c7044/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393739253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-979%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,064+ Commits made on Github</p>
+<p>🏆 2,065+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,63 +64,18 @@ fun main() {cuteMsg()}
 <td>23.21%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Python</td>
-<td>46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.09%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>17 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.23%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.24%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.88%</td>
-</tr> 
- <tr>
-<td>Ezhil</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.48%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>VS Code</td>
-<td>1 hr 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>1 hr 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -164,15 +119,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 21, 2023</td>
-<td>19:22:50 IST</td>
+<td>Sunday</td>
+<td>October 22, 2023</td>
+<td>19:22:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 22, 2023</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>October 23, 2023</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -183,9 +138,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why is Peter Pan always flying? Because he Neverlands.</code></pre>
-<pre><code>2 » What do you call a pig with three eyes? Piiig</code></pre>
-<pre><code>3 » Hear about the new restaurant called Karma? Thereâ��s no menu: You get what you deserve.</code></pre>
+<pre><code>1 » What has ears but cannot hear? A field of corn.</code></pre>
+<pre><code>2 » I used to work for an origami company but they folded.</code></pre>
+<pre><code>3 » I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +150,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </code></pre>
-<pre><code>2 » A shark is the only fish that can blink with both eyes.</code></pre>
-<pre><code>3 » In Miconesia, coins are 12 feet across.</code></pre>
+<pre><code>1 » Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </code></pre>
+<pre><code>2 » Barbie`s full name is Barbara Millicent Roberts.</code></pre>
+<pre><code>3 » `Stewardesses` is the longest word that is typed with only the left hand.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +162,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform. - Theodore H. White</code></pre>
-<pre><code>2 » It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle</code></pre>
-<pre><code>3 » I know but one freedom and that is the freedom of the mind. - Antoine de Saint-Exupéry</code></pre>
+<pre><code>1 » Friends... they cherish one another's hopes. They are kind to one another's dreams. - Henry David Thoreau</code></pre>
+<pre><code>2 » To be wrong is nothing unless you continue to remember it. - Confucius</code></pre>
+<pre><code>3 » I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act. - G. K. Chesterton</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
