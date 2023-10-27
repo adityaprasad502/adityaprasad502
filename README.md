@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/06abf36f5e6fb40511466e48746e4d22544890f604f473ee6d9b00d6003c7044/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393739253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-979%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,069+ Commits made on Github</p>
+<p>🏆 2,070+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -119,15 +119,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 26, 2023</td>
-<td>19:23:02 IST</td>
+<td>Friday</td>
+<td>October 27, 2023</td>
+<td>19:23:12 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>October 27, 2023</td>
-<td>19:20:00 IST</td>
+<td>Saturday</td>
+<td>October 28, 2023</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -138,9 +138,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I've just written a song about a tortilla. Well, it is more of a rap really.</code></pre>
-<pre><code>2 » "What time is it?" I don't know... it keeps changing.</code></pre>
-<pre><code>3 » I couldn't get a reservation at the library. They were completely booked.</code></pre>
+<pre><code>1 » Yesterday a clown held a door open for me. I thought it was a nice jester.</code></pre>
+<pre><code>2 » How come the stadium got hot after the game? Because all of the fans left.</code></pre>
+<pre><code>3 » What has ears but cannot hear? A field of corn.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +150,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
-<pre><code>2 » Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.</code></pre>
-<pre><code>3 » Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</code></pre>
+<pre><code>1 » The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</code></pre>
+<pre><code>2 » In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</code></pre>
+<pre><code>3 » When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +162,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. - Nikola Tesla</code></pre>
-<pre><code>2 » Many sophisticated, intelligent people lack wisdom and common sense. - Joyce Meyer</code></pre>
-<pre><code>3 » Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden</code></pre>
+<pre><code>1 » You were not born a winner, and you were not born a loser. You are what you make yourself be. - Lou Holtz</code></pre>
+<pre><code>2 » What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Waldo Emerson</code></pre>
+<pre><code>3 » If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha - The Buddha</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
