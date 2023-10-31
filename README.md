@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/06abf36f5e6fb40511466e48746e4d22544890f604f473ee6d9b00d6003c7044/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393739253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-979%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,073+ Commits made on Github</p>
+<p>🏆 2,074+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -119,15 +119,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 30, 2023</td>
-<td>19:23:08 IST</td>
+<td>Tuesday</td>
+<td>October 31, 2023</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 31, 2023</td>
-<td>19:20:05 IST</td>
+<td>Wednesday</td>
+<td>November 01, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -138,9 +138,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.</code></pre>
-<pre><code>2 » What kind of pants do ghosts wear? Boo jeans.</code></pre>
-<pre><code>3 » The urge to sing the Lion King song is just a whim away.</code></pre>
+<pre><code>1 » What do you get if you cross a turkey with a ghost? A poultry-geist!</code></pre>
+<pre><code>2 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
+<pre><code>3 » "Hey, dad, did you get a haircut?" "No, I got them all cut."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +150,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 336 dimples on a regulation golf ball.</code></pre>
-<pre><code>2 » The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.</code></pre>
-<pre><code>3 » Average number of people airborne over the US any given hour: 61,000.</code></pre>
+<pre><code>1 » The average person falls asleep in seven minutes.</code></pre>
+<pre><code>2 » Giraffes have no vocal cords.</code></pre>
+<pre><code>3 » "Underground" is the only word in the English language that begins and ends with the letters "und"</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +162,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A quarrel between friends, when made up, adds a new tie to friendship. - Francis de Sales</code></pre>
-<pre><code>2 » Happiness resides not in possessions, and not in gold, happiness dwells in the soul. - Democritus</code></pre>
-<pre><code>3 » If you're walking down the right path and you're willing to keep walking, eventually you'll make progress. - Barack Obama</code></pre>
+<pre><code>1 » You can always count on Americans to do the right thing - after they've tried everything else. - Winston Churchill</code></pre>
+<pre><code>2 » Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another? - Thomas Jefferson</code></pre>
+<pre><code>3 » I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act. - G. K. Chesterton</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
