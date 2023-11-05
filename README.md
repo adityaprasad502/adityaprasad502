@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/06abf36f5e6fb40511466e48746e4d22544890f604f473ee6d9b00d6003c7044/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393739253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-979%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5d61f63d1c33244d58cc324878709adcb5f389c215765c7465e3e04df1f80f91/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383225323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-982%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,078+ Commits made on Github</p>
+<p>🏆 2,085+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -43,25 +43,25 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>92 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.83%</td>
+<td>22.72%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>123 commits</td>
+<td>125 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.52%</td>
+<td>30.86%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>94 commits</td>
+<td>91 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.33%</td>
+<td>22.47%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>94 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.33%</td>
+<td>97 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.95%</td>
 </tr>
 </tbody></table>
  
@@ -119,14 +119,14 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 04, 2023</td>
+<td>Sunday</td>
+<td>November 05, 2023</td>
 <td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 05, 2023</td>
+<td>Monday</td>
+<td>November 06, 2023</td>
 <td>19:20:05 IST</td>
 </tr>
 </tbody></table>
@@ -138,9 +138,11 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A man walks into a bar and orders helicopter flavor chips. The barman replies â��sorry mate we only do plainâ��</code></pre>
-<pre><code>2 » "I'll call you later." Don't call me later, call me Dad.</code></pre>
-<pre><code>3 » Why does Han Solo like gum? It's chewy!</code></pre>
+<pre><code>1 » How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?</code></pre>
+<pre><code>2 » What was the pumpkinâ��s favorite sport?
+
+Squash.</code></pre>
+<pre><code>3 » I heard there was a new store called Moderation. They have everything there</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +152,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Chewing gum while peeling onions will keep you from crying.</code></pre>
-<pre><code>2 » You spend 7 years of your life in the bathroom.</code></pre>
-<pre><code>3 » In England, the Speaker of the House is not allowed to speak.</code></pre>
+<pre><code>1 » The average lifespan of an eyelash is five months.</code></pre>
+<pre><code>2 » The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  </code></pre>
+<pre><code>3 » Over 1000 birds a year die from smashing into windows!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +164,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » An organization, no matter how well designed, is only as good as the people who live and work in it. - Dee Hock</code></pre>
-<pre><code>2 » In friendship as well as love, ignorance very often contributes more to our happiness than knowledge. - François de La Rochefoucauld</code></pre>
-<pre><code>3 » Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly. - Richard Bach</code></pre>
+<pre><code>1 » It does not matter how slowly you go as long as you do not stop. - Confucius</code></pre>
+<pre><code>2 » Begin, be bold, and venture to be wise. - Horace</code></pre>
+<pre><code>3 » You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time. - Abraham Lincoln</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
