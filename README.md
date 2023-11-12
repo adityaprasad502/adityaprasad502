@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5d61f63d1c33244d58cc324878709adcb5f389c215765c7465e3e04df1f80f91/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383225323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-982%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,091+ Commits made on Github</p>
+<p>🏆 2,092+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -122,7 +122,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 11 mins</td>
+<td>3 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 11, 2023</td>
-<td>19:22:55 IST</td>
+<td>Sunday</td>
+<td>November 12, 2023</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 12, 2023</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>November 13, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Two silk worms had a race. They ended up in a tie.</code></pre>
-<pre><code>2 » Remember, the best angle to approach a problem from is the "try" angle.</code></pre>
-<pre><code>3 » I saw a documentary on TV last night about how they put ships together.  It was rivetting.</code></pre>
+<pre><code>1 » Did you hear about the two thieves who stole a calendar? They each got six months.</code></pre>
+<pre><code>2 » Why are skeletons so calm? Because nothing gets under their skin.</code></pre>
+<pre><code>3 » Why did the chicken get a penalty? For fowl play.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
-<pre><code>2 » Over 60% of all those who marry get divorced.</code></pre>
-<pre><code>3 » The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.</code></pre>
+<pre><code>1 » The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</code></pre>
+<pre><code>2 » Half of all Americans live within 50 miles of their birthplace.</code></pre>
+<pre><code>3 » Reindeer like to eat bananas.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The only time to buy these is on a day with no 'y' in it. - Warren Buffett</code></pre>
-<pre><code>2 » Everything that exists is in a manner the seed of that which will be. - Marcus Aurelius</code></pre>
-<pre><code>3 » Better than a thousand useless words is one useful word, upon hearing which one attains peace. - The Buddha</code></pre>
+<pre><code>1 » Thought is the blossom; language the bud; action the fruit behind it. - Ralph Waldo Emerson</code></pre>
+<pre><code>2 » A short saying often contains much wisdom. - Sophocles</code></pre>
+<pre><code>3 » You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life. - Ravi Zacharias</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
