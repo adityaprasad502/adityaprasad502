@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5d61f63d1c33244d58cc324878709adcb5f389c215765c7465e3e04df1f80f91/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383225323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-982%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,093+ Commits made on Github</p>
+<p>🏆 2,094+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,66 +67,20 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>2 hrs 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.52%</td>
-</tr> 
- <tr>
 <td>XML</td>
-<td>48 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.13%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>8 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.27%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.62%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
 <td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.46%</td>
-</tr> 
- <tr>
-<td>Java Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
-</tr>
-</tbody></table>
-<table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Studio</td>
-<td>2 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.58%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>23 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.42%</td>
-</tr>
-</tbody></table>
-<table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>3 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
+<table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
+<table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -170,15 +124,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 13, 2023</td>
-<td>19:23:04 IST</td>
+<td>Tuesday</td>
+<td>November 14, 2023</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 14, 2023</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>November 15, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,9 +143,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow</code></pre>
-<pre><code>2 » When does a joke become a dad joke? When it becomes apparent.</code></pre>
-<pre><code>3 » What happens to a frog's car when it breaks down? It gets toad.</code></pre>
+<pre><code>1 » My son is studying to be a surgeon, I just hope he makes the cut.</code></pre>
+<pre><code>2 » Iâ��ll tell you something about German sausages, theyâ��re the wurst</code></pre>
+<pre><code>3 » How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +155,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Until 1994, world maps and globes sold in Albania only had Albania on them.</code></pre>
-<pre><code>2 » Only 6 people in the whole world have died from moshing.</code></pre>
-<pre><code>3 » Average life span of a major league baseball: 7 pitches.</code></pre>
+<pre><code>1 » The name of all continents in the world end with the same letter that they start with.</code></pre>
+<pre><code>2 » The average North American will eat 35,000 cookies during their life span.</code></pre>
+<pre><code>3 » A pig`s orgasm lasts for 30 minutes.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +167,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be. - Sai Baba</code></pre>
-<pre><code>2 » I allow my intuition to lead my path. - Manuel Puig</code></pre>
-<pre><code>3 » The best argument against democracy is a five-minute conversation with the average voter. - Winston Churchill</code></pre>
+<pre><code>1 » He who is contented is rich. - Laozi</code></pre>
+<pre><code>2 » Always be smarter than the people who hire you. - Lena Horne</code></pre>
+<pre><code>3 » All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns. - Bruce Lee</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
