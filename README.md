@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5d61f63d1c33244d58cc324878709adcb5f389c215765c7465e3e04df1f80f91/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383225323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-982%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/51f6d2ce51b8e9ee75b8de9cb8f6404887a1d86bfe4601f6c4bdc8d77c454807/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383425323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-984%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,119+ Commits made on Github</p>
+<p>🏆 2,120+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,32 +67,56 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Python</td>
+<td>2 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>89.51%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>13 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.67%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.8%</td>
+</tr> 
+ <tr>
 <td>Kotlin</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.96%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.01%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>0 secs</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.04%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
+<td>VS Code</td>
+<td>2 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.98%</td>
+</tr> 
+ <tr>
 <td>Studio</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>0 secs</td>
+<td>2 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -140,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 15, 2023</td>
-<td>19:23:06 IST</td>
+<td>Thursday</td>
+<td>November 16, 2023</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 16, 2023</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>November 17, 2023</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -159,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where do sheep go to get their hair cut? The baa-baa shop.</code></pre>
-<pre><code>2 » It was so cold yesterday my computer froze. My own fault though, I left too many windows open.</code></pre>
-<pre><code>3 » What's blue and not very heavy?  Light blue.</code></pre>
+<pre><code>1 » What did the beaver say to the tree? It's been nice gnawing you.</code></pre>
+<pre><code>2 » What's blue and not very heavy?  Light blue.</code></pre>
+<pre><code>3 » You know what they say about cliffhangers...</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -171,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Kelsey Grammar sings and plays the piano for the theme song of Fraiser.</code></pre>
-<pre><code>2 » In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.</code></pre>
-<pre><code>3 » Elephants are the only animals that can`t jump.</code></pre>
+<pre><code>1 » There`s a systematic lull in conversation every 7 minutes.</code></pre>
+<pre><code>2 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
+<pre><code>3 » Half of all Americans live within 50 miles of their birthplace.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Reality leaves a lot to the imagination. - John Lennon</code></pre>
-<pre><code>2 » I'd rather regret the things that I have done than the things that I have not done. - Lucille Ball</code></pre>
-<pre><code>3 » The Superior Man is aware of Righteousness, the inferior man is aware of advantage. - Confucius</code></pre>
+<pre><code>1 » There is no charm equal to tenderness of heart. - Jane Austen</code></pre>
+<pre><code>2 » You've got to go out on a limb sometimes because that's where the fruit is. - Will Rogers</code></pre>
+<pre><code>3 » I believe that we are fundamentally the same and have the same basic potential. - Dalai Lama</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
