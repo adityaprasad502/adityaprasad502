@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3393dd48ec984e9c0399a255d4cb2321a11f8505ab1af51cdcc8d2b6f840365d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383425323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-984%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,121+ Commits made on Github</p>
+<p>🏆 2,122+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -133,52 +133,52 @@ fun main() {cuteMsg()}
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>48.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.23%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.54%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.54%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.85%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.85%</td>
+<td>4.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 17, 2023</td>
-<td>19:22:58 IST</td>
+<td>Saturday</td>
+<td>November 18, 2023</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 18, 2023</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>November 19, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,10 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.</code></pre>
-<pre><code>2 » I don't trust stairs. They're always up to something.</code></pre>
-<pre><code>3 » â��Put the cat outâ�� â�¦ â��I didnâ��t realize it was on fire</code></pre>
+<pre><code>1 » Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.</code></pre>
+<pre><code>2 » I'm practicing for a bug-eating contest and I've got butterflies in my stomach.</code></pre>
+<pre><code>3 » Why did the coffee file a police report? It got mugged.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +201,9 @@ But take a look at me now.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » %60 of all people using the Internet, use it for pornography.</code></pre>
-<pre><code>2 » The U.S. military operates 234 golf courses</code></pre>
-<pre><code>3 » Over 1000 birds a year die from smashing into windows!</code></pre>
+<pre><code>1 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
+<pre><code>2 » Ninety percent of all species that have become extinct have been birds.</code></pre>
+<pre><code>3 » Until 1994, world maps and globes sold in Albania only had Albania on them.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +213,9 @@ But take a look at me now.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them. - John F. Kennedy</code></pre>
-<pre><code>2 » The simplest things are often the truest. - Richard Bach</code></pre>
-<pre><code>3 » In the end we retain from our studies only that which we practically apply. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>1 » Be here now. Be someplace else later. Is that so complicated? - David Bader</code></pre>
+<pre><code>2 » Habit, if not resisted, soon becomes necessity. - Augustine of Hippo</code></pre>
+<pre><code>3 » I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
