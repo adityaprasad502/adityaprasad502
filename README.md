@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3393dd48ec984e9c0399a255d4cb2321a11f8505ab1af51cdcc8d2b6f840365d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383425323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-984%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,122+ Commits made on Github</p>
+<p>🏆 2,128+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -69,8 +69,8 @@ fun main() {cuteMsg()}
  <tr>
 <td>Python</td>
 <td>2 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>87.49%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>87.51%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -89,18 +89,6 @@ fun main() {cuteMsg()}
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.36%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
 </tr>
 </tbody></table>
 <table>
@@ -109,13 +97,7 @@ fun main() {cuteMsg()}
 <td>VS Code</td>
 <td>2 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.99%</td>
-</tr> 
- <tr>
-<td>Studio</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
@@ -170,14 +152,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 18, 2023</td>
+<td>Sunday</td>
+<td>November 19, 2023</td>
 <td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 19, 2023</td>
+<td>Monday</td>
+<td>November 20, 2023</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -189,9 +171,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.</code></pre>
-<pre><code>2 » I'm practicing for a bug-eating contest and I've got butterflies in my stomach.</code></pre>
-<pre><code>3 » Why did the coffee file a police report? It got mugged.</code></pre>
+<pre><code>1 » How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.</code></pre>
+<pre><code>2 » Two peanuts were walking down the street. One was a salted</code></pre>
+<pre><code>3 » Today a girl said she recognized me from vegetarian club, but Iâ��m sure Iâ��ve never met herbivore.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
-<pre><code>2 » Ninety percent of all species that have become extinct have been birds.</code></pre>
-<pre><code>3 » Until 1994, world maps and globes sold in Albania only had Albania on them.</code></pre>
+<pre><code>1 » The storage capacity of human brain exceeds 4 Terabytes.</code></pre>
+<pre><code>2 » It`s possible to lead a cow upstairs but not downstairs.</code></pre>
+<pre><code>3 » The Human eyes never grow, but nose and ears never stop growing.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Be here now. Be someplace else later. Is that so complicated? - David Bader</code></pre>
-<pre><code>2 » Habit, if not resisted, soon becomes necessity. - Augustine of Hippo</code></pre>
-<pre><code>3 » I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones. - Albert Einstein</code></pre>
+<pre><code>1 » I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over. - Warren Buffett</code></pre>
+<pre><code>2 » The world is a book, and those who do not travel read only a page. - Augustine of Hippo</code></pre>
+<pre><code>3 » He is a wise man who does not grieve for the things which he has not but rejoices for those which he has. - Epictetus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
