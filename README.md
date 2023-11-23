@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c22325aaee13e7244ccfd8c610784f69d64bf9bae4b2d68d68ead16ffbf65917/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393836253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-986%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,130+ Commits made on Github</p>
+<p>🏆 2,131+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,28 +68,16 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 33 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.13%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.33%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.55%</td>
+<td>1 hr 29 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 37 mins</td>
+<td>1 hr 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -98,7 +86,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 37 mins</td>
+<td>1 hr 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -146,15 +134,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 22, 2023</td>
-<td>19:22:57 IST</td>
+<td>Thursday</td>
+<td>November 23, 2023</td>
+<td>19:23:07 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 23, 2023</td>
-<td>19:20:55 IST</td>
+<td>Friday</td>
+<td>November 24, 2023</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -165,9 +153,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » My boss told me to attach two pieces of wood together... I totally nailed it!</code></pre>
-<pre><code>2 » Yesterday, I accidentally swallowed some food coloring. The doctor says Iâ��m okay, but I feel like Iâ��ve dyed a little inside.</code></pre>
-<pre><code>3 » Got a new suit recently made entirely of living plants. I wasnâ��t sure at first, but itâ��s grown on me</code></pre>
+<pre><code>1 » Why can't your nose be 12 inches long? Because then it'd be a foot!</code></pre>
+<pre><code>2 » How are false teeth like stars? They come out at night!</code></pre>
+<pre><code>3 » Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 40,000 Americans are injured by toilets each year.</code></pre>
-<pre><code>2 » 3.9% of all women do not wear underwear.</code></pre>
-<pre><code>3 » If Texas were a country, its GNP would be the fifth largest of any country in the world.</code></pre>
+<pre><code>1 » The storage capacity of human brain exceeds 4 Terabytes.</code></pre>
+<pre><code>2 » A bull can inseminate 300 cows from one single ejaculation.</code></pre>
+<pre><code>3 » Most toilets flush in E flat.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If only wed stop trying to be happy wed have a pretty good time. - Edith Wharton</code></pre>
-<pre><code>2 » Motivation is the art of getting people to do what you want them to do because they want to do it. - Dwight D. Eisenhower</code></pre>
-<pre><code>3 » Don't watch the clock; do what it does. Keep going. - Sam Levenson</code></pre>
+<pre><code>1 » Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose. - Eknath Easwaran</code></pre>
+<pre><code>2 » By accepting yourself and being fully what you are, your presence can make others happy. - Jane Roberts</code></pre>
+<pre><code>3 » Wisdom has its root in goodness, not goodness its root in wisdom. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
