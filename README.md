@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c22325aaee13e7244ccfd8c610784f69d64bf9bae4b2d68d68ead16ffbf65917/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393836253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-986%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,131+ Commits made on Github</p>
+<p>🏆 2,132+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -134,15 +134,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>November 23, 2023</td>
-<td>19:23:07 IST</td>
+<td>Friday</td>
+<td>November 24, 2023</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>November 24, 2023</td>
-<td>19:20:05 IST</td>
+<td>Saturday</td>
+<td>November 25, 2023</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -153,9 +153,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why can't your nose be 12 inches long? Because then it'd be a foot!</code></pre>
-<pre><code>2 » How are false teeth like stars? They come out at night!</code></pre>
-<pre><code>3 » Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.</code></pre>
+<pre><code>1 » What type of music do balloons hate? Pop music!</code></pre>
+<pre><code>2 » Why did the cookie cry? It was feeling crumby.</code></pre>
+<pre><code>3 » My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -165,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The storage capacity of human brain exceeds 4 Terabytes.</code></pre>
-<pre><code>2 » A bull can inseminate 300 cows from one single ejaculation.</code></pre>
-<pre><code>3 » Most toilets flush in E flat.</code></pre>
+<pre><code>1 » There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </code></pre>
+<pre><code>2 » The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."</code></pre>
+<pre><code>3 » In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose. - Eknath Easwaran</code></pre>
-<pre><code>2 » By accepting yourself and being fully what you are, your presence can make others happy. - Jane Roberts</code></pre>
-<pre><code>3 » Wisdom has its root in goodness, not goodness its root in wisdom. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible. - Maya Angelou</code></pre>
+<pre><code>2 » To be wronged is nothing unless you continue to remember it. - Confucius</code></pre>
+<pre><code>3 » Never reach out your hand unless you're willing to extend an arm. - Pope Paul VI</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
