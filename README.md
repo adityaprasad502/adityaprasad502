@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c22325aaee13e7244ccfd8c610784f69d64bf9bae4b2d68d68ead16ffbf65917/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393836253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-986%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0117357cd1adecf8dfa974d1bb0dc84b7126be6526a2632aef3c51992d3d8619/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383825323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-988%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,132+ Commits made on Github</p>
-<p>📦 39.9 KiB Used in GitHub's Storage</p>
+<p>🏆 2,137+ Commits made on Github</p>
+<p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -41,27 +41,27 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>92 commits</td>
+<td>89 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
+<td>21.81%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>126 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.96%</td>
+<td>30.88%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>91 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.36%</td>
+<td>22.3%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>98 commits</td>
+<td>102 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.08%</td>
+<td>25.0%</td>
 </tr>
 </tbody></table>
 <table>
@@ -134,14 +134,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 24, 2023</td>
+<td>Saturday</td>
+<td>November 25, 2023</td>
 <td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 25, 2023</td>
+<td>Sunday</td>
+<td>November 26, 2023</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -153,9 +153,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What type of music do balloons hate? Pop music!</code></pre>
-<pre><code>2 » Why did the cookie cry? It was feeling crumby.</code></pre>
-<pre><code>3 » My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.</code></pre>
+<pre><code>1 » What kind of magic do cows believe in? MOODOO.</code></pre>
+<pre><code>2 » Why donâ��t skeletons ever go trick or treating? Because they have nobody to go with.</code></pre>
+<pre><code>3 » What do you call a fish with no eyes? A fsh.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -165,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </code></pre>
-<pre><code>2 » The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."</code></pre>
-<pre><code>3 » In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</code></pre>
+<pre><code>1 » Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</code></pre>
+<pre><code>2 » The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</code></pre>
+<pre><code>3 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible. - Maya Angelou</code></pre>
-<pre><code>2 » To be wronged is nothing unless you continue to remember it. - Confucius</code></pre>
-<pre><code>3 » Never reach out your hand unless you're willing to extend an arm. - Pope Paul VI</code></pre>
+<pre><code>1 » A really great talent finds its happiness in execution. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>2 » To acquire knowledge, one must study; but to acquire wisdom, one must observe. - Marilyn vos Savant</code></pre>
+<pre><code>3 » There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
