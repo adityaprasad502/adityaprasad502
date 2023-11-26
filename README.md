@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0117357cd1adecf8dfa974d1bb0dc84b7126be6526a2632aef3c51992d3d8619/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39383825323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-988%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/857884c6829aaa0974a9375c597d3c1f91ece8664ddc92dd60d538ed10634e14/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393935253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,137+ Commits made on Github</p>
-<p>📦 40.0 KiB Used in GitHub's Storage</p>
+<p>🏆 2,150+ Commits made on Github</p>
+<p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -41,52 +41,94 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>89 commits</td>
+<td>94 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.81%</td>
+<td>22.82%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>126 commits</td>
+<td>124 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.88%</td>
+<td>30.1%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>91 commits</td>
+<td>90 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.3%</td>
+<td>21.84%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>102 commits</td>
+<td>104 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.0%</td>
+<td>25.24%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Kotlin</td>
+<td>2 hrs 42 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.77%</td>
+</tr> 
+ <tr>
 <td>Python</td>
-<td>1 hr 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>1 hr 22 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.47%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>41 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.62%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.54%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>15 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.69%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>5 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.7%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.22%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
+<td>Studio</td>
+<td>4 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>74.31%</td>
+</tr> 
+ <tr>
 <td>VS Code</td>
-<td>1 hr 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>1 hr 23 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.69%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 29 mins</td>
+<td>5 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -134,14 +176,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 25, 2023</td>
-<td>19:22:49 IST</td>
+<td>Sunday</td>
+<td>November 26, 2023</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 26, 2023</td>
+<td>Monday</td>
+<td>November 27, 2023</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -153,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What kind of magic do cows believe in? MOODOO.</code></pre>
-<pre><code>2 » Why donâ��t skeletons ever go trick or treating? Because they have nobody to go with.</code></pre>
-<pre><code>3 » What do you call a fish with no eyes? A fsh.</code></pre>
+<pre><code>1 » I always wanted to look into why I procrastinate, but I keep putting it off. </code></pre>
+<pre><code>2 » What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.</code></pre>
+<pre><code>3 » Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -165,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</code></pre>
-<pre><code>2 » The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</code></pre>
-<pre><code>3 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
+<pre><code>1 » A pregnant goldfish is called a twit.</code></pre>
+<pre><code>2 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
+<pre><code>3 » Only one person in two billion will live to be 116 or older.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A really great talent finds its happiness in execution. - Johann Wolfgang von Goethe</code></pre>
-<pre><code>2 » To acquire knowledge, one must study; but to acquire wisdom, one must observe. - Marilyn vos Savant</code></pre>
-<pre><code>3 » There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. - Albert Einstein</code></pre>
+<pre><code>1 » The final proof of greatness lies in being able to endure criticism without resentment. - Elbert Hubbard</code></pre>
+<pre><code>2 » Difficulties increase the nearer we get to the goal. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » Until you make peace with who you are, you will never be content with what you have. - Doris Mortman</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
