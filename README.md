@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/857884c6829aaa0974a9375c597d3c1f91ece8664ddc92dd60d538ed10634e14/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393935253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,150+ Commits made on Github</p>
+<p>🏆 2,151+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,67 +68,67 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.77%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>1 hr 22 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.47%</td>
+<td>5 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>41 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.62%</td>
+<td>2 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.41%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>18 mins</td>
+<td>28 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.54%</td>
+<td>5.22%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>15 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.69%</td>
+<td>17 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.18%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>5 mins</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>1.98%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>6 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.23%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.22%</td>
+<td>0.13%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Studio</td>
-<td>4 hrs 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.31%</td>
+<td>8 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.41%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 23 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.69%</td>
+<td>8 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.59%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 25 mins</td>
+<td>9 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>November 26, 2023</td>
-<td>19:22:48 IST</td>
+<td>Monday</td>
+<td>November 27, 2023</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>November 27, 2023</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>November 28, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I always wanted to look into why I procrastinate, but I keep putting it off. </code></pre>
-<pre><code>2 » What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.</code></pre>
-<pre><code>3 » Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"</code></pre>
+<pre><code>1 » I fear for the calendar, its days are numbered.
+</code></pre>
+<pre><code>2 » You will never guess what Elsa did to the balloon. She let it go.</code></pre>
+<pre><code>3 » Where do sheep go to get their hair cut? The baa-baa shop.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +208,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A pregnant goldfish is called a twit.</code></pre>
-<pre><code>2 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
-<pre><code>3 » Only one person in two billion will live to be 116 or older.</code></pre>
+<pre><code>1 » Butterflies taste with their hind feet.</code></pre>
+<pre><code>2 » 1 in every 4 Americans has appeared someway or another on television.</code></pre>
+<pre><code>3 » Prince Charles is an avid collecter of toilet seats.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +220,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The final proof of greatness lies in being able to endure criticism without resentment. - Elbert Hubbard</code></pre>
-<pre><code>2 » Difficulties increase the nearer we get to the goal. - Johann Wolfgang von Goethe</code></pre>
-<pre><code>3 » Until you make peace with who you are, you will never be content with what you have. - Doris Mortman</code></pre>
+<pre><code>1 » Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community. - Steven Van Zandt</code></pre>
+<pre><code>2 » Silence at the proper season is wisdom, and better than any speech. - Plutarch</code></pre>
+<pre><code>3 » Most powerful is he who has himself in his own power. - Seneca the Younger</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
