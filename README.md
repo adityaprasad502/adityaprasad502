@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/857884c6829aaa0974a9375c597d3c1f91ece8664ddc92dd60d538ed10634e14/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393935253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,152+ Commits made on Github</p>
+<p>🏆 2,153+ Commits made on Github</p>
 <p>📦 39.9 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>November 28, 2023</td>
-<td>19:22:56 IST</td>
+<td>Wednesday</td>
+<td>November 29, 2023</td>
+<td>19:23:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>November 29, 2023</td>
-<td>19:20:55 IST</td>
+<td>Thursday</td>
+<td>November 30, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,11 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I made a belt out of watches once... It was a waist of time.</code></pre>
-<pre><code>2 » What do you call a fly without wings? A walk.</code></pre>
-<pre><code>3 » It's been months since I bought the book "how to scam people online". It still hasn't turned up.</code></pre>
+<pre><code>1 » What do you get when you cross a bee and a sheep? A bah-humbug.
+</code></pre>
+<pre><code>2 » Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, â��No, just leave it in the carton!â��</code></pre>
+<pre><code>3 » Hostess: Do you have a preference of where you sit?
+Dad: Down.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +209,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</code></pre>
-<pre><code>2 » A pig`s orgasm lasts for 30 minutes.</code></pre>
-<pre><code>3 » In Miconesia, coins are 12 feet across.</code></pre>
+<pre><code>1 » The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</code></pre>
+<pre><code>2 » Shakespeare spelled his OWN name several different ways.</code></pre>
+<pre><code>3 » Only 6 people in the whole world have died from moshing.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +221,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Experience is not what happens to a man. It is what a man does with what happens to him. - Aldous Huxley</code></pre>
-<pre><code>2 » The truest greatness lies in being kind, the truest wisdom in a happy mind. - Ella Wheeler Wilcox</code></pre>
-<pre><code>3 » It always seems impossible until it's done. - Nelson Mandela</code></pre>
+<pre><code>1 » To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself. - Thích Nhất Hạnh</code></pre>
+<pre><code>2 » Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship. - Epicurus</code></pre>
+<pre><code>3 » Always seek out the seed of triumph in every adversity. - Og Mandino</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
