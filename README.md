@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/996f10233aec9ae6a185c7b6f096c7b58b83a3e54ed37e82e993b62c79e63dbc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393525323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/857884c6829aaa0974a9375c597d3c1f91ece8664ddc92dd60d538ed10634e14/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393935253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,158+ Commits made on Github</p>
+<p>🏆 2,159+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>November 30, 2023</td>
-<td>19:22:58 IST</td>
+<td>Friday</td>
+<td>December 01, 2023</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 01, 2023</td>
-<td>19:20:55 IST</td>
+<td>Saturday</td>
+<td>December 02, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,11 +195,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+<pre><code>1 » Why was Santa's little helper feeling depressed? Because he has low elf esteem.
 </code></pre>
-<pre><code>2 » You can't trust a ladder. It will always let you down</code></pre>
-<pre><code>3 » Want to hear a joke about construction? Nah, I'm still working on it.</code></pre>
+<pre><code>2 » Sometimes I tuck my knees into my chest and lean forward.  Thatâ��s just how I roll.</code></pre>
+<pre><code>3 » Where do young cows eat lunch? In the calf-ateria.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ Because when he asked them who the best composer was, they'd all say "Bach bach 
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The serial number of the first MAC ever produced was 2001.</code></pre>
-<pre><code>2 » In The Empire Strikes Back there is a potato hidden in the asteroid field</code></pre>
-<pre><code>3 » Koala is Aboriginal for "no drink".</code></pre>
+<pre><code>1 » Non-dairy creamer is flammable.</code></pre>
+<pre><code>2 » The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</code></pre>
+<pre><code>3 » The giant squid has the largest eyes in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ Because when he asked them who the best composer was, they'd all say "Bach bach 
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. - Francis of Assisi</code></pre>
-<pre><code>2 » No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth. - Robert Southey</code></pre>
-<pre><code>3 » Don't turn away from possible futures before you're certain you don't have anything to learn from them. - Richard Bach</code></pre>
+<pre><code>1 » Make the best use of what is in your power and take the rest as it happens. - Epictetus</code></pre>
+<pre><code>2 » One secret of success in life is for a man to be ready for his opportunity when it comes. - Benjamin Disraeli</code></pre>
+<pre><code>3 » Any sufficiently advanced technology is equivalent to magic. - Arthur C. Clarke</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
