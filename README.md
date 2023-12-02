@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/857884c6829aaa0974a9375c597d3c1f91ece8664ddc92dd60d538ed10634e14/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393935253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/996f10233aec9ae6a185c7b6f096c7b58b83a3e54ed37e82e993b62c79e63dbc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393525323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,159+ Commits made on Github</p>
+<p>🏆 2,160+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,39 +68,39 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 17 mins</td>
+<td>5 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.8%</td>
+<td>58.84%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 38 mins</td>
+<td>2 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.41%</td>
+<td>28.54%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>28 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.22%</td>
+<td>4.91%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>17 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.07%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.18%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>10 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.98%</td>
+<td>3.02%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>6 mins</td>
+<td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.23%</td>
+<td>1.47%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -113,22 +113,22 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Studio</td>
-<td>8 hrs 51 mins</td>
+<td>9 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.41%</td>
+<td>98.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 mins</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.59%</td>
+<td>1.8%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs</td>
+<td>9 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 01, 2023</td>
-<td>19:23:02 IST</td>
+<td>Saturday</td>
+<td>December 02, 2023</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 02, 2023</td>
-<td>19:20:00 IST</td>
+<td>Sunday</td>
+<td>December 03, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,10 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-</code></pre>
-<pre><code>2 » Sometimes I tuck my knees into my chest and lean forward.  Thatâ��s just how I roll.</code></pre>
-<pre><code>3 » Where do young cows eat lunch? In the calf-ateria.</code></pre>
+<pre><code>1 » A magician was driving down the street and then he turned into a driveway.</code></pre>
+<pre><code>2 » What time did the man go to the dentist? Tooth hurt-y.</code></pre>
+<pre><code>3 » How do robots eat guacamole? With computer chips.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Non-dairy creamer is flammable.</code></pre>
-<pre><code>2 » The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</code></pre>
-<pre><code>3 » The giant squid has the largest eyes in the world.</code></pre>
+<pre><code>1 » Women manage the money and pay the bills in  75% of all Americans households.</code></pre>
+<pre><code>2 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
+<pre><code>3 » Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Make the best use of what is in your power and take the rest as it happens. - Epictetus</code></pre>
-<pre><code>2 » One secret of success in life is for a man to be ready for his opportunity when it comes. - Benjamin Disraeli</code></pre>
-<pre><code>3 » Any sufficiently advanced technology is equivalent to magic. - Arthur C. Clarke</code></pre>
+<pre><code>1 » Be sure you put your feet in the right place, then stand firm. - Abraham Lincoln</code></pre>
+<pre><code>2 » A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both. - Fawn M. Brodie</code></pre>
+<pre><code>3 » If there is no struggle, there is no progress. - Frederick Douglass</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
