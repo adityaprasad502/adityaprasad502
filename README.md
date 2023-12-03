@@ -31,8 +31,8 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/996f10233aec9ae6a185c7b6f096c7b58b83a3e54ed37e82e993b62c79e63dbc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393525323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,160+ Commits made on Github</p>
-<p>📦 40.0 KiB Used in GitHub's Storage</p>
+<p>🏆 2,165+ Commits made on Github</p>
+<p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -43,25 +43,25 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>92 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.28%</td>
+<td>22.22%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>123 commits</td>
+<td>120 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.78%</td>
+<td>28.99%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>90 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.79%</td>
+<td>21.74%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>108 commits</td>
+<td>112 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.15%</td>
+<td>27.05%</td>
 </tr>
 </tbody></table>
 <table>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 02, 2023</td>
-<td>19:22:58 IST</td>
+<td>Sunday</td>
+<td>December 03, 2023</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 03, 2023</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>December 04, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A magician was driving down the street and then he turned into a driveway.</code></pre>
-<pre><code>2 » What time did the man go to the dentist? Tooth hurt-y.</code></pre>
-<pre><code>3 » How do robots eat guacamole? With computer chips.</code></pre>
+<pre><code>1 » I went to the zoo the other day, there was only one dog in it. It was a shitzu.</code></pre>
+<pre><code>2 » What kind of tree fits in your hand? A palm tree!</code></pre>
+<pre><code>3 » Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Women manage the money and pay the bills in  75% of all Americans households.</code></pre>
-<pre><code>2 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
-<pre><code>3 » Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</code></pre>
+<pre><code>1 » Conception occurs most in the month of December.</code></pre>
+<pre><code>2 » Pearls melt in vinegar.</code></pre>
+<pre><code>3 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Be sure you put your feet in the right place, then stand firm. - Abraham Lincoln</code></pre>
-<pre><code>2 » A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both. - Fawn M. Brodie</code></pre>
-<pre><code>3 » If there is no struggle, there is no progress. - Frederick Douglass</code></pre>
+<pre><code>1 » Your sacred space is where you can find yourself again and again. - Joseph Campbell</code></pre>
+<pre><code>2 » The truth you believe and cling to makes you unavailable to hear anything new. - Pema Chödrön</code></pre>
+<pre><code>3 » Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather. - John Ruskin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
