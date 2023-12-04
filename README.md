@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/996f10233aec9ae6a185c7b6f096c7b58b83a3e54ed37e82e993b62c79e63dbc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393525323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-995%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5612f111ea250e24950ad119d217c9732137d9916607e6c92a8e19cdcf7c1fda/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393625323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-996%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,165+ Commits made on Github</p>
+<p>🏆 2,166+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,67 +68,55 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.84%</td>
+<td>1 hr 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.97%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.54%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>28 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.91%</td>
+<td>20 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.73%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>17 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.07%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>17 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.02%</td>
+<td>7 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.28%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>8 mins</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.47%</td>
+<td>1.7%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>0 secs</td>
+<td>Groovy</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
+<td>1.33%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Studio</td>
-<td>9 hrs 23 mins</td>
+<td>1 hr 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.2%</td>
+<td>98.3%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>10 mins</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>1.7%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 34 mins</td>
+<td>1 hr 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 03, 2023</td>
-<td>19:22:54 IST</td>
+<td>Monday</td>
+<td>December 04, 2023</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 04, 2023</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>December 05, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I went to the zoo the other day, there was only one dog in it. It was a shitzu.</code></pre>
-<pre><code>2 » What kind of tree fits in your hand? A palm tree!</code></pre>
-<pre><code>3 » Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.</code></pre>
+<pre><code>1 » Where do sheep go to get their hair cut? The baa-baa shop.</code></pre>
+<pre><code>2 » Why do bears have hairy coats? Fur protection.</code></pre>
+<pre><code>3 » What do bees do after they are married? They go on a honeymoon.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Conception occurs most in the month of December.</code></pre>
-<pre><code>2 » Pearls melt in vinegar.</code></pre>
-<pre><code>3 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
+<pre><code>1 » More people are killed annually by donkeys than airplane crashes.</code></pre>
+<pre><code>2 » Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</code></pre>
+<pre><code>3 » Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Your sacred space is where you can find yourself again and again. - Joseph Campbell</code></pre>
-<pre><code>2 » The truth you believe and cling to makes you unavailable to hear anything new. - Pema Chödrön</code></pre>
-<pre><code>3 » Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather. - John Ruskin</code></pre>
+<pre><code>1 » Technology… the knack of so arranging the world that we don't have to experience it. - Max Frisch</code></pre>
+<pre><code>2 » Be your own hero, it's cheaper than a movie ticket. - Doug Horton</code></pre>
+<pre><code>3 » Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart. - Washington Irving</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
