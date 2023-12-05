@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5612f111ea250e24950ad119d217c9732137d9916607e6c92a8e19cdcf7c1fda/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393625323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-996%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,166+ Commits made on Github</p>
+<p>🏆 2,167+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -164,14 +164,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 04, 2023</td>
-<td>19:23:03 IST</td>
+<td>Tuesday</td>
+<td>December 05, 2023</td>
+<td>19:23:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 05, 2023</td>
+<td>Wednesday</td>
+<td>December 06, 2023</td>
 <td>19:20:00 IST</td>
 </tr>
 </tbody></table>
@@ -183,9 +183,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where do sheep go to get their hair cut? The baa-baa shop.</code></pre>
-<pre><code>2 » Why do bears have hairy coats? Fur protection.</code></pre>
-<pre><code>3 » What do bees do after they are married? They go on a honeymoon.</code></pre>
+<pre><code>1 » Somebody stole my Microsoft Office and they're going to pay - you have my Word.</code></pre>
+<pre><code>2 » I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.</code></pre>
+<pre><code>3 » Whats a penguins favorite relative? Aunt Arctica.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +196,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » More people are killed annually by donkeys than airplane crashes.</code></pre>
-<pre><code>2 » Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</code></pre>
-<pre><code>3 » Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</code></pre>
+<pre><code>1 » On average, Americans` favorite smell is banana.</code></pre>
+<pre><code>2 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
+<pre><code>3 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +208,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Technology… the knack of so arranging the world that we don't have to experience it. - Max Frisch</code></pre>
-<pre><code>2 » Be your own hero, it's cheaper than a movie ticket. - Doug Horton</code></pre>
-<pre><code>3 » Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart. - Washington Irving</code></pre>
+<pre><code>1 » Fears are nothing more than a state of mind. - Napoleon Hill</code></pre>
+<pre><code>2 » But at any rate, the point is that God is what nobody admits to being, and everybody really is. - Alan Watts</code></pre>
+<pre><code>3 » The future is completely open, and we are writing it moment to moment. - Pema Chödrön</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
