@@ -31,8 +31,8 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,167+ Commits made on Github</p>
-<p>📦 40.1 KiB Used in GitHub's Storage</p>
+<p>🏆 2,168+ Commits made on Github</p>
+<p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -41,27 +41,27 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>92 commits</td>
+<td>90 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.22%</td>
+<td>22.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>120 commits</td>
+<td>119 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.99%</td>
+<td>29.1%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>90 commits</td>
+<td>89 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.74%</td>
+<td>21.76%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>112 commits</td>
+<td>111 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.05%</td>
+<td>27.14%</td>
 </tr>
 </tbody></table>
 <table>
@@ -69,32 +69,32 @@ fun main() {cuteMsg()}
  <tr>
 <td>Kotlin</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.97%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.15%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>20 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.73%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.53%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>14 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.67%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>7 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.28%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>6.47%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.33%</td>
+<td>1.18%</td>
 </tr>
 </tbody></table>
 <table>
@@ -102,21 +102,21 @@ fun main() {cuteMsg()}
  <tr>
 <td>Studio</td>
 <td>1 hr 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.3%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>87.33%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>14 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.67%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 43 mins</td>
+<td>1 hr 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -164,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 05, 2023</td>
-<td>19:23:00 IST</td>
+<td>Wednesday</td>
+<td>December 06, 2023</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 06, 2023</td>
-<td>19:20:00 IST</td>
+<td>Thursday</td>
+<td>December 07, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -183,10 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Somebody stole my Microsoft Office and they're going to pay - you have my Word.</code></pre>
-<pre><code>2 » I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.</code></pre>
-<pre><code>3 » Whats a penguins favorite relative? Aunt Arctica.</code></pre>
+<pre><code>1 » Two muffins were sitting in an oven, and the first looks over to the second, and says, â��man, itâ��s really hot in hereâ��. The second looks over at the first with a surprised look, and answers, â��WHOA, a talking muffin!â��</code></pre>
+<pre><code>2 » My cat was just sick on the carpet, I donâ��t think itâ��s feline well.</code></pre>
+<pre><code>3 » To the guy who invented zero... thanks for nothing.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -196,9 +195,9 @@ I have no words to describe how angry I am.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » On average, Americans` favorite smell is banana.</code></pre>
-<pre><code>2 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
-<pre><code>3 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
+<pre><code>1 » Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</code></pre>
+<pre><code>2 » Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </code></pre>
+<pre><code>3 » The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +207,9 @@ I have no words to describe how angry I am.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Fears are nothing more than a state of mind. - Napoleon Hill</code></pre>
-<pre><code>2 » But at any rate, the point is that God is what nobody admits to being, and everybody really is. - Alan Watts</code></pre>
-<pre><code>3 » The future is completely open, and we are writing it moment to moment. - Pema Chödrön</code></pre>
+<pre><code>1 » To climb steep hills requires a slow pace at first. - William Shakespeare</code></pre>
+<pre><code>2 » Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley</code></pre>
+<pre><code>3 » You'll see it when you believe it. - Wayne Dyer</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
