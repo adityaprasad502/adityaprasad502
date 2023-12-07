@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,168+ Commits made on Github</p>
+<p>🏆 2,169+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -164,14 +164,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 06, 2023</td>
-<td>19:22:51 IST</td>
+<td>Thursday</td>
+<td>December 07, 2023</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 07, 2023</td>
+<td>Friday</td>
+<td>December 08, 2023</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -183,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Two muffins were sitting in an oven, and the first looks over to the second, and says, â��man, itâ��s really hot in hereâ��. The second looks over at the first with a surprised look, and answers, â��WHOA, a talking muffin!â��</code></pre>
-<pre><code>2 » My cat was just sick on the carpet, I donâ��t think itâ��s feline well.</code></pre>
-<pre><code>3 » To the guy who invented zero... thanks for nothing.</code></pre>
+<pre><code>1 » What did the digital clock say to the grandfather clock? Look, no hands!</code></pre>
+<pre><code>2 » What do you call a sheep with no legs? A cloud.</code></pre>
+<pre><code>3 » Why was the picture sent to prison? It was framed.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</code></pre>
-<pre><code>2 » Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </code></pre>
-<pre><code>3 » The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </code></pre>
+<pre><code>1 » The U.S. military operates 234 golf courses</code></pre>
+<pre><code>2 » Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </code></pre>
+<pre><code>3 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To climb steep hills requires a slow pace at first. - William Shakespeare</code></pre>
-<pre><code>2 » Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley</code></pre>
-<pre><code>3 » You'll see it when you believe it. - Wayne Dyer</code></pre>
+<pre><code>1 » Those that know, do. Those that understand, teach. - Aristotle</code></pre>
+<pre><code>2 » We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct. - Elizabeth Kapu'uwailani Lindsey</code></pre>
+<pre><code>3 » Happiness is found in doing, not merely possessing. - Napoleon Hill</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
