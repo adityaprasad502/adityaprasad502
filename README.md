@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,169+ Commits made on Github</p>
+<p>🏆 2,170+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,55 +68,55 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 12 mins</td>
+<td>52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.15%</td>
+<td>63.31%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>20 mins</td>
+<td>15 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.53%</td>
+<td>18.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>14 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.67%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>7 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.47%</td>
+<td>12 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.75%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.18%</td>
+<td>1.48%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.76%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Studio</td>
-<td>1 hr 41 mins</td>
+<td>1 hr 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>87.33%</td>
+<td>84.25%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>14 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.67%</td>
+<td>12 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.75%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 56 mins</td>
+<td>1 hr 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -164,15 +164,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 07, 2023</td>
-<td>19:22:53 IST</td>
+<td>Friday</td>
+<td>December 08, 2023</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 08, 2023</td>
-<td>19:20:50 IST</td>
+<td>Saturday</td>
+<td>December 09, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -183,9 +183,11 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What did the digital clock say to the grandfather clock? Look, no hands!</code></pre>
-<pre><code>2 » What do you call a sheep with no legs? A cloud.</code></pre>
-<pre><code>3 » Why was the picture sent to prison? It was framed.</code></pre>
+<pre><code>1 » How do you teach a kid to climb stairs? There is a step by step guide.</code></pre>
+<pre><code>2 » What kind of tree fits in your hand? A palm tree!</code></pre>
+<pre><code>3 » What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +197,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The U.S. military operates 234 golf courses</code></pre>
-<pre><code>2 » Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </code></pre>
-<pre><code>3 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
+<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
+<pre><code>2 » The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</code></pre>
+<pre><code>3 » Most toilets flush in E flat.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +209,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Those that know, do. Those that understand, teach. - Aristotle</code></pre>
-<pre><code>2 » We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct. - Elizabeth Kapu'uwailani Lindsey</code></pre>
-<pre><code>3 » Happiness is found in doing, not merely possessing. - Napoleon Hill</code></pre>
+<pre><code>1 » They can do all because they think they can. - Virgil</code></pre>
+<pre><code>2 » When you come to the end of your rope, tie a knot and hang on. - Franklin D. Roosevelt</code></pre>
+<pre><code>3 » It is not uncommon for people to spend their whole life waiting to start living. - Eckhart Tolle</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
