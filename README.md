@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,170+ Commits made on Github</p>
+<p>🏆 2,171+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -164,14 +164,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 08, 2023</td>
+<td>Saturday</td>
+<td>December 09, 2023</td>
 <td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 09, 2023</td>
+<td>Sunday</td>
+<td>December 10, 2023</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -183,11 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How do you teach a kid to climb stairs? There is a step by step guide.</code></pre>
-<pre><code>2 » What kind of tree fits in your hand? A palm tree!</code></pre>
-<pre><code>3 » What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-</code></pre>
+<pre><code>1 » Did you hear about the runner who was criticized? He just took it in stride</code></pre>
+<pre><code>2 » Where do you learn to make banana splits? At sundae school.</code></pre>
+<pre><code>3 » Did you hear the joke about the wandering nun? She was a roman catholic.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +195,9 @@ You can hang around. I'll just go on ahead.
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
-<pre><code>2 » The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</code></pre>
-<pre><code>3 » Most toilets flush in E flat.</code></pre>
+<pre><code>1 » A cat has 32 muscles in each ear.</code></pre>
+<pre><code>2 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
+<pre><code>3 » `Obsession` is the most popular boat name.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +207,9 @@ You can hang around. I'll just go on ahead.
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » They can do all because they think they can. - Virgil</code></pre>
-<pre><code>2 » When you come to the end of your rope, tie a knot and hang on. - Franklin D. Roosevelt</code></pre>
-<pre><code>3 » It is not uncommon for people to spend their whole life waiting to start living. - Eckhart Tolle</code></pre>
+<pre><code>1 » Think like a man of action; act like a man of thought. - Henri Bergson</code></pre>
+<pre><code>2 » Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement. - Ralph Marston</code></pre>
+<pre><code>3 » Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
