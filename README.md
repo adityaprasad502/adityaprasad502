@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,172+ Commits made on Github</p>
+<p>🏆 2,173+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -164,14 +164,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 10, 2023</td>
-<td>19:22:47 IST</td>
+<td>Monday</td>
+<td>December 11, 2023</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 11, 2023</td>
+<td>Tuesday</td>
+<td>December 12, 2023</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -183,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I don't trust sushi, there's something fishy about it.</code></pre>
-<pre><code>2 » Did you hear the news? FedEx and UPS are merging. Theyâ��re going to go by the name Fed-Up from now on.</code></pre>
-<pre><code>3 » What did the ocean say to the shore? Nothing, it just waved.</code></pre>
+<pre><code>1 » How was the snow globe feeling after the storm? A little shaken.</code></pre>
+<pre><code>2 » Why did the worker get fired from the orange juice factory? Lack of concentration.</code></pre>
+<pre><code>3 » What do you call a female snake. misssssssss </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -195,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » All polar bears are left-handed.</code></pre>
-<pre><code>2 » It`s possible to lead a cow upstairs but not downstairs.</code></pre>
-<pre><code>3 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
+<pre><code>1 » Right-handed people live, on average; nine years longer than left handed people.</code></pre>
+<pre><code>2 » During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</code></pre>
+<pre><code>3 » Men can read smaller print than women; women can hear better.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage. - Jack Welch</code></pre>
-<pre><code>2 » Friendship is an arrangement by which we undertake to exchange small favors for big ones. - Montesquieu</code></pre>
-<pre><code>3 » Technology is teaching us to be human again. - Simon Mainwaring</code></pre>
+<pre><code>1 » Whatever we expect with confidence becomes our own self-fulfilling prophecy. - Brian Tracy</code></pre>
+<pre><code>2 » Once we accept our limits, we go beyond them. - Albert Einstein</code></pre>
+<pre><code>3 » Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots. - H. Jackson Brown Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
