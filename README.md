@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,177+ Commits made on Github</p>
+<p>🏆 2,178+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -119,15 +119,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 15, 2023</td>
-<td>19:22:49 IST</td>
+<td>Saturday</td>
+<td>December 16, 2023</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 16, 2023</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>December 17, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -138,9 +138,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Is there a hole in your shoe? Noâ�¦ Then howâ��d you get your foot in it?</code></pre>
-<pre><code>2 » What do you call two barracuda fish?  A Pairacuda!</code></pre>
-<pre><code>3 » Two peanuts were walking down the street. One was a salted.</code></pre>
+<pre><code>1 » Why did the scarecrow win an award? Because he was outstanding in his field.</code></pre>
+<pre><code>2 » Geology rocks, but Geography is where it's at!</code></pre>
+<pre><code>3 » Why was it called the dark ages? Because of all the knights. </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +150,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</code></pre>
-<pre><code>2 » The Human eyes never grow, but nose and ears never stop growing.</code></pre>
-<pre><code>3 » Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</code></pre>
+<pre><code>1 » "Underground" is the only word in the English language that begins and ends with the letters "und"</code></pre>
+<pre><code>2 » There are no clocks in Las Vegas gambling casinos.</code></pre>
+<pre><code>3 » The serial number of the first MAC ever produced was 2001.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +162,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The greatest way to live with honor in this world is to be what we pretend to be. - Socrates</code></pre>
-<pre><code>2 » It has long been an axiom of mine that the little things are infinitely the most important. - Arthur Conan Doyle</code></pre>
-<pre><code>3 » We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy. - Arthur Ashe</code></pre>
+<pre><code>1 » Nobody will believe in you unless you believe in yourself. - Liberace</code></pre>
+<pre><code>2 » Knowledge speaks, but wisdom listens. - Jimi Hendrix</code></pre>
+<pre><code>3 » Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry. - Earl Monroe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
