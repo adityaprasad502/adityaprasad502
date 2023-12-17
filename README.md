@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d51c03b657e37eed8bbf54fafc7862b90c222444a3c818f71f18fa01ba43a2b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d393937253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/aaafe283032aac2153acbc70dd7bc5d6d728bb805c8c2e095871b471ec6e4904/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393725323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,178+ Commits made on Github</p>
+<p>🏆 2,181+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -119,15 +119,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 16, 2023</td>
-<td>19:22:54 IST</td>
+<td>Sunday</td>
+<td>December 17, 2023</td>
+<td>19:23:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 17, 2023</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>December 18, 2023</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -138,9 +138,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the scarecrow win an award? Because he was outstanding in his field.</code></pre>
-<pre><code>2 » Geology rocks, but Geography is where it's at!</code></pre>
-<pre><code>3 » Why was it called the dark ages? Because of all the knights. </code></pre>
+<pre><code>1 » My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.</code></pre>
+<pre><code>2 » What did the doctor say to the gingerbread man who broke his leg? Try icing it.</code></pre>
+<pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +150,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » "Underground" is the only word in the English language that begins and ends with the letters "und"</code></pre>
-<pre><code>2 » There are no clocks in Las Vegas gambling casinos.</code></pre>
-<pre><code>3 » The serial number of the first MAC ever produced was 2001.</code></pre>
+<pre><code>1 » The first owner of the Marlboro company died of lung cancer.</code></pre>
+<pre><code>2 » The average person spends 12 weeks a year `looking for things`.</code></pre>
+<pre><code>3 » The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +162,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Nobody will believe in you unless you believe in yourself. - Liberace</code></pre>
-<pre><code>2 » Knowledge speaks, but wisdom listens. - Jimi Hendrix</code></pre>
-<pre><code>3 » Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry. - Earl Monroe</code></pre>
+<pre><code>1 » Character develops itself in the stream of life. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>2 » As an organizer I start from where the world is, as it is, not as I would like it to be. - Saul Alinsky</code></pre>
+<pre><code>3 » We do not quit playing because we grow old, we grow old because we quit playing. - Oliver Wendell Holmes Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
