@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/aaafe283032aac2153acbc70dd7bc5d6d728bb805c8c2e095871b471ec6e4904/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393725323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,181+ Commits made on Github</p>
+<p>🏆 2,182+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,18 +64,33 @@ fun main() {cuteMsg()}
 <td>27.14%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Python</td>
+<td>30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -119,14 +134,14 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 17, 2023</td>
+<td>Monday</td>
+<td>December 18, 2023</td>
 <td>19:23:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 18, 2023</td>
+<td>Tuesday</td>
+<td>December 19, 2023</td>
 <td>19:20:05 IST</td>
 </tr>
 </tbody></table>
@@ -138,9 +153,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.</code></pre>
-<pre><code>2 » What did the doctor say to the gingerbread man who broke his leg? Try icing it.</code></pre>
-<pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
+<pre><code>1 » I was so proud when I finished the puzzle in six months, when on the side it said three to four years.</code></pre>
+<pre><code>2 » I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.</code></pre>
+<pre><code>3 » Did you hear about the guy whose whole left side was cut off? He's all right now.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -150,9 +165,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The first owner of the Marlboro company died of lung cancer.</code></pre>
-<pre><code>2 » The average person spends 12 weeks a year `looking for things`.</code></pre>
-<pre><code>3 » The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</code></pre>
+<pre><code>1 » A whale`s penis is called a dork.</code></pre>
+<pre><code>2 » The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</code></pre>
+<pre><code>3 » The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +177,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Character develops itself in the stream of life. - Johann Wolfgang von Goethe</code></pre>
-<pre><code>2 » As an organizer I start from where the world is, as it is, not as I would like it to be. - Saul Alinsky</code></pre>
-<pre><code>3 » We do not quit playing because we grow old, we grow old because we quit playing. - Oliver Wendell Holmes Jr.</code></pre>
+<pre><code>1 » I never think of the future. It comes soon enough. - Albert Einstein</code></pre>
+<pre><code>2 » Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary. - Margaret Cousins</code></pre>
+<pre><code>3 » Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
