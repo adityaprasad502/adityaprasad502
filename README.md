@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/aaafe283032aac2153acbc70dd7bc5d6d728bb805c8c2e095871b471ec6e4904/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393725323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-997%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/628d211b119808d7fb23ff660cd849604b25f98bb8b6f7b8686d9875517d8623/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393925323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-999%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,183+ Commits made on Github</p>
+<p>🏆 2,196+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -134,15 +134,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 19, 2023</td>
-<td>19:22:58 IST</td>
+<td>Wednesday</td>
+<td>December 20, 2023</td>
+<td>19:23:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 20, 2023</td>
-<td>19:20:55 IST</td>
+<td>Thursday</td>
+<td>December 21, 2023</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -153,9 +153,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I was going to get a brain transplant, but I changed my mind</code></pre>
-<pre><code>2 » I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.</code></pre>
-<pre><code>3 » I was going to learn how to juggle, but I didn't have the balls.</code></pre>
+<pre><code>1 » Did you hear the one about the guy with the broken hearing aid? Neither did he.</code></pre>
+<pre><code>2 » No matter how kind you are, German children are kinder.</code></pre>
+<pre><code>3 » In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -165,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Non-dairy creamer is flammable.</code></pre>
-<pre><code>2 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
-<pre><code>3 » Intelligent people have more zinc and copper in their hair.</code></pre>
+<pre><code>1 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
+<pre><code>2 » Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</code></pre>
+<pre><code>3 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Imagination is the living power and prime agent of all human perception. - Samuel Taylor Coleridge</code></pre>
-<pre><code>2 » Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings. - The Buddha</code></pre>
-<pre><code>3 » It is only when the mind and character slumber that the dress can be seen. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » Friends show their love in times of trouble, not in happiness. - Euripides</code></pre>
+<pre><code>2 » Most folks are as happy as they make up their minds to be. - Abraham Lincoln</code></pre>
+<pre><code>3 » Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
