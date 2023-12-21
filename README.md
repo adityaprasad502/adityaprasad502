@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/628d211b119808d7fb23ff660cd849604b25f98bb8b6f7b8686d9875517d8623/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d39393925323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-999%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e19e591cd8cd6e38e57c0cba1d2a9f380cfe23dff2ed27c322f0656d6c6698c2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303125323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C001%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,196+ Commits made on Github</p>
+<p>🏆 2,218+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,16 +68,28 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>2 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.75%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.99%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.25%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>30 mins</td>
+<td>2 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -86,7 +98,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>30 mins</td>
+<td>2 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -134,15 +146,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 20, 2023</td>
-<td>19:23:00 IST</td>
+<td>Thursday</td>
+<td>December 21, 2023</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 21, 2023</td>
-<td>19:20:00 IST</td>
+<td>Friday</td>
+<td>December 22, 2023</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -153,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Did you hear the one about the guy with the broken hearing aid? Neither did he.</code></pre>
-<pre><code>2 » No matter how kind you are, German children are kinder.</code></pre>
-<pre><code>3 » In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.</code></pre>
+<pre><code>1 » Why did the burglar hang his mugshot on the wall? To prove that he was framed!</code></pre>
+<pre><code>2 » Why do cows wear bells? Because their horns don't work.</code></pre>
+<pre><code>3 » Why didnâ��t the skeleton cross the road? Because he had no guts.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -165,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
-<pre><code>2 » Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</code></pre>
-<pre><code>3 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
+<pre><code>1 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
+<pre><code>2 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
+<pre><code>3 » Oak trees do not produce acorns until they are fifty years of age or older.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Friends show their love in times of trouble, not in happiness. - Euripides</code></pre>
-<pre><code>2 » Most folks are as happy as they make up their minds to be. - Abraham Lincoln</code></pre>
-<pre><code>3 » Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » The foolish man seeks happiness in the distance, the wise grows it under his feet. - James Oppenheim</code></pre>
+<pre><code>2 » I am not bothered by the fact that I am unknown. I am bothered when I do not know others. - Confucius</code></pre>
+<pre><code>3 » I hear and I forget. I see and I remember. I do and I understand. - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
