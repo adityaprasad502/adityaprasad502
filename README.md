@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e19e591cd8cd6e38e57c0cba1d2a9f380cfe23dff2ed27c322f0656d6c6698c2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303125323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C001%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1191de7bffc1c946d8afb0b9e98591d08eec84bd73d74f12bdcb21ea56ecbe38/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303325323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C003%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,218+ Commits made on Github</p>
+<p>🏆 2,226+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,28 +68,28 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 48 mins</td>
+<td>4 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.75%</td>
+<td>99.27%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.99%</td>
+<td>0.58%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.25%</td>
+<td>0.15%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 50 mins</td>
+<td>4 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -98,7 +98,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 50 mins</td>
+<td>4 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -146,15 +146,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 21, 2023</td>
-<td>19:22:46 IST</td>
+<td>Friday</td>
+<td>December 22, 2023</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 22, 2023</td>
-<td>19:20:45 IST</td>
+<td>Saturday</td>
+<td>December 23, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -165,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the burglar hang his mugshot on the wall? To prove that he was framed!</code></pre>
-<pre><code>2 » Why do cows wear bells? Because their horns don't work.</code></pre>
-<pre><code>3 » Why didnâ��t the skeleton cross the road? Because he had no guts.</code></pre>
+<pre><code>1 » Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.</code></pre>
+<pre><code>2 » Why don't skeletons ride roller coasters? They don't have the stomach for it.</code></pre>
+<pre><code>3 » They tried to make a diamond shaped like a duck. It quacked under the pressure.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
-<pre><code>2 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
-<pre><code>3 » Oak trees do not produce acorns until they are fifty years of age or older.</code></pre>
+<pre><code>1 » THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.</code></pre>
+<pre><code>2 » `Obsession` is the most popular boat name.</code></pre>
+<pre><code>3 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The foolish man seeks happiness in the distance, the wise grows it under his feet. - James Oppenheim</code></pre>
-<pre><code>2 » I am not bothered by the fact that I am unknown. I am bothered when I do not know others. - Confucius</code></pre>
-<pre><code>3 » I hear and I forget. I see and I remember. I do and I understand. - Confucius</code></pre>
+<pre><code>1 » Football is football and talent is talent. But the mindset of your team makes all the difference. - Robert Griffin III</code></pre>
+<pre><code>2 » You cannot escape the responsibility of tomorrow by evading it today. - Abraham Lincoln</code></pre>
+<pre><code>3 » I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress. - Elizabeth Montagu</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
