@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1191de7bffc1c946d8afb0b9e98591d08eec84bd73d74f12bdcb21ea56ecbe38/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303325323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C003%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f96223b1d8c1506d8297ba05c22779351a14c2a741a9e6b434621b9110114c7b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303035253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C005%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,226+ Commits made on Github</p>
-<p>📦 40.2 KiB Used in GitHub's Storage</p>
+<p>🏆 2,238+ Commits made on Github</p>
+<p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -68,28 +68,28 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 49 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>99.27%</td>
+<td>7 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.52%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.58%</td>
+<td>0.39%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.15%</td>
+<td>0.1%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 51 mins</td>
+<td>7 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -98,7 +98,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 51 mins</td>
+<td>7 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -146,15 +146,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 22, 2023</td>
-<td>19:22:54 IST</td>
+<td>Saturday</td>
+<td>December 23, 2023</td>
+<td>19:22:39 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 23, 2023</td>
-<td>19:20:50 IST</td>
+<td>Sunday</td>
+<td>December 24, 2023</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -165,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.</code></pre>
-<pre><code>2 » Why don't skeletons ride roller coasters? They don't have the stomach for it.</code></pre>
-<pre><code>3 » They tried to make a diamond shaped like a duck. It quacked under the pressure.</code></pre>
+<pre><code>1 » A man walks into a bar and orders helicopter flavor chips. The barman replies â��sorry mate we only do plainâ��</code></pre>
+<pre><code>2 » I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.</code></pre>
+<pre><code>3 » I have kleptomania, but when it gets bad, I take something for it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.</code></pre>
-<pre><code>2 » `Obsession` is the most popular boat name.</code></pre>
-<pre><code>3 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
+<pre><code>1 » 10,000 Dutch cows pass through the Amsterdam airport each year.</code></pre>
+<pre><code>2 » In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</code></pre>
+<pre><code>3 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Football is football and talent is talent. But the mindset of your team makes all the difference. - Robert Griffin III</code></pre>
-<pre><code>2 » You cannot escape the responsibility of tomorrow by evading it today. - Abraham Lincoln</code></pre>
-<pre><code>3 » I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress. - Elizabeth Montagu</code></pre>
+<pre><code>1 » A short saying often contains much wisdom. - Sophocles</code></pre>
+<pre><code>2 » To be tested is good. The challenged life may be the best therapist. - Gail Sheehy</code></pre>
+<pre><code>3 » There is no great genius without some touch of madness. - Seneca the Younger</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
