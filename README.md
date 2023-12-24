@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f96223b1d8c1506d8297ba05c22779351a14c2a741a9e6b434621b9110114c7b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303035253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C005%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a5a5fd7d141c31577e7f6a4444548aafd97fb633936ea784b2d6759c4bc85b04/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303036253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C006%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,238+ Commits made on Github</p>
+<p>🏆 2,250+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,28 +68,28 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>7 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.52%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.39%</td>
+<td>7 hrs 44 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.67%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>0 secs</td>
+<td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.1%</td>
+<td>2.6%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.73%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 19 mins</td>
+<td>8 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -98,7 +98,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 19 mins</td>
+<td>8 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -146,15 +146,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 23, 2023</td>
-<td>19:22:39 IST</td>
+<td>Sunday</td>
+<td>December 24, 2023</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 24, 2023</td>
-<td>19:20:35 IST</td>
+<td>Monday</td>
+<td>December 25, 2023</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -165,9 +165,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A man walks into a bar and orders helicopter flavor chips. The barman replies â��sorry mate we only do plainâ��</code></pre>
-<pre><code>2 » I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.</code></pre>
-<pre><code>3 » I have kleptomania, but when it gets bad, I take something for it.</code></pre>
+<pre><code>1 » What do you call two barracuda fish?  A Pairacuda!</code></pre>
+<pre><code>2 » Why did the cookie cry? It was feeling crumby.</code></pre>
+<pre><code>3 » Why did the house go to the doctor? It was having window panes.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -177,9 +177,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 10,000 Dutch cows pass through the Amsterdam airport each year.</code></pre>
-<pre><code>2 » In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</code></pre>
-<pre><code>3 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
+<pre><code>1 » 70% of all boats sold are used for fishing.</code></pre>
+<pre><code>2 » Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
+<pre><code>3 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A short saying often contains much wisdom. - Sophocles</code></pre>
-<pre><code>2 » To be tested is good. The challenged life may be the best therapist. - Gail Sheehy</code></pre>
-<pre><code>3 » There is no great genius without some touch of madness. - Seneca the Younger</code></pre>
+<pre><code>1 » A business that makes nothing but money is a poor business. - Henry Ford</code></pre>
+<pre><code>2 » Without hard work, nothing grows but weeds. - Gordon Hinckley</code></pre>
+<pre><code>3 » Small opportunities are often the beginning of great enterprises. - Demosthenes</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
