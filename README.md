@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/426a13c409b2d0edabc85e3fa82e02a7a21ac67f27f2fbb7c6505223124c1bc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303825323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C008%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,276+ Commits made on Github</p>
+<p>🏆 2,277+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,21 +68,33 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>8 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.88%</td>
+<td>10 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.46%</td>
+</tr> 
+ <tr>
+<td>TypeScript</td>
+<td>42 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.2%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.43%</td>
+<td>1.85%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>3 mins</td>
+<td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.68%</td>
+<td>1.39%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.09%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -95,7 +107,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 34 mins</td>
+<td>11 hrs 17 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -104,7 +116,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 34 mins</td>
+<td>11 hrs 17 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -158,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 25, 2023</td>
-<td>19:22:48 IST</td>
+<td>Tuesday</td>
+<td>December 26, 2023</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 26, 2023</td>
-<td>19:20:45 IST</td>
+<td>Wednesday</td>
+<td>December 27, 2023</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -177,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Whereâ��s the bin? Dad: I havenâ��t been anywhere!</code></pre>
-<pre><code>2 » What did the mountain climber name his son? Cliff.</code></pre>
-<pre><code>3 » A Skeleton walked into a bar he said I need a beer and a mop</code></pre>
+<pre><code>1 » What was a more important invention than the first telephone? The second one.</code></pre>
+<pre><code>2 » What do you call an eagle who can play the piano? Talonted!</code></pre>
+<pre><code>3 » What did Michael Jackson name his denim store?    Billy Jeans!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -189,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.</code></pre>
-<pre><code>2 » Weatherman Willard Scott was the first original Ronald McDonald.</code></pre>
-<pre><code>3 » Between 2 and 3 jockeys are killed each year in horse racing.</code></pre>
+<pre><code>1 » Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.</code></pre>
+<pre><code>2 » Leonardo Da Vinci invented the scissors.</code></pre>
+<pre><code>3 » The Human eyes never grow, but nose and ears never stop growing.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems. - Mahatma Gandhi</code></pre>
-<pre><code>2 » There is no friendship, no love, like that of the parent for the child. - Henry Ward Beecher</code></pre>
-<pre><code>3 » All truths are easy to understand once they are discovered; the point is to discover them. - Galileo Galilei</code></pre>
+<pre><code>1 » Good timber does not grow with ease; the stronger the wind, the stronger the trees. - J. Willard Marriott</code></pre>
+<pre><code>2 » Most folks are as happy as they make up their minds to be. - Abraham Lincoln</code></pre>
+<pre><code>3 » Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works. - John Cleese</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
