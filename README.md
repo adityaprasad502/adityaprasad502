@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/426a13c409b2d0edabc85e3fa82e02a7a21ac67f27f2fbb7c6505223124c1bc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303825323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C008%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,278+ Commits made on Github</p>
+<p>🏆 2,279+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,33 +68,33 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>10 hrs 12 mins</td>
+<td>7 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.46%</td>
+<td>88.36%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>42 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.2%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.82%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.85%</td>
+<td>2.25%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>9 mins</td>
+<td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.39%</td>
+<td>1.44%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
+<td>0.11%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -107,7 +107,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 17 mins</td>
+<td>8 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -116,7 +116,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>11 hrs 17 mins</td>
+<td>8 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 27, 2023</td>
-<td>19:22:46 IST</td>
+<td>Thursday</td>
+<td>December 28, 2023</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 28, 2023</td>
-<td>19:20:45 IST</td>
+<td>Friday</td>
+<td>December 29, 2023</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,10 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Want to hear a joke about construction? Nah, I'm still working on it.</code></pre>
-<pre><code>2 » What do you get when you cross a bee and a sheep? A bah-humbug.
-</code></pre>
-<pre><code>3 » What is this movie about? It is about 2 hours long.</code></pre>
+<pre><code>1 » Why do birds fly south for the winter? Because it's too far to walk.</code></pre>
+<pre><code>2 » Why did the banana go to the doctor? He was not "peeling" well.</code></pre>
+<pre><code>3 » Why are snake races so exciting? They're always neck and neck.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » One third of all cancers are sun related.</code></pre>
-<pre><code>2 » More Monopoly money is printed in a year, than real money throughout the world.</code></pre>
-<pre><code>3 » Men can read smaller print than women; women can hear better.</code></pre>
+<pre><code>1 » 40,000 Americans are injured by toilets each year.</code></pre>
+<pre><code>2 » `Stewardesses` is the longest word that is typed with only the left hand.</code></pre>
+<pre><code>3 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Whoever doesn't flare up at someone who's angry wins a battle hard to win. - The Buddha</code></pre>
-<pre><code>2 » Ignorant men don't know what good they hold in their hands until they've flung it away. - Sophocles</code></pre>
-<pre><code>3 » As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse. - The Buddha</code></pre>
+<pre><code>1 » Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins. - Charles Eastman</code></pre>
+<pre><code>2 » In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later. - Harold Geneen</code></pre>
+<pre><code>3 » Small opportunities are often the beginning of great enterprises. - Demosthenes</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
