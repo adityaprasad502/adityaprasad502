@@ -31,70 +31,70 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/426a13c409b2d0edabc85e3fa82e02a7a21ac67f27f2fbb7c6505223124c1bc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303825323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C008%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,279+ Commits made on Github</p>
+<p>🏆 2,280+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
 <p>📊 <strong>This Week I Spent My Time On</strong></p>
 <table>
-<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>90 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.06%</td>
+<td>77 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>119 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.17%</td>
+<td>71 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.05%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>88 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.57%</td>
+<td>58 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.83%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>111 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.21%</td>
+<td>102 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.12%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>7 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.36%</td>
+<td>5 hrs 53 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.97%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.82%</td>
+<td>10.1%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.25%</td>
+<td>2.91%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.44%</td>
+<td>1.86%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>0.14%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -107,7 +107,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 56 mins</td>
+<td>6 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -116,7 +116,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 56 mins</td>
+<td>6 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 28, 2023</td>
-<td>19:22:57 IST</td>
+<td>Friday</td>
+<td>December 29, 2023</td>
+<td>19:22:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 29, 2023</td>
-<td>19:20:55 IST</td>
+<td>Saturday</td>
+<td>December 30, 2023</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why do birds fly south for the winter? Because it's too far to walk.</code></pre>
-<pre><code>2 » Why did the banana go to the doctor? He was not "peeling" well.</code></pre>
-<pre><code>3 » Why are snake races so exciting? They're always neck and neck.</code></pre>
+<pre><code>1 » A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.</code></pre>
+<pre><code>2 » I asked a frenchman if he played video games. He said "Wii"</code></pre>
+<pre><code>3 » I wanted to be a tailor but I didn't suit the job</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 40,000 Americans are injured by toilets each year.</code></pre>
-<pre><code>2 » `Stewardesses` is the longest word that is typed with only the left hand.</code></pre>
-<pre><code>3 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
+<pre><code>1 » A pregnant goldfish is called a twit.</code></pre>
+<pre><code>2 » "Underground" is the only word in the English language that begins and ends with the letters "und"</code></pre>
+<pre><code>3 » Average life span of a major league baseball: 7 pitches.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins. - Charles Eastman</code></pre>
-<pre><code>2 » In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later. - Harold Geneen</code></pre>
-<pre><code>3 » Small opportunities are often the beginning of great enterprises. - Demosthenes</code></pre>
+<pre><code>1 » He who knows, does not speak. He who speaks, does not know. - Laozi</code></pre>
+<pre><code>2 » I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress. - Elizabeth Montagu</code></pre>
+<pre><code>3 » Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind. - Leonardo da Vinci</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
