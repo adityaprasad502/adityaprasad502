@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/426a13c409b2d0edabc85e3fa82e02a7a21ac67f27f2fbb7c6505223124c1bc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303825323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C008%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/989bcf686e90136862ea866e69241852df2c6df69104c6c6723d9bfa3afd7a1b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330303825323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C008%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,280+ Commits made on Github</p>
+<p>🏆 2,281+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,46 +68,46 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 53 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.97%</td>
+<td>3 hrs 25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>76.72%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>42 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.1%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.65%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>12 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.91%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.5%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.86%</td>
+<td>2.89%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.14%</td>
+<td>0.22%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 55 mins</td>
+<td>4 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -116,7 +116,7 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 55 mins</td>
+<td>4 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,14 +170,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 29, 2023</td>
+<td>Saturday</td>
+<td>December 30, 2023</td>
 <td>19:22:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 30, 2023</td>
+<td>Sunday</td>
+<td>December 31, 2023</td>
 <td>19:20:40 IST</td>
 </tr>
 </tbody></table>
@@ -189,9 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.</code></pre>
-<pre><code>2 » I asked a frenchman if he played video games. He said "Wii"</code></pre>
-<pre><code>3 » I wanted to be a tailor but I didn't suit the job</code></pre>
+<pre><code>1 » I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.</code></pre>
+<pre><code>2 » Want to hear a chimney joke? Got stacks of em! First one's on the house</code></pre>
+<pre><code>3 » What do you get hanging from Apple trees? Sore arms.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A pregnant goldfish is called a twit.</code></pre>
-<pre><code>2 » "Underground" is the only word in the English language that begins and ends with the letters "und"</code></pre>
-<pre><code>3 » Average life span of a major league baseball: 7 pitches.</code></pre>
+<pre><code>1 » In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</code></pre>
+<pre><code>2 » Dolphins sleep with one eye open!</code></pre>
+<pre><code>3 » There are 1,575 steps from the ground floor to the top of the Empire State building.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » He who knows, does not speak. He who speaks, does not know. - Laozi</code></pre>
-<pre><code>2 » I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress. - Elizabeth Montagu</code></pre>
-<pre><code>3 » Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind. - Leonardo da Vinci</code></pre>
+<pre><code>1 » Avoid having your ego so close to your position that when your position falls, your ego goes with it. - Colin Powell</code></pre>
+<pre><code>2 » This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. - Don DeLillo</code></pre>
+<pre><code>3 » I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown. - Woody Allen</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
