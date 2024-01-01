@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/2f5ac45eefc12db7b069d048c2bb6d4eacf675253b3a8857318e84fc6c48064b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313325323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C013%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3d6ef0e31fa62730c213d4e2d66b437b5c64509fb1c9cec1ab752af24f00abdf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313425323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C014%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,283+ Commits made on Github</p>
+<p>🏆 2,292+ Commits made on Github</p>
 <p>📦 40.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -43,86 +43,92 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>77 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.0%</td>
+<td>24.92%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>71 commits</td>
+<td>69 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.05%</td>
+<td>22.33%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>58 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.83%</td>
+<td>18.77%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>102 commits</td>
+<td>105 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.12%</td>
+<td>33.98%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>2 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.64%</td>
+<td>JavaScript</td>
+<td>2 hrs 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.03%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>1 hr 8 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.1%</td>
+<td>Python</td>
+<td>2 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.57%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>42 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.59%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.03%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>39 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.31%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>26 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.5%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>15 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.21%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>12 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.91%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.92%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.69%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
+<td>2.57%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>6 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.64%</td>
+</tr> 
+ <tr>
+<td>Studio</td>
+<td>1 hr 12 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.36%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 9 mins</td>
+<td>7 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +182,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 31, 2023</td>
-<td>19:22:42 IST</td>
+<td>Monday</td>
+<td>January 01, 2024</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 01, 2024</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>January 02, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I ordered a chicken and an egg from Amazon. I'll let you know.</code></pre>
-<pre><code>2 » It's been months since I bought the book "how to scam people online". It still hasn't turned up.</code></pre>
-<pre><code>3 » Why did the half blind man fall in the well? Because he couldn't see that well!</code></pre>
+<pre><code>1 » Which is the fastest growing city in the world? Dublin'</code></pre>
+<pre><code>2 » To the person who stole my anti-depressant pills: I hope you're happy now.</code></pre>
+<pre><code>3 » What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</code></pre>
-<pre><code>2 » Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.</code></pre>
-<pre><code>3 » WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through "the whole 9 yards", hence the term.</code></pre>
+<pre><code>1 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
+<pre><code>2 » Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.</code></pre>
+<pre><code>3 » Ninety percent of all species that have become extinct have been birds.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Injuries may be forgiven, but not forgotten. - Aesop</code></pre>
-<pre><code>2 » Think for yourselves and let others enjoy the privilege to do so too. - Voltaire</code></pre>
-<pre><code>3 » We never live; we are always in the expectation of living. - Voltaire</code></pre>
+<pre><code>1 » I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain. - Oprah Winfrey</code></pre>
+<pre><code>2 » The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it. - Michelangelo</code></pre>
+<pre><code>3 » Goals are the fuel in the furnace of achievement. - Brian Tracy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
