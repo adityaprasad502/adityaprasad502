@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3d6ef0e31fa62730c213d4e2d66b437b5c64509fb1c9cec1ab752af24f00abdf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313425323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C014%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,293+ Commits made on Github</p>
+<p>🏆 2,294+ Commits made on Github</p>
 <p>📦 40.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -182,15 +182,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>January 02, 2024</td>
-<td>19:22:42 IST</td>
+<td>Wednesday</td>
+<td>January 03, 2024</td>
+<td>19:23:08 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>January 03, 2024</td>
-<td>19:20:40 IST</td>
+<td>Thursday</td>
+<td>January 04, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,10 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why do bears have hairy coats? Fur protection.</code></pre>
-<pre><code>2 » What do you call corn that joins the army? Kernel.</code></pre>
-<pre><code>3 » What do you call a monkey in a mine field? A babooooom!
-</code></pre>
+<pre><code>1 » When is a door not a door? When it's ajar.</code></pre>
+<pre><code>2 » If you want a job in the moisturizer industry, the best advice I can give is to apply daily.</code></pre>
+<pre><code>3 » Thereâ��s a new type of broom out, itâ��s sweeping the nation.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Dueling is legal in Paraguay as long as both parties are registered blood donors.</code></pre>
-<pre><code>2 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
-<pre><code>3 » 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.</code></pre>
+<pre><code>1 » Koala is Aboriginal for "no drink".</code></pre>
+<pre><code>2 » The eyes of a donkey are positioned so that it can see all four feet at all times.</code></pre>
+<pre><code>3 » Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -226,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » We must embrace pain and burn it as fuel for our journey. - Kenji Miyazawa</code></pre>
-<pre><code>2 » I never see what has been done; I only see what remains to be done. - Marie Curie</code></pre>
-<pre><code>3 » Genuine sincerity opens people's hearts, while manipulation causes them to close. - Daisaku Ikeda</code></pre>
+<pre><code>1 » Great ideas often receive violent opposition from mediocre minds. - Albert Einstein</code></pre>
+<pre><code>2 » Respect should be earned by actions, and not acquired by years. - Frank Lloyd Wright</code></pre>
+<pre><code>3 » Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise? - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
