@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3d6ef0e31fa62730c213d4e2d66b437b5c64509fb1c9cec1ab752af24f00abdf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313425323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C014%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ad1649a4c96eb0a8ebdc6abd88714ab525aec3ab4c05e055a6a0a934f4f50f97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,294+ Commits made on Github</p>
+<p>🏆 2,301+ Commits made on Github</p>
 <p>📦 40.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -43,25 +43,25 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>77 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.92%</td>
+<td>24.76%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>69 commits</td>
+<td>70 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.33%</td>
+<td>22.51%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>58 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.77%</td>
+<td>18.65%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>105 commits</td>
+<td>106 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.98%</td>
+<td>34.08%</td>
 </tr>
 </tbody></table>
 <table>
@@ -69,44 +69,44 @@ fun main() {cuteMsg()}
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.63%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.89%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>39 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.64%</td>
+<td>2 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.49%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 18 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.16%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>31 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.34%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>26 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.7%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.52%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>14 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.43%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.09%</td>
 </tr> 
  <tr>
-<td>JSON</td>
+<td>Groovy</td>
+<td>10 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.09%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.74%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.43%</td>
+<td>1.92%</td>
 </tr>
 </tbody></table>
 <table>
@@ -114,21 +114,27 @@ fun main() {cuteMsg()}
  <tr>
 <td>VS Code</td>
 <td>4 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.5%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.75%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>2 hrs 26 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.25%</td>
 </tr> 
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.5%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 38 mins</td>
+<td>8 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 03, 2024</td>
-<td>19:23:08 IST</td>
+<td>Thursday</td>
+<td>January 04, 2024</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 04, 2024</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>January 05, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » When is a door not a door? When it's ajar.</code></pre>
-<pre><code>2 » If you want a job in the moisturizer industry, the best advice I can give is to apply daily.</code></pre>
-<pre><code>3 » Thereâ��s a new type of broom out, itâ��s sweeping the nation.</code></pre>
+<pre><code>1 » What do you call a snake who builds houses? A boa constructor!</code></pre>
+<pre><code>2 » Whatâ��s brown and sounds like a bell? Dung!</code></pre>
+<pre><code>3 » I considered building the patio by myself. But I didn't have the stones.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Koala is Aboriginal for "no drink".</code></pre>
-<pre><code>2 » The eyes of a donkey are positioned so that it can see all four feet at all times.</code></pre>
-<pre><code>3 » Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</code></pre>
+<pre><code>1 » Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.</code></pre>
+<pre><code>2 » 1 in every 4 Americans has appeared someway or another on television.</code></pre>
+<pre><code>3 » All polar bears are left-handed.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +231,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Great ideas often receive violent opposition from mediocre minds. - Albert Einstein</code></pre>
-<pre><code>2 » Respect should be earned by actions, and not acquired by years. - Frank Lloyd Wright</code></pre>
-<pre><code>3 » Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise? - Confucius</code></pre>
+<pre><code>1 » Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel. - Mary Kay Ash</code></pre>
+<pre><code>2 » I'd rather regret the things I've done than regret the things I haven't done. - Lucille Ball</code></pre>
+<pre><code>3 » It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. - Epictetus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
