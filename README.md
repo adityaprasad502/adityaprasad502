@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ad1649a4c96eb0a8ebdc6abd88714ab525aec3ab4c05e055a6a0a934f4f50f97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,301+ Commits made on Github</p>
+<p>🏆 2,302+ Commits made on Github</p>
 <p>📦 40.6 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,46 +67,46 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>JavaScript</td>
-<td>3 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.89%</td>
+<td>Kotlin</td>
+<td>3 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.94%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>2 hrs 3 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.49%</td>
+<td>JavaScript</td>
+<td>3 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.83%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 18 mins</td>
+<td>1 hr 35 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.16%</td>
+<td>16.25%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>31 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.52%</td>
+<td>5.39%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.09%</td>
+<td>2.55%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>10 mins</td>
+<td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.09%</td>
+<td>2.27%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.92%</td>
+<td>1.59%</td>
 </tr>
 </tbody></table>
 <table>
@@ -114,27 +114,27 @@ fun main() {cuteMsg()}
  <tr>
 <td>VS Code</td>
 <td>4 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.75%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.29%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 26 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.25%</td>
+<td>4 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.3%</td>
 </tr> 
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.0%</td>
+<td>12.41%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 5 mins</td>
+<td>9 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 04, 2024</td>
-<td>19:22:58 IST</td>
+<td>Friday</td>
+<td>January 05, 2024</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 05, 2024</td>
-<td>19:20:55 IST</td>
+<td>Saturday</td>
+<td>January 06, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What do you call a snake who builds houses? A boa constructor!</code></pre>
-<pre><code>2 » Whatâ��s brown and sounds like a bell? Dung!</code></pre>
-<pre><code>3 » I considered building the patio by myself. But I didn't have the stones.</code></pre>
+<pre><code>1 » What creature is smarter than a talking parrot? A spelling bee.</code></pre>
+<pre><code>2 » What's red and bad for your teeth? A Brick.</code></pre>
+<pre><code>3 » The word queue is ironic. It's just q with a bunch of silent letters waiting in line.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.</code></pre>
-<pre><code>2 » 1 in every 4 Americans has appeared someway or another on television.</code></pre>
-<pre><code>3 » All polar bears are left-handed.</code></pre>
+<pre><code>1 » `Obsession` is the most popular boat name.</code></pre>
+<pre><code>2 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
+<pre><code>3 » If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +231,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel. - Mary Kay Ash</code></pre>
-<pre><code>2 » I'd rather regret the things I've done than regret the things I haven't done. - Lucille Ball</code></pre>
-<pre><code>3 » It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. - Epictetus</code></pre>
+<pre><code>1 » Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. - Washington Irving</code></pre>
+<pre><code>2 » The art of progress is to preserve order amid change, and to preserve change amid order. - Alfred North Whitehead</code></pre>
+<pre><code>3 » He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God. - Aeschylus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
