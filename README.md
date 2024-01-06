@@ -31,8 +31,8 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ad1649a4c96eb0a8ebdc6abd88714ab525aec3ab4c05e055a6a0a934f4f50f97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,302+ Commits made on Github</p>
-<p>📦 40.6 KiB Used in GitHub's Storage</p>
+<p>🏆 2,303+ Commits made on Github</p>
+<p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 05, 2024</td>
-<td>19:23:02 IST</td>
+<td>Saturday</td>
+<td>January 06, 2024</td>
+<td>19:23:07 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 06, 2024</td>
-<td>19:20:00 IST</td>
+<td>Sunday</td>
+<td>January 07, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What creature is smarter than a talking parrot? A spelling bee.</code></pre>
-<pre><code>2 » What's red and bad for your teeth? A Brick.</code></pre>
-<pre><code>3 » The word queue is ironic. It's just q with a bunch of silent letters waiting in line.</code></pre>
+<pre><code>1 » Why can't eggs have love? They will break up too soon.</code></pre>
+<pre><code>2 » Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"</code></pre>
+<pre><code>3 » What did the dog say to the two trees? Bark bark.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » `Obsession` is the most popular boat name.</code></pre>
-<pre><code>2 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
-<pre><code>3 » If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.</code></pre>
+<pre><code>1 » Walt Disney was afraid of mice.</code></pre>
+<pre><code>2 » The only real person to ever to appear on a pez dispenser was Betsy Ross.</code></pre>
+<pre><code>3 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +231,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. - Washington Irving</code></pre>
-<pre><code>2 » The art of progress is to preserve order amid change, and to preserve change amid order. - Alfred North Whitehead</code></pre>
-<pre><code>3 » He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God. - Aeschylus</code></pre>
+<pre><code>1 » The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems. - Mahatma Gandhi</code></pre>
+<pre><code>2 » I think somehow, we learn who we really are and then live with that decision. - Eleanor Roosevelt</code></pre>
+<pre><code>3 » The ballot is stronger than the bullet. - Abraham Lincoln</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
