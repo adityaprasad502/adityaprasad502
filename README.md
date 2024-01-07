@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ad1649a4c96eb0a8ebdc6abd88714ab525aec3ab4c05e055a6a0a934f4f50f97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8826bbf8301ff6f3af4f38fb5a09c632bbee171f5c24a13534ee5dc7e69673ec/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,303+ Commits made on Github</p>
+<p>🏆 2,309+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -69,72 +69,72 @@ fun main() {cuteMsg()}
  <tr>
 <td>Kotlin</td>
 <td>3 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.94%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.21%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>3 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.83%</td>
+<td>2 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 35 mins</td>
+<td>1 hr 33 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.25%</td>
+<td>17.83%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>31 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.39%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>14 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.55%</td>
+<td>50 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.6%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.27%</td>
+<td>2.54%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.59%</td>
+<td>1.78%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.78%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>4 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.29%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
 <td>4 hrs 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.3%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.46%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>3 hrs 21 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.62%</td>
 </tr> 
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.41%</td>
+<td>13.92%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 46 mins</td>
+<td>8 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 06, 2024</td>
-<td>19:23:07 IST</td>
+<td>Sunday</td>
+<td>January 07, 2024</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 07, 2024</td>
-<td>19:20:05 IST</td>
+<td>Monday</td>
+<td>January 08, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why can't eggs have love? They will break up too soon.</code></pre>
-<pre><code>2 » Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"</code></pre>
-<pre><code>3 » What did the dog say to the two trees? Bark bark.</code></pre>
+<pre><code>1 » Why did the knife dress up in a suit? Because it wanted to look sharp</code></pre>
+<pre><code>2 » What has three letters and starts with gas? A Car.</code></pre>
+<pre><code>3 » Two silk worms had a race. They ended up in a tie.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Walt Disney was afraid of mice.</code></pre>
-<pre><code>2 » The only real person to ever to appear on a pez dispenser was Betsy Ross.</code></pre>
-<pre><code>3 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
+<pre><code>1 » The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</code></pre>
+<pre><code>2 » The most common street name in the U.S. is Second Street.</code></pre>
+<pre><code>3 » One quarter of the bones in your body are in your feet.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +231,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems. - Mahatma Gandhi</code></pre>
-<pre><code>2 » I think somehow, we learn who we really are and then live with that decision. - Eleanor Roosevelt</code></pre>
-<pre><code>3 » The ballot is stronger than the bullet. - Abraham Lincoln</code></pre>
+<pre><code>1 » To dare is to lose ones footing momentarily. To not dare is to lose oneself. - Søren Kierkegaard</code></pre>
+<pre><code>2 » How we spend our days is, of course, how we spend our lives. - Annie Dillard</code></pre>
+<pre><code>3 » In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice. - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
