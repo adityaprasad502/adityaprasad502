@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8826bbf8301ff6f3af4f38fb5a09c632bbee171f5c24a13534ee5dc7e69673ec/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3a6a34cfaa1caddadfb2cef6a3f344f656d84bfe5a6bd6672540fbe0320951b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,309+ Commits made on Github</p>
+<p>🏆 2,310+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,73 +68,73 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.21%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>2 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.0%</td>
+<td>2 hrs 47 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.55%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 33 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.83%</td>
+<td>1 hr 9 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.45%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>23 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.98%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>50 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>19 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.57%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>13 mins</td>
+<td>11 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.05%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.54%</td>
+<td>0.95%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>9 mins</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.78%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>9 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.78%</td>
+<td>0.44%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.46%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>3 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.62%</td>
+<td>2 hrs 56 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>59.86%</td>
 </tr> 
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.92%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.64%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>45 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.5%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 42 mins</td>
+<td>4 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 07, 2024</td>
-<td>19:22:46 IST</td>
+<td>Monday</td>
+<td>January 08, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 08, 2024</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>January 09, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the knife dress up in a suit? Because it wanted to look sharp</code></pre>
-<pre><code>2 » What has three letters and starts with gas? A Car.</code></pre>
-<pre><code>3 » Two silk worms had a race. They ended up in a tie.</code></pre>
+<pre><code>1 » How can you tell a vampire has a cold? They start coffin.</code></pre>
+<pre><code>2 » You know that cemetery up the road? People are dying to get in there.</code></pre>
+<pre><code>3 » How do you make a 'one' disappear? You add a 'g' and it's 'gone'</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</code></pre>
-<pre><code>2 » The most common street name in the U.S. is Second Street.</code></pre>
-<pre><code>3 » One quarter of the bones in your body are in your feet.</code></pre>
+<pre><code>1 » The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</code></pre>
+<pre><code>2 » A standard slinky measures 87 feet when stretched out.</code></pre>
+<pre><code>3 » The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +231,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To dare is to lose ones footing momentarily. To not dare is to lose oneself. - Søren Kierkegaard</code></pre>
-<pre><code>2 » How we spend our days is, of course, how we spend our lives. - Annie Dillard</code></pre>
-<pre><code>3 » In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice. - Richard Bach</code></pre>
+<pre><code>1 » Think how hard physics would be if particles could think. - Murray Gell-Mann</code></pre>
+<pre><code>2 » Opportunity often comes disguised in the form of misfortune, or temporary defeat. - Napoleon Hill</code></pre>
+<pre><code>3 » The most successful people are those who are good at plan B. - James A. Yorke</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
