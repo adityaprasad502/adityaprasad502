@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3a6a34cfaa1caddadfb2cef6a3f344f656d84bfe5a6bd6672540fbe0320951b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313825323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C018%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,310+ Commits made on Github</p>
+<p>🏆 2,311+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -70,71 +70,59 @@ fun main() {cuteMsg()}
 <td>Kotlin</td>
 <td>2 hrs 47 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.55%</td>
+<td>59.37%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 9 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.45%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>23 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.98%</td>
+<td>1 hr 19 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.19%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>19 mins</td>
+<td>18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.57%</td>
+<td>6.6%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>11 mins</td>
+<td>12 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.05%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.95%</td>
+<td>4.27%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>1 min</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.44%</td>
+<td>1.57%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 56 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.86%</td>
+<td>3 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.53%</td>
 </tr> 
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.64%</td>
+<td>25.87%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>45 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.5%</td>
+<td>18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.6%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 55 mins</td>
+<td>4 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,14 +176,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>January 08, 2024</td>
-<td>19:22:50 IST</td>
+<td>Tuesday</td>
+<td>January 09, 2024</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>January 09, 2024</td>
+<td>Wednesday</td>
+<td>January 10, 2024</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -207,9 +195,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How can you tell a vampire has a cold? They start coffin.</code></pre>
-<pre><code>2 » You know that cemetery up the road? People are dying to get in there.</code></pre>
-<pre><code>3 » How do you make a 'one' disappear? You add a 'g' and it's 'gone'</code></pre>
+<pre><code>1 » I boiled a funny bone last night and had a laughing stock</code></pre>
+<pre><code>2 » I have the heart of a lion... and a lifetime ban from the San Diego Zoo.</code></pre>
+<pre><code>3 » You can't trust a ladder. It will always let you down</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</code></pre>
-<pre><code>2 » A standard slinky measures 87 feet when stretched out.</code></pre>
-<pre><code>3 » The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</code></pre>
+<pre><code>1 » There are no clocks in Las Vegas gambling casinos.</code></pre>
+<pre><code>2 » The longest one-syllable word in the English language is "screeched."</code></pre>
+<pre><code>3 » A jellyfish is 95 percent water!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Think how hard physics would be if particles could think. - Murray Gell-Mann</code></pre>
-<pre><code>2 » Opportunity often comes disguised in the form of misfortune, or temporary defeat. - Napoleon Hill</code></pre>
-<pre><code>3 » The most successful people are those who are good at plan B. - James A. Yorke</code></pre>
+<pre><code>1 » I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. - Marilyn Monroe</code></pre>
+<pre><code>2 » I am always ready to learn although I do not always like being taught. - Winston Churchill</code></pre>
+<pre><code>3 » An invasion of armies can be resisted, but not an idea whose time has come. - Victor Hugo</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
