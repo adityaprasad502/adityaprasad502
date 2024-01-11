@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,312+ Commits made on Github</p>
+<p>🏆 2,313+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,61 +68,61 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 47 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.37%</td>
+<td>1 hr 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.49%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 19 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.19%</td>
+<td>26 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.02%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>18 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.81%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>12 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.27%</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.37%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.57%</td>
+<td>2.32%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>3 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.53%</td>
-</tr> 
- <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.87%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.07%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>43 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.13%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>18 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.81%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 41 mins</td>
+<td>2 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +176,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 10, 2024</td>
-<td>19:22:52 IST</td>
+<td>Thursday</td>
+<td>January 11, 2024</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 11, 2024</td>
-<td>19:20:50 IST</td>
+<td>Friday</td>
+<td>January 12, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,9 +195,15 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the Clydesdale give the pony a glass of water? â�¨Because he was a little horse!</code></pre>
-<pre><code>2 » I donâ��t play soccer because I enjoy the sport. Iâ��m just doing it for kicks.</code></pre>
-<pre><code>3 » I tried to milk a cow today, but was unsuccessful. Udder failure.</code></pre>
+<pre><code>1 » Wife: Honey Iâ��m pregnant.
+
+Me: Wellâ�¦. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think Iâ��d be a lot more comfortable going to an adult doctor.</code></pre>
+<pre><code>2 » I once lost a banana at court but then I appealed. </code></pre>
+<pre><code>3 » Why did the barber win the race? He took a short cut.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -207,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</code></pre>
-<pre><code>2 » Virginia Woolf wrote all her books standing.</code></pre>
-<pre><code>3 » Hong Kong holds the most Rolls Royce’s per capita.</code></pre>
+<pre><code>1 » The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</code></pre>
+<pre><code>2 » Most toilets flush in E flat.</code></pre>
+<pre><code>3 » It has been estimated that humans use only 10% of their brain.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Goals are the fuel in the furnace of achievement. - Brian Tracy</code></pre>
-<pre><code>2 » What do we live for, if it is not to make life less difficult for each other? - George Eliot</code></pre>
-<pre><code>3 » Your worst enemy cannot harm you as much as your own unguarded thoughts. - The Buddha</code></pre>
+<pre><code>1 » The art of progress is to preserve order amid change, and to preserve change amid order. - Alfred North Whitehead</code></pre>
+<pre><code>2 » If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. - Pema Chödrön</code></pre>
+<pre><code>3 » Set your goals high, and don't stop till you get there. - Bo Jackson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
