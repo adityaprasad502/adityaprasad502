@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,313+ Commits made on Github</p>
+<p>🏆 2,314+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,34 +67,34 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.49%</td>
+<td>Python</td>
+<td>18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.85%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>26 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.02%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>18 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.81%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.37%</td>
+<td>10 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.19%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>3 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.38%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.46%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.32%</td>
+<td>0.11%</td>
 </tr>
 </tbody></table>
 <table>
@@ -102,27 +102,21 @@ fun main() {cuteMsg()}
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.07%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>43 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.13%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>79.66%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>18 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.81%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.34%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 14 mins</td>
+<td>33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -176,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 11, 2024</td>
-<td>19:23:02 IST</td>
+<td>Friday</td>
+<td>January 12, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 12, 2024</td>
-<td>19:20:00 IST</td>
+<td>Saturday</td>
+<td>January 13, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -195,15 +189,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Wife: Honey Iâ��m pregnant.
-
-Me: Wellâ�¦. what do we do now?
-
-Wife: Well, I guess we should go to a baby doctor.
-
-Me: Hm.. I think Iâ��d be a lot more comfortable going to an adult doctor.</code></pre>
-<pre><code>2 » I once lost a banana at court but then I appealed. </code></pre>
-<pre><code>3 » Why did the barber win the race? He took a short cut.</code></pre>
+<pre><code>1 » Chances are if you' ve seen one shopping center, you've seen a mall.</code></pre>
+<pre><code>2 » Why do you never see elephants hiding in trees? Because they're so good at it.</code></pre>
+<pre><code>3 » How was the snow globe feeling after the storm? A little shaken.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +201,9 @@ Me: Hm.. I think Iâ��d be a lot more comfortable going to an adult doctor.<
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</code></pre>
-<pre><code>2 » Most toilets flush in E flat.</code></pre>
-<pre><code>3 » It has been estimated that humans use only 10% of their brain.</code></pre>
+<pre><code>1 » Americans travel 1,144,721,000 miles by air every day</code></pre>
+<pre><code>2 » Average life span of a major league baseball: 7 pitches.</code></pre>
+<pre><code>3 » Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +213,9 @@ Me: Hm.. I think Iâ��d be a lot more comfortable going to an adult doctor.<
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The art of progress is to preserve order amid change, and to preserve change amid order. - Alfred North Whitehead</code></pre>
-<pre><code>2 » If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. - Pema Chödrön</code></pre>
-<pre><code>3 » Set your goals high, and don't stop till you get there. - Bo Jackson</code></pre>
+<pre><code>1 » You might well remember that nothing can bring you success but yourself. - Napoleon Hill</code></pre>
+<pre><code>2 » To fly as fast as thought, you must begin by knowing that you have already arrived. - Richard Bach</code></pre>
+<pre><code>3 » We are all something, but none of us are everything. - Blaise Pascal</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
