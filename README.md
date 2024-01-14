@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,315+ Commits made on Github</p>
+<p>🏆 2,316+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,34 +67,34 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.85%</td>
-</tr> 
- <tr>
 <td>XML</td>
 <td>10 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.19%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.32%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>3 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.38%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.23%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.46%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.1%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>0.26%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.09%</td>
 </tr>
 </tbody></table>
 <table>
@@ -102,21 +102,21 @@ fun main() {cuteMsg()}
  <tr>
 <td>Studio</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>79.66%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.98%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>18 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.34%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>33 mins</td>
+<td>14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,15 +170,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 13, 2024</td>
-<td>19:22:55 IST</td>
+<td>Sunday</td>
+<td>January 14, 2024</td>
+<td>19:22:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 14, 2024</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>January 15, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -189,9 +189,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers</code></pre>
-<pre><code>2 » What did the piece of bread say to the knife? Butter me up.</code></pre>
-<pre><code>3 » What did the beaver say to the tree? It's been nice gnawing you.</code></pre>
+<pre><code>1 » "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."</code></pre>
+<pre><code>2 » Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+</code></pre>
+<pre><code>3 » Why did the half blind man fall in the well? Because he couldn't see that well!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +202,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Two-thirds of the world`s eggplant is grown in New Jersey.  </code></pre>
-<pre><code>2 » There is a town in Newfoundland, Canada called Dildo.</code></pre>
-<pre><code>3 » Shakespeare invented the word `assassination` and `bump`.</code></pre>
+<pre><code>1 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
+<pre><code>2 » It has been estimated that humans use only 10% of their brain.</code></pre>
+<pre><code>3 » Simplistic passwords contribute to over 80% of all computer password break-ins.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +214,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To be fully alive, fully human, and completely awake is to be continually thrown out of the nest. - Pema Chödrön</code></pre>
-<pre><code>2 » Never, never, never give up. - Winston Churchill</code></pre>
-<pre><code>3 » Great are they who see that spiritual is stronger than any material force, that thoughts rule the world. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » The heart has eyes which the brain knows nothing of. - Charles Henry Parkhurst</code></pre>
+<pre><code>2 » Wisdom is found only in truth. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future. - Plutarch</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
