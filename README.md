@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,317+ Commits made on Github</p>
+<p>🏆 2,318+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,56 +67,26 @@ fun main() {cuteMsg()}
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>XML</td>
-<td>10 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>75.95%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>3 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.6%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.26%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.1%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.9%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
 <td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.1%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 mins</td>
+<td>0 secs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -170,14 +140,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>January 15, 2024</td>
-<td>19:22:53 IST</td>
+<td>Tuesday</td>
+<td>January 16, 2024</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>January 16, 2024</td>
+<td>Wednesday</td>
+<td>January 17, 2024</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -189,9 +159,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How do you make Lady Gaga cry? Poker face. </code></pre>
-<pre><code>2 » What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.</code></pre>
-<pre><code>3 » I went to the zoo the other day, there was only one dog in it. It was a shitzu.</code></pre>
+<pre><code>1 » Geology rocks, but Geography is where it's at!</code></pre>
+<pre><code>2 » It's only a murder of crows if there's probable caws.</code></pre>
+<pre><code>3 » What kind of music do planets listen to? Nep-tunes.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -201,9 +171,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</code></pre>
-<pre><code>2 » American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</code></pre>
-<pre><code>3 » The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)</code></pre>
+<pre><code>1 » Hong Kong holds the most Rolls Royce’s per capita.</code></pre>
+<pre><code>2 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
+<pre><code>3 » 60% of electrocutions occur while talking on the telephone during a thunderstorm.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes. - Carl Jung</code></pre>
-<pre><code>2 » To enjoy life, we must touch much of it lightly. - Voltaire</code></pre>
-<pre><code>3 » Joy is the best makeup. - Anne Lamott</code></pre>
+<pre><code>1 » The way you see people is the way you treat them, and the way you treat them is what they become. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>2 » The best preparation for tomorrow is doing your best today. - H. Jackson Brown Jr.</code></pre>
+<pre><code>3 » Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. - Winston Churchill</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
