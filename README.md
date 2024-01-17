@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,318+ Commits made on Github</p>
+<p>🏆 2,319+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -140,15 +140,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>January 16, 2024</td>
-<td>19:22:54 IST</td>
+<td>Wednesday</td>
+<td>January 17, 2024</td>
+<td>19:23:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>January 17, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>January 18, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -159,9 +159,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Geology rocks, but Geography is where it's at!</code></pre>
-<pre><code>2 » It's only a murder of crows if there's probable caws.</code></pre>
-<pre><code>3 » What kind of music do planets listen to? Nep-tunes.</code></pre>
+<pre><code>1 » What do you call a pile of cats?  A Meowtain.</code></pre>
+<pre><code>2 » How do hens stay fit? They always egg-cercise!</code></pre>
+<pre><code>3 » Why was the broom late for the meeting? He overswept.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -171,9 +171,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Hong Kong holds the most Rolls Royce’s per capita.</code></pre>
-<pre><code>2 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
-<pre><code>3 » 60% of electrocutions occur while talking on the telephone during a thunderstorm.</code></pre>
+<pre><code>1 » More Monopoly money is printed in a year, than real money throughout the world.</code></pre>
+<pre><code>2 » The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.</code></pre>
+<pre><code>3 » 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,9 +183,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The way you see people is the way you treat them, and the way you treat them is what they become. - Johann Wolfgang von Goethe</code></pre>
-<pre><code>2 » The best preparation for tomorrow is doing your best today. - H. Jackson Brown Jr.</code></pre>
-<pre><code>3 » Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. - Winston Churchill</code></pre>
+<pre><code>1 » All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns. - Bruce Lee</code></pre>
+<pre><code>2 » It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag. - Donald Trump</code></pre>
+<pre><code>3 » A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success. - Elbert Hubbard</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
