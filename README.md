@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fc86938351bfff2614e493446356d12d914e6eec720c7d6df0066fca4c6dca7f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C019%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fa25d81deadaa3fef308a64ed3d237b8f443c3f950b57d199ce80cc48f76310b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330323125323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C021%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,326+ Commits made on Github</p>
+<p>🏆 2,346+ Commits made on Github</p>
 <p>📦 40.7 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,18 +64,39 @@ fun main() {cuteMsg()}
 <td>34.08%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.81%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.19%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>1 hr 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>1 hr 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -125,15 +146,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 24, 2024</td>
-<td>19:22:54 IST</td>
+<td>Thursday</td>
+<td>January 25, 2024</td>
+<td>19:22:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 25, 2024</td>
-<td>19:20:50 IST</td>
+<td>Friday</td>
+<td>January 26, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -144,9 +165,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How come the stadium got hot after the game? Because all of the fans left.</code></pre>
-<pre><code>2 » How was the snow globe feeling after the storm? A little shaken.</code></pre>
-<pre><code>3 » Don't buy flowers at a monastery. Because only you can prevent florist friars.</code></pre>
+<pre><code>1 » How can you tell a vampire has a cold? They start coffin.</code></pre>
+<pre><code>2 » I got fired from a florist, apparently I took too many leaves.</code></pre>
+<pre><code>3 » A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -156,9 +177,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Most collect calls are made on father`s day.</code></pre>
-<pre><code>2 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
-<pre><code>3 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
+<pre><code>1 » Shakespeare spelled his OWN name several different ways.</code></pre>
+<pre><code>2 » A dragonfly has a lifespan of 24 hours.</code></pre>
+<pre><code>3 » Q is the only letter in the alphabet that does not appear in the name of any of the United States!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +189,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Real magic in relationships means an absence of judgement of others. - Wayne Dyer</code></pre>
-<pre><code>2 » What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk. - Cicero</code></pre>
-<pre><code>3 » There is nothing on this earth more to be prized than true friendship. - Thomas Aquinas</code></pre>
+<pre><code>1 » For everything that lives is holy, life delights in life. - William Blake</code></pre>
+<pre><code>2 » Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good. - The Buddha</code></pre>
+<pre><code>3 » Nature is a mutable cloud which is always and never the same. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
