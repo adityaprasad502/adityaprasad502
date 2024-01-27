@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1313d41bb7aeef2609155041c50e3458c5cb8a86b5dce74a8fe69a6014902ef4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330323825323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C028%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0aca2a7cffa4fb077e92abb022d0d2658258d6fe271b0f473b1b68b31d6c8e2d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333125323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C031%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,358+ Commits made on Github</p>
-<p>📦 40.7 KiB Used in GitHub's Storage</p>
+<p>🏆 2,366+ Commits made on Github</p>
+<p>📦 41.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -43,92 +43,92 @@ fun main() {cuteMsg()}
 <td>🌞 Morning</td>
 <td>74 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.49%</td>
+<td>23.42%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>72 commits</td>
+<td>71 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.86%</td>
+<td>22.47%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>58 commits</td>
+<td>55 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.41%</td>
+<td>17.41%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>111 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.24%</td>
+<td>116 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.71%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>2 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.26%</td>
-</tr> 
- <tr>
 <td>XML</td>
-<td>1 hr 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.81%</td>
+<td>3 hrs 32 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.92%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>38 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.52%</td>
+<td>3 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.41%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>2 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.74%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.82%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.08%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>7 mins</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.43%</td>
+<td>1.76%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.07%</td>
+<td>0.04%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.59%</td>
+<td>7 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.63%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.41%</td>
+<td>2 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.37%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 4 mins</td>
+<td>9 hrs 35 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,14 +182,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 26, 2024</td>
-<td>19:23:03 IST</td>
+<td>Saturday</td>
+<td>January 27, 2024</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 27, 2024</td>
+<td>Sunday</td>
+<td>January 28, 2024</td>
 <td>19:20:00 IST</td>
 </tr>
 </tbody></table>
@@ -201,9 +201,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why does Superman get invited to dinners? Because he is a Supperhero.</code></pre>
-<pre><code>2 » Why was Pavlov's beard so soft?  Because he conditioned it.</code></pre>
-<pre><code>3 » Why was the robot angry? Because someone kept pressing his buttons!</code></pre>
+<pre><code>1 » It's only a murder of crows if there's probable caws.</code></pre>
+<pre><code>2 » Where do bees go to the bathroom?  The BP station.</code></pre>
+<pre><code>3 » What do you call a monkey in a mine field? A babooooom!
+</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +214,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.</code></pre>
-<pre><code>2 » American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</code></pre>
-<pre><code>3 » A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.</code></pre>
+<pre><code>1 » The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
+<pre><code>2 » Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</code></pre>
+<pre><code>3 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +226,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » We can only be said to be alive in those moments when our hearts are conscious of our treasures. - Thornton Wilder</code></pre>
-<pre><code>2 » They can conquer who believe they can. - Virgil</code></pre>
-<pre><code>3 » I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain. - Oprah Winfrey</code></pre>
+<pre><code>1 » Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett</code></pre>
+<pre><code>2 » It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up. - Muhammad Ali</code></pre>
+<pre><code>3 » Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control. - Martin Luther King Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
