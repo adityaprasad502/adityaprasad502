@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0aca2a7cffa4fb077e92abb022d0d2658258d6fe271b0f473b1b68b31d6c8e2d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333125323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C031%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9ca3cd5b67afe51090e8ac248a67d9917aecde5c856ed9c8891ffc43af9246be/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333225323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C032%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,366+ Commits made on Github</p>
+<p>🏆 2,379+ Commits made on Github</p>
 <p>📦 41.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,42 +68,42 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 32 mins</td>
+<td>4 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.92%</td>
+<td>36.82%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.41%</td>
+<td>4 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.39%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.74%</td>
+<td>3 hrs 43 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.54%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>17 mins</td>
+<td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.08%</td>
+<td>2.42%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>10 mins</td>
+<td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.76%</td>
+<td>2.15%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>5 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.64%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
-</tr> 
- <tr>
-<td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.03%</td>
@@ -113,22 +113,22 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 3 mins</td>
+<td>9 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.63%</td>
+<td>72.01%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 31 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.37%</td>
+<td>3 hrs 47 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.99%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 35 mins</td>
+<td>13 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -138,59 +138,59 @@ fun main() {cuteMsg()}
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.15%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.23%</td>
+<td>16.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.54%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.54%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.85%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.85%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.85%</td>
+<td>4.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 27, 2024</td>
-<td>19:23:02 IST</td>
+<td>Sunday</td>
+<td>January 28, 2024</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 28, 2024</td>
-<td>19:20:00 IST</td>
+<td>Monday</td>
+<td>January 29, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,10 +201,11 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » It's only a murder of crows if there's probable caws.</code></pre>
-<pre><code>2 » Where do bees go to the bathroom?  The BP station.</code></pre>
-<pre><code>3 » What do you call a monkey in a mine field? A babooooom!
-</code></pre>
+<pre><code>1 » Why did the burglar hang his mugshot on the wall? To prove that he was framed!</code></pre>
+<pre><code>2 » What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.</code></pre>
+<pre><code>3 » What did the shy pebble wish for? That she was a little boulder.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +215,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
-<pre><code>2 » Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</code></pre>
-<pre><code>3 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
+<pre><code>1 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
+<pre><code>2 » Worcestershire sauce in essentially an Anchovy Ketchup.</code></pre>
+<pre><code>3 » The dot over the letter `i` is called a tittle.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -226,9 +227,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett</code></pre>
-<pre><code>2 » It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up. - Muhammad Ali</code></pre>
-<pre><code>3 » Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control. - Martin Luther King Jr.</code></pre>
+<pre><code>1 » You don't play against opponents, you play against the game of basketball. - Bob Knight</code></pre>
+<pre><code>2 » Change your life today. Don't gamble on the future, act now, without delay. - Simone de Beauvoir</code></pre>
+<pre><code>3 » Price is what you pay. Value is what you get. - Warren Buffett</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
