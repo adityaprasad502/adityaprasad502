@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d28c52e96d9cf888dd4e4c594a40a1656b2e9a6009e7fc920f3c656837baccba/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333625323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C036%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d88a11485a3270a8090fc95167170697c2f468a1ab28fac8b1c31fc7ac1a3df/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333825323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C038%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,425+ Commits made on Github</p>
+<p>🏆 2,429+ Commits made on Github</p>
 <p>📦 41.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,67 +68,67 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.23%</td>
+<td>8 hrs 44 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.42%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>4 hrs 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.86%</td>
+<td>5 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.83%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.12%</td>
+<td>4 hrs 18 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.85%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.16%</td>
+<td>1.74%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.92%</td>
+<td>1.55%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.57%</td>
+<td>0.46%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>0 secs</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
+<td>0.11%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>9 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.28%</td>
+<td>10 hrs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.14%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.72%</td>
+<td>8 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.86%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 11 mins</td>
+<td>18 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,14 +182,14 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>January 29, 2024</td>
-<td>19:22:54 IST</td>
+<td>Tuesday</td>
+<td>January 30, 2024</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>January 30, 2024</td>
+<td>Wednesday</td>
+<td>January 31, 2024</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -201,10 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Breaking news! Energizer Bunny arrested â�� charged with battery.</code></pre>
-<pre><code>2 » I fear for the calendar, its days are numbered.
-</code></pre>
-<pre><code>3 » Why can't your nose be 12 inches long? Because then it'd be a foot!</code></pre>
+<pre><code>1 » Where do bees go to the bathroom?  The BP station.</code></pre>
+<pre><code>2 » If I could name myself after any Egyptian god, I'd be Set.</code></pre>
+<pre><code>3 » It's only a murder of crows if there's probable caws.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Virginia Woolf wrote all her books standing.</code></pre>
-<pre><code>2 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
-<pre><code>3 » In England, the Speaker of the House is not allowed to speak.</code></pre>
+<pre><code>1 » Q is the only letter in the alphabet that does not appear in the name of any of the United States!</code></pre>
+<pre><code>2 » Giraffes have no vocal cords.</code></pre>
+<pre><code>3 » The average lifespan of an eyelash is five months.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -226,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » One of the most beautiful qualities of true friendship is to understand and to be understood. - Seneca the Younger</code></pre>
-<pre><code>2 » There is a wisdom of the head, and a wisdom of the heart. - Charles Dickens</code></pre>
-<pre><code>3 » You give before you get. - Napoleon Hill</code></pre>
+<pre><code>1 » Patience is the companion of wisdom. - Augustine of Hippo</code></pre>
+<pre><code>2 » Take time to deliberate, but when the time for action has arrived, stop thinking and go in. - Napoleon</code></pre>
+<pre><code>3 » Nothing diminishes anxiety faster than action. - Walter Inglis Anderson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
