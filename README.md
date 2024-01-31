@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d88a11485a3270a8090fc95167170697c2f468a1ab28fac8b1c31fc7ac1a3df/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333825323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C038%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/20dd9a788840bd855b623ce97184e6b5404c9db88b4d5dd4044bb435ce34e5e4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330333925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C039%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,429+ Commits made on Github</p>
+<p>🏆 2,440+ Commits made on Github</p>
 <p>📦 41.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,39 +68,39 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>8 hrs 44 mins</td>
+<td>9 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.42%</td>
+<td>47.02%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>5 hrs 3 mins</td>
+<td>5 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.83%</td>
+<td>26.33%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 18 mins</td>
+<td>4 hrs 24 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.85%</td>
+<td>22.84%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.74%</td>
+<td>1.7%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.55%</td>
+<td>1.51%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.46%</td>
+<td>0.45%</td>
 </tr> 
  <tr>
 <td>JSON</td>
@@ -113,22 +113,22 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>10 hrs</td>
+<td>10 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.14%</td>
+<td>52.56%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 49 mins</td>
+<td>9 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.86%</td>
+<td>47.44%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>18 hrs 49 mins</td>
+<td>19 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,15 +182,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>January 30, 2024</td>
-<td>19:22:51 IST</td>
+<td>Wednesday</td>
+<td>January 31, 2024</td>
+<td>19:23:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>January 31, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>February 01, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where do bees go to the bathroom?  The BP station.</code></pre>
-<pre><code>2 » If I could name myself after any Egyptian god, I'd be Set.</code></pre>
-<pre><code>3 » It's only a murder of crows if there's probable caws.</code></pre>
+<pre><code>1 » Did you hear about the submarine industry? It really took a dive...</code></pre>
+<pre><code>2 » Why are snake races so exciting? They're always neck and neck.</code></pre>
+<pre><code>3 » The shovel was a ground-breaking invention.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Q is the only letter in the alphabet that does not appear in the name of any of the United States!</code></pre>
-<pre><code>2 » Giraffes have no vocal cords.</code></pre>
-<pre><code>3 » The average lifespan of an eyelash is five months.</code></pre>
+<pre><code>1 » A snail can sleep for three years.</code></pre>
+<pre><code>2 » The Vatican city registered 0 births in 1983</code></pre>
+<pre><code>3 » the bird is the word</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Patience is the companion of wisdom. - Augustine of Hippo</code></pre>
-<pre><code>2 » Take time to deliberate, but when the time for action has arrived, stop thinking and go in. - Napoleon</code></pre>
-<pre><code>3 » Nothing diminishes anxiety faster than action. - Walter Inglis Anderson</code></pre>
+<pre><code>1 » If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself. - Rollo May</code></pre>
+<pre><code>2 » Even if you're on the right track, you'll get run over if you just sit there. - Will Rogers</code></pre>
+<pre><code>3 » Commitment is an act, not a word. - Jean-Paul Sartre</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
