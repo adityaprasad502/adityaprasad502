@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/993bb5ea3a82ddb39fb41be95d429574253c7e958d304151ae76cc73e131e9e7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330343225323068727325323034372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C042%20hrs%2047%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fe728285c5f6f1db5d2694d982f0a864f7f586c504e8937d6d2e75bdee2ca98c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330343525323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C045%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,458+ Commits made on Github</p>
-<p>📦 41.1 KiB Used in GitHub's Storage</p>
+<p>🏆 2,467+ Commits made on Github</p>
+<p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -41,94 +41,94 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>73 commits</td>
+<td>72 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.03%</td>
+<td>22.57%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>71 commits</td>
+<td>74 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.4%</td>
+<td>23.2%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>54 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.03%</td>
+<td>16.93%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>119 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.54%</td>
+<td>37.3%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>8 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.36%</td>
+<td>8 hrs 37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.53%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.35%</td>
+<td>3 hrs 11 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 40 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.41%</td>
+<td>1 hr 55 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.68%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>11 mins</td>
+<td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.06%</td>
+<td>1.04%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.48%</td>
+<td>0.62%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.2%</td>
+<td>0.26%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.12%</td>
+<td>0.15%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>9 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.22%</td>
+<td>VS Code</td>
+<td>8 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.7%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>8 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.78%</td>
+<td>Android Studio</td>
+<td>5 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.3%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>18 hrs 2 mins</td>
+<td>14 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -182,15 +182,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>February 02, 2024</td>
-<td>19:22:47 IST</td>
+<td>Saturday</td>
+<td>February 03, 2024</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>February 03, 2024</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>February 04, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -201,9 +201,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What cheese can never be yours? Nacho cheese.</code></pre>
-<pre><code>2 » What did the digital clock say to the grandfather clock? Look, no hands!</code></pre>
-<pre><code>3 » The best time on a clock is 6:30--hands down.</code></pre>
+<pre><code>1 » Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, â��No, just leave it in the carton!â��</code></pre>
+<pre><code>2 » I have kleptomania, but when it gets bad, I take something for it.</code></pre>
+<pre><code>3 » Did you hear about the submarine industry? It really took a dive...</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +213,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Shakespeare spelled his OWN name several different ways.</code></pre>
-<pre><code>2 » John Lennon`s first girlfriend was named Thelma Pickles.</code></pre>
-<pre><code>3 » One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.</code></pre>
+<pre><code>1 » Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.</code></pre>
+<pre><code>2 » Dueling is legal in Paraguay as long as both parties are registered blood donors.</code></pre>
+<pre><code>3 » The S in Harry S. Truman did not stand for anything.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +225,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world. - Judy Collins</code></pre>
-<pre><code>2 » The more sand that has escaped from the hourglass of our life, the clearer we should see through it. - Jean-Paul Sartre</code></pre>
-<pre><code>3 » If a man does his best, what else is there? - George S. Patton</code></pre>
+<pre><code>1 » We've got to have a dream if we are going to make a dream come true. - Walt Disney</code></pre>
+<pre><code>2 » Myths which are believed in tend to become true. - George Orwell</code></pre>
+<pre><code>3 » When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it. - A. Powell Davies</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
