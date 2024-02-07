@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/351d66ffc5e977c06474baf48ef54461e45e01717cd0bdaffa41c24ca4fc01fa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303531253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C051%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b2aef339c33c677df705c1febe7db2ca5eda3f0dda64ceb5770e60e6eb52f96b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353225323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C052%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,474+ Commits made on Github</p>
+<p>🏆 2,475+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,73 +68,73 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 18 mins</td>
+<td>5 hrs 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.48%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>2 hrs 41 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.96%</td>
+<td>42.22%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 39 mins</td>
+<td>2 hrs 47 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.81%</td>
+<td>22.14%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>2 hrs 21 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.61%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.97%</td>
+<td>7.06%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>33 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.41%</td>
+<td>4.47%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.62%</td>
+<td>1.64%</td>
 </tr> 
  <tr>
 <td>C++</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.38%</td>
+<td>1.4%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.46%</td>
+<td>8 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.66%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 41 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.99%</td>
+<td>2 hrs 21 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.63%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
 <td>1 hr 28 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.55%</td>
+<td>11.71%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>12 hrs 48 mins</td>
+<td>12 hrs 38 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>February 06, 2024</td>
-<td>19:23:12 IST</td>
+<td>Wednesday</td>
+<td>February 07, 2024</td>
+<td>19:23:19 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>February 07, 2024</td>
-<td>19:20:10 IST</td>
+<td>Thursday</td>
+<td>February 08, 2024</td>
+<td>19:20:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,10 +207,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why is it so windy inside an arena? All those fans.</code></pre>
-<pre><code>2 » How do you organize a space party? You planet.</code></pre>
-<pre><code>3 » Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-</code></pre>
+<pre><code>1 » Why is the ocean always blue? Because the shore never waves back.</code></pre>
+<pre><code>2 » How does a French skeleton say hello? Bone-jour.</code></pre>
+<pre><code>3 » My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +220,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</code></pre>
-<pre><code>2 » Honking of car horns for a couple that just got married is an old superstition to insure great sex.</code></pre>
-<pre><code>3 » The average woman consumes 6 lbs of lipstick in her lifetime.</code></pre>
+<pre><code>1 » The Black Widow spider eats her mate during or after sex.</code></pre>
+<pre><code>2 » The praying mantis is the only insect that can turn its head</code></pre>
+<pre><code>3 » Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -232,9 +232,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition. - Honoré de Balzac</code></pre>
-<pre><code>2 » A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be. - Wayne Gretzky</code></pre>
-<pre><code>3 » We can change our lives. We can do, have, and be exactly what we wish. - Tony Robbins</code></pre>
+<pre><code>1 » I'm a great believer in luck and I find the harder I work, the more I have of it. - Thomas Jefferson</code></pre>
+<pre><code>2 » He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. - Tryon Edwards</code></pre>
+<pre><code>3 » We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
