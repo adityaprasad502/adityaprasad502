@@ -28,10 +28,10 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b2aef339c33c677df705c1febe7db2ca5eda3f0dda64ceb5770e60e6eb52f96b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353225323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C052%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f0618a35158451c70cd0e5db573d95f712e44a049be6567fcb734cc42bba4e1b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353425323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C054%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,475+ Commits made on Github</p>
+<p>🏆 2,476+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -68,73 +68,73 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 20 mins</td>
+<td>5 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.22%</td>
+<td>41.79%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 47 mins</td>
+<td>2 hrs 57 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.14%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>2 hrs 21 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.61%</td>
+<td>22.49%</td>
 </tr> 
  <tr>
 <td>Dart</td>
-<td>53 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.06%</td>
+<td>1 hr 46 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.52%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 39 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.59%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>33 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.47%</td>
+<td>4.29%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.64%</td>
+<td>1.57%</td>
 </tr> 
  <tr>
 <td>C++</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.66%</td>
+<td>10 hrs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>76.07%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 21 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.63%</td>
+<td>1 hr 39 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.59%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
-<td>1 hr 28 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.71%</td>
+<td>1 hr 29 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.34%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>12 hrs 38 mins</td>
+<td>13 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>February 07, 2024</td>
-<td>19:23:19 IST</td>
+<td>Thursday</td>
+<td>February 08, 2024</td>
+<td>19:23:04 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>February 08, 2024</td>
-<td>19:20:15 IST</td>
+<td>Friday</td>
+<td>February 09, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,10 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why is the ocean always blue? Because the shore never waves back.</code></pre>
-<pre><code>2 » How does a French skeleton say hello? Bone-jour.</code></pre>
-<pre><code>3 » My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.</code></pre>
+<pre><code>1 » Where did you learn to make ice cream? Sunday school.</code></pre>
+<pre><code>2 » Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.</code></pre>
+<pre><code>3 » A Skeleton walked into a bar he said I need a beer and a mop</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +219,9 @@ I know he means well.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Black Widow spider eats her mate during or after sex.</code></pre>
-<pre><code>2 » The praying mantis is the only insect that can turn its head</code></pre>
-<pre><code>3 » Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.</code></pre>
+<pre><code>1 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
+<pre><code>2 » Pinocchio is Italian for "pine head."</code></pre>
+<pre><code>3 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -232,9 +231,9 @@ I know he means well.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I'm a great believer in luck and I find the harder I work, the more I have of it. - Thomas Jefferson</code></pre>
-<pre><code>2 » He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. - Tryon Edwards</code></pre>
-<pre><code>3 » We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » To know oneself is to study oneself in action with another person. - Bruce Lee</code></pre>
+<pre><code>2 » True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Isocrates</code></pre>
+<pre><code>3 » Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community. - Steven Van Zandt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
