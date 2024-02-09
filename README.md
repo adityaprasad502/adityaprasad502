@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f0618a35158451c70cd0e5db573d95f712e44a049be6567fcb734cc42bba4e1b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353425323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C054%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/838518001803f67223a5b77d71e7846e9e74bc84ff5a758f81d23849447a0dff/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353425323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C054%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,476+ Commits made on Github</p>
-<p>📦 41.2 KiB Used in GitHub's Storage</p>
+<p>🏆 2,477+ Commits made on Github</p>
+<p>📦 41.3 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -68,73 +68,73 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.79%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 hrs 57 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.49%</td>
+<td>3 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.16%</td>
 </tr> 
  <tr>
 <td>Dart</td>
-<td>1 hr 46 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.52%</td>
+<td>3 hrs 43 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.08%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>1 hr 39 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.59%</td>
+<td>XML</td>
+<td>2 hrs 38 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.06%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>33 mins</td>
+<td>32 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.29%</td>
+<td>4.51%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>24 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.4%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.57%</td>
+<td>1.69%</td>
 </tr> 
  <tr>
 <td>C++</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.35%</td>
+<td>1.48%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>10 hrs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>76.07%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>1 hr 39 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.59%</td>
+<td>10 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.16%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
 <td>1 hr 29 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.34%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.44%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>24 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.4%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 9 mins</td>
+<td>11 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>February 08, 2024</td>
-<td>19:23:04 IST</td>
+<td>Friday</td>
+<td>February 09, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>February 09, 2024</td>
-<td>19:20:00 IST</td>
+<td>Saturday</td>
+<td>February 10, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,9 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where did you learn to make ice cream? Sunday school.</code></pre>
-<pre><code>2 » Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.</code></pre>
-<pre><code>3 » A Skeleton walked into a bar he said I need a beer and a mop</code></pre>
+<pre><code>1 » A man walked in to a bar with some asphalt on his arm. He said â��Two beers please, one for me and one for the road.â��</code></pre>
+<pre><code>2 » Why did the coffee file a police report? It got mugged.</code></pre>
+<pre><code>3 » My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -219,9 +219,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
-<pre><code>2 » Pinocchio is Italian for "pine head."</code></pre>
-<pre><code>3 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
+<pre><code>1 » William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</code></pre>
+<pre><code>2 » No word in the English language rhymes with month, orange, silver and purple.</code></pre>
+<pre><code>3 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -231,9 +231,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To know oneself is to study oneself in action with another person. - Bruce Lee</code></pre>
-<pre><code>2 » True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Isocrates</code></pre>
-<pre><code>3 » Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community. - Steven Van Zandt</code></pre>
+<pre><code>1 » Adopt the pace of nature: her secret is patience. - Ralph Waldo Emerson</code></pre>
+<pre><code>2 » Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it. - Napoleon Hill</code></pre>
+<pre><code>3 » All our knowledge has its origins in our perceptions. - Leonardo da Vinci</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
