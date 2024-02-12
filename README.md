@@ -28,11 +28,11 @@ fun main() {cuteMsg()}
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ccb17b8e117db65f8c92c4e4cd4e8bbf78afe9f26dff3dbd746f280069eda469/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353425323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C054%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9edf28968a68de656f540cff615b31ac701562cedab5435e2d36fd23d39ad1ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,481+ Commits made on Github</p>
-<p>📦 41.3 KiB Used in GitHub's Storage</p>
+<p>🏆 2,482+ Commits made on Github</p>
+<p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -69,72 +69,72 @@ fun main() {cuteMsg()}
  <tr>
 <td>Dart</td>
 <td>2 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.24%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 59 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.51%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.81%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>57 mins</td>
+<td>39 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.29%</td>
+<td>13.09%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
-<td>17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.31%</td>
+<td>XML</td>
+<td>38 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.65%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>16 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.28%</td>
+<td>28 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.26%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>5 mins</td>
+<td>14 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.7%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.25%</td>
+<td>1.21%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.2%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>6 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.66%</td>
+<td>4 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.6%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>24 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.16%</td>
+<td>46 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.17%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>0.23%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 44 mins</td>
+<td>5 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>February 11, 2024</td>
-<td>19:23:08 IST</td>
+<td>Monday</td>
+<td>February 12, 2024</td>
+<td>19:22:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>February 12, 2024</td>
-<td>19:20:05 IST</td>
+<td>Tuesday</td>
+<td>February 13, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,9 +207,10 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How does a French skeleton say hello? Bone-jour.</code></pre>
-<pre><code>2 » How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!</code></pre>
-<pre><code>3 » What do you call a monkey in a mine field? A babooooom!
+<pre><code>1 » Why did the clown have neck pain? - Because he slept funny</code></pre>
+<pre><code>2 » Why can't eggs have love? They will break up too soon.</code></pre>
+<pre><code>3 » What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
 </code></pre>
 </details>
 <p>
@@ -220,9 +221,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Honking of car horns for a couple that just got married is an old superstition to insure great sex.</code></pre>
-<pre><code>2 » On average, people fear spiders more than they do death.</code></pre>
-<pre><code>3 » Every acre of American crops harvested contains 100 pounds of insects.</code></pre>
+<pre><code>1 » Americans travel 1,144,721,000 miles by air every day</code></pre>
+<pre><code>2 » A horse can look forward with one eye and back with the other.</code></pre>
+<pre><code>3 » It has been estimated that humans use only 10% of their brain.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
