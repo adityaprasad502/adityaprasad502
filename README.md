@@ -31,7 +31,7 @@ fun main() {cuteMsg()}
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9edf28968a68de656f540cff615b31ac701562cedab5435e2d36fd23d39ad1ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,482+ Commits made on Github</p>
+<p>🏆 2,483+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -69,72 +69,72 @@ fun main() {cuteMsg()}
  <tr>
 <td>Dart</td>
 <td>2 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.81%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>39 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.09%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>38 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.65%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.07%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.26%</td>
+<td>10.7%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>19 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.4%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>17 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.67%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>14 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
+<td>5.43%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.21%</td>
+<td>1.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.2%</td>
-</tr>
-</tbody></table>
-<table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>4 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.6%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>46 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.17%</td>
-</tr> 
- <tr>
-<td>Intellijidea</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.23%</td>
 </tr>
 </tbody></table>
 <table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>Android Studio</td>
+<td>3 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.2%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>46 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.54%</td>
+</tr> 
+ <tr>
+<td>Intellijidea</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.27%</td>
+</tr>
+</tbody></table>
+<table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 4 mins</td>
+<td>4 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,15 +188,15 @@ fun main() {cuteMsg()}
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>February 12, 2024</td>
-<td>19:22:45 IST</td>
+<td>Tuesday</td>
+<td>February 13, 2024</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>February 13, 2024</td>
-<td>19:20:45 IST</td>
+<td>Wednesday</td>
+<td>February 14, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -207,11 +207,9 @@ fun main() {cuteMsg()}
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the clown have neck pain? - Because he slept funny</code></pre>
-<pre><code>2 » Why can't eggs have love? They will break up too soon.</code></pre>
-<pre><code>3 » What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-</code></pre>
+<pre><code>1 » My wife told me to rub the herbs on the meat for better flavor. That's sage advice.</code></pre>
+<pre><code>2 » Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.</code></pre>
+<pre><code>3 » Why is the ocean always blue? Because the shore never waves back.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +219,9 @@ You can hang around. I'll just go on ahead.
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Americans travel 1,144,721,000 miles by air every day</code></pre>
-<pre><code>2 » A horse can look forward with one eye and back with the other.</code></pre>
-<pre><code>3 » It has been estimated that humans use only 10% of their brain.</code></pre>
+<pre><code>1 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
+<pre><code>2 » Maine is the only state whose name is just one syllable.</code></pre>
+<pre><code>3 » It is illegal to eat oranges while bathing in California.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
