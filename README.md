@@ -5,23 +5,20 @@
 </h1>
 
 ```kt
-// try this on a Kotlin IDE, IntelliJ IDEA?
-fun cuteMsg() {
-    val mt = listOf(65, 68, 73, 84, 89, 65, 32, 80, 82, 65, 83, 65, 68, 32, 83)
-
-    while (true) {
-        for (i in 0..13) {
-            println("--".repeat(i) + mt[i].toChar())
-            Thread.sleep(96)
-        }
-        for (i in 14 downTo 1) {
-            println("--".repeat(i) + mt[i].toChar())
-            Thread.sleep(96)
-        }
+// try this on a Kotlin IDE, IntelliJ IDEA? (avoid online compiler)
+fun main() {
+  val l = listOf(65, 68, 73, 84, 89, 65, 32, 80, 82, 65, 83, 65, 68, 32, 83)
+  while (true) {
+    for (i in 0..13) {
+      println("--".repeat(i) + l[i].toChar())
+      Thread.sleep(94)
     }
+    for (i in 14 downTo 1) {
+      println("--".repeat(i) + l[i].toChar())
+      Thread.sleep(94)
+    }
+  }
 }
-
-fun main() {cuteMsg()}
 ```
 
 <h2 align='center'> :octocat: Github Stats :electron: </h2>
@@ -248,7 +245,7 @@ fun main() {cuteMsg()}
 		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 	</a>
 </p>
-<p align="center"> Copyright © 2020 - 2023 <br>
+<p align="center"> Copyright © 2020 - 2024 <br>
 	<br>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
 		<img src="https://da.gd/track" style="max-width:100%;">
