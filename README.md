@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9edf28968a68de656f540cff615b31ac701562cedab5435e2d36fd23d39ad1ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,484+ Commits made on Github</p>
+<p>🏆 2,486+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,98 +40,86 @@ fun main() {
 <td>🌞 Morning</td>
 <td>68 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.38%</td>
+<td>21.32%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.96%</td>
+<td>22.88%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>56 commits</td>
+<td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.61%</td>
+<td>17.87%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>121 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.05%</td>
+<td>37.93%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Dart</td>
-<td>2 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.09%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>28 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.49%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.22%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>14 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.84%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.01%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.99%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.95%</td>
+<td>Dart</td>
+<td>8 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.03%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.68%</td>
 </tr> 
  <tr>
-<td>GitIgnore file</td>
+<td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>0.05%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.01%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>3 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.88%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
 <td>46 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.83%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>83.93%</td>
 </tr> 
  <tr>
-<td>Intellijidea</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>Android Studio</td>
+<td>8 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.07%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 4 mins</td>
+<td>54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -185,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>February 14, 2024</td>
-<td>19:23:14 IST</td>
+<td>Friday</td>
+<td>February 16, 2024</td>
+<td>19:23:12 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>February 15, 2024</td>
+<td>Saturday</td>
+<td>February 17, 2024</td>
 <td>19:20:10 IST</td>
 </tr>
 </tbody></table>
@@ -204,10 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.</code></pre>
-<pre><code>2 » What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.</code></pre>
-<pre><code>3 » What do you call a monkey in a mine field? A babooooom!
-</code></pre>
+<pre><code>1 » How do hens stay fit? They always egg-cercise!</code></pre>
+<pre><code>2 » How do robots eat guacamole? With computer chips.</code></pre>
+<pre><code>3 » People are shocked to discover I have a police record but I love their greatest hits!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -217,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Thirty-five percent of people who use personal ads for dating are already married.</code></pre>
-<pre><code>2 » There are no clocks in Las Vegas gambling casinos.</code></pre>
-<pre><code>3 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
+<pre><code>1 » There is a town in Newfoundland, Canada called Dildo.</code></pre>
+<pre><code>2 » The eyes of a donkey are positioned so that it can see all four feet at all times.</code></pre>
+<pre><code>3 » A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
