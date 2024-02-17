@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9edf28968a68de656f540cff615b31ac701562cedab5435e2d36fd23d39ad1ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,486+ Commits made on Github</p>
+<p>🏆 2,487+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -66,32 +66,26 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.22%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.01%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>14 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.01%</td>
-</tr> 
- <tr>
-<td>Dart</td>
-<td>8 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.03%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.98%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.68%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.96%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>0.04%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -105,21 +99,21 @@ fun main() {
  <tr>
 <td>VS Code</td>
 <td>46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>83.93%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.97%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.07%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>54 mins</td>
+<td>46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>February 16, 2024</td>
-<td>19:23:12 IST</td>
+<td>Saturday</td>
+<td>February 17, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>February 17, 2024</td>
-<td>19:20:10 IST</td>
+<td>Sunday</td>
+<td>February 18, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How do hens stay fit? They always egg-cercise!</code></pre>
-<pre><code>2 » How do robots eat guacamole? With computer chips.</code></pre>
-<pre><code>3 » People are shocked to discover I have a police record but I love their greatest hits!</code></pre>
+<pre><code>1 » I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.</code></pre>
+<pre><code>2 » So, I heard this pun about cows, but itâ��s kinda offensive so I wonâ��t say it. I donâ��t want there to be any beef between us. </code></pre>
+<pre><code>3 » What do you do when your bunny gets wet? You get your hare dryer.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There is a town in Newfoundland, Canada called Dildo.</code></pre>
-<pre><code>2 » The eyes of a donkey are positioned so that it can see all four feet at all times.</code></pre>
-<pre><code>3 » A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.</code></pre>
+<pre><code>1 » Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</code></pre>
+<pre><code>2 » Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</code></pre>
+<pre><code>3 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
