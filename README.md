@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9edf28968a68de656f540cff615b31ac701562cedab5435e2d36fd23d39ad1ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/850c5a08cc809027cafd5c701f64900437da5288ac2f116d7d86f269a0f00d88/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,487+ Commits made on Github</p>
-<p>📦 41.2 KiB Used in GitHub's Storage</p>
+<p>🏆 2,488+ Commits made on Github</p>
+<p>📦 41.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -44,9 +44,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>73 commits</td>
+<td>72 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.88%</td>
+<td>22.57%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -56,36 +56,36 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>121 commits</td>
+<td>122 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.93%</td>
+<td>38.24%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.01%</td>
+<td>13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.51%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>10 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.52%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>14 mins</td>
+<td>9 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.98%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>3 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.96%</td>
+<td>27.89%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>0.06%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -98,22 +98,22 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>46 mins</td>
+<td>33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.97%</td>
+<td>99.96%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.04%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>46 mins</td>
+<td>33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>February 17, 2024</td>
-<td>19:22:50 IST</td>
+<td>Sunday</td>
+<td>February 18, 2024</td>
+<td>19:23:20 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>February 18, 2024</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>February 19, 2024</td>
+<td>19:20:20 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.</code></pre>
-<pre><code>2 » So, I heard this pun about cows, but itâ��s kinda offensive so I wonâ��t say it. I donâ��t want there to be any beef between us. </code></pre>
-<pre><code>3 » What do you do when your bunny gets wet? You get your hare dryer.</code></pre>
+<pre><code>1 » Why didn't the number 4 get into the nightclub? Because he is 2 square.</code></pre>
+<pre><code>2 » As I suspected, someone has been adding soil to my garden. The plot thickens.</code></pre>
+<pre><code>3 » Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,21 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</code></pre>
-<pre><code>2 » Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</code></pre>
-<pre><code>3 » There were always 56 curls in Shirley Temple`s hair.</code></pre>
+<pre><code>1 » Most lipstick contains fish scales!</code></pre>
+<pre><code>2 » The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  </code></pre>
+<pre><code>3 » There are two credit cards for every person in the United States.</code></pre>
+</details>
+<p>
+	<a href="https://adityaprasad.eu.org" rel="nofollow">
+		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+	</a>
+</p>
+<details>
+<summary><b>Random Quotes for Today</b></summary>
+<br>
+<pre><code>1 » The biggest room in the world is room for improvement. - Helmut Schmidt</code></pre>
+<pre><code>2 » Setting goals is the first step in turning the invisible into the visible. - Tony Robbins</code></pre>
+<pre><code>3 » Argue for your limitations, and sure enough they're yours. - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
