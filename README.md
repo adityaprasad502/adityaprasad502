@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/850c5a08cc809027cafd5c701f64900437da5288ac2f116d7d86f269a0f00d88/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,488+ Commits made on Github</p>
+<p>🏆 2,489+ Commits made on Github</p>
 <p>📦 41.1 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,56 +64,44 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.51%</td>
-</tr> 
- <tr>
 <td>Text</td>
 <td>10 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.52%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.85%</td>
 </tr> 
  <tr>
-<td>JSON</td>
-<td>9 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.89%</td>
+<td>Python</td>
+<td>1 min</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.98%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>33 mins</td>
+<td>11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.96%</td>
+<td>99.89%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>0.11%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>33 mins</td>
+<td>11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>February 18, 2024</td>
-<td>19:23:20 IST</td>
+<td>Monday</td>
+<td>February 19, 2024</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>February 19, 2024</td>
-<td>19:20:20 IST</td>
+<td>Tuesday</td>
+<td>February 20, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why didn't the number 4 get into the nightclub? Because he is 2 square.</code></pre>
-<pre><code>2 » As I suspected, someone has been adding soil to my garden. The plot thickens.</code></pre>
-<pre><code>3 » Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.</code></pre>
+<pre><code>1 » What does an angry pepper do? It gets jalapeÃ±o face.</code></pre>
+<pre><code>2 » What kind of music do planets listen to? Nep-tunes.</code></pre>
+<pre><code>3 » Where does astronauts hangout after work? At the spacebar.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Most lipstick contains fish scales!</code></pre>
-<pre><code>2 » The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  </code></pre>
-<pre><code>3 » There are two credit cards for every person in the United States.</code></pre>
+<pre><code>1 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
+<pre><code>2 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
+<pre><code>3 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The biggest room in the world is room for improvement. - Helmut Schmidt</code></pre>
-<pre><code>2 » Setting goals is the first step in turning the invisible into the visible. - Tony Robbins</code></pre>
-<pre><code>3 » Argue for your limitations, and sure enough they're yours. - Richard Bach</code></pre>
+<pre><code>1 » The personal life deeply lived always expands into truths beyond itself. - Anaïs Nin</code></pre>
+<pre><code>2 » If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. - Pema Chödrön</code></pre>
+<pre><code>3 » Happiness often sneaks in through a door you didn't know you left open. - John Barrymore</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
