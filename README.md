@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/850c5a08cc809027cafd5c701f64900437da5288ac2f116d7d86f269a0f00d88/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,492+ Commits made on Github</p>
-<p>📦 41.1 KiB Used in GitHub's Storage</p>
+<p>🏆 2,493+ Commits made on Github</p>
+<p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -67,19 +67,13 @@ fun main() {
 <td>Text</td>
 <td>10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.85%</td>
+<td>91.01%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 min</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.98%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>8.99%</td>
 </tr>
 </tbody></table>
 <table>
@@ -88,13 +82,7 @@ fun main() {
 <td>VS Code</td>
 <td>11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.89%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
@@ -155,15 +143,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>February 22, 2024</td>
-<td>19:23:01 IST</td>
+<td>Friday</td>
+<td>February 23, 2024</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>February 23, 2024</td>
-<td>19:20:00 IST</td>
+<td>Saturday</td>
+<td>February 24, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What creature is smarter than a talking parrot? A spelling bee.</code></pre>
-<pre><code>2 » What do you call a fake noodle? An impasta.</code></pre>
-<pre><code>3 » If at first you don't succeed, sky diving is not for you!</code></pre>
+<pre><code>1 » I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.</code></pre>
+<pre><code>2 » What kind of bagel can fly? A plain bagel.</code></pre>
+<pre><code>3 » A termite walks into a bar and asks â��Is the bar tender here?â��</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A snail can sleep for three years.</code></pre>
-<pre><code>2 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
-<pre><code>3 » The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</code></pre>
+<pre><code>1 » Owls are one of the only birds who can see the color blue!</code></pre>
+<pre><code>2 » PEZ candy even comes in a Coffee flavor.</code></pre>
+<pre><code>3 » On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » All things change; nothing perishes. - Ovid</code></pre>
-<pre><code>2 » O, what a tangled web we weave when first we practice to deceive! - Walter Scott</code></pre>
-<pre><code>3 » An appeaser is one who feeds a crocodile, hoping it will eat him last. - Winston Churchill</code></pre>
+<pre><code>1 » Knowing others is wisdom, knowing yourself is Enlightenment. - Laozi</code></pre>
+<pre><code>2 » When watching after yourself, you watch after others. When watching after others, you watch after yourself. - The Buddha</code></pre>
+<pre><code>3 » It is not fair to ask of others what you are unwilling to do yourself. - Eleanor Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
