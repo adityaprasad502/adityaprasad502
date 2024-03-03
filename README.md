@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/368989852f12caef64d93e729e58b79e962632056e17c61fdb92943e4bf80b44/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e241904508fa10aa7bae0f07baff90d1d4ace0a8cfbc37857b1a74622660acc6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,501+ Commits made on Github</p>
+<p>🏆 2,503+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,25 +65,37 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>8 mins</td>
+<td>15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>99.95%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 mins</td>
+<td>15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>99.95%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 mins</td>
+<td>15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 02, 2024</td>
-<td>19:23:12 IST</td>
+<td>Sunday</td>
+<td>March 03, 2024</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 03, 2024</td>
-<td>19:20:10 IST</td>
+<td>Monday</td>
+<td>March 04, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I saw a documentary on TV last night about how they put ships together.  It was rivetting.</code></pre>
-<pre><code>2 » Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.</code></pre>
-<pre><code>3 » Why do bees have sticky hair? Because they use honey combs!</code></pre>
+<pre><code>1 » R.I.P. boiled water. You will be mist.</code></pre>
+<pre><code>2 » How come the stadium got hot after the game? Because all of the fans left.</code></pre>
+<pre><code>3 » How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A jellyfish is 95 percent water!</code></pre>
-<pre><code>2 » Daffy Duck`s middle name is "Dumas"</code></pre>
-<pre><code>3 » The word "samba" means "to rub navels together."</code></pre>
+<pre><code>1 » Humans are the only primates that don`t have pigment in the palms of their hands.</code></pre>
+<pre><code>2 » Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</code></pre>
+<pre><code>3 » the bird is the word</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The future is completely open, and we are writing it moment to moment. - Pema Chödrön</code></pre>
-<pre><code>2 » So much technology, so little talent. - Vernor Vinge</code></pre>
-<pre><code>3 » Happiness mainly comes from our own attitude, rather than from external factors. - Dalai Lama</code></pre>
+<pre><code>1 » What lies behind us and what lies before us are small matters compared to what lies within us. - Oliver Wendell Holmes Jr.</code></pre>
+<pre><code>2 » Fans don't boo nobodies. - Reggie Jackson (basketball, born 1990)</code></pre>
+<pre><code>3 » Everything comes to him who hustles while he waits. - Thomas Edison</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
