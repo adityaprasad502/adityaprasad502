@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e241904508fa10aa7bae0f07baff90d1d4ace0a8cfbc37857b1a74622660acc6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353525323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C055%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0dffc02a40150e504407afa669fe98db2893266b9252dfe2bfb0bc13165d61fb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330353825323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C058%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,508+ Commits made on Github</p>
+<p>🏆 2,512+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,62 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>68 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.32%</td>
+<td>21.25%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>72 commits</td>
+<td>71 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.57%</td>
+<td>22.19%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.87%</td>
+<td>17.81%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>122 commits</td>
+<td>124 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.24%</td>
+<td>38.75%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Kotlin</td>
+<td>1 hr 27 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.16%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>32 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.79%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>19 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.46%</td>
+</tr> 
+ <tr>
 <td>Python</td>
-<td>15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.95%</td>
+<td>17 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.96%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.54%</td>
+</tr> 
+ <tr>
+<td>Batchfile</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.06%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.95%</td>
+<td>Android Studio</td>
+<td>2 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>89.04%</td>
 </tr> 
  <tr>
-<td>Android Studio</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>VS Code</td>
+<td>17 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.96%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 mins</td>
+<td>2 hrs 38 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -149,14 +179,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>March 08, 2024</td>
-<td>19:23:01 IST</td>
+<td>Saturday</td>
+<td>March 09, 2024</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>March 09, 2024</td>
+<td>Sunday</td>
+<td>March 10, 2024</td>
 <td>19:20:00 IST</td>
 </tr>
 </tbody></table>
@@ -168,10 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Iâ��m reading a book on the history of glue â�� canâ��t put it down.</code></pre>
-<pre><code>2 » How do locomotives know where they're going? Lots of training</code></pre>
-<pre><code>3 » "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."</code></pre>
+<pre><code>1 » Chances are if you' ve seen one shopping center, you've seen a mall.</code></pre>
+<pre><code>2 » Scientists finally did a study on forks. It's about tine!</code></pre>
+<pre><code>3 » What did the 0 say to the 8? Nice belt.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -181,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</code></pre>
-<pre><code>2 » The S in Harry S. Truman did not stand for anything.</code></pre>
-<pre><code>3 » In every episode of Seinfeld there is a Superman somewhere.</code></pre>
+<pre><code>1 » There are 336 dimples on a regulation golf ball.</code></pre>
+<pre><code>2 » Reindeer like to eat bananas.</code></pre>
+<pre><code>3 » There are 1 million ants for every human in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -193,9 +222,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A good plan violently executed now is better than a perfect plan executed next week. - George S. Patton</code></pre>
-<pre><code>2 » If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude. - Colin Powell</code></pre>
-<pre><code>3 » Experience keeps a dear school, but fools will learn in no other. - Benjamin Franklin</code></pre>
+<pre><code>1 » Knowing is not enough; we must apply! - Johann Wolfgang von Goethe</code></pre>
+<pre><code>2 » Be yourself; everyone else is already taken. - Oscar Wilde</code></pre>
+<pre><code>3 » Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal. - Vince Lombardi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
