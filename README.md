@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/53f3cd47e99d2a42c57a859ef18f94458bb3a47b823bad64b4d0eba3ee571ea0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363025323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C060%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,518+ Commits made on Github</p>
+<p>🏆 2,519+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,68 +64,38 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 27 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.83%</td>
-</tr> 
- <tr>
 <td>HTML</td>
 <td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.8%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.15%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>57 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.26%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>32 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.62%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>19 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.97%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>11 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.18%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.3%</td>
+<td>1.54%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.23%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>2 hrs 20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.77%</td>
+<td>2 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 42 mins</td>
+<td>2 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -179,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>March 15, 2024</td>
-<td>19:22:58 IST</td>
+<td>Saturday</td>
+<td>March 16, 2024</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>March 16, 2024</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>March 17, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -198,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What do you do when your bunny gets wet? You get your hare dryer.</code></pre>
-<pre><code>2 » A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."</code></pre>
-<pre><code>3 » I'm glad I know sign language, it's pretty handy.</code></pre>
+<pre><code>1 » Why do we tell actors to â��break a leg?â�� Because every play has a cast.</code></pre>
+<pre><code>2 » I'd like to start a diet, but I've got too much on my plate right now.</code></pre>
+<pre><code>3 » What do you call a fake noodle? An impasta.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
-<pre><code>2 » Venus is the only planet that rotates clockwise.</code></pre>
-<pre><code>3 » 400-quarter pounders can be made from 1 cow.</code></pre>
+<pre><code>1 » There`s a systematic lull in conversation every 7 minutes.</code></pre>
+<pre><code>2 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
+<pre><code>3 » Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -222,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » They can do all because they think they can. - Virgil</code></pre>
-<pre><code>2 » Real magic in relationships means an absence of judgement of others. - Wayne Dyer</code></pre>
-<pre><code>3 » If you are out to describe the truth, leave elegance to the tailor. - Albert Einstein</code></pre>
+<pre><code>1 » He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law. - Pablo Picasso</code></pre>
+<pre><code>2 » Learning without reflection is a waste, reflection without learning is dangerous. - Confucius</code></pre>
+<pre><code>3 » The simplest things are often the truest. - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
