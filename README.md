@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/53f3cd47e99d2a42c57a859ef18f94458bb3a47b823bad64b4d0eba3ee571ea0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363025323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C060%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,519+ Commits made on Github</p>
+<p>🏆 2,520+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,38 +64,44 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>HTML</td>
-<td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.15%</td>
-</tr> 
- <tr>
 <td>CSS</td>
-<td>57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.3%</td>
+<td>13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.52%</td>
 </tr> 
  <tr>
-<td>Python</td>
+<td>HTML</td>
 <td>2 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.96%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.54%</td>
+<td>0.52%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>99.48%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.52%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 12 mins</td>
+<td>16 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -149,14 +155,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 16, 2024</td>
-<td>19:23:05 IST</td>
+<td>Monday</td>
+<td>March 18, 2024</td>
+<td>19:23:07 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 17, 2024</td>
+<td>Tuesday</td>
+<td>March 19, 2024</td>
 <td>19:20:05 IST</td>
 </tr>
 </tbody></table>
@@ -168,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why do we tell actors to â��break a leg?â�� Because every play has a cast.</code></pre>
-<pre><code>2 » I'd like to start a diet, but I've got too much on my plate right now.</code></pre>
-<pre><code>3 » What do you call a fake noodle? An impasta.</code></pre>
+<pre><code>1 » I hate perforated lines, they're tearable.</code></pre>
+<pre><code>2 » Why was the picture sent to prison? It was framed.</code></pre>
+<pre><code>3 » Whereâ��s the bin? Dad: I havenâ��t been anywhere!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There`s a systematic lull in conversation every 7 minutes.</code></pre>
-<pre><code>2 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
-<pre><code>3 » Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </code></pre>
+<pre><code>1 » A pregnant goldfish is called a twit.</code></pre>
+<pre><code>2 » Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.</code></pre>
+<pre><code>3 » Average number of people airborne over the US any given hour: 61,000.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law. - Pablo Picasso</code></pre>
-<pre><code>2 » Learning without reflection is a waste, reflection without learning is dangerous. - Confucius</code></pre>
-<pre><code>3 » The simplest things are often the truest. - Richard Bach</code></pre>
+<pre><code>1 » Nobody will believe in you unless you believe in yourself. - Liberace</code></pre>
+<pre><code>2 » Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. - Dalai Lama</code></pre>
+<pre><code>3 » I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted. - Og Mandino</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
