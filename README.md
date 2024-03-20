@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/53f3cd47e99d2a42c57a859ef18f94458bb3a47b823bad64b4d0eba3ee571ea0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363025323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C060%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1de419cd0f76d2161d8b95f4c91c560cb319c191e0badbc8d2e33756169f4b33/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363125323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C061%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,521+ Commits made on Github</p>
+<p>🏆 2,531+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,50 +40,80 @@ fun main() {
 <td>🌞 Morning</td>
 <td>68 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.25%</td>
+<td>21.05%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>71 commits</td>
+<td>72 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.19%</td>
+<td>22.29%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.81%</td>
+<td>17.65%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>124 commits</td>
+<td>126 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.75%</td>
+<td>39.01%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Python</td>
+<td>53 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.03%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>14 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.88%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>4 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.51%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.47%</td>
+</tr> 
+ <tr>
 <td>Kotlin</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.11%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
+<td>VS Code</td>
+<td>1 hr 13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.89%</td>
+</tr> 
+ <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.11%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>0 secs</td>
+<td>1 hr 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>March 19, 2024</td>
-<td>19:22:58 IST</td>
+<td>Wednesday</td>
+<td>March 20, 2024</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>March 20, 2024</td>
-<td>19:20:55 IST</td>
+<td>Thursday</td>
+<td>March 21, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.</code></pre>
-<pre><code>2 » My New Years resolution is to stop leaving things so late.</code></pre>
-<pre><code>3 » What do you call an elephant that doesnâ��t matter? An irrelephant.</code></pre>
+<pre><code>1 » A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers</code></pre>
+<pre><code>2 » Did you hear about the cheese who saved the world? It was Legend-dairy!</code></pre>
+<pre><code>3 » Did you hear the one about the giant pickle?  He was kind of a big dill.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The electric chair was invented by a dentist.</code></pre>
-<pre><code>2 » 3.9% of all women do not wear underwear.</code></pre>
-<pre><code>3 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
+<pre><code>1 » Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</code></pre>
+<pre><code>2 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
+<pre><code>3 » Dueling is legal in Paraguay as long as both parties are registered blood donors.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you're going through hell, keep going. - Winston Churchill</code></pre>
-<pre><code>2 » If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. - Nelson Mandela</code></pre>
-<pre><code>3 » Living at risk is jumping off the cliff and building your wings on the way down. - Ray Bradbury</code></pre>
+<pre><code>1 » Things that were hard to bear are sweet to remember. - Seneca the Younger</code></pre>
+<pre><code>2 » I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over. - Warren Buffett</code></pre>
+<pre><code>3 » Honesty is the best policy. - Benjamin Franklin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
