@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1de419cd0f76d2161d8b95f4c91c560cb319c191e0badbc8d2e33756169f4b33/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363125323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C061%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bb0c2a9703af343fa7d21fd01fa1bff8b7992902365548fa8218effb6c38dd8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363125323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C061%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,534+ Commits made on Github</p>
+<p>🏆 2,536+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>68 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.05%</td>
+<td>20.99%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>72 commits</td>
+<td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.29%</td>
+<td>22.53%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.65%</td>
+<td>17.59%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>126 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.01%</td>
+<td>38.89%</td>
 </tr>
 </tbody></table>
 <table>
@@ -67,13 +67,13 @@ fun main() {
 <td>Python</td>
 <td>53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.03%</td>
+<td>73.12%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>14 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.88%</td>
+<td>19.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -86,12 +86,6 @@ fun main() {
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.47%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
 </tr>
 </tbody></table>
 <table>
@@ -100,13 +94,7 @@ fun main() {
 <td>VS Code</td>
 <td>1 hr 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.89%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
@@ -167,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 23, 2024</td>
-<td>19:22:49 IST</td>
+<td>Sunday</td>
+<td>March 24, 2024</td>
+<td>19:22:37 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 24, 2024</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>March 25, 2024</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâ��re pretty repulsive yourself.</code></pre>
-<pre><code>2 » I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.</code></pre>
-<pre><code>3 » What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...</code></pre>
+<pre><code>1 » What do Alexander the Great and Winnie the Pooh have in common? Same middle name.</code></pre>
+<pre><code>2 » How do robots eat guacamole? With computer chips.</code></pre>
+<pre><code>3 » What do you call corn that joins the army? Kernel.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</code></pre>
-<pre><code>2 » The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, &amp; Cancer.</code></pre>
-<pre><code>3 » Dueling is legal in Paraguay as long as both parties are registered blood donors.</code></pre>
+<pre><code>1 » Pearls melt in vinegar.</code></pre>
+<pre><code>2 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
+<pre><code>3 » Over 60% of all those who marry get divorced.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over. - Octavia E. Butler</code></pre>
-<pre><code>2 » We may encounter many defeats, but we must not be defeated. - Maya Angelou</code></pre>
-<pre><code>3 » It is easier to live through someone else than to become complete yourself. - Betty Friedan</code></pre>
+<pre><code>1 » Ignorance and bungling with love are better than wisdom and skill without. - Henry David Thoreau</code></pre>
+<pre><code>2 » You can't stop the waves, but you can learn to surf. - Jon Kabat-Zinn</code></pre>
+<pre><code>3 » Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
