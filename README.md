@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bb0c2a9703af343fa7d21fd01fa1bff8b7992902365548fa8218effb6c38dd8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363125323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C061%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7bfc8eeeb04f05b5a9835129b8c846d0571aac739ce0719a32dcf2950ecc1054/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363225323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C062%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,536+ Commits made on Github</p>
-<p>📦 41.2 KiB Used in GitHub's Storage</p>
+<p>🏆 2,537+ Commits made on Github</p>
+<p>📦 41.3 KiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -66,42 +66,66 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>53 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.12%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.57%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>26 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.92%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>18 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>14 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.9%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.31%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 mins</td>
+<td>5 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.51%</td>
+<td>4.4%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>0 secs</td>
+<td>Java</td>
+<td>5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.01%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.47%</td>
+<td>3.2%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>1 hr 32 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>71.85%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>36 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.15%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 13 mins</td>
+<td>2 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +179,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>March 24, 2024</td>
-<td>19:22:37 IST</td>
+<td>Monday</td>
+<td>March 25, 2024</td>
+<td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>March 25, 2024</td>
-<td>19:20:35 IST</td>
+<td>Tuesday</td>
+<td>March 26, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What do Alexander the Great and Winnie the Pooh have in common? Same middle name.</code></pre>
-<pre><code>2 » How do robots eat guacamole? With computer chips.</code></pre>
-<pre><code>3 » What do you call corn that joins the army? Kernel.</code></pre>
+<pre><code>1 » What do you call a boomerang that won't come back? A stick.</code></pre>
+<pre><code>2 » Dad, can you put my shoes on? I don't think they'll fit me.</code></pre>
+<pre><code>3 » What do you get when you cross a pig and a pineapple? A porky pine</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Pearls melt in vinegar.</code></pre>
-<pre><code>2 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
-<pre><code>3 » Over 60% of all those who marry get divorced.</code></pre>
+<pre><code>1 » "I am." is the shortest complete sentence in the English language.</code></pre>
+<pre><code>2 » 40,000 Americans are injured by toilets each year.</code></pre>
+<pre><code>3 » When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +222,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Ignorance and bungling with love are better than wisdom and skill without. - Henry David Thoreau</code></pre>
-<pre><code>2 » You can't stop the waves, but you can learn to surf. - Jon Kabat-Zinn</code></pre>
-<pre><code>3 » Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller</code></pre>
+<pre><code>1 » The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin</code></pre>
+<pre><code>2 » I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain. - Oprah Winfrey</code></pre>
+<pre><code>3 » The ladder of success is never crowded at the top. - Napoleon Hill</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
