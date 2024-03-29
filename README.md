@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b1dfe0d9e092af5a24912f80f75bb77005f4f1d906e66f774ed792a61178dcf0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363325323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C063%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9225ffff2e5319bcff719ef653a9432141e6844659c919a8c35fe431588fcc7e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363325323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C063%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,540+ Commits made on Github</p>
+<p>🏆 2,541+ Commits made on Github</p>
 <p>📦 41.3 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>XML</td>
-<td>26 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.49%</td>
+<td>43 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.43%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>18 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.14%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.87%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>5 mins</td>
+<td>Kotlin</td>
+<td>10 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.29%</td>
+<td>11.03%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.42%</td>
+<td>8 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.26%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>8 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.21%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.24%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.62%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>0.97%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.24%</td>
+<td>1 hr 13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>79.16%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>19 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.76%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.84%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>55 mins</td>
+<td>1 hr 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>March 28, 2024</td>
-<td>19:23:00 IST</td>
+<td>Friday</td>
+<td>March 29, 2024</td>
+<td>19:22:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>March 29, 2024</td>
-<td>19:20:00 IST</td>
+<td>Saturday</td>
+<td>March 30, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Two muffins were sitting in an oven, and the first looks over to the second, and says, â��man, itâ��s really hot in hereâ��. The second looks over at the first with a surprised look, and answers, â��WHOA, a talking muffin!â��</code></pre>
-<pre><code>2 » which flower is most fierce? Dandelion</code></pre>
-<pre><code>3 » What kind of tree fits in your hand? A palm tree!</code></pre>
+<pre><code>1 » Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.</code></pre>
+<pre><code>2 » What did one plate say to the other plate? Dinner is on me!</code></pre>
+<pre><code>3 » The rotation of earth really makes my day.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </code></pre>
-<pre><code>2 » There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </code></pre>
-<pre><code>3 » Some lions mate over 50 times a day.</code></pre>
+<pre><code>1 » Two-thirds of the world`s eggplant is grown in New Jersey.  </code></pre>
+<pre><code>2 » Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</code></pre>
+<pre><code>3 » The HyperMart outside of Garland Texas has 58 check-outs.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +216,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To get the full value of joy you must have someone to divide it with. - Mark Twain</code></pre>
-<pre><code>2 » We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started. - Henry Ward Beecher</code></pre>
-<pre><code>3 » Just as much as we see in others, we have in ourselves. - William Hazlitt</code></pre>
+<pre><code>1 » He who fears being conquered is sure of defeat. - Napoleon</code></pre>
+<pre><code>2 » Peace begins with a smile. - Mother Teresa</code></pre>
+<pre><code>3 » We are masters of the unsaid words, but slaves of those we let slip out. - Winston Churchill</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
