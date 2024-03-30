@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9225ffff2e5319bcff719ef653a9432141e6844659c919a8c35fe431588fcc7e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363325323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C063%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/076e7e99febdebde0214171d65a35ece45e88c784d7ef59e203edf99bf34c21d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363425323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C064%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,541+ Commits made on Github</p>
+<p>🏆 2,521+ Commits made on Github</p>
 <p>📦 41.3 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -38,27 +38,27 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>68 commits</td>
+<td>69 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.99%</td>
+<td>21.23%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.53%</td>
+<td>22.46%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.59%</td>
+<td>17.54%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>126 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.89%</td>
+<td>38.77%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,44 +66,44 @@ fun main() {
  <tr>
 <td>XML</td>
 <td>43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.43%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.41%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>18 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.44%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>18 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.87%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.43%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>10 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.03%</td>
+<td>9.12%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>8 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.26%</td>
+<td>7.66%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>8 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.21%</td>
+<td>7.61%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.24%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.97%</td>
+<td>2.68%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>1 hr 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.16%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>65.48%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>19 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.84%</td>
+<td>38 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.52%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 32 mins</td>
+<td>1 hr 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -136,52 +136,52 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>47.83%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.67%</td>
+<td>17.39%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>13.04%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>13.04%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.17%</td>
+<td>4.35%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.17%</td>
+<td>4.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>March 29, 2024</td>
-<td>19:22:52 IST</td>
+<td>Saturday</td>
+<td>March 30, 2024</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>March 30, 2024</td>
-<td>19:20:50 IST</td>
+<td>Sunday</td>
+<td>March 31, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.</code></pre>
-<pre><code>2 » What did one plate say to the other plate? Dinner is on me!</code></pre>
-<pre><code>3 » The rotation of earth really makes my day.</code></pre>
+<pre><code>1 » My first time using an elevator was an uplifting experience. The second time let me down.</code></pre>
+<pre><code>2 » Yesterday a clown held a door open for me. I thought it was a nice jester.</code></pre>
+<pre><code>3 » What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Two-thirds of the world`s eggplant is grown in New Jersey.  </code></pre>
-<pre><code>2 » Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</code></pre>
-<pre><code>3 » The HyperMart outside of Garland Texas has 58 check-outs.</code></pre>
+<pre><code>1 » Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.</code></pre>
+<pre><code>2 » Weatherman Willard Scott was the first original Ronald McDonald.</code></pre>
+<pre><code>3 » Q is the only letter in the alphabet that does not appear in the name of any of the United States!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +216,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » He who fears being conquered is sure of defeat. - Napoleon</code></pre>
-<pre><code>2 » Peace begins with a smile. - Mother Teresa</code></pre>
-<pre><code>3 » We are masters of the unsaid words, but slaves of those we let slip out. - Winston Churchill</code></pre>
+<pre><code>1 » We are all faced with a series of great opportunities brilliantly disguised as impossible situations. - Chuck Swindoll</code></pre>
+<pre><code>2 » Luck is what happens when preparation meets opportunity. - Seneca the Younger</code></pre>
+<pre><code>3 » Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
