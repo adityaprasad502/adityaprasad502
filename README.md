@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/076e7e99febdebde0214171d65a35ece45e88c784d7ef59e203edf99bf34c21d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363425323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C064%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,489+ Commits made on Github</p>
+<p>🏆 2,490+ Commits made on Github</p>
 <p>📦 41.3 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -66,66 +66,66 @@ fun main() {
  <tr>
 <td>JSON</td>
 <td>52 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.36%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.96%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>43 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.14%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>18 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.04%</td>
+<td>16 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.53%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>10 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.68%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.47%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>8 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.62%</td>
+<td>7 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.91%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>8 mins</td>
+<td>4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.61%</td>
+<td>4.58%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>8 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.58%</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.46%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.08%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.02%</td>
+<td>1 hr</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.88%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.98%</td>
+<td>37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.12%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 32 mins</td>
+<td>1 hr 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>March 31, 2024</td>
-<td>19:22:55 IST</td>
+<td>Monday</td>
+<td>April 01, 2024</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>April 01, 2024</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>April 02, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What did the drummer name her twin daughters? Anna One, Anna Two...</code></pre>
-<pre><code>2 » I used to think I was indecisive, but now I'm not sure.</code></pre>
-<pre><code>3 » Dad, can you put my shoes on? I don't think they'll fit me.</code></pre>
+<pre><code>1 » Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.</code></pre>
+<pre><code>2 » It was raining cats and dogs the other day. I almost stepped in a poodle.</code></pre>
+<pre><code>3 » I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.</code></pre>
-<pre><code>2 » Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </code></pre>
-<pre><code>3 » Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</code></pre>
+<pre><code>1 » A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.</code></pre>
+<pre><code>2 » A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.</code></pre>
+<pre><code>3 » The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +216,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Love has no age, no limit; and no death. - John Galsworthy</code></pre>
-<pre><code>2 » Life is movement-we breathe, we eat, we walk, we move! - John Pierrakos</code></pre>
-<pre><code>3 » Technology… the knack of so arranging the world that we don't have to experience it. - Max Frisch</code></pre>
+<pre><code>1 » If I know what love is, it is because of you. - Hermann Hesse</code></pre>
+<pre><code>2 » Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind. - The Buddha</code></pre>
+<pre><code>3 » He who knows others is wise. He who knows himself is enlightened. - Laozi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
