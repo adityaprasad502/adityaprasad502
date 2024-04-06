@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/076e7e99febdebde0214171d65a35ece45e88c784d7ef59e203edf99bf34c21d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363425323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C064%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/acd0a777d97d1a6d20b35e173fdf2406a6d51fd32a142fcebf7eae747d00061a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363425323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C064%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,494+ Commits made on Github</p>
+<p>🏆 2,503+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,28 +65,28 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>JSON</td>
-<td>52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>87.2%</td>
+<td>34 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>83.46%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>7 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.78%</td>
+<td>6 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.52%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr</td>
+<td>40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -95,7 +95,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr</td>
+<td>40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -143,15 +143,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>April 05, 2024</td>
-<td>19:22:44 IST</td>
+<td>Saturday</td>
+<td>April 06, 2024</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>April 06, 2024</td>
-<td>19:20:40 IST</td>
+<td>Sunday</td>
+<td>April 07, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -162,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why are basketball players messy eaters? Because they are always dribbling.</code></pre>
-<pre><code>2 » What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.</code></pre>
-<pre><code>3 » I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.</code></pre>
+<pre><code>1 » My dentist is the best, he even has a little plaque!</code></pre>
+<pre><code>2 » It's been months since I bought the book "how to scam people online". It still hasn't turned up.</code></pre>
+<pre><code>3 » My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are two credit cards for every person in the United States.</code></pre>
-<pre><code>2 » Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</code></pre>
-<pre><code>3 » NBA superstar Michael Jordan was originally cut from his high school basketball team.</code></pre>
+<pre><code>1 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
+<pre><code>2 » Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</code></pre>
+<pre><code>3 » Owls are one of the only birds who can see the color blue!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It's important to know that words don't move mountains. Work, exacting work moves mountains. - Danilo Dolci</code></pre>
-<pre><code>2 » Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins. - Charles Eastman</code></pre>
-<pre><code>3 » People may doubt what you say, but they will believe what you do. - Lewis Cass</code></pre>
+<pre><code>1 » The truth of the matter is that you always know the right thing to do. The hard part is doing it. - Norman Schwarzkopf</code></pre>
+<pre><code>2 » When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace. - Dalai Lama</code></pre>
+<pre><code>3 » If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
