@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/acd0a777d97d1a6d20b35e173fdf2406a6d51fd32a142fcebf7eae747d00061a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363425323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C064%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9bb5df2066d43d261b9ba4bd8b6458c3b75e0c42d6cfef9e2a593fc22946a04f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363825323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C068%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,503+ Commits made on Github</p>
+<p>🏆 2,535+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,29 +64,23 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>JSON</td>
-<td>34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>83.46%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>6 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.52%</td>
+<td>Python</td>
+<td>28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.97%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>40 mins</td>
+<td>28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -95,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>40 mins</td>
+<td>28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -143,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>April 06, 2024</td>
-<td>19:22:56 IST</td>
+<td>Sunday</td>
+<td>April 07, 2024</td>
+<td>19:22:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>April 07, 2024</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>April 08, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -162,9 +156,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » My dentist is the best, he even has a little plaque!</code></pre>
-<pre><code>2 » It's been months since I bought the book "how to scam people online". It still hasn't turned up.</code></pre>
-<pre><code>3 » My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.</code></pre>
+<pre><code>1 » "What time is it?" I don't know... it keeps changing.</code></pre>
+<pre><code>2 » Have you ever seen fruit preserves being made? It's jarring.</code></pre>
+<pre><code>3 » I ordered a chicken and an egg from Amazon. I'll let you know.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
-<pre><code>2 » Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</code></pre>
-<pre><code>3 » Owls are one of the only birds who can see the color blue!</code></pre>
+<pre><code>1 » Most toilets flush in E flat.</code></pre>
+<pre><code>2 » Elephants are the only animals that can`t jump.</code></pre>
+<pre><code>3 » In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The truth of the matter is that you always know the right thing to do. The hard part is doing it. - Norman Schwarzkopf</code></pre>
-<pre><code>2 » When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace. - Dalai Lama</code></pre>
-<pre><code>3 » If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut. - Albert Einstein</code></pre>
+<pre><code>1 » How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god. - Alan Watts</code></pre>
+<pre><code>2 » If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. - Nelson Mandela</code></pre>
+<pre><code>3 » Age does not protect you from love. But love, to some extent, protects you from age. - Anaïs Nin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
