@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9bb5df2066d43d261b9ba4bd8b6458c3b75e0c42d6cfef9e2a593fc22946a04f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363825323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C068%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,535+ Commits made on Github</p>
+<p>🏆 2,536+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,22 +65,16 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>28 mins</td>
+<td>4 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.97%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>28 mins</td>
+<td>4 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +83,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>28 mins</td>
+<td>4 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>April 07, 2024</td>
-<td>19:22:40 IST</td>
+<td>Monday</td>
+<td>April 08, 2024</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>April 08, 2024</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>April 09, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +150,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » "What time is it?" I don't know... it keeps changing.</code></pre>
-<pre><code>2 » Have you ever seen fruit preserves being made? It's jarring.</code></pre>
-<pre><code>3 » I ordered a chicken and an egg from Amazon. I'll let you know.</code></pre>
+<pre><code>1 » What happens when you anger a brain surgeon? They will give you a piece of your mind.</code></pre>
+<pre><code>2 » Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.</code></pre>
+<pre><code>3 » Why did the tree go to the dentist? It needed a root canal.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Most toilets flush in E flat.</code></pre>
-<pre><code>2 » Elephants are the only animals that can`t jump.</code></pre>
-<pre><code>3 » In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</code></pre>
+<pre><code>1 » In every episode of Seinfeld there is a Superman somewhere.</code></pre>
+<pre><code>2 » Napoleon`s penis was sold to an American Urologist for $40,000.</code></pre>
+<pre><code>3 » If Texas were a country, its GNP would be the fifth largest of any country in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god. - Alan Watts</code></pre>
-<pre><code>2 » If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. - Nelson Mandela</code></pre>
-<pre><code>3 » Age does not protect you from love. But love, to some extent, protects you from age. - Anaïs Nin</code></pre>
+<pre><code>1 » The truth you believe and cling to makes you unavailable to hear anything new. - Pema Chödrön</code></pre>
+<pre><code>2 » Age does not protect you from love. But love, to some extent, protects you from age. - Anaïs Nin</code></pre>
+<pre><code>3 » When I do good I feel good, when I do bad I feel bad, and that's my religion. - Abraham Lincoln</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
