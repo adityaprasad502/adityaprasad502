@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9bb5df2066d43d261b9ba4bd8b6458c3b75e0c42d6cfef9e2a593fc22946a04f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363825323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C068%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/cced1463276bd169e66774864d293d7c4dbd5c3e44d0766f7972960d8cf58752/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363825323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C068%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,537+ Commits made on Github</p>
+<p>🏆 2,538+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,16 +65,22 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 7 mins</td>
+<td>4 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>99.82%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.18%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 7 mins</td>
+<td>4 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -83,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 7 mins</td>
+<td>4 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -131,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>April 09, 2024</td>
-<td>19:22:53 IST</td>
+<td>Wednesday</td>
+<td>April 10, 2024</td>
+<td>19:22:41 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>April 10, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>April 11, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +156,10 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the burglar hang his mugshot on the wall? To prove that he was framed!</code></pre>
-<pre><code>2 » What do you call a criminal going down the stairs? Condescending</code></pre>
-<pre><code>3 » For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.</code></pre>
+<pre><code>1 » What did the left eye say to the right eye? Between us, something smells!</code></pre>
+<pre><code>2 » Iâ��m reading a book on the history of glue â�� canâ��t put it down.</code></pre>
+<pre><code>3 » Hostess: Do you have a preference of where you sit?
+Dad: Down.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +169,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Spain leads the world in cork production</code></pre>
-<pre><code>2 » Mr. Rogers is an ordained minister.</code></pre>
-<pre><code>3 » Every acre of American crops harvested contains 100 pounds of insects.</code></pre>
+<pre><code>1 » 100% of lottery winners do gain weight</code></pre>
+<pre><code>2 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
+<pre><code>3 » There are more psychoanalysts per capita in Buenos Aires than any other place in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +181,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglass</code></pre>
-<pre><code>2 » Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice. - Wayne Dyer</code></pre>
-<pre><code>3 » People don't notice whether it's winter or summer when they're happy. - Anton Chekhov</code></pre>
+<pre><code>1 » I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose. - John F. Kennedy</code></pre>
+<pre><code>2 » Friendship is an arrangement by which we undertake to exchange small favors for big ones. - Montesquieu</code></pre>
+<pre><code>3 » We aim above the mark to hit the mark. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
