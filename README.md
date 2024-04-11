@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/cced1463276bd169e66774864d293d7c4dbd5c3e44d0766f7972960d8cf58752/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363825323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C068%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6fa94d5472bebd08bab2d208bf5e469a41da5b3f8a9a0047d4be987bf57ff138/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303639253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C069%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,538+ Commits made on Github</p>
+<p>🏆 2,541+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,22 +65,22 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 18 mins</td>
+<td>4 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.82%</td>
+<td>99.84%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.18%</td>
+<td>0.16%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 19 mins</td>
+<td>4 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 19 mins</td>
+<td>4 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>April 10, 2024</td>
-<td>19:22:41 IST</td>
+<td>Thursday</td>
+<td>April 11, 2024</td>
+<td>19:23:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>April 11, 2024</td>
-<td>19:20:40 IST</td>
+<td>Friday</td>
+<td>April 12, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,10 +156,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What did the left eye say to the right eye? Between us, something smells!</code></pre>
-<pre><code>2 » Iâ��m reading a book on the history of glue â�� canâ��t put it down.</code></pre>
-<pre><code>3 » Hostess: Do you have a preference of where you sit?
-Dad: Down.</code></pre>
+<pre><code>1 » I couldn't figure out how the seat belt worked. Then it just clicked.</code></pre>
+<pre><code>2 » Why are oranges the smartest fruit? Because they are made to concentrate. </code></pre>
+<pre><code>3 » Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -169,9 +168,9 @@ Dad: Down.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 100% of lottery winners do gain weight</code></pre>
-<pre><code>2 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
-<pre><code>3 » There are more psychoanalysts per capita in Buenos Aires than any other place in the world.</code></pre>
+<pre><code>1 » The average American looks at eight houses before buying one.</code></pre>
+<pre><code>2 » The U.S. military operates 234 golf courses</code></pre>
+<pre><code>3 » Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -181,9 +180,9 @@ Dad: Down.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose. - John F. Kennedy</code></pre>
-<pre><code>2 » Friendship is an arrangement by which we undertake to exchange small favors for big ones. - Montesquieu</code></pre>
-<pre><code>3 » We aim above the mark to hit the mark. - Ralph Waldo Emerson</code></pre>
+<pre><code>1 » Do one thing every day that scares you. - Eleanor Roosevelt</code></pre>
+<pre><code>2 » A really great talent finds its happiness in execution. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » Don't smother each other. No one can grow in the shade. - Leo Buscaglia</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
