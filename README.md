@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6fa94d5472bebd08bab2d208bf5e469a41da5b3f8a9a0047d4be987bf57ff138/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303639253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C069%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,543+ Commits made on Github</p>
+<p>🏆 2,544+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,22 +65,22 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 51 mins</td>
+<td>4 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.84%</td>
+<td>99.83%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.16%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 51 mins</td>
+<td>4 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 51 mins</td>
+<td>4 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>April 13, 2024</td>
-<td>19:23:05 IST</td>
+<td>Sunday</td>
+<td>April 14, 2024</td>
+<td>20:37:37 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>April 14, 2024</td>
-<td>19:20:05 IST</td>
+<td>Monday</td>
+<td>April 15, 2024</td>
+<td>20:35:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +156,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.</code></pre>
-<pre><code>2 » Why did the burglar hang his mugshot on the wall? To prove that he was framed!</code></pre>
-<pre><code>3 » How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!</code></pre>
+<pre><code>1 » What's red and bad for your teeth? A Brick.</code></pre>
+<pre><code>2 » Sore throats are a pain in the neck!</code></pre>
+<pre><code>3 » I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</code></pre>
-<pre><code>2 » Most Egyptians died by the time they were 30 about 300 years ago,</code></pre>
-<pre><code>3 » 38% of American men say they love their cars more than women</code></pre>
+<pre><code>1 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
+<pre><code>2 » In every episode of Seinfeld there is a Superman somewhere.</code></pre>
+<pre><code>3 » If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Don't ruin the present with the ruined past. - Ellen Gilchrist</code></pre>
-<pre><code>2 » The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark. - Michelangelo</code></pre>
-<pre><code>3 » I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok. - Shaquille O'Neal</code></pre>
+<pre><code>1 » By living deeply in the present moment we can understand the past better and we can prepare for a better future. - Thích Nhất Hạnh</code></pre>
+<pre><code>2 » I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. - Plutarch</code></pre>
+<pre><code>3 » Be slow of tongue and quick of eye. - Miguel de Cervantes</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
