@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/615edd1d67d42677ffdc00733de1d88ca9457df1ff6f33d2e22224e8b3199b6d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303639253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C069%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,546+ Commits made on Github</p>
+<p>🏆 2,547+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,22 +65,16 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>47 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>99.04%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.96%</td>
+<td>37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>48 mins</td>
+<td>37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +83,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>48 mins</td>
+<td>37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,14 +131,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>April 16, 2024</td>
+<td>Wednesday</td>
+<td>April 17, 2024</td>
 <td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>April 17, 2024</td>
+<td>Thursday</td>
+<td>April 18, 2024</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -156,9 +150,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What kind of bagel can fly? A plain bagel.</code></pre>
-<pre><code>2 » What do you call a dictionary on drugs? High definition.</code></pre>
-<pre><code>3 » What did the pirate say on his 80th birthday? Aye Matey!</code></pre>
+<pre><code>1 » A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."</code></pre>
+<pre><code>2 » In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.</code></pre>
+<pre><code>3 » I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
-<pre><code>2 » Virginia Woolf wrote all her books standing.</code></pre>
-<pre><code>3 » Every time you lick a stamp, you consume 1/10 of a calorie.</code></pre>
+<pre><code>1 » The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</code></pre>
+<pre><code>2 » In the White House, there are 13,092 knives, forks and spoons!</code></pre>
+<pre><code>3 » Sex burns 360 calories per hour.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice. - Richard Bach</code></pre>
-<pre><code>2 » Quality is never an accident; it is always the result of intelligent effort. - John Ruskin</code></pre>
-<pre><code>3 » Treat people as if they were what they ought to be, and you help them to become what they are capable of being. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>1 » Always keep an open mind and a compassionate heart. - Phil Jackson</code></pre>
+<pre><code>2 » To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom. - Confucius</code></pre>
+<pre><code>3 » The day of fortune is like a harvest day, we must be busy when the corn is ripe. - Torquato Tasso</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
