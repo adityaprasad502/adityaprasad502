@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/615edd1d67d42677ffdc00733de1d88ca9457df1ff6f33d2e22224e8b3199b6d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303639253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C069%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,551+ Commits made on Github</p>
+<p>🏆 2,552+ Commits made on Github</p>
 <p>📦 41.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,33 +61,18 @@ fun main() {
 <td>38.77%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Python</td>
-<td>4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>VS Code</td>
-<td>4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -131,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>April 21, 2024</td>
-<td>19:22:40 IST</td>
+<td>Monday</td>
+<td>April 22, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>April 22, 2024</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>April 23, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +135,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where do you take someone whoâ��s been injured in a peek-a-boo accident? To the I.C.U.</code></pre>
-<pre><code>2 » I asked a frenchman if he played video games. He said "Wii"</code></pre>
-<pre><code>3 » What has ears but cannot hear? A field of corn.</code></pre>
+<pre><code>1 » Why does Superman get invited to dinners? Because he is a Supperhero.</code></pre>
+<pre><code>2 » I don't trust sushi, there's something fishy about it.</code></pre>
+<pre><code>3 » What did the mountain climber name his son? Cliff.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +147,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
-<pre><code>2 » The strongest muscle (Relative to size) in the body is the tongue.</code></pre>
-<pre><code>3 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
+<pre><code>1 » Leonardo Da Vinci invented the scissors.</code></pre>
+<pre><code>2 » The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  </code></pre>
+<pre><code>3 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +159,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Love is the master key that opens the gates of happiness. - Oliver Wendell Holmes Jr.</code></pre>
-<pre><code>2 » Wherever a man turns he can find someone who needs him. - Albert Schweitzer</code></pre>
-<pre><code>3 » Most great people have attained their greatest success just one step beyond their greatest failure. - Napoleon Hill</code></pre>
+<pre><code>1 » Success is not final; failure is not fatal: it is the courage to continue that counts. - Winston Churchill</code></pre>
+<pre><code>2 » Things turn out best for those who make the best of the way things turn out. - Jack Buck</code></pre>
+<pre><code>3 » I can't listen to that much Wagner. I start getting the urge to conquer Poland. - Woody Allen</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
