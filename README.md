@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c9aa502ac7382b59b9f8dd52e8a3efe1b08704edebd4b5892fd785a0b04f7b96/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330363925323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C069%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/05e90dc7ffe742cc6d2d3740126e45927068fac4985b59b3ea091b3b1f81246b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373425323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C074%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,567+ Commits made on Github</p>
-<p>📦 41.3 KiB Used in GitHub's Storage</p>
+<p>🏆 2,570+ Commits made on Github</p>
+<p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -40,41 +40,59 @@ fun main() {
 <td>🌞 Morning</td>
 <td>69 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.3%</td>
+<td>21.17%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>72 commits</td>
+<td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.22%</td>
+<td>22.39%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.59%</td>
+<td>17.48%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>126 commits</td>
+<td>127 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.89%</td>
+<td>38.96%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>CSS</td>
+<td>37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.57%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>21 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.94%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.46%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>50 mins</td>
+<td>1 hr</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -83,7 +101,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>50 mins</td>
+<td>1 hr</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -131,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>May 04, 2024</td>
-<td>19:23:00 IST</td>
+<td>Sunday</td>
+<td>May 05, 2024</td>
+<td>19:22:39 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>May 05, 2024</td>
-<td>19:20:00 IST</td>
+<td>Monday</td>
+<td>May 06, 2024</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What did one plate say to the other plate? Dinner is on me!</code></pre>
-<pre><code>2 » If at first you don't succeed, sky diving is not for you!</code></pre>
-<pre><code>3 » I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.</code></pre>
+<pre><code>1 » A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."</code></pre>
+<pre><code>2 » Why is the ocean always blue? Because the shore never waves back.</code></pre>
+<pre><code>3 » Why did the coffee file a police report? It got mugged.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</code></pre>
-<pre><code>2 » Almonds are a member of the peach family.</code></pre>
-<pre><code>3 » A pig`s orgasm lasts for 30 minutes.</code></pre>
+<pre><code>1 » 60% of electrocutions occur while talking on the telephone during a thunderstorm.</code></pre>
+<pre><code>2 » 3.6 cans of Spam are consumed each second.</code></pre>
+<pre><code>3 » A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim. - Brooks Adams</code></pre>
-<pre><code>2 » Wisdom begins in wonder. - Socrates</code></pre>
-<pre><code>3 » Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. - Washington Irving</code></pre>
+<pre><code>1 » Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong. - Richard Needham</code></pre>
+<pre><code>2 » Kindness is the language which the deaf can hear and the blind can see. - Mark Twain</code></pre>
+<pre><code>3 » Go for it now. The future is promised to no one. - Wayne Dyer</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
