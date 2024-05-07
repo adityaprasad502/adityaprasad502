@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/05e90dc7ffe742cc6d2d3740126e45927068fac4985b59b3ea091b3b1f81246b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373425323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C074%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e68a8663f000847c92e65b117075a57f2395cbf92709fa71acae9c38749ad5fe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303735253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C075%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,571+ Commits made on Github</p>
-<p>📦 40.0 KiB Used in GitHub's Storage</p>
+<p>🏆 2,573+ Commits made on Github</p>
+<p>📦 39.8 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -40,46 +40,46 @@ fun main() {
 <td>🌞 Morning</td>
 <td>69 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.17%</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.39%</td>
+<td>22.32%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.48%</td>
+<td>17.43%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>127 commits</td>
+<td>128 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.96%</td>
+<td>39.14%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>CSS</td>
-<td>3 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.22%</td>
+<td>3 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.09%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.08%</td>
+<td>1 hr 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.24%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.69%</td>
+<td>0.66%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -92,7 +92,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 55 mins</td>
+<td>5 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -101,7 +101,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 55 mins</td>
+<td>5 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -149,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 06, 2024</td>
-<td>19:23:03 IST</td>
+<td>Tuesday</td>
+<td>May 07, 2024</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 07, 2024</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>May 08, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the worker get fired from the orange juice factory? Lack of concentration.</code></pre>
-<pre><code>2 » "I'm sorry." "Hi sorry, I'm dad"</code></pre>
-<pre><code>3 » Did you hear about the kidnapping at school? It's ok, he woke up.</code></pre>
+<pre><code>1 » I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.</code></pre>
+<pre><code>2 » What is a vampire's favorite fruit? A blood orange.</code></pre>
+<pre><code>3 » Have you heard about corduroy pillows?  They're making headlines!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
-<pre><code>2 » A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
-<pre><code>3 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
+<pre><code>1 » Leonardo Da Vinci invented the scissors.</code></pre>
+<pre><code>2 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
+<pre><code>3 » To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Keep your eyes on the stars and your feet on the ground. - Theodore Roosevelt</code></pre>
-<pre><code>2 » In every walk with nature, one receives far more than he seeks. - John Muir</code></pre>
-<pre><code>3 » Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller</code></pre>
+<pre><code>1 » In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists. - Eric Hoffer</code></pre>
+<pre><code>2 » May our hearts garden of awakening bloom with hundreds of flowers. - Thích Nhất Hạnh</code></pre>
+<pre><code>3 » I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglass</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
