@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e68a8663f000847c92e65b117075a57f2395cbf92709fa71acae9c38749ad5fe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303735253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C075%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,573+ Commits made on Github</p>
-<p>📦 39.8 KiB Used in GitHub's Storage</p>
+<p>🏆 2,574+ Commits made on Github</p>
+<p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -149,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 07, 2024</td>
-<td>19:22:51 IST</td>
+<td>Wednesday</td>
+<td>May 08, 2024</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 08, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>May 09, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.</code></pre>
-<pre><code>2 » What is a vampire's favorite fruit? A blood orange.</code></pre>
-<pre><code>3 » Have you heard about corduroy pillows?  They're making headlines!</code></pre>
+<pre><code>1 » Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.</code></pre>
+<pre><code>2 » Got a new suit recently made entirely of living plants. I wasnâ��t sure at first, but itâ��s grown on me</code></pre>
+<pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Leonardo Da Vinci invented the scissors.</code></pre>
-<pre><code>2 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
-<pre><code>3 » To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
+<pre><code>1 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
+<pre><code>2 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
+<pre><code>3 » The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists. - Eric Hoffer</code></pre>
-<pre><code>2 » May our hearts garden of awakening bloom with hundreds of flowers. - Thích Nhất Hạnh</code></pre>
-<pre><code>3 » I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglass</code></pre>
+<pre><code>1 » One today is worth two tomorrows. - Benjamin Franklin</code></pre>
+<pre><code>2 » Life is just a chance to grow a soul. - A. Powell Davies</code></pre>
+<pre><code>3 » The wisest men follow their own direction. - Euripides</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
