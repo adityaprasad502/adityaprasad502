@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e68a8663f000847c92e65b117075a57f2395cbf92709fa71acae9c38749ad5fe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303735253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C075%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,574+ Commits made on Github</p>
+<p>🏆 2,575+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -149,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>May 08, 2024</td>
-<td>19:23:03 IST</td>
+<td>Thursday</td>
+<td>May 09, 2024</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>May 09, 2024</td>
-<td>19:20:00 IST</td>
+<td>Friday</td>
+<td>May 10, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.</code></pre>
-<pre><code>2 » Got a new suit recently made entirely of living plants. I wasnâ��t sure at first, but itâ��s grown on me</code></pre>
-<pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
+<pre><code>1 » There's not really any training for garbagemen. They just pick things up as they go.</code></pre>
+<pre><code>2 » What happens to a frog's car when it breaks down? It gets toad.</code></pre>
+<pre><code>3 » My sea sickness comes in waves.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Winston Churchill was born in a ladies` room during a dance.</code></pre>
-<pre><code>2 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
-<pre><code>3 » The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </code></pre>
+<pre><code>1 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
+<pre><code>2 » The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.</code></pre>
+<pre><code>3 » Daffy Duck`s middle name is "Dumas"</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » One today is worth two tomorrows. - Benjamin Franklin</code></pre>
-<pre><code>2 » Life is just a chance to grow a soul. - A. Powell Davies</code></pre>
-<pre><code>3 » The wisest men follow their own direction. - Euripides</code></pre>
+<pre><code>1 » It's easier to resist at the beginning than at the end. - Leonardo da Vinci</code></pre>
+<pre><code>2 » The less effort, the faster and more powerful you will be. - Bruce Lee</code></pre>
+<pre><code>3 » Problems are only opportunities with thorns on them. - Hugh Miller</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
