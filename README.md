@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63603e79a723c804b5853b5693adab835bc405a3df9be4ca0a4bcdfefe914cc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C077%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,583+ Commits made on Github</p>
+<p>🏆 2,584+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -38,27 +38,27 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>70 commits</td>
+<td>64 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.28%</td>
+<td>21.62%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>71 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.58%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.99%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>57 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.33%</td>
+<td>42 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.19%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>131 commits</td>
+<td>119 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.82%</td>
+<td>40.2%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,44 +66,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>1 hr 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.13%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>70.52%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>16 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.44%</td>
+<td>11.47%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>12 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.07%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>11 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.54%</td>
+<td>8.88%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>10 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.14%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.51%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.85%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.66%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.6%</td>
+</tr> 
+ <tr>
+<td>Java Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,15 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.95%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>13 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.05%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 33 mins</td>
+<td>2 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 13, 2024</td>
-<td>19:22:47 IST</td>
+<td>Tuesday</td>
+<td>May 14, 2024</td>
+<td>19:23:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 14, 2024</td>
-<td>19:20:45 IST</td>
+<td>Wednesday</td>
+<td>May 15, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,11 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Can February march? No, but April may.</code></pre>
-<pre><code>2 »  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-</code></pre>
-<pre><code>3 » Why is there always a gate around cemeteries? Because people are always dying to get in.</code></pre>
+<pre><code>1 » New atoms frequently lose electrons when they fail to keep an ion them.</code></pre>
+<pre><code>2 » How does a penguin build itâ��s house? Igloos it together.</code></pre>
+<pre><code>3 » What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -206,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
-<pre><code>2 » Kelsey Grammar sings and plays the piano for the theme song of Fraiser.</code></pre>
-<pre><code>3 » Every acre of American crops harvested contains 100 pounds of insects.</code></pre>
+<pre><code>1 » It takes about 142.18 licks to reach the center of a Tootsie pop.</code></pre>
+<pre><code>2 » The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </code></pre>
+<pre><code>3 » Van Gogh only sold one painting when he was alive.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -218,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Peace cannot be kept by force. It can only be achieved by understanding. - Albert Einstein</code></pre>
-<pre><code>2 » If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away. - John Steinbeck</code></pre>
-<pre><code>3 » There is no great genius without some touch of madness. - Seneca the Younger</code></pre>
+<pre><code>1 » Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius. - Wolfgang Amadeus Mozart</code></pre>
+<pre><code>2 » Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing. - Abraham Lincoln</code></pre>
+<pre><code>3 » The more you care, the stronger you can be. - Jim Rohn</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
