@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63603e79a723c804b5853b5693adab835bc405a3df9be4ca0a4bcdfefe914cc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C077%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,587+ Commits made on Github</p>
+<p>🏆 2,588+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>May 17, 2024</td>
-<td>19:22:50 IST</td>
+<td>Saturday</td>
+<td>May 18, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>May 18, 2024</td>
-<td>19:20:50 IST</td>
+<td>Sunday</td>
+<td>May 19, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I got fired from a florist, apparently I took too many leaves.</code></pre>
-<pre><code>2 » What did the calculator say to the student? You can count on me.</code></pre>
-<pre><code>3 » Why do we tell actors to â��break a leg?â�� Because every play has a cast.</code></pre>
+<pre><code>1 » Why did the belt go to prison? He held up a pair of pants!</code></pre>
+<pre><code>2 » What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.</code></pre>
+<pre><code>3 » Itâ��s hard to explain puns to kleptomaniacs, because they take everything literally.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.</code></pre>
-<pre><code>2 » An ostrich`s eye is bigger than its brain.  </code></pre>
-<pre><code>3 » The sweat drops drawn in cartoon comic strips are called pleuts.</code></pre>
+<pre><code>1 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
+<pre><code>2 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
+<pre><code>3 » On average, Americans eat 18 acres of pizza everyday.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime. - Laozi</code></pre>
-<pre><code>2 » I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress. - Elizabeth Montagu</code></pre>
-<pre><code>3 » Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal. - Vince Lombardi</code></pre>
+<pre><code>1 » The personal life deeply lived always expands into truths beyond itself. - Anaïs Nin</code></pre>
+<pre><code>2 » You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand. - Woodrow Wilson</code></pre>
+<pre><code>3 » Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health. - Dalai Lama</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
