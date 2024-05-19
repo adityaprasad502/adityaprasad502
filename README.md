@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63603e79a723c804b5853b5693adab835bc405a3df9be4ca0a4bcdfefe914cc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C077%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,588+ Commits made on Github</p>
+<p>🏆 2,589+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,53 +64,47 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.52%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>16 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.47%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>12 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.88%</td>
-</tr> 
- <tr>
 <td>Groovy</td>
 <td>10 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.85%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>67.34%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.66%</td>
+<td>Kotlin</td>
+<td>4 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.22%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.04%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.24%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.14%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 19 mins</td>
+<td>14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -119,7 +113,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 19 mins</td>
+<td>14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>May 18, 2024</td>
-<td>19:22:49 IST</td>
+<td>Sunday</td>
+<td>May 19, 2024</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>May 19, 2024</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>May 20, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the belt go to prison? He held up a pair of pants!</code></pre>
-<pre><code>2 » What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.</code></pre>
-<pre><code>3 » Itâ��s hard to explain puns to kleptomaniacs, because they take everything literally.</code></pre>
+<pre><code>1 » Today a girl said she recognized me from vegetarian club, but Iâ��m sure Iâ��ve never met herbivore.</code></pre>
+<pre><code>2 » What's the worst thing about ancient history class? The teachers tend to Babylon.</code></pre>
+<pre><code>3 » What do you call a bear with no teeth? A gummy bear!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
-<pre><code>2 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
-<pre><code>3 » On average, Americans eat 18 acres of pizza everyday.</code></pre>
+<pre><code>1 » Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</code></pre>
+<pre><code>2 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
+<pre><code>3 » The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The personal life deeply lived always expands into truths beyond itself. - Anaïs Nin</code></pre>
-<pre><code>2 » You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand. - Woodrow Wilson</code></pre>
-<pre><code>3 » Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health. - Dalai Lama</code></pre>
+<pre><code>1 » Work for something because it is good, not just because it stands a chance to succeed. - Václav Havel</code></pre>
+<pre><code>2 » Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - Tony Blair</code></pre>
+<pre><code>3 » The way we communicate with others and with ourselves ultimately determines the quality of our lives. - Tony Robbins</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
