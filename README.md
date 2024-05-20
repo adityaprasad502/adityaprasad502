@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63603e79a723c804b5853b5693adab835bc405a3df9be4ca0a4bcdfefe914cc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C077%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,589+ Commits made on Github</p>
+<p>🏆 2,590+ Commits made on Github</p>
 <p>📦 40.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,63 +61,18 @@ fun main() {
 <td>40.2%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Groovy</td>
-<td>10 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.34%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>4 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.22%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.04%</td>
-</tr> 
- <tr>
-<td>Java Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.24%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.14%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -161,14 +116,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 19, 2024</td>
-<td>19:22:51 IST</td>
+<td>Monday</td>
+<td>May 20, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 20, 2024</td>
+<td>Tuesday</td>
+<td>May 21, 2024</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -180,9 +135,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Today a girl said she recognized me from vegetarian club, but Iâ��m sure Iâ��ve never met herbivore.</code></pre>
-<pre><code>2 » What's the worst thing about ancient history class? The teachers tend to Babylon.</code></pre>
-<pre><code>3 » What do you call a bear with no teeth? A gummy bear!</code></pre>
+<pre><code>1 » What do bees do after they are married? They go on a honeymoon.</code></pre>
+<pre><code>2 » My pet mouse 'Elvis' died last night. He was caught in a trap..</code></pre>
+<pre><code>3 » What has three letters and starts with gas? A Car.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +147,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</code></pre>
-<pre><code>2 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
-<pre><code>3 » The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
+<pre><code>1 » There are 293 ways to make change for a dollar.</code></pre>
+<pre><code>2 » The average North American will eat 35,000 cookies during their life span.</code></pre>
+<pre><code>3 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +159,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Work for something because it is good, not just because it stands a chance to succeed. - Václav Havel</code></pre>
-<pre><code>2 » Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - Tony Blair</code></pre>
-<pre><code>3 » The way we communicate with others and with ourselves ultimately determines the quality of our lives. - Tony Robbins</code></pre>
+<pre><code>1 » In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present. - Laozi</code></pre>
+<pre><code>2 » He is no fool who gives what he cannot keep to gain what he cannot lose. - Jim Elliot</code></pre>
+<pre><code>3 » No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution. - Niccolò Machiavelli</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
