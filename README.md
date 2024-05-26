@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63603e79a723c804b5853b5693adab835bc405a3df9be4ca0a4bcdfefe914cc0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330373725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C077%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/73c8135cf69a5de988fad7b1ce505f01f76d4ae3743debdbc13ab682b4a51337/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383025323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C080%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,595+ Commits made on Github</p>
+<p>🏆 2,598+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,39 +40,78 @@ fun main() {
 <td>🌞 Morning</td>
 <td>64 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.62%</td>
+<td>21.55%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>71 commits</td>
+<td>70 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.99%</td>
+<td>23.57%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>42 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.19%</td>
+<td>14.14%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>119 commits</td>
+<td>121 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.2%</td>
+<td>40.74%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>XML</td>
+<td>57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>79.52%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>6 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.57%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.46%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.45%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>Android Studio</td>
+<td>1 hr 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>1 hr 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,15 +155,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>May 25, 2024</td>
-<td>19:22:46 IST</td>
+<td>Sunday</td>
+<td>May 26, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>May 26, 2024</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>May 27, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,9 +174,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » It's difficult to say what my wife does, she sells sea shells by the sea shore.</code></pre>
-<pre><code>2 » Who did the wizard marry? His ghoul-friend</code></pre>
-<pre><code>3 » What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars</code></pre>
+<pre><code>1 » How can you tell a vampire has a cold? They start coffin.</code></pre>
+<pre><code>2 » What is the leading cause of dry skin? Towels</code></pre>
+<pre><code>3 » I once lost a banana at court but then I appealed. </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +186,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</code></pre>
-<pre><code>2 » The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  </code></pre>
-<pre><code>3 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
+<pre><code>1 » There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</code></pre>
+<pre><code>2 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
+<pre><code>3 » The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +198,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication. - Cecil B. DeMille</code></pre>
-<pre><code>2 » An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today. - Laurence J. Peter</code></pre>
-<pre><code>3 » The thoughts we choose to think are the tools we use to paint the canvas of our lives. - Louise Hay</code></pre>
+<pre><code>1 » Remember that a gesture of friendship, no matter how small, is always appreciated. - H. Jackson Brown Jr.</code></pre>
+<pre><code>2 » Respect should be earned by actions, and not acquired by years. - Frank Lloyd Wright</code></pre>
+<pre><code>3 » How is it possible to find meaning in a finite world, given my waist and shirt size? - Woody Allen</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
