@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/73c8135cf69a5de988fad7b1ce505f01f76d4ae3743debdbc13ab682b4a51337/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383025323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C080%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f7048739c99d2584fb8a5c68e1a320340609e69c1ed3c62b41c4a4f58e78e3ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383025323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C080%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,598+ Commits made on Github</p>
+<p>🏆 2,599+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,28 +64,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>XML</td>
-<td>57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>79.52%</td>
+<td>Kotlin</td>
+<td>1 hr 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.1%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>6 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.57%</td>
+<td>XML</td>
+<td>1 hr 16 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.69%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>5 mins</td>
+<td>9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.46%</td>
+<td>4.88%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.45%</td>
+<td>1.33%</td>
 </tr> 
  <tr>
 <td>Properties</td>
@@ -98,7 +98,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 12 mins</td>
+<td>3 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -107,7 +107,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 12 mins</td>
+<td>3 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 26, 2024</td>
-<td>19:22:59 IST</td>
+<td>Monday</td>
+<td>May 27, 2024</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 27, 2024</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>May 28, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,9 +174,10 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How can you tell a vampire has a cold? They start coffin.</code></pre>
-<pre><code>2 » What is the leading cause of dry skin? Towels</code></pre>
-<pre><code>3 » I once lost a banana at court but then I appealed. </code></pre>
+<pre><code>1 » What cheese can never be yours? Nacho cheese.</code></pre>
+<pre><code>2 » "Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."</code></pre>
+<pre><code>3 » Coffee has a tough time at my house, every morning it gets mugged.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +187,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</code></pre>
-<pre><code>2 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
-<pre><code>3 » The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</code></pre>
+<pre><code>1 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
+<pre><code>2 » John Lennon`s first girlfriend was named Thelma Pickles.</code></pre>
+<pre><code>3 » Women blink nearly twice as much as men.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +199,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Remember that a gesture of friendship, no matter how small, is always appreciated. - H. Jackson Brown Jr.</code></pre>
-<pre><code>2 » Respect should be earned by actions, and not acquired by years. - Frank Lloyd Wright</code></pre>
-<pre><code>3 » How is it possible to find meaning in a finite world, given my waist and shirt size? - Woody Allen</code></pre>
+<pre><code>1 » Wisdom has never made a bigot, but learning has. - Josh Billings</code></pre>
+<pre><code>2 » In the depth of winter, I finally learned that there was within me an invincible summer. - Albert Camus</code></pre>
+<pre><code>3 » Opportunity often comes disguised in the form of misfortune, or temporary defeat. - Napoleon Hill</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
