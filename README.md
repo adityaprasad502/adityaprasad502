@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f7048739c99d2584fb8a5c68e1a320340609e69c1ed3c62b41c4a4f58e78e3ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383025323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C080%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c8c122ef6046491de6c756b4b8050f0529130ac03cb7150e559fc179d78df1cc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383625323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C086%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,599+ Commits made on Github</p>
+<p>🏆 2,603+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,74 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>64 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.55%</td>
+<td>21.4%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>70 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.57%</td>
+<td>69 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.08%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>42 commits</td>
+<td>44 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.14%</td>
+<td>14.72%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>121 commits</td>
+<td>122 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.74%</td>
+<td>40.8%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 39 mins</td>
+<td>2 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.1%</td>
+<td>52.28%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.69%</td>
+<td>1 hr 46 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.78%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>17 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.13%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>12 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.81%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.88%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.8%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>8 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.56%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>2 mins</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.33%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1.39%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>5 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>94.87%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>17 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.13%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 7 mins</td>
+<td>5 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 27, 2024</td>
-<td>19:23:02 IST</td>
+<td>Tuesday</td>
+<td>May 28, 2024</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 28, 2024</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>May 29, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,10 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What cheese can never be yours? Nacho cheese.</code></pre>
-<pre><code>2 » "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."</code></pre>
-<pre><code>3 » Coffee has a tough time at my house, every morning it gets mugged.</code></pre>
+<pre><code>1 » I considered building the patio by myself. But I didn't have the stones.</code></pre>
+<pre><code>2 » Why are mummys scared of vacation? They're afraid to unwind.</code></pre>
+<pre><code>3 » Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -187,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
-<pre><code>2 » John Lennon`s first girlfriend was named Thelma Pickles.</code></pre>
-<pre><code>3 » Women blink nearly twice as much as men.</code></pre>
+<pre><code>1 » The serial number of the first MAC ever produced was 2001.</code></pre>
+<pre><code>2 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
+<pre><code>3 » Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +216,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Wisdom has never made a bigot, but learning has. - Josh Billings</code></pre>
-<pre><code>2 » In the depth of winter, I finally learned that there was within me an invincible summer. - Albert Camus</code></pre>
-<pre><code>3 » Opportunity often comes disguised in the form of misfortune, or temporary defeat. - Napoleon Hill</code></pre>
+<pre><code>1 » The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah. - Afrika Bambaataa</code></pre>
+<pre><code>2 » Kindness is the language which the deaf can hear and the blind can see. - Mark Twain</code></pre>
+<pre><code>3 » A ruffled mind makes a restless pillow. - Charlotte Brontë</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
