@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c8c122ef6046491de6c756b4b8050f0529130ac03cb7150e559fc179d78df1cc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383625323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C086%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1d1a5b3143cb27ef7629a27160fbecd2be86e6267388f4c39cb93a8b344b5a1f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,603+ Commits made on Github</p>
-<p>📦 40.1 KiB Used in GitHub's Storage</p>
+<p>🏆 2,610+ Commits made on Github</p>
+<p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -40,92 +40,98 @@ fun main() {
 <td>🌞 Morning</td>
 <td>64 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.4%</td>
+<td>21.33%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>69 commits</td>
+<td>67 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.08%</td>
+<td>22.33%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>44 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.72%</td>
+<td>49 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.33%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>122 commits</td>
+<td>120 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.8%</td>
+<td>40.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.28%</td>
+<td>5 hrs 29 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.08%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.78%</td>
+<td>2 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.7%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>47 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.44%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>17 mins</td>
+<td>45 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.13%</td>
+<td>7.04%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>12 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.81%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.98%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>9 mins</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.56%</td>
+<td>1.56%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
+<td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.39%</td>
+<td>0.94%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>94.87%</td>
+<td>9 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>86.05%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.13%</td>
+<td>1 hr 25 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.21%</td>
+</tr> 
+ <tr>
+<td>Intellijidea</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.73%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 34 mins</td>
+<td>10 hrs 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +179,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 28, 2024</td>
+<td>Wednesday</td>
+<td>May 29, 2024</td>
 <td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 29, 2024</td>
+<td>Thursday</td>
+<td>May 30, 2024</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -192,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I considered building the patio by myself. But I didn't have the stones.</code></pre>
-<pre><code>2 » Why are mummys scared of vacation? They're afraid to unwind.</code></pre>
-<pre><code>3 » Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.</code></pre>
+<pre><code>1 » Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.</code></pre>
+<pre><code>2 » What do you call a pile of cats?  A Meowtain.</code></pre>
+<pre><code>3 » Why should you never trust a pig with a secret? Because it's bound to squeal.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The serial number of the first MAC ever produced was 2001.</code></pre>
-<pre><code>2 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
-<pre><code>3 » Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </code></pre>
+<pre><code>1 » Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</code></pre>
+<pre><code>2 » Donald Duck comics were banned from Finland because he doesn`t wear pants!</code></pre>
+<pre><code>3 » If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +222,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah. - Afrika Bambaataa</code></pre>
-<pre><code>2 » Kindness is the language which the deaf can hear and the blind can see. - Mark Twain</code></pre>
-<pre><code>3 » A ruffled mind makes a restless pillow. - Charlotte Brontë</code></pre>
+<pre><code>1 » If you focus on results, you will never change. If you focus on change, you will get results. - Jack Dixon</code></pre>
+<pre><code>2 » Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success. - Swami Vivekananda</code></pre>
+<pre><code>3 » One that desires to excel should endeavor in those things that are in themselves most excellent. - Epictetus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
