@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1d1a5b3143cb27ef7629a27160fbecd2be86e6267388f4c39cb93a8b344b5a1f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1fdb9caa427f9342c8457c3ce829017b9e217b771ea109ea6924231f6d88df31/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,611+ Commits made on Github</p>
+<p>🏆 2,612+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -67,43 +67,43 @@ fun main() {
 <td>Kotlin</td>
 <td>5 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.08%</td>
+<td>48.1%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.7%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.09%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>47 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.44%</td>
+<td>7.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>45 mins</td>
+<td>46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.04%</td>
+<td>6.73%</td>
+</tr> 
+ <tr>
+<td>Dart</td>
+<td>22 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.33%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.98%</td>
+<td>1.86%</td>
 </tr> 
  <tr>
-<td>Groovy</td>
-<td>10 mins</td>
+<td>Batchfile</td>
+<td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.56%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.94%</td>
+<td>1.8%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,27 +111,27 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>9 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.05%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.04%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 25 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.21%</td>
+<td>2 hrs 4 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.27%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.73%</td>
+<td>0.69%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 44 mins</td>
+<td>11 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -179,14 +179,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>May 30, 2024</td>
-<td>19:22:55 IST</td>
+<td>Friday</td>
+<td>May 31, 2024</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>May 31, 2024</td>
+<td>Saturday</td>
+<td>June 01, 2024</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -198,11 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why can't your nose be 12 inches long? Because then it'd be a foot!</code></pre>
-<pre><code>2 » They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.</code></pre>
-<pre><code>3 » What is the difference between ignorance and apathy?
-
-I don't know and I don't care.</code></pre>
+<pre><code>1 » Whatâ��s brown and sounds like a bell? Dung!</code></pre>
+<pre><code>2 » What do you call a cow with no legs? Ground beef.</code></pre>
+<pre><code>3 » Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -212,9 +210,9 @@ I don't know and I don't care.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.</code></pre>
-<pre><code>2 » "I am." is the shortest complete sentence in the English language.</code></pre>
-<pre><code>3 » The Great Wall of China is the only man-made structure visible from space.</code></pre>
+<pre><code>1 » The only real person to ever to appear on a pez dispenser was Betsy Ross.</code></pre>
+<pre><code>2 » Cats have over one hundred vocal sounds, while dogs only have about ten.</code></pre>
+<pre><code>3 » Until 1994, world maps and globes sold in Albania only had Albania on them.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -224,9 +222,9 @@ I don't know and I don't care.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward</code></pre>
-<pre><code>2 » Your big opportunity may be right where you are now. - Napoleon Hill</code></pre>
-<pre><code>3 » Do good by stealth, and blush to find it fame. - Alexander Pope</code></pre>
+<pre><code>1 » Almost everything comes from nothing. - Henri-Frédéric Amiel</code></pre>
+<pre><code>2 » The cautious seldom err. - Confucius</code></pre>
+<pre><code>3 » Speak low, if you speak love. - William Shakespeare</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
