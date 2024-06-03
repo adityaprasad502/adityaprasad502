@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/338f15f10aca8164122325b8af8995b633e985db6b7a0cd8d977d8cabb1b11a5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,614+ Commits made on Github</p>
+<p>🏆 2,615+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -38,100 +38,100 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>64 commits</td>
+<td>63 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.33%</td>
+<td>21.36%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>67 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.33%</td>
+<td>22.71%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>49 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.33%</td>
+<td>16.61%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>120 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.0%</td>
+<td>116 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.32%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.77%</td>
+<td>3 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.38%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs</td>
+<td>1 hr 42 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.73%</td>
+<td>20.53%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>47 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.81%</td>
+<td>9.61%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>46 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
+<td>9.23%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>22 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.72%</td>
+<td>4.57%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.08%</td>
+<td>2.56%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.0%</td>
+<td>2.47%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 hrs 3 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.85%</td>
+<td>6 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.98%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>2 hrs 4 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.38%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.07%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.77%</td>
+<td>0.95%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 13 mins</td>
+<td>8 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -179,15 +179,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 02, 2024</td>
-<td>19:22:46 IST</td>
+<td>Monday</td>
+<td>June 03, 2024</td>
+<td>19:23:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 03, 2024</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>June 04, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -198,10 +198,10 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.</code></pre>
-<pre><code>2 » Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.</code></pre>
-<pre><code>3 » What do you call a girl between two posts? Annette.</code></pre>
+<pre><code>1 » Where do cats write notes?
+Scratch Paper!</code></pre>
+<pre><code>2 » I have the heart of a lion... and a lifetime ban from the San Diego Zoo.</code></pre>
+<pre><code>3 » Why couldn't the lifeguard save the hippie? He was too far out, man.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +211,9 @@ But take a look at me now.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average American butt is 14.9 inches long.</code></pre>
-<pre><code>2 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
-<pre><code>3 » It is illegal to hunt camels in the state of Arizona.</code></pre>
+<pre><code>1 » William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</code></pre>
+<pre><code>2 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
+<pre><code>3 » A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +223,9 @@ But take a look at me now.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Freedom is the right to live as we wish. - Epictetus</code></pre>
-<pre><code>2 » True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance. - Akhenaten</code></pre>
-<pre><code>3 » Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all. - Dale Carnegie</code></pre>
+<pre><code>1 » By accepting yourself and being fully what you are, your presence can make others happy. - Jane Roberts</code></pre>
+<pre><code>2 » When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points. - Confucius</code></pre>
+<pre><code>3 » Difficulties increase the nearer we get to the goal. - Johann Wolfgang von Goethe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
