@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/338f15f10aca8164122325b8af8995b633e985db6b7a0cd8d977d8cabb1b11a5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,615+ Commits made on Github</p>
+<p>🏆 2,616+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,73 +65,73 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 51 mins</td>
+<td>2 hrs 35 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.38%</td>
+<td>44.33%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 42 mins</td>
+<td>1 hr 12 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.53%</td>
+<td>20.56%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>47 mins</td>
+<td>39 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.61%</td>
+<td>11.21%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>46 mins</td>
+<td>28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.23%</td>
+<td>8.22%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>22 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.57%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>12 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.56%</td>
+<td>6.49%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>12 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.5%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.47%</td>
+<td>1.54%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>6 hrs 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.98%</td>
+<td>3 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.94%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.07%</td>
+<td>1 hr 47 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.71%</td>
 </tr> 
  <tr>
 <td>Intellijidea</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.95%</td>
+<td>1.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 18 mins</td>
+<td>5 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -179,15 +179,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>June 03, 2024</td>
-<td>19:23:06 IST</td>
+<td>Tuesday</td>
+<td>June 04, 2024</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>June 04, 2024</td>
-<td>19:20:05 IST</td>
+<td>Wednesday</td>
+<td>June 05, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -198,10 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where do cats write notes?
-Scratch Paper!</code></pre>
-<pre><code>2 » I have the heart of a lion... and a lifetime ban from the San Diego Zoo.</code></pre>
-<pre><code>3 » Why couldn't the lifeguard save the hippie? He was too far out, man.</code></pre>
+<pre><code>1 » Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!</code></pre>
+<pre><code>2 » Can February march? No, but April may.</code></pre>
+<pre><code>3 » You can't trust a ladder. It will always let you down</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +210,9 @@ Scratch Paper!</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</code></pre>
-<pre><code>2 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
-<pre><code>3 » A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</code></pre>
+<pre><code>1 » "Dreamt" is the only English word that ends in the letters "mt."</code></pre>
+<pre><code>2 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
+<pre><code>3 » In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -223,9 +222,9 @@ Scratch Paper!</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » By accepting yourself and being fully what you are, your presence can make others happy. - Jane Roberts</code></pre>
-<pre><code>2 » When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points. - Confucius</code></pre>
-<pre><code>3 » Difficulties increase the nearer we get to the goal. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>1 » He who fears being conquered is sure of defeat. - Napoleon</code></pre>
+<pre><code>2 » We know the truth, not only by the reason, but by the heart. - Blaise Pascal</code></pre>
+<pre><code>3 » Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things. - Woody Allen</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
