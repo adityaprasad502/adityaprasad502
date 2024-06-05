@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/338f15f10aca8164122325b8af8995b633e985db6b7a0cd8d977d8cabb1b11a5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,616+ Commits made on Github</p>
+<p>🏆 2,617+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,74 +64,56 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>2 hrs 35 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.33%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.56%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>39 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.21%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>28 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.22%</td>
-</tr> 
- <tr>
 <td>Dart</td>
 <td>22 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.49%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.2%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>12 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.5%</td>
+<td>11 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.94%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>5 mins</td>
+<td>YAML</td>
+<td>4 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.75%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.53%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.54%</td>
+<td>1.59%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>3 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.94%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
-<td>1 hr 47 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.71%</td>
+<td>39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.47%</td>
 </tr> 
  <tr>
-<td>Intellijidea</td>
-<td>4 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.35%</td>
+<td>Android Studio</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.53%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 51 mins</td>
+<td>41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -179,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 04, 2024</td>
-<td>19:22:54 IST</td>
+<td>Wednesday</td>
+<td>June 05, 2024</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 05, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>June 06, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -198,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!</code></pre>
-<pre><code>2 » Can February march? No, but April may.</code></pre>
-<pre><code>3 » You can't trust a ladder. It will always let you down</code></pre>
+<pre><code>1 » What's a ninja's favorite type of shoes? Sneakers!</code></pre>
+<pre><code>2 » I considered building the patio by myself. But I didn't have the stones.</code></pre>
+<pre><code>3 » What's black and white and read all over? The newspaper.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » "Dreamt" is the only English word that ends in the letters "mt."</code></pre>
-<pre><code>2 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
-<pre><code>3 » In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</code></pre>
+<pre><code>1 » Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.</code></pre>
+<pre><code>2 » The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</code></pre>
+<pre><code>3 » A pig`s orgasm lasts for 30 minutes.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -222,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » He who fears being conquered is sure of defeat. - Napoleon</code></pre>
-<pre><code>2 » We know the truth, not only by the reason, but by the heart. - Blaise Pascal</code></pre>
-<pre><code>3 » Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things. - Woody Allen</code></pre>
+<pre><code>1 » You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving. - Anatole France</code></pre>
+<pre><code>2 » Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark. - Henri-Frédéric Amiel</code></pre>
+<pre><code>3 » To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others. - Tony Robbins</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
