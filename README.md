@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/338f15f10aca8164122325b8af8995b633e985db6b7a0cd8d977d8cabb1b11a5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,618+ Commits made on Github</p>
+<p>🏆 2,619+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,56 +64,26 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Dart</td>
-<td>22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.2%</td>
-</tr> 
- <tr>
-<td>Batchfile</td>
-<td>11 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.94%</td>
-</tr> 
- <tr>
-<td>YAML</td>
-<td>4 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.75%</td>
-</tr> 
- <tr>
 <td>Kotlin</td>
 <td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.53%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.59%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>39 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.47%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
 <td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.53%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>41 mins</td>
+<td>1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -161,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>June 06, 2024</td>
-<td>19:22:53 IST</td>
+<td>Friday</td>
+<td>June 07, 2024</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>June 07, 2024</td>
-<td>19:20:50 IST</td>
+<td>Saturday</td>
+<td>June 08, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -180,9 +150,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I met this girl on a dating site and, I don't know, we just clicked.</code></pre>
-<pre><code>2 » Every night at 11:11, I make a wish that someone will come fix my broken clock.</code></pre>
-<pre><code>3 » What did the dog say to the two trees? Bark bark.</code></pre>
+<pre><code>1 » Iâ��m on a whiskey diet. Iâ��ve lost three days already.</code></pre>
+<pre><code>2 » Why did the man put his money in the freezer? He wanted cold hard cash!</code></pre>
+<pre><code>3 » What do you call cheese by itself? Provolone.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The eyes of a donkey are positioned so that it can see all four feet at all times.</code></pre>
-<pre><code>2 » Donald Duck`s middle name is Fauntleroy.  </code></pre>
-<pre><code>3 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
+<pre><code>1 » The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</code></pre>
+<pre><code>2 » The word "samba" means "to rub navels together."</code></pre>
+<pre><code>3 » Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I have never been hurt by anything I didn't say. - Calvin Coolidge</code></pre>
-<pre><code>2 » Sports do not build character. They reveal it. - Heywood Broun</code></pre>
-<pre><code>3 » One of the most beautiful qualities of true friendship is to understand and to be understood. - Seneca the Younger</code></pre>
+<pre><code>1 » Never reach out your hand unless you're willing to extend an arm. - Pope Paul VI</code></pre>
+<pre><code>2 » A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation. - Molière</code></pre>
+<pre><code>3 » Persuasion is often more effectual than force. - Aesop</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
