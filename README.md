@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/338f15f10aca8164122325b8af8995b633e985db6b7a0cd8d977d8cabb1b11a5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,620+ Commits made on Github</p>
+<p>🏆 2,621+ Commits made on Github</p>
 <p>📦 40.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,33 +61,18 @@ fun main() {
 <td>39.32%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -131,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>June 08, 2024</td>
-<td>19:22:51 IST</td>
+<td>Sunday</td>
+<td>June 09, 2024</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>June 09, 2024</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>June 10, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +135,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.</code></pre>
-<pre><code>2 » A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.</code></pre>
-<pre><code>3 » Where do hamburgers go to dance? The meat-ball.</code></pre>
+<pre><code>1 » Donâ��t interrupt someone working intently on a puzzle. Chances are, youâ��ll hear some crosswords.</code></pre>
+<pre><code>2 » Why do you never see elephants hiding in trees? Because they're so good at it.</code></pre>
+<pre><code>3 » I just wrote a book on reverse psychology. Do not read it!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +147,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Butterflies taste with their hind feet.</code></pre>
-<pre><code>2 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
-<pre><code>3 » Barbie`s full name is Barbara Millicent Roberts.</code></pre>
+<pre><code>1 » A duck`s quack doesn`t echo, and no one knows why.</code></pre>
+<pre><code>2 » The average American butt is 14.9 inches long.</code></pre>
+<pre><code>3 » Women manage the money and pay the bills in  75% of all Americans households.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +159,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship. - Marilyn Monroe</code></pre>
-<pre><code>2 » You are that vast thing that you see far, far off with great telescopes. - Alan Watts</code></pre>
-<pre><code>3 » First-rate people hire first-rate people; second-rate people hire third-rate people. - Leo Rosten</code></pre>
+<pre><code>1 » Wisdom alone is the science of other sciences. - Plato</code></pre>
+<pre><code>2 » Everything that happens as it should, and if you observe carefully, you will find this to be so. - Marcus Aurelius</code></pre>
+<pre><code>3 » What happens is not as important as how you react to what happens. - Ellen Glasgow</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
