@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/338f15f10aca8164122325b8af8995b633e985db6b7a0cd8d977d8cabb1b11a5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330383825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C088%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d0664cf4c3cdd15a3e28795144b01c11bf946d1bfa0fd6d2962879b84cf093a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393025323068727325323035352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C090%20hrs%2055%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,623+ Commits made on Github</p>
-<p>📦 40.0 KiB Used in GitHub's Storage</p>
+<p>🏆 2,632+ Commits made on Github</p>
+<p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -40,46 +40,85 @@ fun main() {
 <td>🌞 Morning</td>
 <td>63 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.36%</td>
+<td>21.14%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>67 commits</td>
+<td>69 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.71%</td>
+<td>23.15%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>49 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.61%</td>
+<td>16.44%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>116 commits</td>
+<td>117 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.32%</td>
+<td>39.26%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.12%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>6 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.9%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.71%</td>
+</tr> 
+ <tr>
+<td>Docker</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.02%</td>
+</tr> 
+ <tr>
+<td>Git Config</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.25%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>1 hr 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>1 hr 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.45%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -88,16 +127,16 @@ Didn't Touch PC Last Week
 <td>18.18%</td>
 </tr> 
  <tr>
-<td>HTML</td>
+<td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>13.64%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
+<td>HTML</td>
 <td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.64%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.09%</td>
 </tr> 
  <tr>
 <td>CSS</td>
@@ -116,15 +155,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 11, 2024</td>
-<td>19:22:52 IST</td>
+<td>Wednesday</td>
+<td>June 12, 2024</td>
+<td>19:22:38 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 12, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>June 13, 2024</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,10 +174,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why don't you find hippopotamuses hiding in trees?
-They're really good at it.</code></pre>
-<pre><code>2 » Yesterday a clown held a door open for me. I thought it was a nice jester.</code></pre>
-<pre><code>3 » Where did Captain Hook get his hook? From a second hand store.</code></pre>
+<pre><code>1 » Thereâ��s a new type of broom out, itâ��s sweeping the nation.</code></pre>
+<pre><code>2 » Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.</code></pre>
+<pre><code>3 » Some people eat light bulbs. They say it's a nice light snack.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -148,9 +186,9 @@ They're really good at it.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » More people are killed annually by donkeys than airplane crashes.</code></pre>
-<pre><code>2 » A pig`s orgasm lasts for 30 minutes.</code></pre>
-<pre><code>3 » A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</code></pre>
+<pre><code>1 » A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</code></pre>
+<pre><code>2 » The most common street name in the U.S. is Second Street.</code></pre>
+<pre><code>3 » You can`t kill yourself by holding your breath.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -160,9 +198,9 @@ They're really good at it.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth. - The Buddha</code></pre>
-<pre><code>2 » A friend is a gift you give yourself. - Robert Louis Stevenson</code></pre>
-<pre><code>3 » Discovery consists of seeing what everybody has seen and thinking what nobody else has thought. - Jonathan Swift</code></pre>
+<pre><code>1 » I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - Og Mandino</code></pre>
+<pre><code>2 » Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet. - The Buddha</code></pre>
+<pre><code>3 » There is nothing on this earth more to be prized than true friendship. - Thomas Aquinas</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
