@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d0664cf4c3cdd15a3e28795144b01c11bf946d1bfa0fd6d2962879b84cf093a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393025323068727325323035352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C090%20hrs%2055%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ddb83c0e59746b46fdefd5b3c57c8dd129c5154517cf2bd94fecacfa283c7b82/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393125323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C091%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,632+ Commits made on Github</p>
+<p>🏆 2,642+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,40 +65,52 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 20 mins</td>
+<td>1 hr 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.12%</td>
+<td>86.93%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>6 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>5.28%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>5 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.71%</td>
+<td>4.37%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.02%</td>
+<td>2.31%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.47%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.38%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.25%</td>
+<td>0.19%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 35 mins</td>
+<td>2 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -107,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 35 mins</td>
+<td>2 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>June 12, 2024</td>
-<td>19:22:38 IST</td>
+<td>Thursday</td>
+<td>June 13, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>June 13, 2024</td>
-<td>19:20:35 IST</td>
+<td>Friday</td>
+<td>June 14, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Thereâ��s a new type of broom out, itâ��s sweeping the nation.</code></pre>
-<pre><code>2 » Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.</code></pre>
-<pre><code>3 » Some people eat light bulbs. They say it's a nice light snack.</code></pre>
+<pre><code>1 » The best time on a clock is 6:30--hands down.</code></pre>
+<pre><code>2 » Today a girl said she recognized me from vegetarian club, but Iâ��m sure Iâ��ve never met herbivore.</code></pre>
+<pre><code>3 » Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</code></pre>
-<pre><code>2 » The most common street name in the U.S. is Second Street.</code></pre>
-<pre><code>3 » You can`t kill yourself by holding your breath.  </code></pre>
+<pre><code>1 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
+<pre><code>2 » Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </code></pre>
+<pre><code>3 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - Og Mandino</code></pre>
-<pre><code>2 » Know from the rivers in clefts and in crevices: those in small channels flow noisily, the great flow silent. Whatever's not full makes noise. Whatever is full is quiet. - The Buddha</code></pre>
-<pre><code>3 » There is nothing on this earth more to be prized than true friendship. - Thomas Aquinas</code></pre>
+<pre><code>1 » Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. - Dalai Lama</code></pre>
+<pre><code>2 » Russia is a riddle wrapped in a mystery inside an enigma. - Winston Churchill</code></pre>
+<pre><code>3 » Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them. - Sophocles</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
