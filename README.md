@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a47ffc3a113981a963e36672cb3e34ea32bc23899b66ac39510648410a65f606/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393325323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C093%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/db09e4336383b381da6fad20ee3fc6165e451f8a89e3fa99e54ca14956a78696/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393525323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C095%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,659+ Commits made on Github</p>
+<p>🏆 2,677+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,77 +40,77 @@ fun main() {
 <td>🌞 Morning</td>
 <td>63 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.14%</td>
+<td>21.07%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>69 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.15%</td>
+<td>23.08%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>49 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.44%</td>
+<td>16.39%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>117 commits</td>
+<td>118 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.26%</td>
+<td>39.46%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.3%</td>
+<td>5 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.87%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>11 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.14%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>6 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.52%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.91%</td>
+<td>1.77%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.54%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.31%</td>
+<td>0.78%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.25%</td>
+<td>0.2%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.16%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
+<td>0.06%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 7 mins</td>
+<td>6 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -119,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 7 mins</td>
+<td>6 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>June 14, 2024</td>
-<td>19:23:01 IST</td>
+<td>Saturday</td>
+<td>June 15, 2024</td>
+<td>19:22:38 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>June 15, 2024</td>
-<td>19:20:00 IST</td>
+<td>Sunday</td>
+<td>June 16, 2024</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,11 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What do you call an alligator in a vest? An in-vest-igator!</code></pre>
-<pre><code>2 » Why did the worker get fired from the orange juice factory? Lack of concentration.</code></pre>
-<pre><code>3 » We all know where the Big Apple is but does anyone know where the Minneapolis?</code></pre>
+<pre><code>1 » I am terrified of elevators. Iâ��m going to start taking steps to avoid them.</code></pre>
+<pre><code>2 » What do you call two guys hanging out by your window? Kurt &amp; Rod.</code></pre>
+<pre><code>3 » Where was the Declaration of Independence signed?
+
+At the bottom! </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +200,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The state of Florida is bigger than England!</code></pre>
-<pre><code>2 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
-<pre><code>3 » The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</code></pre>
+<pre><code>1 » Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.</code></pre>
+<pre><code>2 » The first contraceptive was crocodile dung used by the ancient Egyptians.</code></pre>
+<pre><code>3 » Right-handed people live, on average; nine years longer than left handed people.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +212,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Do good by stealth, and blush to find it fame. - Alexander Pope</code></pre>
-<pre><code>2 » If you aren't going all the way, why go at all? - Joe Namath</code></pre>
-<pre><code>3 » What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there. - The Buddha</code></pre>
+<pre><code>1 » Strong beliefs win strong men, and then make them stronger. - Richard Bach</code></pre>
+<pre><code>2 » Love is the attempt to form a friendship inspired by beauty. - Cicero</code></pre>
+<pre><code>3 » Know, first, who you are, and then adorn yourself accordingly. - Epictetus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
