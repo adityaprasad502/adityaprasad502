@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/db09e4336383b381da6fad20ee3fc6165e451f8a89e3fa99e54ca14956a78696/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393525323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C095%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/878bead54891b4446c31a4e291fb2e99007af2d0a233f60a8eb41f25cf3c7753/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303936253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,678+ Commits made on Github</p>
+<p>🏆 2,681+ Commits made on Github</p>
 <p>📦 40.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 16, 2024</td>
-<td>19:22:42 IST</td>
+<td>Monday</td>
+<td>June 17, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 17, 2024</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>June 18, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Shout out to my grandma, that's the only way she can hear.</code></pre>
-<pre><code>2 » Why did the girl smear peanut butter on the road? To go with the traffic jam.</code></pre>
-<pre><code>3 » I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.</code></pre>
+<pre><code>1 » I couldn't get a reservation at the library. They were completely booked.</code></pre>
+<pre><code>2 » Remember, the best angle to approach a problem from is the "try" angle.</code></pre>
+<pre><code>3 » Want to hear a chimney joke? Got stacks of em! First one's on the house</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Great Wall of China is the only man-made structure visible from space.</code></pre>
-<pre><code>2 » the bird is the word</code></pre>
-<pre><code>3 » Donald Duck`s middle name is Fauntleroy.  </code></pre>
+<pre><code>1 » Only 6 people in the whole world have died from moshing.</code></pre>
+<pre><code>2 » You burn more calories sleeping than you do watching TV.</code></pre>
+<pre><code>3 » In 1986 Congress &amp; President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I have no special talent. I am only passionately curious. - Albert Einstein</code></pre>
-<pre><code>2 » If the shoe doesn't fit, must we change the foot? - Gloria Steinem</code></pre>
-<pre><code>3 » Whoever is happy will make others happy, too. - Mark Twain</code></pre>
+<pre><code>1 » I cannot make my days longer, so I strive to make them better. - Henry David Thoreau</code></pre>
+<pre><code>2 » I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have. I must stand with anybody that stands right, and stand with him while he is right, and part with him when he goes wrong. - Abraham Lincoln</code></pre>
+<pre><code>3 » I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex. - Kurt Vonnegut</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
