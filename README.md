@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/878bead54891b4446c31a4e291fb2e99007af2d0a233f60a8eb41f25cf3c7753/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303936253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,682+ Commits made on Github</p>
+<p>🏆 2,684+ Commits made on Github</p>
 <p>📦 36.6 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -38,67 +38,55 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>63 commits</td>
+<td>64 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.93%</td>
+<td>21.19%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>71 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.59%</td>
+<td>23.51%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>49 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.28%</td>
+<td>16.23%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>118 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.2%</td>
+<td>39.07%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 28 mins</td>
+<td>5 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.73%</td>
+<td>97.88%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.85%</td>
+<td>2.03%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.22%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.09%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 35 mins</td>
+<td>5 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -107,7 +95,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 35 mins</td>
+<td>5 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +143,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>June 19, 2024</td>
-<td>19:22:57 IST</td>
+<td>Thursday</td>
+<td>June 20, 2024</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>June 20, 2024</td>
-<td>19:20:55 IST</td>
+<td>Friday</td>
+<td>June 21, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why was the picture sent to prison? It was framed.</code></pre>
-<pre><code>2 » Sometimes I tuck my knees into my chest and lean forward.  Thatâ��s just how I roll.</code></pre>
-<pre><code>3 » I hate perforated lines, they're tearable.</code></pre>
+<pre><code>1 » Why didnâ��t the skeleton cross the road? Because he had no guts.</code></pre>
+<pre><code>2 » I used to work for a soft drink can crusher. It was soda pressing.</code></pre>
+<pre><code>3 » What is the hardest part about sky diving? The ground.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A bull can inseminate 300 cows from one single ejaculation.</code></pre>
-<pre><code>2 » Thirty-five percent of people who use personal ads for dating are already married.</code></pre>
-<pre><code>3 » 1 in 8 Americans has worked at a McDonalds restaurant.</code></pre>
+<pre><code>1 » The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</code></pre>
+<pre><code>2 » The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</code></pre>
+<pre><code>3 » The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best. - Margaret Thatcher</code></pre>
-<pre><code>2 » I think and that is all that I am. - Wayne Dyer</code></pre>
-<pre><code>3 » You cannot have what you do not want. - John Acosta</code></pre>
+<pre><code>1 » The beginning of knowledge is the discovery of something we do not understand. - Frank Herbert</code></pre>
+<pre><code>2 » Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice. - Wayne Dyer</code></pre>
+<pre><code>3 » All I can say about life is, Oh God, enjoy it! - Bob Newhart</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
