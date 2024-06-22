@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/878bead54891b4446c31a4e291fb2e99007af2d0a233f60a8eb41f25cf3c7753/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303936253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,685+ Commits made on Github</p>
+<p>🏆 2,686+ Commits made on Github</p>
 <p>📦 36.6 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,28 +65,16 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.34%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.55%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.12%</td>
+<td>59 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 4 mins</td>
+<td>59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -95,7 +83,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 4 mins</td>
+<td>59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -143,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>June 21, 2024</td>
-<td>19:22:53 IST</td>
+<td>Saturday</td>
+<td>June 22, 2024</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>June 22, 2024</td>
-<td>19:20:50 IST</td>
+<td>Sunday</td>
+<td>June 23, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -162,9 +150,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Where does batman go to the bathroom? The batroom.</code></pre>
-<pre><code>2 » Why was the broom late for the meeting? He overswept.</code></pre>
-<pre><code>3 » How do you fix a damaged jack-o-lantern? You use a pumpkin patch.</code></pre>
+<pre><code>1 » I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".</code></pre>
+<pre><code>2 » What do you do on a remote island? Try and find the TV island it belongs to.</code></pre>
+<pre><code>3 » A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
-<pre><code>2 » Daffy Duck`s middle name is "Dumas"</code></pre>
-<pre><code>3 » If Texas were a country, its GNP would be the fifth largest of any country in the world.</code></pre>
+<pre><code>1 » The average American butt is 14.9 inches long.</code></pre>
+<pre><code>2 » Hot water is heavier than cold.</code></pre>
+<pre><code>3 » Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Kind words can be short and easy to speak, but their echoes are truly endless. - Mother Teresa</code></pre>
-<pre><code>2 » Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world. - Harriet Tubman</code></pre>
-<pre><code>3 » Wisdom is the supreme part of happiness. - Sophocles</code></pre>
+<pre><code>1 » As you walk down the fairway of life you must smell the roses, for you only get to play one round. - Ben Hogan</code></pre>
+<pre><code>2 » Happiness is not something ready-made. It comes from your own actions. - Dalai Lama</code></pre>
+<pre><code>3 » One secret of success in life is for a man to be ready for his opportunity when it comes. - Benjamin Disraeli</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
