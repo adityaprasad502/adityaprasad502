@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/878bead54891b4446c31a4e291fb2e99007af2d0a233f60a8eb41f25cf3c7753/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303936253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,686+ Commits made on Github</p>
+<p>🏆 2,687+ Commits made on Github</p>
 <p>📦 36.6 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,7 +65,7 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>59 mins</td>
+<td>31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -74,7 +74,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>59 mins</td>
+<td>31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -83,7 +83,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>59 mins</td>
+<td>31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -131,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>June 22, 2024</td>
-<td>19:23:01 IST</td>
+<td>Sunday</td>
+<td>June 23, 2024</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>June 23, 2024</td>
-<td>19:20:00 IST</td>
+<td>Monday</td>
+<td>June 24, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +150,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".</code></pre>
-<pre><code>2 » What do you do on a remote island? Try and find the TV island it belongs to.</code></pre>
-<pre><code>3 » A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers</code></pre>
+<pre><code>1 » A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."</code></pre>
+<pre><code>2 » What do you call a criminal going down the stairs? Condescending</code></pre>
+<pre><code>3 » Yesterday, I accidentally swallowed some food coloring. The doctor says Iâ��m okay, but I feel like Iâ��ve dyed a little inside.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average American butt is 14.9 inches long.</code></pre>
-<pre><code>2 » Hot water is heavier than cold.</code></pre>
-<pre><code>3 » Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</code></pre>
+<pre><code>1 » The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</code></pre>
+<pre><code>2 » The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.</code></pre>
+<pre><code>3 » The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » As you walk down the fairway of life you must smell the roses, for you only get to play one round. - Ben Hogan</code></pre>
-<pre><code>2 » Happiness is not something ready-made. It comes from your own actions. - Dalai Lama</code></pre>
-<pre><code>3 » One secret of success in life is for a man to be ready for his opportunity when it comes. - Benjamin Disraeli</code></pre>
+<pre><code>1 » There is no friendship, no love, like that of the parent for the child. - Henry Ward Beecher</code></pre>
+<pre><code>2 » As a cure for worrying, work is better than whisky. - Thomas Edison</code></pre>
+<pre><code>3 » I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be. - Thomas Jefferson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
