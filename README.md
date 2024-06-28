@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/878bead54891b4446c31a4e291fb2e99007af2d0a233f60a8eb41f25cf3c7753/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243303936253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bededb2790b96c792d7b5f0a19fa54923ef1ac6bf844b96cc12b890e7a735cff/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393625323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,691+ Commits made on Github</p>
+<p>🏆 2,694+ Commits made on Github</p>
 <p>📦 36.7 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>June 27, 2024</td>
-<td>19:23:08 IST</td>
+<td>Friday</td>
+<td>June 28, 2024</td>
+<td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>June 28, 2024</td>
-<td>19:20:05 IST</td>
+<td>Saturday</td>
+<td>June 29, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,10 +135,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » The word queue is ironic. It's just q with a bunch of silent letters waiting in line.</code></pre>
-<pre><code>2 » My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.</code></pre>
-<pre><code>3 » What did the sea say to the sand? "We have to stop meeting like this."</code></pre>
+<pre><code>1 » Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.</code></pre>
+<pre><code>2 » I just wrote a book on reverse psychology. Do not read it!</code></pre>
+<pre><code>3 » Every machine in the coin factory broke down all of a sudden without explanation. It just doesnâ��t make any cents.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -148,9 +147,9 @@ I know he means well.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average American looks at eight houses before buying one.</code></pre>
-<pre><code>2 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
-<pre><code>3 » Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </code></pre>
+<pre><code>1 » It is illegal to hunt camels in the state of Arizona.</code></pre>
+<pre><code>2 » Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</code></pre>
+<pre><code>3 » Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -160,9 +159,9 @@ I know he means well.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A lie gets halfway around the world before the truth has a chance to get its pants on. - Winston Churchill</code></pre>
-<pre><code>2 » Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats. - Howard H. Aiken</code></pre>
-<pre><code>3 » Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either. - Albert Einstein</code></pre>
+<pre><code>1 » I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody. - Herbert Bayard Swope</code></pre>
+<pre><code>2 » The greatest way to live with honor in this world is to be what we pretend to be. - Socrates</code></pre>
+<pre><code>3 » For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone. - Audrey Hepburn</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
