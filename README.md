@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bededb2790b96c792d7b5f0a19fa54923ef1ac6bf844b96cc12b890e7a735cff/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393625323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9e74a0cef3fa5189df0b20de64d04f61357d4cf887fc0a1685cc5f26ca3ad7fa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393625323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,694+ Commits made on Github</p>
+<p>🏆 2,698+ Commits made on Github</p>
 <p>📦 36.7 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,18 +61,33 @@ fun main() {
 <td>39.07%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Python</td>
+<td>25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,15 +131,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>June 28, 2024</td>
-<td>19:22:47 IST</td>
+<td>Saturday</td>
+<td>June 29, 2024</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>June 29, 2024</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>June 30, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,9 +150,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.</code></pre>
-<pre><code>2 » I just wrote a book on reverse psychology. Do not read it!</code></pre>
-<pre><code>3 » Every machine in the coin factory broke down all of a sudden without explanation. It just doesnâ��t make any cents.</code></pre>
+<pre><code>1 » My first time using an elevator was an uplifting experience. The second time let me down.</code></pre>
+<pre><code>2 » Why was it called the dark ages? Because of all the knights. </code></pre>
+<pre><code>3 » I was going to get a brain transplant, but I changed my mind</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +162,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It is illegal to hunt camels in the state of Arizona.</code></pre>
-<pre><code>2 » Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</code></pre>
-<pre><code>3 » Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.</code></pre>
+<pre><code>1 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
+<pre><code>2 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
+<pre><code>3 » The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +174,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody. - Herbert Bayard Swope</code></pre>
-<pre><code>2 » The greatest way to live with honor in this world is to be what we pretend to be. - Socrates</code></pre>
-<pre><code>3 » For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone. - Audrey Hepburn</code></pre>
+<pre><code>1 » Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be. - Thomas à Kempis</code></pre>
+<pre><code>2 » Always tell the truth. That way, you don't have to remember what you said. - Mark Twain</code></pre>
+<pre><code>3 » The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition. - Ralph Abernathy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
