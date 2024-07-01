@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9e74a0cef3fa5189df0b20de64d04f61357d4cf887fc0a1685cc5f26ca3ad7fa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393625323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,699+ Commits made on Github</p>
+<p>🏆 2,700+ Commits made on Github</p>
 <p>📦 36.7 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -131,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 30, 2024</td>
-<td>19:23:00 IST</td>
+<td>Monday</td>
+<td>July 01, 2024</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 01, 2024</td>
-<td>19:20:00 IST</td>
+<td>Tuesday</td>
+<td>July 02, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +150,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » *Reversing the car* "Ah, this takes me back"</code></pre>
-<pre><code>2 » Where does batman go to the bathroom? The batroom.</code></pre>
-<pre><code>3 » Chances are if you' ve seen one shopping center, you've seen a mall.</code></pre>
+<pre><code>1 » I cut my finger chopping cheese, but I think that I may have grater problems.</code></pre>
+<pre><code>2 » A man is washing the car with his son. The son asks...... "Dad, canâ��t you just use a sponge?"</code></pre>
+<pre><code>3 » A cannibal is someone who is fed up with people.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</code></pre>
-<pre><code>2 » A piece of paper can be folded no more then 9 times.</code></pre>
-<pre><code>3 » A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.</code></pre>
+<pre><code>1 » 10,000 Dutch cows pass through the Amsterdam airport each year.</code></pre>
+<pre><code>2 » The sperm of a mouse is actually longer than the sperm of an elephant.</code></pre>
+<pre><code>3 » All polar bears are left-handed.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Pitching is the art of instilling fear. - Sandy Koufax</code></pre>
-<pre><code>2 » A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. - George Bernard Shaw</code></pre>
-<pre><code>3 » Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration. - Niccolò Machiavelli</code></pre>
+<pre><code>1 » We know what we are but know not what we may be. - William Shakespeare</code></pre>
+<pre><code>2 » There is only one happiness in life, to love and be loved. - George Sand</code></pre>
+<pre><code>3 » Always be a first-rate version of yourself, instead of a second-rate version of somebody else. - Judy Garland</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
