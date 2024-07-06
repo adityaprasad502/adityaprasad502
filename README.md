@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9e74a0cef3fa5189df0b20de64d04f61357d4cf887fc0a1685cc5f26ca3ad7fa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393625323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,704+ Commits made on Github</p>
+<p>🏆 2,705+ Commits made on Github</p>
 <p>📦 36.7 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,33 +61,18 @@ fun main() {
 <td>39.07%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Python</td>
-<td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>VS Code</td>
-<td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -131,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 05, 2024</td>
-<td>19:23:08 IST</td>
+<td>Saturday</td>
+<td>July 06, 2024</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 06, 2024</td>
-<td>19:20:05 IST</td>
+<td>Sunday</td>
+<td>July 07, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +135,11 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What time did the man go to the dentist? Tooth hurt-y.</code></pre>
-<pre><code>2 » How do you fix a damaged jack-o-lantern? You use a pumpkin patch.</code></pre>
-<pre><code>3 » What do you call an alligator in a vest? An in-vest-igator!</code></pre>
+<pre><code>1 » I won an argument with a weather forecaster once. His logic was cloudy...</code></pre>
+<pre><code>2 » What do you call a beehive without the b's? An eehive.</code></pre>
+<pre><code>3 » How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +149,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The highest per capita Jell-O comsumption in the US is Des Moines.</code></pre>
-<pre><code>2 » 1 in every 4 Americans has appeared someway or another on television.</code></pre>
-<pre><code>3 » Every acre of American crops harvested contains 100 pounds of insects.</code></pre>
+<pre><code>1 » You can`t kill yourself by holding your breath.  </code></pre>
+<pre><code>2 » Koala is Aboriginal for "no drink".</code></pre>
+<pre><code>3 » The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +161,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character. - Margaret Chase Smith</code></pre>
-<pre><code>2 » Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed. - Blaise Pascal</code></pre>
-<pre><code>3 » Things turn out best for those who make the best of the way things turn out. - Jack Buck</code></pre>
+<pre><code>1 » Happiness does not come from having much, but from being attached to little. - Cheng Yen</code></pre>
+<pre><code>2 » Everything that happens as it should, and if you observe carefully, you will find this to be so. - Marcus Aurelius</code></pre>
+<pre><code>3 » Always remember that you are absolutely unique. Just like everyone else. - Margaret Mead</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
