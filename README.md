@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9e74a0cef3fa5189df0b20de64d04f61357d4cf887fc0a1685cc5f26ca3ad7fa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393625323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C096%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,711+ Commits made on Github</p>
-<p>📦 37.0 KiB Used in GitHub's Storage</p>
+<p>🏆 2,712+ Commits made on Github</p>
+<p>📦 37.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -38,27 +38,27 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>64 commits</td>
+<td>63 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.19%</td>
+<td>21.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>71 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.51%</td>
+<td>23.67%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>49 commits</td>
+<td>48 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.23%</td>
+<td>16.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>118 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.07%</td>
+<td>39.33%</td>
 </tr>
 </tbody></table>
  
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 12, 2024</td>
-<td>19:22:59 IST</td>
+<td>Saturday</td>
+<td>July 13, 2024</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 13, 2024</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>July 14, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,9 +135,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I tried to milk a cow today, but was unsuccessful. Udder failure.</code></pre>
-<pre><code>2 » A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.</code></pre>
-<pre><code>3 » Why did the sentence fail the driving test? It never came to a full stop.</code></pre>
+<pre><code>1 » Why donâ��t skeletons ever go trick or treating? Because they have nobody to go with.</code></pre>
+<pre><code>2 » How do you make a hankie dance? Put a little boogie in it.</code></pre>
+<pre><code>3 » I donâ��t play soccer because I enjoy the sport. Iâ��m just doing it for kicks.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +147,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Annual growth of WWW traffic is 314,000%</code></pre>
-<pre><code>2 » Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</code></pre>
-<pre><code>3 » In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</code></pre>
+<pre><code>1 » More bullets were fired in `Starship Troopers` than any other movie ever made.</code></pre>
+<pre><code>2 » The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</code></pre>
+<pre><code>3 » Bats always turn left when exiting a cave</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +159,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Some people are born on third base and go through life thinking they hit a triple. - Barry Switzer</code></pre>
-<pre><code>2 » They say that time changes things, but you actually have to change them yourself. - Andy Warhol</code></pre>
-<pre><code>3 » When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger. - Epictetus</code></pre>
+<pre><code>1 » History will be kind to me for I intend to write it. - Winston Churchill</code></pre>
+<pre><code>2 » Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>3 » The possibilities are numerous once we decide to act and not react. - George Bernard Shaw</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
