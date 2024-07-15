@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c04f430d2a3f3140c201166572bd9e00ca6b859445cb8edac8933894e089134d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324330393825323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C098%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/943ef03a0285f96a5325640417fd4f914d85fdd40a9b873f818161dcd5d3a690/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331303025323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C100%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,724+ Commits made on Github</p>
-<p>📦 37.1 KiB Used in GitHub's Storage</p>
+<p>🏆 2,737+ Commits made on Github</p>
+<p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -61,18 +61,51 @@ fun main() {
 <td>39.33%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Python</td>
+<td>3 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>94.53%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>9 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.87%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.6%</td>
+</tr> 
+ <tr>
+<td>Git Config</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>3 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>3 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,15 +149,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 14, 2024</td>
-<td>19:27:54 IST</td>
+<td>Monday</td>
+<td>July 15, 2024</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 15, 2024</td>
-<td>19:25:50 IST</td>
+<td>Tuesday</td>
+<td>July 16, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,9 +168,11 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » How many tickles does it take to tickle an octopus? Ten-tickles!</code></pre>
-<pre><code>2 » What did the 0 say to the 8? Nice belt.</code></pre>
-<pre><code>3 » I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.</code></pre>
+<pre><code>1 » I wouldn't buy anything with velcro. It's a total rip-off.</code></pre>
+<pre><code>2 » Why do mathematicians hate the U.S.? Because it's indivisible.</code></pre>
+<pre><code>3 » What was the pumpkinâ��s favorite sport?
+
+Squash.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +182,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Lawn darts are illegal in Canada.</code></pre>
-<pre><code>2 » For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."</code></pre>
-<pre><code>3 » During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</code></pre>
+<pre><code>1 » The average American/Canadian will eat about 11.9 pounds of cereal per year!</code></pre>
+<pre><code>2 » Mr. Rogers is an ordained minister.</code></pre>
+<pre><code>3 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +194,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Remember that a gesture of friendship, no matter how small, is always appreciated. - H. Jackson Brown Jr.</code></pre>
-<pre><code>2 » Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along. - George Herbert</code></pre>
-<pre><code>3 » I have always found that mercy bears richer fruits than strict justice. - Abraham Lincoln</code></pre>
+<pre><code>1 » It is not a lack of love, but a lack of friendship that makes unhappy marriages. - Friedrich Nietzsche</code></pre>
+<pre><code>2 » The most technologically efficient machine that man has ever invented is the book. - Northrop Frye</code></pre>
+<pre><code>3 » Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us! - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
