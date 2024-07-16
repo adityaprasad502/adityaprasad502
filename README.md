@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/943ef03a0285f96a5325640417fd4f914d85fdd40a9b873f818161dcd5d3a690/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331303025323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C100%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4cc859cb20c7c9954617250b2c443682b568809d50d7831ab9083e6717c3ea62/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331303425323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C104%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,737+ Commits made on Github</p>
+<p>🏆 2,758+ Commits made on Github</p>
 <p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,21 +65,21 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>94.53%</td>
+<td>6 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>97.33%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.87%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.38%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>0.29%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
@@ -92,7 +92,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 20 mins</td>
+<td>6 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -101,7 +101,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 20 mins</td>
+<td>6 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -149,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>July 15, 2024</td>
-<td>19:22:56 IST</td>
+<td>Tuesday</td>
+<td>July 16, 2024</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>July 16, 2024</td>
-<td>19:20:55 IST</td>
+<td>Wednesday</td>
+<td>July 17, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,11 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I wouldn't buy anything with velcro. It's a total rip-off.</code></pre>
-<pre><code>2 » Why do mathematicians hate the U.S.? Because it's indivisible.</code></pre>
-<pre><code>3 » What was the pumpkinâ��s favorite sport?
-
-Squash.</code></pre>
+<pre><code>1 » Why can't your nose be 12 inches long? Because then it'd be a foot!</code></pre>
+<pre><code>2 » What do you call a cow with no legs? Ground beef.</code></pre>
+<pre><code>3 » Thanks for explaining the word "many" to me. It means a lot.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -182,9 +180,9 @@ Squash.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average American/Canadian will eat about 11.9 pounds of cereal per year!</code></pre>
-<pre><code>2 » Mr. Rogers is an ordained minister.</code></pre>
-<pre><code>3 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
+<pre><code>1 » 111,111,111 x 111,111,111 = 12,345,678,987,654,321</code></pre>
+<pre><code>2 » Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</code></pre>
+<pre><code>3 » Nutmeg is extremely poisonous if injected intravenously.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -194,9 +192,9 @@ Squash.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It is not a lack of love, but a lack of friendship that makes unhappy marriages. - Friedrich Nietzsche</code></pre>
-<pre><code>2 » The most technologically efficient machine that man has ever invented is the book. - Northrop Frye</code></pre>
-<pre><code>3 » Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us! - Richard Bach</code></pre>
+<pre><code>1 » These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future. - Vernon Cooper</code></pre>
+<pre><code>2 » Don't look back. Something might be gaining on you. - Satchel Paige</code></pre>
+<pre><code>3 » What the caterpillar calls the end of the world, the master calls a butterfly. - Richard Bach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
