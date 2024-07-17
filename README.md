@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4cc859cb20c7c9954617250b2c443682b568809d50d7831ab9083e6717c3ea62/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331303425323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C104%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1f4182083794391c562e93e59f98f4a1ca460d14a343c516aca9d23beea7414a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313036253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C106%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,758+ Commits made on Github</p>
+<p>🏆 2,761+ Commits made on Github</p>
 <p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,46 +40,58 @@ fun main() {
 <td>🌞 Morning</td>
 <td>63 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.0%</td>
+<td>20.86%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>71 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.67%</td>
+<td>23.51%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>48 commits</td>
+<td>49 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.0%</td>
+<td>16.23%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>118 commits</td>
+<td>119 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.33%</td>
+<td>39.4%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>6 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.33%</td>
+<td>8 hrs 46 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.78%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>34 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.92%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.38%</td>
+<td>1.68%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 min</td>
+<td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.92%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.7%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
@@ -92,7 +104,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 50 mins</td>
+<td>9 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -101,7 +113,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 50 mins</td>
+<td>9 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -112,52 +124,52 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.0%</td>
+<td>52.38%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.05%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.0%</td>
+<td>9.52%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>x repos</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.52%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>x repos</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>4.76%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>4.76%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 16, 2024</td>
-<td>19:22:51 IST</td>
+<td>Wednesday</td>
+<td>July 17, 2024</td>
+<td>19:22:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 17, 2024</td>
-<td>19:20:50 IST</td>
+<td>Thursday</td>
+<td>July 18, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,9 +180,10 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why can't your nose be 12 inches long? Because then it'd be a foot!</code></pre>
-<pre><code>2 » What do you call a cow with no legs? Ground beef.</code></pre>
-<pre><code>3 » Thanks for explaining the word "many" to me. It means a lot.</code></pre>
+<pre><code>1 » Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."</code></pre>
+<pre><code>2 » Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.</code></pre>
+<pre><code>3 » What do you call a careful wolf? Aware wolf.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +193,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 111,111,111 x 111,111,111 = 12,345,678,987,654,321</code></pre>
-<pre><code>2 » Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</code></pre>
-<pre><code>3 » Nutmeg is extremely poisonous if injected intravenously.</code></pre>
+<pre><code>1 » A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.</code></pre>
+<pre><code>2 » 10,000 Dutch cows pass through the Amsterdam airport each year.</code></pre>
+<pre><code>3 » Some lions mate over 50 times a day.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +205,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future. - Vernon Cooper</code></pre>
-<pre><code>2 » Don't look back. Something might be gaining on you. - Satchel Paige</code></pre>
-<pre><code>3 » What the caterpillar calls the end of the world, the master calls a butterfly. - Richard Bach</code></pre>
+<pre><code>1 » All things change; nothing perishes. - Ovid</code></pre>
+<pre><code>2 » If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart. - Nelson Mandela</code></pre>
+<pre><code>3 » Anything you really want, you can attain, if you really go after it. - Wayne Dyer</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
