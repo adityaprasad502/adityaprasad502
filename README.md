@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1f4182083794391c562e93e59f98f4a1ca460d14a343c516aca9d23beea7414a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313036253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C106%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,762+ Commits made on Github</p>
+<p>🏆 2,763+ Commits made on Github</p>
 <p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>July 18, 2024</td>
-<td>19:22:50 IST</td>
+<td>Friday</td>
+<td>July 19, 2024</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>July 19, 2024</td>
-<td>19:20:50 IST</td>
+<td>Saturday</td>
+<td>July 20, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.</code></pre>
-<pre><code>2 » Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, â��No, just leave it in the carton!â��</code></pre>
-<pre><code>3 » No matter how kind you are, German children are kinder.</code></pre>
+<pre><code>1 » What does a female snake use for support? A co-Bra!</code></pre>
+<pre><code>2 » Why didnâ��t the orange win the race? It ran out of juice.</code></pre>
+<pre><code>3 » I knew a guy who collected candy canes, they were all in mint condition</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -192,9 +192,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
-<pre><code>2 » The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.</code></pre>
-<pre><code>3 » The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</code></pre>
+<pre><code>1 » It is illegal to hunt camels in the state of Arizona.</code></pre>
+<pre><code>2 » 3.6 cans of Spam are consumed each second.</code></pre>
+<pre><code>3 » The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +204,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Even youngish men can acquire wisdom as time goes by. - John Bercow</code></pre>
-<pre><code>2 » We cannot be more sensitive to pleasure without being more sensitive to pain. - Alan Watts</code></pre>
-<pre><code>3 » Friends show their love in times of trouble, not in happiness. - Euripides</code></pre>
+<pre><code>1 » An ounce of emotion is equal to a ton of facts. - John Junor</code></pre>
+<pre><code>2 » If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever. - Woody Allen</code></pre>
+<pre><code>3 » Let yourself be silently drawn by the stronger pull of what you really love. - Rumi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
