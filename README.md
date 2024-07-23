@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3e03b283897f48dd8705bbddb3a10c0f7bb751b21498d59807fd306b208e751c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331303725323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C107%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b2836e0f243bf48fbf2a279f7a6695053a94a039afc150c73da61b25064fa938/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331303825323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C108%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,766+ Commits made on Github</p>
+<p>🏆 2,772+ Commits made on Github</p>
 <p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -40,77 +40,77 @@ fun main() {
 <td>🌞 Morning</td>
 <td>56 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.31%</td>
+<td>19.24%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>67 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.1%</td>
+<td>23.02%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>49 commits</td>
+<td>50 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.9%</td>
+<td>17.18%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>118 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.69%</td>
+<td>40.55%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>6 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.45%</td>
+<td>3 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.13%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>34 mins</td>
+<td>35 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.73%</td>
+<td>10.98%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>23 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.31%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>13 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.99%</td>
+<td>15 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.63%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.58%</td>
+<td>2.15%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.92%</td>
+<td>1.25%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.28%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.48%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 24 mins</td>
+<td>5 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -119,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 24 mins</td>
+<td>5 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>July 22, 2024</td>
-<td>19:22:48 IST</td>
+<td>Tuesday</td>
+<td>July 23, 2024</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>July 23, 2024</td>
-<td>19:20:45 IST</td>
+<td>Wednesday</td>
+<td>July 24, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Whoever invented the knock-knock joke should get a no bell prize.</code></pre>
-<pre><code>2 » Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.</code></pre>
-<pre><code>3 » I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.</code></pre>
+<pre><code>1 » Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!</code></pre>
+<pre><code>2 » When will the little snake arrive? I don't know but he won't be long...</code></pre>
+<pre><code>3 » Why do bees hum? Because they don't know the words.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The eyes of a donkey are positioned so that it can see all four feet at all times.</code></pre>
-<pre><code>2 » The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</code></pre>
-<pre><code>3 » In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</code></pre>
+<pre><code>1 » The average person`s left hand does 56% of the typing.</code></pre>
+<pre><code>2 » The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.</code></pre>
+<pre><code>3 » Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward</code></pre>
-<pre><code>2 » It's supposed to be automatic, but actually you have to push this button. - John Brunner</code></pre>
-<pre><code>3 » There are two kinds of failures: those who thought and never did, and those who did and never thought. - Laurence J. Peter</code></pre>
+<pre><code>1 » When your desires are strong enough you will appear to possess superhuman powers to achieve. - Napoleon Hill</code></pre>
+<pre><code>2 » Impossibilities are merely things which we have not yet learned. - Charles W. Chesnutt</code></pre>
+<pre><code>3 » The years teach much which the days never know. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
