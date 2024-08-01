@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/687aa458444dc95def93bd3ed92a4b8d447e2a2b3c4e0b88a40d34347df41b9b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313130253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C110%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,783+ Commits made on Github</p>
+<p>🏆 2,784+ Commits made on Github</p>
 <p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,51 +61,18 @@ fun main() {
 <td>40.55%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Python</td>
-<td>1 hr 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>82.14%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>11 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.54%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.27%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>VS Code</td>
-<td>1 hr 16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>1 hr 16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -149,14 +116,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 31, 2024</td>
+<td>Thursday</td>
+<td>August 01, 2024</td>
 <td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 01, 2024</td>
+<td>Friday</td>
+<td>August 02, 2024</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -168,9 +135,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why didnâ��t the skeleton cross the road? Because he had no guts.</code></pre>
-<pre><code>2 » Toasters were the first form of pop-up notifications.</code></pre>
-<pre><code>3 » Someone asked me to name two structures that hold water. I said "Well dam"</code></pre>
+<pre><code>1 » I was shocked when I was diagnosed as colorblind... It came out of the purple.</code></pre>
+<pre><code>2 » My boss told me to have a good day. So I went home...</code></pre>
+<pre><code>3 » A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,8 +147,8 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Honeybees have a type of hair on their eyes!</code></pre>
-<pre><code>2 » A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.</code></pre>
+<pre><code>1 » A goldfish has a memory span of three seconds.  </code></pre>
+<pre><code>2 » PEZ candy even comes in a Coffee flavor.</code></pre>
 <pre><code>3 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
 </details>
 <p>
@@ -192,9 +159,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » To fly as fast as thought, you must begin by knowing that you have already arrived. - Richard Bach</code></pre>
-<pre><code>2 » Positive thinking will let you do everything better than negative thinking will. - Zig Ziglar</code></pre>
-<pre><code>3 » The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident. - Charles Lamb</code></pre>
+<pre><code>1 » The winds and waves are always on the side of the ablest navigators. - Edward Gibbon</code></pre>
+<pre><code>2 » Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things. - The Buddha</code></pre>
+<pre><code>3 » Take no thought of who is right or wrong or who is better than. Be not for or against. - Bruce Lee</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
