@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/687aa458444dc95def93bd3ed92a4b8d447e2a2b3c4e0b88a40d34347df41b9b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313130253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C110%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a24288911307f9762d9f7f4d951dd558960d1f6122aa196bed3e2db3793debc9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313131253230687273253230332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C111%20hrs%203%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,786+ Commits made on Github</p>
+<p>🏆 2,787+ Commits made on Github</p>
 <p>📦 37.0 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,18 +61,33 @@ fun main() {
 <td>40.55%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Batchfile</td>
+<td>1 hr 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>1 hr 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>1 hr 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,15 +131,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 03, 2024</td>
-<td>19:22:48 IST</td>
+<td>Sunday</td>
+<td>August 04, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 04, 2024</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>August 05, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,9 +150,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.</code></pre>
-<pre><code>2 » What kind of award did the dentist receive? A little plaque.</code></pre>
-<pre><code>3 » Why do fish live in salt water? Because pepper makes them sneeze!</code></pre>
+<pre><code>1 » Coffee has a tough time at my house, every morning it gets mugged.</code></pre>
+<pre><code>2 » What do you call a guy lying on your doorstep? Matt.</code></pre>
+<pre><code>3 » "Dad, I'm hungry." Hello, Hungry. I'm Dad.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +162,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</code></pre>
-<pre><code>2 » A standard slinky measures 87 feet when stretched out.</code></pre>
-<pre><code>3 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
+<pre><code>1 » Right-handed people live, on average; nine years longer than left handed people.</code></pre>
+<pre><code>2 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
+<pre><code>3 » The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +174,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Every problem has a gift for you in its hands. - Richard Bach</code></pre>
-<pre><code>2 » There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else. - Sam Walton</code></pre>
-<pre><code>3 » Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best. - Henry van Dyke Jr.</code></pre>
+<pre><code>1 » When fate hands us a lemon, let's try to make lemonade. - Dale Carnegie</code></pre>
+<pre><code>2 » Do you know what my favorite part of the game is? The opportunity to play. - Mike Singletary (basketball)</code></pre>
+<pre><code>3 » The winds and waves are always on the side of the ablest navigators. - Edward Gibbon</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
