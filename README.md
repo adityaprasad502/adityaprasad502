@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b8e2159412720c6021e80498cfc09ee652429e0cabac2ecc7b40c4e4f5656cd1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,823+ Commits made on Github</p>
+<p>🏆 2,824+ Commits made on Github</p>
 <p>📦 37.1 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 18, 2024</td>
-<td>19:22:51 IST</td>
+<td>Monday</td>
+<td>August 19, 2024</td>
+<td>19:22:44 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 19, 2024</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>August 20, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Why did the m&amp;m go to school? Because it wanted to be a Smartie!</code></pre>
-<pre><code>2 » "I'm sorry." "Hi sorry, I'm dad"</code></pre>
-<pre><code>3 » Why was the strawberry sad? Its parents were in a jam.</code></pre>
+<pre><code>1 » What do you get when you cross a rabbit with a water hose? Hare spray.</code></pre>
+<pre><code>2 » Where do hamburgers go to dance? The meat-ball.</code></pre>
+<pre><code>3 » How many tickles does it take to tickle an octopus? Ten-tickles!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 »  was Harrison Ford`s idea so that he could take a bathroom break.</code></pre>
-<pre><code>2 » Chewing gum while peeling onions will keep you from crying.</code></pre>
-<pre><code>3 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
+<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
+<pre><code>2 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
+<pre><code>3 » 1 in 8 Americans has worked at a McDonalds restaurant.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » There is nothing happens to any person but what was in his power to go through with. - Marcus Aurelius</code></pre>
-<pre><code>2 » Whether you think you can or you think you can't, you are right. - Henry Ford</code></pre>
-<pre><code>3 » Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>1 » Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others. - Harriet Lerner</code></pre>
+<pre><code>2 » Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another? - Thomas Jefferson</code></pre>
+<pre><code>3 » By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning. - Laozi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
