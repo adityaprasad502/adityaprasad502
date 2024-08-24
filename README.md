@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b8e2159412720c6021e80498cfc09ee652429e0cabac2ecc7b40c4e4f5656cd1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,828+ Commits made on Github</p>
+<p>🏆 2,829+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -61,69 +61,18 @@ fun main() {
 <td>39.67%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Python</td>
-<td>5 hrs 31 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.33%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>9 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.72%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>7 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.15%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.08%</td>
-</tr> 
- <tr>
-<td>Docker</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.99%</td>
-</tr> 
- <tr>
-<td>YAML</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.97%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>VS Code</td>
-<td>6 hrs 3 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>6 hrs 3 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -167,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 23, 2024</td>
-<td>19:23:01 IST</td>
+<td>Saturday</td>
+<td>August 24, 2024</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 24, 2024</td>
-<td>19:20:00 IST</td>
+<td>Sunday</td>
+<td>August 25, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,10 +135,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » A woman is on trial for beating her husband to death with his guitar collection. Judge says, â��First offender?â�� She says, â��No, first a Gibson! Then a Fender!â��</code></pre>
-<pre><code>2 » What do you get when you cross a bee and a sheep? A bah-humbug.
-</code></pre>
-<pre><code>3 » â��Put the cat outâ�� â�¦ â��I didnâ��t realize it was on fire</code></pre>
+<pre><code>1 » Who did the wizard marry? His ghoul-friend</code></pre>
+<pre><code>2 » Did you hear the one about the giant pickle?  He was kind of a big dill.</code></pre>
+<pre><code>3 » "Hey, dad, did you get a haircut?" "No, I got them all cut."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,9 +147,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Tehran is the most expensive city on earth.</code></pre>
-<pre><code>2 » A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</code></pre>
-<pre><code>3 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
+<pre><code>1 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
+<pre><code>2 » There are no clocks in Las Vegas gambling casinos.</code></pre>
+<pre><code>3 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -211,9 +159,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » When times are bad is when the real entrepreneurs emerge. - Robert Kiyosaki</code></pre>
-<pre><code>2 » Life is 10% what happens to you and 90% how you react to it. - Chuck Swindoll</code></pre>
-<pre><code>3 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>1 » Always do your best. What you plant now, you will harvest later. - Og Mandino</code></pre>
+<pre><code>2 » It's not what happens to you, but how you react to it that matters. - Epictetus</code></pre>
+<pre><code>3 » A day of worry is more exhausting than a day of work. - John Lubbock</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
