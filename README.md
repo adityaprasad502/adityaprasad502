@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c764bbf6b41efad6938b2c54fc79a32c5b23ee117d00c2e1a57f7c040657c496/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,835+ Commits made on Github</p>
+<p>🏆 2,836+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 30, 2024</td>
-<td>19:22:44 IST</td>
+<td>Saturday</td>
+<td>August 31, 2024</td>
+<td>19:23:08 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 31, 2024</td>
-<td>19:20:40 IST</td>
+<td>Sunday</td>
+<td>September 01, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,9 +135,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"</code></pre>
-<pre><code>2 » I have kleptomania, but when it gets bad, I take something for it.</code></pre>
-<pre><code>3 » I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.</code></pre>
+<pre><code>1 » I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.</code></pre>
+<pre><code>2 » Why did the banana go to the doctor? He was not "peeling" well.</code></pre>
+<pre><code>3 » How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +147,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » %60 of all people using the Internet, use it for pornography.</code></pre>
-<pre><code>2 » Meteorologists claim they`re right 85% of the time (think about that one!)</code></pre>
-<pre><code>3 » Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.</code></pre>
+<pre><code>1 » Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.</code></pre>
+<pre><code>2 » A bull can inseminate 300 cows from one single ejaculation.</code></pre>
+<pre><code>3 » 3.6 cans of Spam are consumed each second.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +159,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather. - John Ruskin</code></pre>
-<pre><code>2 » Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom. - The Buddha</code></pre>
-<pre><code>3 » You must welcome change as the rule but not as your ruler. - Denis Waitley</code></pre>
+<pre><code>1 » Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others? - Dalai Lama</code></pre>
+<pre><code>2 » Men are disturbed not by things, but by the view which they take of them. - Epictetus</code></pre>
+<pre><code>3 » That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing. - Martin Luther King Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
