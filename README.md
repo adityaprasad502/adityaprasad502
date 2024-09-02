@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c764bbf6b41efad6938b2c54fc79a32c5b23ee117d00c2e1a57f7c040657c496/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,837+ Commits made on Github</p>
+<p>🏆 2,838+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -116,14 +116,14 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>September 01, 2024</td>
-<td>19:22:53 IST</td>
+<td>Monday</td>
+<td>September 02, 2024</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>September 02, 2024</td>
+<td>Tuesday</td>
+<td>September 03, 2024</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -135,9 +135,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Which is the fastest growing city in the world? Dublin'</code></pre>
-<pre><code>2 » I went on a date last night with a girl from the zoo. It was great. Sheâ��s a keeper.</code></pre>
-<pre><code>3 » I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.</code></pre>
+<pre><code>1 » I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".</code></pre>
+<pre><code>2 » Why did the cookie cry? It was feeling crumby.</code></pre>
+<pre><code>3 » Today, my son asked "Can I have a book mark?" and I burst into tears. 11 years old and he still doesn't know my name is Brian.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -147,9 +147,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
-<pre><code>2 » Every acre of American crops harvested contains 100 pounds of insects.</code></pre>
-<pre><code>3 » A crocodile cannot stick its tongue out.</code></pre>
+<pre><code>1 » The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</code></pre>
+<pre><code>2 » Al Capone`s business card said he was a used furniture dealer.</code></pre>
+<pre><code>3 » Ninety percent of all species that have become extinct have been birds.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -159,9 +159,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Spread love everywhere you go. Let no one ever come to you without leaving happier. - Mother Teresa</code></pre>
-<pre><code>2 » Technology… the knack of so arranging the world that we don't have to experience it. - Max Frisch</code></pre>
-<pre><code>3 » Don't smother each other. No one can grow in the shade. - Leo Buscaglia</code></pre>
+<pre><code>1 » There are people who have money and people who are rich. - Coco Chanel</code></pre>
+<pre><code>2 » Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity. - George S. Patton</code></pre>
+<pre><code>3 » Remember always that you not only have the right to be an individual, you have an obligation to be one. - Eleanor Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
