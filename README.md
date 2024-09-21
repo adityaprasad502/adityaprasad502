@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f144cc1051a81560675a8e29255d785ee7b23bbaee930aa810f1e3fac111289e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e1d29c65bc2adede376beb9a927e9c1c6d01e4ebad6c413d341b69646aff14d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,862+ Commits made on Github</p>
-<p>📦 37.1 KiB Used in GitHub's Storage</p>
+<p>🏆 2,863+ Commits made on Github</p>
+<p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
 </blockquote>
@@ -65,22 +65,22 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>95.59%</td>
+<td>5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.7%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>0 secs</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.41%</td>
+<td>YAML</td>
+<td>4 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.3%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 mins</td>
+<td>9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 mins</td>
+<td>9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>September 20, 2024</td>
-<td>20:41:15 IST</td>
+<td>Saturday</td>
+<td>September 21, 2024</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>September 21, 2024</td>
-<td>20:40:15 IST</td>
+<td>Sunday</td>
+<td>September 22, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +156,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I don't trust sushi, there's something fishy about it.</code></pre>
-<pre><code>2 » Why don't sharks eat clowns?  Because they taste funny.</code></pre>
-<pre><code>3 » Chances are if you' ve seen one shopping center, you've seen a mall.</code></pre>
+<pre><code>1 » Writing with a broken pencil is pointless.</code></pre>
+<pre><code>2 » What do you call a boomerang that won't come back? A stick.</code></pre>
+<pre><code>3 » A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average person spends 6 months of their life sitting at red lights.</code></pre>
-<pre><code>2 » Mr. Rogers is an ordained minister.</code></pre>
-<pre><code>3 » Length of beard an average man would grow if he never shaved 27.5 feet</code></pre>
+<pre><code>1 » The average American looks at eight houses before buying one.</code></pre>
+<pre><code>2 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
+<pre><code>3 » The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. - Gildarts Clive</code></pre>
-<pre><code>2 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
-<pre><code>3 » I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. - Julis Alexia Van Riessfeld</code></pre>
+<pre><code>1 » The moment you think of giving up, think of the reason why you held on so long.” - Natsu Dragneel</code></pre>
+<pre><code>2 » I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you! - Son Goku</code></pre>
+<pre><code>3 » If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. - Alibaba Saluja</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
