@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e1d29c65bc2adede376beb9a927e9c1c6d01e4ebad6c413d341b69646aff14d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ce42c35026d1431c4437c14c5abc1102ac91494f569732479dcfca85305a9d0a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,863+ Commits made on Github</p>
+<p>🏆 2,864+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>September 21, 2024</td>
-<td>19:23:05 IST</td>
+<td>Monday</td>
+<td>September 23, 2024</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>September 22, 2024</td>
-<td>19:20:05 IST</td>
+<td>Tuesday</td>
+<td>September 24, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +156,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Writing with a broken pencil is pointless.</code></pre>
+<pre><code>1 » I heard there was a new store called Moderation. They have everything there</code></pre>
 <pre><code>2 » What do you call a boomerang that won't come back? A stick.</code></pre>
-<pre><code>3 » A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. </code></pre>
+<pre><code>3 » Why did the m&amp;m go to school? Because it wanted to be a Smartie!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The average American looks at eight houses before buying one.</code></pre>
-<pre><code>2 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
-<pre><code>3 » The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</code></pre>
+<pre><code>1 »  was Harrison Ford`s idea so that he could take a bathroom break.</code></pre>
+<pre><code>2 » The king of hearts is the only king without a mustache.</code></pre>
+<pre><code>3 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The moment you think of giving up, think of the reason why you held on so long.” - Natsu Dragneel</code></pre>
-<pre><code>2 » I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you! - Son Goku</code></pre>
-<pre><code>3 » If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. - Alibaba Saluja</code></pre>
+<pre><code>1 » If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward - Tobio Kageyama</code></pre>
+<pre><code>2 » You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground. - Unknown</code></pre>
+<pre><code>3 » People become stronger because they have memories they can’t forget. - Tsunade</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
