@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ce42c35026d1431c4437c14c5abc1102ac91494f569732479dcfca85305a9d0a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,865+ Commits made on Github</p>
+<p>🏆 2,866+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -143,15 +143,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 24, 2024</td>
-<td>19:22:56 IST</td>
+<td>Wednesday</td>
+<td>September 25, 2024</td>
+<td>19:23:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 25, 2024</td>
-<td>19:20:55 IST</td>
+<td>Thursday</td>
+<td>September 26, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -162,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What is the leading cause of dry skin? Towels</code></pre>
-<pre><code>2 » Have you ever seen fruit preserves being made? It's jarring.</code></pre>
-<pre><code>3 » "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"</code></pre>
+<pre><code>1 » What do you call a fish wearing a bowtie? Sofishticated.</code></pre>
+<pre><code>2 » Have you heard about corduroy pillows?  They're making headlines!</code></pre>
+<pre><code>3 » I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</code></pre>
-<pre><code>2 » The most common name in world is Mohammed.</code></pre>
-<pre><code>3 » In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</code></pre>
+<pre><code>1 » There are two credit cards for every person in the United States.</code></pre>
+<pre><code>2 » Conception occurs most in the month of December.</code></pre>
+<pre><code>3 » Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. - Marie Curie</code></pre>
-<pre><code>2 » Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. - Sebastian Michaelis</code></pre>
-<pre><code>3 » You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. - Junichirou Kagami</code></pre>
+<pre><code>1 » Do what you can, where you are, with what you have. - Teddy Roosevelt</code></pre>
+<pre><code>2 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
+<pre><code>3 » Life is not a game of luck. If you wanna win, work hard. - Sora</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
