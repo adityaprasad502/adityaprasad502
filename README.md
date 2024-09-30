@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/ce42c35026d1431c4437c14c5abc1102ac91494f569732479dcfca85305a9d0a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313725323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C117%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c7fd8f9442e91104925832c9b9e5ab6331b464d4a42e9a2d3efcb320ec1f2202/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313925323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C119%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,870+ Commits made on Github</p>
+<p>🏆 2,871+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -64,17 +64,23 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Python</td>
+<td>25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.94%</td>
+</tr> 
+ <tr>
 <td>Text</td>
 <td>11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.06%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 mins</td>
+<td>37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -83,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>11 mins</td>
+<td>37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -131,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>September 29, 2024</td>
-<td>19:23:06 IST</td>
+<td>Monday</td>
+<td>September 30, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>September 30, 2024</td>
-<td>19:20:05 IST</td>
+<td>Tuesday</td>
+<td>October 01, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,9 +156,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Dad, can you put my shoes on? I don't think they'll fit me.</code></pre>
-<pre><code>2 » I got a reversible jacket for Christmas, I can't wait to see how it turns out.</code></pre>
-<pre><code>3 » What do you call a fish wearing a bowtie? Sofishticated.</code></pre>
+<pre><code>1 » What do you get when you cross a rabbit with a water hose? Hare spray.</code></pre>
+<pre><code>2 » What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...</code></pre>
+<pre><code>3 » Two silk worms had a race. They ended up in a tie.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -162,9 +168,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
-<pre><code>2 » The most common street name in the U.S. is Second Street.</code></pre>
-<pre><code>3 » 3.9% of all women do not wear underwear.</code></pre>
+<pre><code>1 » The word "set" has more definitions than any other word in the English language.</code></pre>
+<pre><code>2 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
+<pre><code>3 » You can`t kill yourself by holding your breath.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +180,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference. - Robert Frost</code></pre>
-<pre><code>2 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
-<pre><code>3 » A person who never made a mistake never tried anything new. -  Albert Einstein</code></pre>
+<pre><code>1 » A person who never made a mistake never tried anything new. -  Albert Einstein</code></pre>
+<pre><code>2 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>3 » Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin - Kenny Ackerman</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
