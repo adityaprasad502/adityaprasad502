@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c7fd8f9442e91104925832c9b9e5ab6331b464d4a42e9a2d3efcb320ec1f2202/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313925323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C119%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,871+ Commits made on Github</p>
+<p>🏆 2,872+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -65,22 +65,28 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Python</td>
-<td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.94%</td>
+<td>1 hr 34 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.96%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>11 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.06%</td>
+<td>Java</td>
+<td>6 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.08%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.96%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>37 mins</td>
+<td>1 hr 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +95,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>37 mins</td>
+<td>1 hr 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +143,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>September 30, 2024</td>
-<td>19:22:59 IST</td>
+<td>Tuesday</td>
+<td>October 01, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 01, 2024</td>
-<td>19:20:55 IST</td>
+<td>Wednesday</td>
+<td>October 02, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What do you get when you cross a rabbit with a water hose? Hare spray.</code></pre>
-<pre><code>2 » What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...</code></pre>
-<pre><code>3 » Two silk worms had a race. They ended up in a tie.</code></pre>
+<pre><code>1 » How do you make holy water? You boil the hell out of it.</code></pre>
+<pre><code>2 » If two vegans are having an argument, is it still considered beef?</code></pre>
+<pre><code>3 » Did you hear the joke about the wandering nun? She was a roman catholic.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -168,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The word "set" has more definitions than any other word in the English language.</code></pre>
-<pre><code>2 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
-<pre><code>3 » You can`t kill yourself by holding your breath.  </code></pre>
+<pre><code>1 » Weatherman Willard Scott was the first original Ronald McDonald.</code></pre>
+<pre><code>2 » Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.</code></pre>
+<pre><code>3 » There are 1,575 steps from the ground floor to the top of the Empire State building.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -180,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A person who never made a mistake never tried anything new. -  Albert Einstein</code></pre>
-<pre><code>2 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
-<pre><code>3 » Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin - Kenny Ackerman</code></pre>
+<pre><code>1 » If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity - Armin Arlert</code></pre>
+<pre><code>2 » I have learned over the years that when one’s mind is made up, this diminishes fear. - Rosa Parks</code></pre>
+<pre><code>3 » You should never give up on life, no matter how you feel. No matter how badly you want to give up.” - Canaan</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
