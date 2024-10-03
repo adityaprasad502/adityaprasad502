@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c7fd8f9442e91104925832c9b9e5ab6331b464d4a42e9a2d3efcb320ec1f2202/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313925323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C119%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,873+ Commits made on Github</p>
+<p>🏆 2,874+ Commits made on Github</p>
 <p>📦 37.2 KiB Used in GitHub's Storage</p>
 <p>📜 4 Public Repositories</p>
 <p>🔑 ∞ private repositories.</p>
@@ -143,14 +143,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 02, 2024</td>
-<td>19:22:50 IST</td>
+<td>Thursday</td>
+<td>October 03, 2024</td>
+<td>19:22:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 03, 2024</td>
+<td>Friday</td>
+<td>October 04, 2024</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -162,11 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.</code></pre>
-<pre><code>2 » Where do young cows eat lunch? In the calf-ateria.</code></pre>
-<pre><code>3 » They're making a movie about clocks. It's about time</code></pre>
+<pre><code>1 » Why couldn't the kid see the pirate movie? Because it was rated arrr!</code></pre>
+<pre><code>2 » Just watched a documentary about beaversâ�¦ It was the best damn program Iâ��ve ever seen.</code></pre>
+<pre><code>3 » Why did the Clydesdale give the pony a glass of water? â�¨Because he was a little horse!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -176,9 +174,9 @@ They can't control their pupils.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</code></pre>
-<pre><code>2 » A whale`s penis is called a dork.</code></pre>
-<pre><code>3 » Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</code></pre>
+<pre><code>1 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
+<pre><code>2 » In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</code></pre>
+<pre><code>3 » A jellyfish is 95 percent water!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -188,9 +186,9 @@ They can't control their pupils.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » A place where someone still thinks about you is a place you can call home. - Jiraiya</code></pre>
-<pre><code>2 » You can die anytime, but living takes true courage.” - Kenshin Himura</code></pre>
-<pre><code>3 » There is only one way to avoid criticism: do nothing, say nothing, and be nothing. - Aristotle</code></pre>
+<pre><code>1 » We can’t help everyone, but everyone can help someone. - Ronald Reagan</code></pre>
+<pre><code>2 » How wonderful it is that nobody need wait a single moment before starting to improve the world. - Anne Frank</code></pre>
+<pre><code>3 » You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper. - Himura Kenshin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
