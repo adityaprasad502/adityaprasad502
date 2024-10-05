@@ -25,13 +25,13 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c7fd8f9442e91104925832c9b9e5ab6331b464d4a42e9a2d3efcb320ec1f2202/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313925323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C119%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/14375f1281c15d05bc8a2b22f9a740a79065c161990d54eb6bfe332a8a181974/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331313925323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C119%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,875+ Commits made on Github</p>
-<p>📦 37.2 KiB Used in GitHub's Storage</p>
-<p>📜 4 Public Repositories</p>
-<p>🔑 ∞ private repositories.</p>
+<p>🏆 2,932+ Commits made on Github</p>
+<p>📦 37.2 MiB Used in GitHub's Storage</p>
+<p>📜 5 Public Repositories</p>
+<p>🔑 15 Private Repositories</p>
 </blockquote>
 <p>📊 <strong>This Week I Spent My Time On</strong></p>
 <table>
@@ -39,26 +39,26 @@ fun main() {
  <tr>
 <td>🌞 Morning</td>
 <td>50 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.23%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.77%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>72 commits</td>
+<td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.38%</td>
+<td>20.11%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>52 commits</td>
+<td>64 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.88%</td>
+<td>17.63%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>134 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.51%</td>
+<td>176 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.48%</td>
 </tr>
 </tbody></table>
 <table>
@@ -104,54 +104,54 @@ fun main() {
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
 <td>Python</td>
-<td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.55%</td>
+<td>13 repos</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.52%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>x repos</td>
+<td>4 repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.18%</td>
+<td>17.39%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>x repos</td>
+<td>2 repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.09%</td>
+<td>8.7%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>x repos</td>
+<td>2 repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.09%</td>
+<td>8.7%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>x repos</td>
+<td>1 repo</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>4.35%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
-<td>x repos</td>
+<td>1 repo</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>4.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 04, 2024</td>
-<td>19:22:49 IST</td>
+<td>Saturday</td>
+<td>October 05, 2024</td>
+<td>16:31:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 05, 2024</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>October 06, 2024</td>
+<td>16:30:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -162,9 +162,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » They're making a movie about clocks. It's about time</code></pre>
-<pre><code>2 » Why are snake races so exciting? They're always neck and neck.</code></pre>
-<pre><code>3 » The first time I got a universal remote control I thought to myself, "This changes everything"</code></pre>
+<pre><code>1 » I donâ��t play soccer because I enjoy the sport. Iâ��m just doing it for kicks.</code></pre>
+<pre><code>2 » They're making a movie about clocks. It's about time</code></pre>
+<pre><code>3 » What do you call a pig with three eyes? Piiig</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +174,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.</code></pre>
-<pre><code>2 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
-<pre><code>3 » Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</code></pre>
+<pre><code>1 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
+<pre><code>2 » The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</code></pre>
+<pre><code>3 » Leonardo Da Vinci invented the scissors.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Build your own dreams, or someone else will hire you to build theirs. - Farrah Gray</code></pre>
-<pre><code>2 » Forgetting is like a wound. The wound may heal, but it has already left a scar. - Monkey D Luffy</code></pre>
-<pre><code>3 » We become what we think about. - Earl Nightingale</code></pre>
+<pre><code>1 » Don’t beg for things. Do it yourself, or else you won’t get anything. - Renton Thurston</code></pre>
+<pre><code>2 » You can die anytime, but living takes true courage.” - Kenshin Himura</code></pre>
+<pre><code>3 » We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. - Marie Curie</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
