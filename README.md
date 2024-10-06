@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d74b95dec6602dd6be0f4d30d41d8a2442a085eee08684209803f9063c4bda4e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331323125323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C121%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4d8f5de12949943502201f3b102ecacbb175c67390e93a5723259187c7a5ee4d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331323925323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C129%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,934+ Commits made on Github</p>
-<p>📦 37.2 MiB Used in GitHub's Storage</p>
+<p>🏆 2,939+ Commits made on Github</p>
+<p>📦 37.3 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,53 +40,77 @@ fun main() {
 <td>🌞 Morning</td>
 <td>50 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.77%</td>
+<td>13.62%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>73 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.11%</td>
+<td>19.89%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>64 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.63%</td>
+<td>17.44%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>176 commits</td>
+<td>180 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.48%</td>
+<td>49.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>HTML</td>
+<td>5 hrs 57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>72.83%</td>
+</tr> 
+ <tr>
 <td>Python</td>
-<td>1 hr 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.96%</td>
+<td>2 hrs 2 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.05%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>6 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.08%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.29%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.96%</td>
+<td>0.63%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.11%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.04%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 44 mins</td>
+<td>8 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -95,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 44 mins</td>
+<td>8 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -143,14 +167,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 05, 2024</td>
-<td>19:22:55 IST</td>
+<td>Sunday</td>
+<td>October 06, 2024</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 06, 2024</td>
+<td>Monday</td>
+<td>October 07, 2024</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -162,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » Did you know that protons have mass? I didn't even know they were catholic.</code></pre>
-<pre><code>2 » This is my step ladder. I never knew my real ladder.</code></pre>
-<pre><code>3 » I wouldn't buy anything with velcro. It's a total rip-off.</code></pre>
+<pre><code>1 » In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.</code></pre>
+<pre><code>2 » Every night at 11:11, I make a wish that someone will come fix my broken clock.</code></pre>
+<pre><code>3 » Why did the miner get fired from his job? He took it for granite...</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -174,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
-<pre><code>2 » The Vatican city registered 0 births in 1983</code></pre>
-<pre><code>3 » In the Philippine jungle, the yo-yo was first used as a weapon.</code></pre>
+<pre><code>1 » The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</code></pre>
+<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
+<pre><code>3 » You burn more calories sleeping than you do watching TV.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -186,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » No matter how hard or impossible it is, never lose sight of your goal.” - Monkey D Luffy</code></pre>
-<pre><code>2 » When you lose sight of your path, listen for the destination in your heart. - Allen Walker</code></pre>
-<pre><code>3 » Do you need a reason to not want to lose - Shoyo Hinata</code></pre>
+<pre><code>1 » In order to succeed, your desire for success should be greater than your fear of failure. - Bill Cosby</code></pre>
+<pre><code>2 » When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford</code></pre>
+<pre><code>3 » Believe you can and you’re halfway there. - Theodore Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
