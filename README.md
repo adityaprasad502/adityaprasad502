@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/65d224416f9763c9054a041e4877055431c19776096e038f83047bde7ac7d9ae/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331333125323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C131%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,941+ Commits made on Github</p>
+<p>🏆 2,942+ Commits made on Github</p>
 <p>📦 37.3 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,52 +65,52 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>HTML</td>
-<td>9 hrs 20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.22%</td>
+<td>9 hrs 42 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>79.69%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>1 hr 18 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.73%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 36 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.71%</td>
+<td>27 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.82%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.29%</td>
+<td>3.26%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.23%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>1.21%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.72%</td>
+<td>0.7%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>3 mins</td>
+<td>Bash</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.44%</td>
+<td>0.33%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 47 mins</td>
+<td>12 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -119,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>11 hrs 47 mins</td>
+<td>12 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 07, 2024</td>
-<td>19:22:55 IST</td>
+<td>Tuesday</td>
+<td>October 08, 2024</td>
+<td>19:23:04 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 08, 2024</td>
-<td>19:20:55 IST</td>
+<td>Wednesday</td>
+<td>October 09, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I'll tell you what often gets over looked... garden fences.</code></pre>
-<pre><code>2 » What do you call a female snake. misssssssss </code></pre>
-<pre><code>3 » A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement</code></pre>
+<pre><code>1 » Velcroâ�¦ What a rip-off.</code></pre>
+<pre><code>2 » No matter how kind you are, German children are kinder.</code></pre>
+<pre><code>3 » Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
-<pre><code>2 » Poland is the "stolen car capital of the world".</code></pre>
-<pre><code>3 » You burn more calories sleeping than you do watching TV.</code></pre>
+<pre><code>1 » On average, Americans` favorite smell is banana.</code></pre>
+<pre><code>2 » Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</code></pre>
+<pre><code>3 » There are 1,575 steps from the ground floor to the top of the Empire State building.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I want you to be happy. I want you to laugh a lot. I don’t know what exactly I’ll be able to do for you, but I’ll always be by your side. - Kagome</code></pre>
-<pre><code>2 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
-<pre><code>3 » Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. - Kyousuke Natsume</code></pre>
+<pre><code>1 » Being weak is nothing to be ashamed of… Staying weak is !! - Fuegoleon Vermillion</code></pre>
+<pre><code>2 » Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. - Booker T. Washington</code></pre>
+<pre><code>3 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
