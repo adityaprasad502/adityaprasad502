@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a17b3e7bab24cc5ef52ec37d4132d2f8efff0236b94e9c9ce173663e087535c1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313430253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C140%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5598332fb66a854e758536291a55b33a6b5b6051cd766b013ba62da2097a6ccb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313433253230687273253230372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C143%20hrs%207%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,960+ Commits made on Github</p>
+<p>🏆 2,965+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -38,15 +38,15 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>48 commits</td>
+<td>47 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.04%</td>
+<td>12.77%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>78 commits</td>
+<td>82 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.2%</td>
+<td>22.28%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -56,9 +56,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>180 commits</td>
+<td>177 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.91%</td>
+<td>48.1%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,66 +66,66 @@ fun main() {
  <tr>
 <td>HTML</td>
 <td>9 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.61%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.48%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>4 hrs 39 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.73%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 39 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.11%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>1 hr 23 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.74%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.84%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>36 mins</td>
+<td>54 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.18%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>34 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>4.48%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>25 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.95%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>25 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.93%</td>
+<td>49 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.06%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.77%</td>
+<td>1.94%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>85.79%</td>
+<td>12 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.79%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 2 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.21%</td>
+<td>7 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.21%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 22 mins</td>
+<td>20 hrs 27 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 11, 2024</td>
-<td>19:22:47 IST</td>
+<td>Saturday</td>
+<td>October 12, 2024</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 12, 2024</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>October 13, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » What does an angry pepper do? It gets jalapeÃ±o face.</code></pre>
-<pre><code>2 » Did you know crocodiles could grow up to 15 feet? But most just have 4.</code></pre>
-<pre><code>3 » Why was the big cat disqualified from the race? Because it was a cheetah.</code></pre>
+<pre><code>1 » I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"</code></pre>
+<pre><code>2 » which flower is most fierce? Dandelion</code></pre>
+<pre><code>3 » If you want a job in the moisturizer industry, the best advice I can give is to apply daily.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mr. Rogers is an ordained minister.</code></pre>
-<pre><code>2 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
-<pre><code>3 » The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, &amp; Cancer.</code></pre>
+<pre><code>1 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
+<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
+<pre><code>3 » To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Being weak means that there is room to grow - Ittetsu Takeda</code></pre>
-<pre><code>2 » Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. - Miss Kobayashi</code></pre>
-<pre><code>3 » The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb</code></pre>
+<pre><code>1 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
+<pre><code>2 » All we can do is live until the day we die. Control what we can…and fly free. - Deneil Young</code></pre>
+<pre><code>3 » People become stronger because they have memories they can’t forget. - Tsunade</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
