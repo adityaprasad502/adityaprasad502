@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5598332fb66a854e758536291a55b33a6b5b6051cd766b013ba62da2097a6ccb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313433253230687273253230372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C143%20hrs%207%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7186e6b41f1854c993db0afd225df954898793da81bf81a2233d1325a21e901e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331353225323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C152%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,965+ Commits made on Github</p>
-<p>📦 37.5 MiB Used in GitHub's Storage</p>
+<p>🏆 2,977+ Commits made on Github</p>
+<p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
 </blockquote>
@@ -38,94 +38,94 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>47 commits</td>
+<td>49 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.77%</td>
+<td>13.28%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>82 commits</td>
+<td>80 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.28%</td>
+<td>21.68%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>62 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.85%</td>
+<td>16.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>177 commits</td>
+<td>178 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.1%</td>
+<td>48.24%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>HTML</td>
-<td>9 hrs 42 mins</td>
+<td>Kotlin</td>
+<td>8 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.48%</td>
+<td>46.37%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>4 hrs 39 mins</td>
+<td>HTML</td>
+<td>3 hrs 45 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.73%</td>
+<td>19.68%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 39 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.11%</td>
+<td>2 hrs 29 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.04%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>1 hr 23 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.84%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>54 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.48%</td>
+<td>7.33%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>49 mins</td>
+<td>50 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.06%</td>
+<td>4.39%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>27 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.36%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.94%</td>
+<td>2.08%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>12 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.79%</td>
+<td>Android Studio</td>
+<td>12 hrs 53 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.52%</td>
 </tr> 
  <tr>
-<td>Android Studio</td>
-<td>7 hrs 49 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.21%</td>
+<td>VS Code</td>
+<td>6 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.48%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>20 hrs 27 mins</td>
+<td>19 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 12, 2024</td>
-<td>19:22:55 IST</td>
+<td>Sunday</td>
+<td>October 13, 2024</td>
+<td>19:23:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 13, 2024</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>October 14, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,9 +186,9 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <br>
-<pre><code>1 » I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"</code></pre>
-<pre><code>2 » which flower is most fierce? Dandelion</code></pre>
-<pre><code>3 » If you want a job in the moisturizer industry, the best advice I can give is to apply daily.</code></pre>
+<pre><code>1 » "What time is it?" I don't know... it keeps changing.</code></pre>
+<pre><code>2 » Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.</code></pre>
+<pre><code>3 » How come the stadium got hot after the game? Because all of the fans left.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
-<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
-<pre><code>3 » To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
+<pre><code>1 » In the average lifetime, a person will walk the equivalent of 5 times around the equator.</code></pre>
+<pre><code>2 » An eighteenth-century German named Matthew Birchinger, known as "the little man of Nuremberg," played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.</code></pre>
+<pre><code>3 » Walt Disney was afraid of mice.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
-<pre><code>2 » All we can do is live until the day we die. Control what we can…and fly free. - Deneil Young</code></pre>
-<pre><code>3 » People become stronger because they have memories they can’t forget. - Tsunade</code></pre>
+<pre><code>1 » Strive not to be a success, but rather to be of value. - Albert Einstein</code></pre>
+<pre><code>2 » Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. - Booker T. Washington</code></pre>
+<pre><code>3 » Life shrinks or expands in proportion to one’s courage. - Anais Nin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
