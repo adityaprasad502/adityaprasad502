@@ -25,12 +25,12 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bde07939d407a0fc161f0491278313d9ec8ba9f99dda99bb27035cb7d147b784/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243313535253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C155%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/61ccf76665eaecc7acbe3fea0060c1dab956b730667ae817f3370b171c7abc4d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331353625323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C156%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,989+ Commits made on Github</p>
+<p>🏆 2,993+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
-<p>📜 6 Public Repositories</p>
+<p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
 </blockquote>
 <p>📊 <strong>This Week I Spent My Time On</strong></p>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>46 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.4%</td>
+<td>12.33%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>83 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.37%</td>
+<td>22.25%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>65 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.52%</td>
+<td>17.43%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>177 commits</td>
+<td>179 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.71%</td>
+<td>47.99%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>16 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.09%</td>
+<td>12 hrs 15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.46%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 31 mins</td>
+<td>1 hr 51 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.22%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>54 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.95%</td>
+<td>12.53%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>50 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.64%</td>
+<td>23 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.63%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>27 mins</td>
+<td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.97%</td>
+<td>1.07%</td>
 </tr> 
  <tr>
-<td>Java</td>
+<td>Text</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.4%</td>
+<td>0.57%</td>
 </tr> 
  <tr>
-<td>textmate</td>
-<td>5 mins</td>
+<td>Groovy</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.38%</td>
+<td>0.56%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>22 hrs 12 mins</td>
+<td>14 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>95.98%</td>
+<td>96.78%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>55 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.02%</td>
+<td>28 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.22%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>23 hrs 8 mins</td>
+<td>14 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -136,46 +136,46 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.52%</td>
+<td>59.09%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.74%</td>
+<td>22.73%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.04%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.09%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.35%</td>
+<td>4.55%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.35%</td>
+<td>4.55%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 16, 2024</td>
-<td>19:23:00 IST</td>
+<td>Saturday</td>
+<td>October 19, 2024</td>
+<td>22:14:37 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 17, 2024</td>
-<td>19:20:00 IST</td>
+<td>Sunday</td>
+<td>October 20, 2024</td>
+<td>22:10:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -185,10 +185,15 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary>
-<br>
-<pre><code>1 » I asked a frenchman if he played video games. He said "Wii"</code></pre>
-<pre><code>2 » How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.</code></pre>
-<pre><code>3 » Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads â��Small medium at large.â��</code></pre>
+<hr>
+<pre><code>What do you call two barracuda fish?</code></pre>
+<pre><code>» A Pairacuda!</code></pre>
+<hr>
+<pre><code>Is there a hole in your shoe?</code></pre>
+<pre><code>» No… Then how’d you get your foot in it?</code></pre>
+<hr>
+<pre><code>What do you call a thieving alligator?</code></pre>
+<pre><code>» A crookodile!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -198,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It has NEVER rained in Calama, a town in the Atacama Desert of Chile.</code></pre>
-<pre><code>2 » Prince Charles is an avid collecter of toilet seats.</code></pre>
-<pre><code>3 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
+<pre><code>1 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
+<pre><code>2 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
+<pre><code>3 » Every time you lick a stamp, you consume 1/10 of a calorie.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart.” - Edward Elric </code></pre>
-<pre><code>2 » You can never cross the ocean until you have the courage to lose sight of the shore. - Christopher Columbus</code></pre>
-<pre><code>3 » Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. - Jesus</code></pre>
+<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
+<pre><code>2 » If you just submit yourself to fate, then that’s the end of it.” - Keiichi Maebara</code></pre>
+<pre><code>3 » Forgetting is like a wound. The wound may heal, but it has already left a scar. - Monkey D Luffy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
