@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/61ccf76665eaecc7acbe3fea0060c1dab956b730667ae817f3370b171c7abc4d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331353625323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C156%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,993+ Commits made on Github</p>
+<p>🏆 2,994+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>12 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>82.46%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 51 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.53%</td>
+<td>8 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>70.21%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>23 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.63%</td>
+<td>1 hr 59 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.34%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
-<td>9 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.07%</td>
+<td>XML</td>
+<td>1 hr 1 min</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.99%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>5 mins</td>
+<td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.57%</td>
+<td>1.31%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>8 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.3%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.56%</td>
+<td>0.65%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>0.18%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.78%</td>
+<td>9 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.17%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.22%</td>
+<td>2 hrs 9 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.83%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 52 mins</td>
+<td>11 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 19, 2024</td>
-<td>22:14:37 IST</td>
+<td>Sunday</td>
+<td>October 20, 2024</td>
+<td>19:23:13 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 20, 2024</td>
-<td>22:10:35 IST</td>
+<td>Monday</td>
+<td>October 21, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do you call two barracuda fish?</code></pre>
-<pre><code>» A Pairacuda!</code></pre>
+<pre><code>What’s 50 Cent’s name in Zimbabwe?</code></pre>
+<pre><code>» 200 Dollars.</code></pre>
 <hr>
-<pre><code>Is there a hole in your shoe?</code></pre>
-<pre><code>» No… Then how’d you get your foot in it?</code></pre>
+<pre><code>Why do pirates not know the alphabet?</code></pre>
+<pre><code>» They always get stuck at "C".</code></pre>
 <hr>
-<pre><code>What do you call a thieving alligator?</code></pre>
-<pre><code>» A crookodile!</code></pre>
+<pre><code>What did the fish say when it swam into a wall?</code></pre>
+<pre><code>» Damn!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
-<pre><code>2 » If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</code></pre>
-<pre><code>3 » Every time you lick a stamp, you consume 1/10 of a calorie.</code></pre>
+<pre><code>1 » Tigers not only have striped fur, they have striped skin!</code></pre>
+<pre><code>2 » Porcupines can float in water.</code></pre>
+<pre><code>3 » On average, Americans eat 18 acres of pizza everyday.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
-<pre><code>2 » If you just submit yourself to fate, then that’s the end of it.” - Keiichi Maebara</code></pre>
-<pre><code>3 » Forgetting is like a wound. The wound may heal, but it has already left a scar. - Monkey D Luffy</code></pre>
+<pre><code>1 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
+<pre><code>2 » If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on. - Sheryl Sandberg</code></pre>
+<pre><code>3 » The most difficult thing is the decision to act, the rest is merely tenacity. - Amelia Earhart</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
