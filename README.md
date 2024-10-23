@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c10ceb380a9e9005af4f2fa402ba6a415114b888833ee3468c31bf99954de2d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331353825323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C158%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 2,997+ Commits made on Github</p>
+<p>🏆 2,998+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -64,68 +64,50 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>1 hr 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.03%</td>
-</tr> 
- <tr>
 <td>Java</td>
 <td>1 hr 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.74%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.79%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.13%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>27 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.71%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>22 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.75%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.9%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>8 mins</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.14%</td>
+<td>2.13%</td>
 </tr> 
  <tr>
-<td>XML</td>
-<td>2 mins</td>
+<td>Bash</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.82%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.43%</td>
+<td>0.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.09%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>25 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.91%</td>
+<td>3 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 43 mins</td>
+<td>3 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>October 22, 2024</td>
-<td>19:23:06 IST</td>
+<td>Wednesday</td>
+<td>October 23, 2024</td>
+<td>19:23:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>October 23, 2024</td>
-<td>19:20:05 IST</td>
+<td>Thursday</td>
+<td>October 24, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,15 +168,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Which side of the chicken has more feathers?</code></pre>
-<pre><code>» The outside.</code></pre>
+<pre><code>Why did the kid cross the playground?</code></pre>
+<pre><code>» To get to the other slide.</code></pre>
 <hr>
-<pre><code>How do you make a hankie dance?</code></pre>
-<pre><code>» Put a little boogie in it.</code></pre>
+<pre><code>What’s the difference between an African elephant and an Indian elephant?</code></pre>
+<pre><code>» About 5000 miles.</code></pre>
 <hr>
-<pre><code>My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
-"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
-It's now three hours later, police have joined in and she still won't say where she got them.</code></pre>
+<pre><code>What is Mami Tomoe's favorite drink? </code></pre>
+<pre><code>» .The Decappuccino</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +185,9 @@ It's now three hours later, police have joined in and she still won't say where 
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</code></pre>
-<pre><code>2 » Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
-<pre><code>3 » Between 2 and 3 jockeys are killed each year in horse racing.</code></pre>
+<pre><code>1 » Elephants are the only animals that can`t jump.</code></pre>
+<pre><code>2 » Rubber bands last longer when refrigerated.  </code></pre>
+<pre><code>3 » The name of the girl on the statue of liberty is Mother of Exiles.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +197,9 @@ It's now three hours later, police have joined in and she still won't say where 
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » In order to succeed, your desire for success should be greater than your fear of failure. - Bill Cosby</code></pre>
-<pre><code>2 » You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face. - Roronoa Zoro</code></pre>
-<pre><code>3 » It is at the moment of death that humanity has value. - Archer</code></pre>
+<pre><code>1 » Build your own dreams, or someone else will hire you to build theirs. - Farrah Gray</code></pre>
+<pre><code>2 » I refuse to let my fear control me anymore.” - Maka Albarn</code></pre>
+<pre><code>3 » You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper. - Himura Kenshin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
