@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bf01b5910fa5fe24a3244f4014a95305fe6559b899021ec300dbaade939c4c0e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363025323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C160%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,001+ Commits made on Github</p>
+<p>🏆 3,002+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -65,40 +65,28 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Java</td>
-<td>3 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.32%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>1 hr 37 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.7%</td>
+<td>3 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>87.94%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>27 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.39%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.99%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.55%</td>
-</tr> 
- <tr>
-<td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>0.07%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 28 mins</td>
+<td>3 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -107,7 +95,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 28 mins</td>
+<td>3 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -149,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 26, 2024</td>
-<td>19:23:15 IST</td>
+<td>Sunday</td>
+<td>October 27, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 27, 2024</td>
-<td>19:20:15 IST</td>
+<td>Monday</td>
+<td>October 28, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,13 +156,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.</code></pre>
+<pre><code>What is a witch's favorite subject in school?</code></pre>
+<pre><code>» Spelling!</code></pre>
 <hr>
-<pre><code>Why was the designer always cold?</code></pre>
-<pre><code>» Because they always used too much ice-olation.</code></pre>
+<pre><code>What do vegetarian zombies eat?</code></pre>
+<pre><code>» Grrrrrainnnnnssss.</code></pre>
 <hr>
-<pre><code>What do you call a deaf gynecologist?</code></pre>
-<pre><code>» A lip reader.</code></pre>
+<pre><code>Why was the JavaScript developer sad?</code></pre>
+<pre><code>» Because they didn't Node how to Express themself!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -184,9 +173,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
-<pre><code>2 » The average American butt is 14.9 inches long.</code></pre>
-<pre><code>3 » Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</code></pre>
+<pre><code>1 » William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</code></pre>
+<pre><code>2 » The Great Wall of China is the only man-made structure visible from space.</code></pre>
+<pre><code>3 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -196,9 +185,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end. - Clare</code></pre>
-<pre><code>2 » If you can’t find a reason to fight, then you shouldn’t be fighting.” - Akame</code></pre>
-<pre><code>3 » You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face. - Roronoa Zoro</code></pre>
+<pre><code>1 » Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image. - Archer</code></pre>
+<pre><code>2 » We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!” - Natsu Dragneel</code></pre>
+<pre><code>3 » There are no traffic jams along the extra mile. - Roger Staubach</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
