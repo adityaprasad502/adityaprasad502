@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bf01b5910fa5fe24a3244f4014a95305fe6559b899021ec300dbaade939c4c0e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363025323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C160%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,002+ Commits made on Github</p>
+<p>🏆 3,003+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 27, 2024</td>
-<td>19:22:49 IST</td>
+<td>Monday</td>
+<td>October 28, 2024</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 28, 2024</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>October 29, 2024</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,14 +156,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What is a witch's favorite subject in school?</code></pre>
-<pre><code>» Spelling!</code></pre>
+<pre><code>Which song would an exception sing?</code></pre>
+<pre><code>» Can't catch me - Avicii</code></pre>
 <hr>
-<pre><code>What do vegetarian zombies eat?</code></pre>
-<pre><code>» Grrrrrainnnnnssss.</code></pre>
+<pre><code>I just got fired from my job at the keyboard factory.</code></pre>
+<pre><code>» They told me I wasn't putting in enough shifts.</code></pre>
 <hr>
-<pre><code>Why was the JavaScript developer sad?</code></pre>
-<pre><code>» Because they didn't Node how to Express themself!</code></pre>
+<pre><code>How does a penguin build it’s house?</code></pre>
+<pre><code>» Igloos it together.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -173,9 +173,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</code></pre>
-<pre><code>2 » The Great Wall of China is the only man-made structure visible from space.</code></pre>
-<pre><code>3 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
+<pre><code>1 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
+<pre><code>2 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
+<pre><code>3 » The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +185,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image. - Archer</code></pre>
-<pre><code>2 » We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!” - Natsu Dragneel</code></pre>
-<pre><code>3 » There are no traffic jams along the extra mile. - Roger Staubach</code></pre>
+<pre><code>1 » If you can’t find a reason to fight, then you shouldn’t be fighting.” - Akame</code></pre>
+<pre><code>2 » When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. - Erma Bombeck</code></pre>
+<pre><code>3 » I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. - Julis Alexia Van Riessfeld</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
