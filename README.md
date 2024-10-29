@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bf01b5910fa5fe24a3244f4014a95305fe6559b899021ec300dbaade939c4c0e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363025323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C160%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,003+ Commits made on Github</p>
+<p>🏆 3,004+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -65,28 +65,22 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Java</td>
-<td>3 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.94%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>27 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.99%</td>
+<td>1 hr 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.84%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.07%</td>
+<td>0.16%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 50 mins</td>
+<td>1 hr 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -95,7 +89,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 50 mins</td>
+<td>1 hr 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 28, 2024</td>
-<td>19:23:03 IST</td>
+<td>Tuesday</td>
+<td>October 29, 2024</td>
+<td>19:23:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 29, 2024</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>October 30, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,14 +150,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Which song would an exception sing?</code></pre>
-<pre><code>» Can't catch me - Avicii</code></pre>
+<pre><code>Why are modern programming languages so materialistic?</code></pre>
+<pre><code>» Because they are object-oriented.</code></pre>
 <hr>
-<pre><code>I just got fired from my job at the keyboard factory.</code></pre>
-<pre><code>» They told me I wasn't putting in enough shifts.</code></pre>
+<pre><code>What did the judge say to the dentist?</code></pre>
+<pre><code>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</code></pre>
 <hr>
-<pre><code>How does a penguin build it’s house?</code></pre>
-<pre><code>» Igloos it together.</code></pre>
+<pre><code>If you're here for the yodeling lesson, please form an orderly orderly orderly queue.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -173,9 +166,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
-<pre><code>2 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
-<pre><code>3 » The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</code></pre>
+<pre><code>1 » Poland is the "stolen car capital of the world".</code></pre>
+<pre><code>2 » Spain leads the world in cork production</code></pre>
+<pre><code>3 » The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +178,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you can’t find a reason to fight, then you shouldn’t be fighting.” - Akame</code></pre>
-<pre><code>2 » When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. - Erma Bombeck</code></pre>
-<pre><code>3 » I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. - Julis Alexia Van Riessfeld</code></pre>
+<pre><code>1 » Being lonely is more painful then getting hurt. - Monkey D Luffy</code></pre>
+<pre><code>2 » Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. - Kyousuke Natsume</code></pre>
+<pre><code>3 » Winning isn’t everything, but wanting to win is. - Vince Lombardi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
