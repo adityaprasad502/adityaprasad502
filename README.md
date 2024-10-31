@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bf01b5910fa5fe24a3244f4014a95305fe6559b899021ec300dbaade939c4c0e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363025323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C160%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/332a97fad66f73507e85ef5568001605d848c0f9883c4dfed0e5387f1540b68c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363225323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C162%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,005+ Commits made on Github</p>
+<p>🏆 3,006+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -131,15 +131,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 30, 2024</td>
-<td>19:23:06 IST</td>
+<td>Thursday</td>
+<td>October 31, 2024</td>
+<td>19:23:15 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 31, 2024</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>November 01, 2024</td>
+<td>19:20:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,14 +150,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.</code></pre>
+<pre><code>What did the Zen Buddist say to the hotdog vendor?</code></pre>
+<pre><code>» Make me one with everything.</code></pre>
 <hr>
-<pre><code>Where does Napoleon keep his armies?</code></pre>
-<pre><code>» In his sleevies.</code></pre>
+<pre><code>What's the difference between a feminist and a grenade?</code></pre>
+<pre><code>» The grenade actually accomplishes something when it triggers.</code></pre>
 <hr>
-<pre><code>What is the least spoken language in the world?</code></pre>
-<pre><code>» Sign Language</code></pre>
+<pre><code>Why did the JavaScript heap close shop?</code></pre>
+<pre><code>» It ran out of memory.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -167,9 +167,9 @@ So I packed up my stuff and right.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 1,575 steps from the ground floor to the top of the Empire State building.</code></pre>
-<pre><code>2 » The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</code></pre>
-<pre><code>3 » Annual growth of WWW traffic is 314,000%</code></pre>
+<pre><code>1 » Babies are most likely to be born on Tuesdays.</code></pre>
+<pre><code>2 » The serial number of the first MAC ever produced was 2001.</code></pre>
+<pre><code>3 » The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -179,9 +179,9 @@ So I packed up my stuff and right.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The person who says it cannot be done should not interrupt the person who is doing it. - Chinese Proverb</code></pre>
-<pre><code>2 » Build your own dreams, or someone else will hire you to build theirs. - Farrah Gray</code></pre>
-<pre><code>3 » If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough. - Oprah Winfrey</code></pre>
+<pre><code>1 » How wonderful it is that nobody need wait a single moment before starting to improve the world. - Anne Frank</code></pre>
+<pre><code>2 » We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!” - Natsu Dragneel</code></pre>
+<pre><code>3 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
