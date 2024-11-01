@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/332a97fad66f73507e85ef5568001605d848c0f9883c4dfed0e5387f1540b68c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363225323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C162%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e8834198668e977df248080bb565103c4bf1d93abeb38b5c4f1001be82c95710/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363325323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C163%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,006+ Commits made on Github</p>
+<p>🏆 3,008+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>46 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.3%</td>
+<td>12.27%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>83 commits</td>
+<td>84 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.19%</td>
+<td>22.4%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>65 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.38%</td>
+<td>17.33%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>180 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.13%</td>
+<td>48.0%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,21 +66,39 @@ fun main() {
  <tr>
 <td>Java</td>
 <td>1 hr 40 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.84%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.75%</td>
+</tr> 
+ <tr>
+<td>Batchfile</td>
+<td>39 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.97%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>38 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.25%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>0 secs</td>
+<td>14 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.29%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.16%</td>
+<td>2.73%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 41 mins</td>
+<td>3 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -89,7 +107,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 41 mins</td>
+<td>3 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -131,15 +149,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 31, 2024</td>
-<td>19:23:15 IST</td>
+<td>Friday</td>
+<td>November 01, 2024</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>November 01, 2024</td>
-<td>19:20:15 IST</td>
+<td>Saturday</td>
+<td>November 02, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -150,14 +168,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the Zen Buddist say to the hotdog vendor?</code></pre>
-<pre><code>» Make me one with everything.</code></pre>
+<pre><code>Why are pirates called pirates?</code></pre>
+<pre><code>» Because they arrr!</code></pre>
 <hr>
-<pre><code>What's the difference between a feminist and a grenade?</code></pre>
-<pre><code>» The grenade actually accomplishes something when it triggers.</code></pre>
+<pre><code>Why can't you use "Beef stew"as a password?</code></pre>
+<pre><code>» Because it's not stroganoff.</code></pre>
 <hr>
-<pre><code>Why did the JavaScript heap close shop?</code></pre>
-<pre><code>» It ran out of memory.</code></pre>
+<pre><code>What do vegetarian zombies eat?</code></pre>
+<pre><code>» Grrrrrainnnnnssss.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -167,9 +185,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Babies are most likely to be born on Tuesdays.</code></pre>
-<pre><code>2 » The serial number of the first MAC ever produced was 2001.</code></pre>
-<pre><code>3 » The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </code></pre>
+<pre><code>1 » Tehran is the most expensive city on earth.</code></pre>
+<pre><code>2 » Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</code></pre>
+<pre><code>3 » It`s possible to lead a cow upstairs but not downstairs.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -179,9 +197,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » How wonderful it is that nobody need wait a single moment before starting to improve the world. - Anne Frank</code></pre>
-<pre><code>2 » We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!” - Natsu Dragneel</code></pre>
-<pre><code>3 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
+<pre><code>1 » It is at the moment of death that humanity has value. - Archer</code></pre>
+<pre><code>2 » When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford</code></pre>
+<pre><code>3 » Eighty percent of success is showing up. - Woody Allen</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
