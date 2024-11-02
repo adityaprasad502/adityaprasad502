@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e8834198668e977df248080bb565103c4bf1d93abeb38b5c4f1001be82c95710/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363325323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C163%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4e339281840f3ed0512d9b6bfb63b85ae1916d5cfc6571f58e1124ab7bffe13b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363325323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C163%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,008+ Commits made on Github</p>
+<p>🏆 3,009+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -64,41 +64,53 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Java</td>
-<td>1 hr 40 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.75%</td>
+<td>Python</td>
+<td>1 hr 10 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.81%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>39 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.97%</td>
+<td>49 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.04%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>38 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.25%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.62%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>14 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.29%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.1%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>5 mins</td>
+<td>Java</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.73%</td>
+<td>2.27%</td>
+</tr> 
+ <tr>
+<td>reg</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.09%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.08%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 18 mins</td>
+<td>2 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -107,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 18 mins</td>
+<td>2 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -149,14 +161,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 01, 2024</td>
-<td>19:22:58 IST</td>
+<td>Saturday</td>
+<td>November 02, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 02, 2024</td>
+<td>Sunday</td>
+<td>November 03, 2024</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -168,14 +180,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why are pirates called pirates?</code></pre>
-<pre><code>» Because they arrr!</code></pre>
+<pre><code>Did you know that protons have mass?</code></pre>
+<pre><code>» I didn't even know they were catholic.</code></pre>
 <hr>
-<pre><code>Why can't you use "Beef stew"as a password?</code></pre>
-<pre><code>» Because it's not stroganoff.</code></pre>
+<pre><code>What did one necrophiliac tell the other necrophiliac after work?</code></pre>
+<pre><code>» "Let's go have a couple of cold ones!"</code></pre>
 <hr>
-<pre><code>What do vegetarian zombies eat?</code></pre>
-<pre><code>» Grrrrrainnnnnssss.</code></pre>
+<pre><code>What do you call a pile of kittens?</code></pre>
+<pre><code>» A meowntain.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +197,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Tehran is the most expensive city on earth.</code></pre>
-<pre><code>2 » Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</code></pre>
-<pre><code>3 » It`s possible to lead a cow upstairs but not downstairs.</code></pre>
+<pre><code>1 » Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</code></pre>
+<pre><code>2 » Bats always turn left when exiting a cave</code></pre>
+<pre><code>3 » The buzz from an electric razor in America plays in the key of B flat; Key of G in England.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It is at the moment of death that humanity has value. - Archer</code></pre>
-<pre><code>2 » When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford</code></pre>
-<pre><code>3 » Eighty percent of success is showing up. - Woody Allen</code></pre>
+<pre><code>1 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
+<pre><code>2 » We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever. - Hitsugaya Toshiro</code></pre>
+<pre><code>3 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
