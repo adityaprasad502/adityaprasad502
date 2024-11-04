@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/4e339281840f3ed0512d9b6bfb63b85ae1916d5cfc6571f58e1124ab7bffe13b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363325323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C163%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,010+ Commits made on Github</p>
+<p>🏆 3,011+ Commits made on Github</p>
 <p>📦 37.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -67,25 +67,25 @@ fun main() {
 <td>Python</td>
 <td>1 hr 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.74%</td>
+<td>40.64%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
-<td>49 mins</td>
+<td>50 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.69%</td>
+<td>28.85%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>38 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.12%</td>
+<td>22.07%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>14 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.29%</td>
+<td>8.27%</td>
 </tr> 
  <tr>
 <td>reg</td>
@@ -104,7 +104,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 50 mins</td>
+<td>2 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -113,7 +113,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 50 mins</td>
+<td>2 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>November 03, 2024</td>
-<td>19:22:39 IST</td>
+<td>Monday</td>
+<td>November 04, 2024</td>
+<td>19:22:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>November 04, 2024</td>
-<td>19:20:35 IST</td>
+<td>Tuesday</td>
+<td>November 05, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,14 +174,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I'm thinking of setting up a comedy group to help people going through cancer treatment.</code></pre>
-<pre><code>» I'll call it "A Sense of Tumor".</code></pre>
+<pre><code>Well...</code></pre>
+<pre><code>» That’s a deep subject.</code></pre>
 <hr>
-<pre><code>How do you get a baby alien to sleep?</code></pre>
-<pre><code>» You rocket.</code></pre>
+<pre><code>What is the leading cause of dry skin?</code></pre>
+<pre><code>» Towels</code></pre>
 <hr>
-<pre><code>What was the pumpkin’s favorite sport?</code></pre>
-<pre><code>» Squash.</code></pre>
+<pre><code>I can't tell if i like this blender...</code></pre>
+<pre><code>» It keeps giving me mixed results.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -191,9 +191,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</code></pre>
-<pre><code>2 » A shark is the only fish that can blink with both eyes.</code></pre>
-<pre><code>3 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
+<pre><code>1 » When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</code></pre>
+<pre><code>2 » In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</code></pre>
+<pre><code>3 » Nearly 80% of all animals on earth have six legs.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you can’t find a reason to fight, then you shouldn’t be fighting.” - Akame</code></pre>
-<pre><code>2 » You take your life in your own hands, and what happens? A terrible thing, no one to blame. - Erica Jong</code></pre>
-<pre><code>3 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
+<pre><code>1 » Being the best decoy ever is as cool as being the ace - Tobio Kageyama</code></pre>
+<pre><code>2 » When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. - Helen Keller</code></pre>
+<pre><code>3 » The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful. - Roy Mustang</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
