@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/cd73377ed29834919c7ae93973d10994994d91cce71a5cd3e9aef88700c3f591/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331363625323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C166%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,014+ Commits made on Github</p>
+<p>🏆 3,015+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 06, 2024</td>
-<td>19:22:46 IST</td>
+<td>Thursday</td>
+<td>November 07, 2024</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 07, 2024</td>
-<td>19:20:45 IST</td>
+<td>Friday</td>
+<td>November 08, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,13 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</code></pre>
+<pre><code>Have you heard the rumor going around about butter?</code></pre>
+<pre><code>» Never mind, I shouldn't spread it.</code></pre>
 <hr>
-<pre><code>Why don't programmers like nature?</code></pre>
-<pre><code>» There's too many bugs.</code></pre>
+<pre><code>What is red and smells like blue paint?</code></pre>
+<pre><code>» Red paint!</code></pre>
 <hr>
-<pre><code>What is wailord's favorite tv show ?</code></pre>
-<pre><code>» Whale of Forutne</code></pre>
+<pre><code>What do you call a suspicious looking laptop?</code></pre>
+<pre><code>» Asus</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</code></pre>
-<pre><code>2 » Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</code></pre>
-<pre><code>3 » There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</code></pre>
+<pre><code>1 » Q is the only letter in the alphabet that does not appear in the name of any of the United States!</code></pre>
+<pre><code>2 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
+<pre><code>3 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. - Kenshin Himura</code></pre>
-<pre><code>2 » An unexamined life is not worth living. - Socrates</code></pre>
-<pre><code>3 » Being weak is nothing to be ashamed of… Staying weak is !! - Fuegoleon Vermillion</code></pre>
+<pre><code>1 » Whatever you do, enjoy it to the fullest. That is the secret of life.” - Rider</code></pre>
+<pre><code>2 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
+<pre><code>3 » The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
