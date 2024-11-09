@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d2374b59b3ec0c0fd5d66912034dbf4dc23d7930b03fc94c6a9e038c9d17d223/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373025323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C170%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0caff630dd1afd7f062ba474560c3ce6aa06e7250708ef99e54ad2685866e897/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373325323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C173%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,017+ Commits made on Github</p>
+<p>🏆 3,022+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -40,86 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>46 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.23%</td>
+<td>12.2%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>84 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.34%</td>
+<td>22.28%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.55%</td>
+<td>17.51%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>180 commits</td>
+<td>181 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.87%</td>
+<td>48.01%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>HTML</td>
-<td>3 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.09%</td>
+<td>Kotlin</td>
+<td>3 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.86%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>1 hr 18 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.46%</td>
+<td>HTML</td>
+<td>3 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.18%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 13 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.19%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.35%</td>
 </tr> 
  <tr>
-<td>Batchfile</td>
-<td>9 mins</td>
+<td>XML</td>
+<td>42 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.02%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.71%</td>
+<td>2.26%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>11 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.93%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.81%</td>
-</tr> 
- <tr>
-<td>C</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.38%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.28%</td>
+<td>1.11%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>5 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.15%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>4 hrs 46 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.85%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 6 mins</td>
+<td>9 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 08, 2024</td>
-<td>19:23:01 IST</td>
+<td>Saturday</td>
+<td>November 09, 2024</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 09, 2024</td>
-<td>19:20:00 IST</td>
+<td>Sunday</td>
+<td>November 10, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why didn’t the orange win the race?</code></pre>
-<pre><code>» It ran out of juice.</code></pre>
+<pre><code>What did one wall say to the other wall?</code></pre>
+<pre><code>» I'll meet you at the corner!</code></pre>
 <hr>
-<pre><code>A termite walks into a bar and says...</code></pre>
-<pre><code>» 'Where is the bar tended?'</code></pre>
+<pre><code>How good are you at Power Point?</code></pre>
+<pre><code>» I Excel at it.</code></pre>
 <hr>
-<pre><code>What is red and smells like blue paint?</code></pre>
-<pre><code>» Red paint!</code></pre>
+<pre><code>Why did the Python data scientist get arrested at customs?</code></pre>
+<pre><code>» She was caught trying to import pandas!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In 1986 Congress &amp; President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.</code></pre>
-<pre><code>2 » Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</code></pre>
-<pre><code>3 » The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </code></pre>
+<pre><code>1 » The word "set" has more definitions than any other word in the English language.</code></pre>
+<pre><code>2 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
+<pre><code>3 » Coca-Cola was originally green.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? - Juuzou Suzuya</code></pre>
-<pre><code>2 » Whatever you do, enjoy it to the fullest. That is the secret of life.” - Rider</code></pre>
-<pre><code>3 » I am not a product of my circumstances. I am a product of my decisions. - Stephen Covey</code></pre>
+<pre><code>1 » Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. - Hinata Miyake</code></pre>
+<pre><code>2 » You should never give up on life, no matter how you feel. No matter how badly you want to give up.” - Canaan</code></pre>
+<pre><code>3 » If you want to lift yourself up, lift up someone else. - Booker T. Washington</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
