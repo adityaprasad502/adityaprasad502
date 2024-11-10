@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0caff630dd1afd7f062ba474560c3ce6aa06e7250708ef99e54ad2685866e897/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373325323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C173%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7b44d02abeb5c67d7d5fce419feaae8e4b3f04534f4e8e07c6167cca4f7de90b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,022+ Commits made on Github</p>
+<p>🏆 3,023+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 09, 2024</td>
-<td>19:22:55 IST</td>
+<td>Sunday</td>
+<td>November 10, 2024</td>
+<td>19:23:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 10, 2024</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>November 11, 2024</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did one wall say to the other wall?</code></pre>
-<pre><code>» I'll meet you at the corner!</code></pre>
+<pre><code>How do you fix a broken pizza?</code></pre>
+<pre><code>» With tomato paste.</code></pre>
 <hr>
-<pre><code>How good are you at Power Point?</code></pre>
-<pre><code>» I Excel at it.</code></pre>
+<pre><code>My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.</code></pre>
 <hr>
-<pre><code>Why did the Python data scientist get arrested at customs?</code></pre>
-<pre><code>» She was caught trying to import pandas!</code></pre>
+<pre><code>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The word "set" has more definitions than any other word in the English language.</code></pre>
-<pre><code>2 » There are more plastic flamingos in the U.S that there are real ones.</code></pre>
-<pre><code>3 » Coca-Cola was originally green.</code></pre>
+<pre><code>1 » A giraffe can go without water longer than a camel.</code></pre>
+<pre><code>2 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
+<pre><code>3 » Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. - Hinata Miyake</code></pre>
-<pre><code>2 » You should never give up on life, no matter how you feel. No matter how badly you want to give up.” - Canaan</code></pre>
-<pre><code>3 » If you want to lift yourself up, lift up someone else. - Booker T. Washington</code></pre>
+<pre><code>1 » I attribute my success to this: I never gave or took any excuse. - Florence Nightingale</code></pre>
+<pre><code>2 » I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. - Michael Jordan</code></pre>
+<pre><code>3 » Being weak means that there is room to grow - Ittetsu Takeda</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
