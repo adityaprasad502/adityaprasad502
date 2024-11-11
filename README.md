@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7b44d02abeb5c67d7d5fce419feaae8e4b3f04534f4e8e07c6167cca4f7de90b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,023+ Commits made on Github</p>
+<p>🏆 3,024+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -67,65 +67,65 @@ fun main() {
 <td>Kotlin</td>
 <td>3 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.86%</td>
+<td>35.55%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.18%</td>
+<td>32.18%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 13 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.35%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.3%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 9 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.58%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.02%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>13 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.26%</td>
+<td>6.42%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.93%</td>
+<td>1.76%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.11%</td>
+<td>1.01%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.15%</td>
+<td>6 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.23%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.85%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.77%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 58 mins</td>
+<td>10 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>November 10, 2024</td>
-<td>19:23:11 IST</td>
+<td>Monday</td>
+<td>November 11, 2024</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>November 11, 2024</td>
-<td>19:20:10 IST</td>
+<td>Tuesday</td>
+<td>November 12, 2024</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>How do you fix a broken pizza?</code></pre>
-<pre><code>» With tomato paste.</code></pre>
+<pre><code>What do I look like?</code></pre>
+<pre><code>» A JOKE MACHINE!?</code></pre>
 <hr>
-<pre><code>My grandfather says I'm too reliant on technology.
-I called him a hypocrite and unplugged his life support.</code></pre>
+<pre><code>What do you call a cheap circumcision?</code></pre>
+<pre><code>» A rip off.</code></pre>
 <hr>
-<pre><code>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</code></pre>
+<pre><code>Why did the barber win the race?</code></pre>
+<pre><code>» He took a short cut.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +209,9 @@ I called him a hypocrite and unplugged his life support.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A giraffe can go without water longer than a camel.</code></pre>
-<pre><code>2 » Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</code></pre>
-<pre><code>3 » Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</code></pre>
+<pre><code>1 » %60 of all people using the Internet, use it for pornography.</code></pre>
+<pre><code>2 » If done perfectly, a rubix cube combination can be solved in 17 turns.</code></pre>
+<pre><code>3 » A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +221,9 @@ I called him a hypocrite and unplugged his life support.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I attribute my success to this: I never gave or took any excuse. - Florence Nightingale</code></pre>
-<pre><code>2 » I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. - Michael Jordan</code></pre>
-<pre><code>3 » Being weak means that there is room to grow - Ittetsu Takeda</code></pre>
+<pre><code>1 » Dreaming, after all, is a form of planning. - Gloria Steinem</code></pre>
+<pre><code>2 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
+<pre><code>3 » Happiness is not something readymade.  It comes from your own actions. - Dalai Lama</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
