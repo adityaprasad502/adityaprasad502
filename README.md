@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7b44d02abeb5c67d7d5fce419feaae8e4b3f04534f4e8e07c6167cca4f7de90b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,024+ Commits made on Github</p>
+<p>🏆 3,025+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -66,66 +66,66 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>3 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.55%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.3%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 30 mins</td>
+<td>3 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.18%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>1 hr 13 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>35.38%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 9 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.58%</td>
+<td>1 hr 8 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.15%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.42%</td>
+<td>7.46%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.76%</td>
+<td>2.05%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.01%</td>
+<td>1.18%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.44%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>6 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.23%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
 <td>4 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.77%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.85%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>4 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.15%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 54 mins</td>
+<td>9 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 11, 2024</td>
-<td>19:23:05 IST</td>
+<td>Tuesday</td>
+<td>November 12, 2024</td>
+<td>19:23:07 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 12, 2024</td>
+<td>Wednesday</td>
+<td>November 13, 2024</td>
 <td>19:20:05 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do I look like?</code></pre>
-<pre><code>» A JOKE MACHINE!?</code></pre>
+<pre><code>What did the Java code say to the C code?</code></pre>
+<pre><code>» You've got no class.</code></pre>
 <hr>
-<pre><code>What do you call a cheap circumcision?</code></pre>
-<pre><code>» A rip off.</code></pre>
+<pre><code>What's brown and sticky?</code></pre>
+<pre><code>» A stick.</code></pre>
 <hr>
-<pre><code>Why did the barber win the race?</code></pre>
-<pre><code>» He took a short cut.</code></pre>
+<pre><code>How many apples grow on a tree?</code></pre>
+<pre><code>» All of them!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » %60 of all people using the Internet, use it for pornography.</code></pre>
-<pre><code>2 » If done perfectly, a rubix cube combination can be solved in 17 turns.</code></pre>
-<pre><code>3 » A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</code></pre>
+<pre><code>1 » Americans travel 1,144,721,000 miles by air every day</code></pre>
+<pre><code>2 » During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</code></pre>
+<pre><code>3 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Dreaming, after all, is a form of planning. - Gloria Steinem</code></pre>
-<pre><code>2 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
-<pre><code>3 » Happiness is not something readymade.  It comes from your own actions. - Dalai Lama</code></pre>
+<pre><code>1 » Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. - Mavis Vermillion</code></pre>
+<pre><code>2 » If you wanna make people dream, you’ve gotta start by believing in that dream yourself! - Seiya Kanie</code></pre>
+<pre><code>3 » Too many of us are not living our dreams because we are living our fears. - Les Brown</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
