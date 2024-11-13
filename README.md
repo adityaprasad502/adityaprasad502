@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7b44d02abeb5c67d7d5fce419feaae8e4b3f04534f4e8e07c6167cca4f7de90b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,025+ Commits made on Github</p>
+<p>🏆 3,026+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -66,44 +66,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>3 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.3%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.08%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.38%</td>
+<td>2 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.38%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 8 mins</td>
+<td>55 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.15%</td>
+<td>11.52%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>42 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.46%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.69%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.05%</td>
+<td>2.39%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.18%</td>
+<td>1.37%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.44%</td>
+<td>0.51%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.85%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>59.21%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.15%</td>
+<td>3 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.79%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 23 mins</td>
+<td>8 hrs 3 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>November 12, 2024</td>
-<td>19:23:07 IST</td>
+<td>Wednesday</td>
+<td>November 13, 2024</td>
+<td>19:23:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>November 13, 2024</td>
+<td>Thursday</td>
+<td>November 14, 2024</td>
 <td>19:20:05 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the Java code say to the C code?</code></pre>
-<pre><code>» You've got no class.</code></pre>
+<pre><code>Say what you want about pedophiles...</code></pre>
+<pre><code>» But at least they drive slowly through the school zones.</code></pre>
 <hr>
-<pre><code>What's brown and sticky?</code></pre>
-<pre><code>» A stick.</code></pre>
+<pre><code>I walked into a bar once.</code></pre>
+<pre><code>» It really hurt my head.</code></pre>
 <hr>
-<pre><code>How many apples grow on a tree?</code></pre>
-<pre><code>» All of them!</code></pre>
+<pre><code>I was going to tell a dead baby joke. But I decided to abort.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Americans travel 1,144,721,000 miles by air every day</code></pre>
-<pre><code>2 » During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</code></pre>
-<pre><code>3 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
+<pre><code>1 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
+<pre><code>2 » NBA superstar Michael Jordan was originally cut from his high school basketball team.</code></pre>
+<pre><code>3 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. - Mavis Vermillion</code></pre>
-<pre><code>2 » If you wanna make people dream, you’ve gotta start by believing in that dream yourself! - Seiya Kanie</code></pre>
-<pre><code>3 » Too many of us are not living our dreams because we are living our fears. - Les Brown</code></pre>
+<pre><code>1 » You can’t always hold on to the things that are important. By letting them go we gain something else.” - Kunio Yaobi</code></pre>
+<pre><code>2 » Remember no one can make you feel inferior without your consent. - Eleanor Roosevelt</code></pre>
+<pre><code>3 » Challenges are what make life interesting and overcoming them is what makes life meaningful. - Joshua J. Marine</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
