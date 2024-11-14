@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7b44d02abeb5c67d7d5fce419feaae8e4b3f04534f4e8e07c6167cca4f7de90b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/aa054e822f87aeabdf99c6714fbffcee2f5595323220013e2e1261c58dbe1bd5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,026+ Commits made on Github</p>
+<p>🏆 3,027+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 13, 2024</td>
+<td>Thursday</td>
+<td>November 14, 2024</td>
 <td>19:23:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 14, 2024</td>
+<td>Friday</td>
+<td>November 15, 2024</td>
 <td>19:20:05 IST</td>
 </tr>
 </tbody></table>
@@ -192,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Say what you want about pedophiles...</code></pre>
-<pre><code>» But at least they drive slowly through the school zones.</code></pre>
+<pre><code>What's the difference between a baby and a pile of sand?</code></pre>
+<pre><code>» You can't pick a pile of sand up with a pitchfork.</code></pre>
 <hr>
-<pre><code>I walked into a bar once.</code></pre>
-<pre><code>» It really hurt my head.</code></pre>
+<pre><code>What are bits?</code></pre>
+<pre><code>» Tiny things left when you drop your computer down the stairs.</code></pre>
 <hr>
-<pre><code>I was going to tell a dead baby joke. But I decided to abort.</code></pre>
+<pre><code>What's the difference between a little girl and a fridge?</code></pre>
+<pre><code>» Fridges don't scream when you put your meat in them.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
-<pre><code>2 » NBA superstar Michael Jordan was originally cut from his high school basketball team.</code></pre>
-<pre><code>3 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
+<pre><code>1 » There is approximately one chicken for every human being in the world.</code></pre>
+<pre><code>2 » Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</code></pre>
+<pre><code>3 » 1 in 8 Americans has worked at a McDonalds restaurant.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You can’t always hold on to the things that are important. By letting them go we gain something else.” - Kunio Yaobi</code></pre>
-<pre><code>2 » Remember no one can make you feel inferior without your consent. - Eleanor Roosevelt</code></pre>
-<pre><code>3 » Challenges are what make life interesting and overcoming them is what makes life meaningful. - Joshua J. Marine</code></pre>
+<pre><code>1 » We must balance conspicuous consumption with conscious capitalism. - Kevin Kruse</code></pre>
+<pre><code>2 » I’ll leave tomorrow’s problems to tomorrow’s me. - Saitama</code></pre>
+<pre><code>3 » The most difficult thing is the decision to act, the rest is merely tenacity. - Amelia Earhart</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
