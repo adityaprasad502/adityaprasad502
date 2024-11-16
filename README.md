@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/aa054e822f87aeabdf99c6714fbffcee2f5595323220013e2e1261c58dbe1bd5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,028+ Commits made on Github</p>
+<p>🏆 3,029+ Commits made on Github</p>
 <p>📦 37.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 14 Private Repositories</p>
@@ -40,92 +40,74 @@ fun main() {
 <td>🌞 Morning</td>
 <td>46 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.2%</td>
+<td>12.3%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>84 commits</td>
+<td>81 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.28%</td>
+<td>21.66%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.51%</td>
+<td>17.65%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>181 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.01%</td>
+<td>48.4%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>3 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.09%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>55 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.36%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>42 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.58%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>18 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.08%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>11 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.18%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>95.92%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.57%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.57%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
+<td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.07%</td>
+<td>0.3%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.11%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.09%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>4 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.92%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
-<td>1 hr 16 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.08%</td>
+<td>58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 2 mins</td>
+<td>58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 15, 2024</td>
-<td>19:23:07 IST</td>
+<td>Saturday</td>
+<td>November 16, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 16, 2024</td>
-<td>19:20:05 IST</td>
+<td>Sunday</td>
+<td>November 17, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +174,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why does Santa have three gardens?</code></pre>
-<pre><code>» So he can 'ho ho ho'!</code></pre>
+<pre><code>How many apples grow on a tree?</code></pre>
+<pre><code>» All of them!</code></pre>
 <hr>
-<pre><code>Why does Waldo only wear stripes?</code></pre>
-<pre><code>» Because he doesn't want to be spotted.</code></pre>
+<pre><code>Why can't a bicycle stand on its own?</code></pre>
+<pre><code>» It's two-tired.</code></pre>
 <hr>
-<pre><code>A neutron walks into a bar and asks for a price on a drink.
-The barkeeper says: "For you... no charge!"</code></pre>
+<pre><code>Two guys walk into a bar . . .</code></pre>
+<pre><code>» The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +191,9 @@ The barkeeper says: "For you... no charge!"</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » More Monopoly money is printed in a year, than real money throughout the world.</code></pre>
-<pre><code>2 » The sweat drops drawn in cartoon comic strips are called pleuts.</code></pre>
-<pre><code>3 » Simplistic passwords contribute to over 80% of all computer password break-ins.</code></pre>
+<pre><code>1 » 3.6 cans of Spam are consumed each second.</code></pre>
+<pre><code>2 » %60 of all people using the Internet, use it for pornography.</code></pre>
+<pre><code>3 » Q is the only letter in the alphabet that does not appear in the name of any of the United States!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +203,9 @@ The barkeeper says: "For you... no charge!"</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You can die anytime, but living takes true courage. - Himura Kenshin</code></pre>
-<pre><code>2 » Life s a bore if you don t challenge yourself - Yuu Nishinoya</code></pre>
-<pre><code>3 » Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin - Kenny Ackerman</code></pre>
+<pre><code>1 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
+<pre><code>2 » Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that. - Keima Katsuragi</code></pre>
+<pre><code>3 » The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at. - Jesse Owens</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
