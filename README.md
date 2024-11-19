@@ -25,83 +25,107 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/aa054e822f87aeabdf99c6714fbffcee2f5595323220013e2e1261c58dbe1bd5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331373425323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C174%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/829ebfb41415b94f851e11f24a2118bf70ed948ca7f8cc70e86c9cc53e81e8fc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331383125323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C181%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,031+ Commits made on Github</p>
-<p>📦 37.6 MiB Used in GitHub's Storage</p>
+<p>🏆 3,037+ Commits made on Github</p>
+<p>📦 42.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
-<p>🔑 14 Private Repositories</p>
+<p>🔑 15 Private Repositories</p>
 </blockquote>
 <p>📊 <strong>This Week I Spent My Time On</strong></p>
 <table>
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>46 commits</td>
+<td>48 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.3%</td>
+<td>12.66%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>81 commits</td>
+<td>84 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.66%</td>
+<td>22.16%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.65%</td>
+<td>17.41%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>181 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.4%</td>
+<td>47.76%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Kotlin</td>
+<td>1 hr 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.5%</td>
+</tr> 
+ <tr>
 <td>Java</td>
-<td>2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.74%</td>
+<td>28 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.41%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>28 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.25%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>8 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.46%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.17%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.24%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.11%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.77%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.24%</td>
+<td>0.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
+<td>Android Studio</td>
+<td>2 hrs 16 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.31%</td>
+</tr> 
+ <tr>
 <td>VS Code</td>
 <td>2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.69%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 mins</td>
+<td>2 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -112,52 +136,52 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.09%</td>
+<td>56.52%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.18%</td>
+<td>17.39%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.09%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.04%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>4.35%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>4.35%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>4.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 18, 2024</td>
-<td>19:23:01 IST</td>
+<td>Tuesday</td>
+<td>November 19, 2024</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 19, 2024</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>November 20, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the fish say when it hit the wall?</code></pre>
-<pre><code>» Dam.</code></pre>
+<pre><code>How do you generate a random string?</code></pre>
+<pre><code>» Put a Windows user in front of Vim and tell them to exit.</code></pre>
 <hr>
-<pre><code>Did you hear about the cheese factory that exploded in France?</code></pre>
-<pre><code>» There was nothing but de brie.</code></pre>
+<pre><code>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</code></pre>
 <hr>
-<pre><code>I used to love to tell dad jokes.</code></pre>
-<pre><code>» Dad, come back...</code></pre>
+<pre><code>I just got fired from my job at the keyboard factory.</code></pre>
+<pre><code>» They told me I wasn't putting in enough shifts.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In the 1980`s American migraines increased by 60%.</code></pre>
-<pre><code>2 » The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</code></pre>
-<pre><code>3 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
+<pre><code>1 » There are 1 million ants for every human in the world.</code></pre>
+<pre><code>2 » Sex burns 360 calories per hour.</code></pre>
+<pre><code>3 » There are no clocks in Las Vegas gambling casinos.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. - Paine</code></pre>
-<pre><code>2 » You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane - Hange Zoë</code></pre>
-<pre><code>3 » If the wind will not serve, take to the oars. - Latin Proverb</code></pre>
+<pre><code>1 » If you re gonna hit it hit it until it breaks - Tooru Oikawa</code></pre>
+<pre><code>2 » There’s no shame in falling down! True shame is to not stand up again! - Shintar Midorima</code></pre>
+<pre><code>3 » Remember that not getting what you want is sometimes a wonderful stroke of luck. - Dalai Lama</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
