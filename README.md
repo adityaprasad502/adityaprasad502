@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/829ebfb41415b94f851e11f24a2118bf70ed948ca7f8cc70e86c9cc53e81e8fc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331383125323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C181%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,038+ Commits made on Github</p>
+<p>🏆 3,039+ Commits made on Github</p>
 <p>📦 42.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 20, 2024</td>
-<td>19:23:11 IST</td>
+<td>Thursday</td>
+<td>November 21, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 21, 2024</td>
-<td>19:20:10 IST</td>
+<td>Friday</td>
+<td>November 22, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What is the difference between an oral thermometer and a rectal thermometer?</code></pre>
-<pre><code>» The taste.</code></pre>
+<pre><code>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</code></pre>
 <hr>
-<pre><code>Why did the worker get fired from the orange juice factory?</code></pre>
-<pre><code>» Lack of concentration.</code></pre>
+<pre><code>Want to hear a joke about a piece of paper?</code></pre>
+<pre><code>» Never mind...it's tearable</code></pre>
 <hr>
-<pre><code>Why do fathers take an extra pair of socks when they go golfing?</code></pre>
-<pre><code>» In case they get a hole in one!</code></pre>
+<pre><code>How many kids with ADD does it take to change a lightbulb?</code></pre>
+<pre><code>» Let's go ride bikes!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Blueberry Jelly Bellies were created especially for Ronald Reagan.</code></pre>
-<pre><code>2 » In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</code></pre>
-<pre><code>3 » Men can read smaller print than women; women can hear better.</code></pre>
+<pre><code>1 » The average North American will eat 35,000 cookies during their life span.</code></pre>
+<pre><code>2 » `Obsession` is the most popular boat name.</code></pre>
+<pre><code>3 » Women blink nearly twice as much as men.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela</code></pre>
-<pre><code>2 » Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. - Himura Kenshin</code></pre>
-<pre><code>3 » I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. - Leonardo da Vinci</code></pre>
+<pre><code>1 » Do what you can, where you are, with what you have. - Teddy Roosevelt</code></pre>
+<pre><code>2 » You should never give up on life, no matter how you feel. No matter how badly you want to give up.” - Canaan</code></pre>
+<pre><code>3 » A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. - Jiraiya</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
