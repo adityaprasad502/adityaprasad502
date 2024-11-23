@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/829ebfb41415b94f851e11f24a2118bf70ed948ca7f8cc70e86c9cc53e81e8fc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331383125323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C181%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,040+ Commits made on Github</p>
+<p>🏆 3,041+ Commits made on Github</p>
 <p>📦 42.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -167,14 +167,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 22, 2024</td>
-<td>19:22:45 IST</td>
+<td>Saturday</td>
+<td>November 23, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 23, 2024</td>
+<td>Sunday</td>
+<td>November 24, 2024</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -186,14 +186,12 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why does no one like SQLrillex?</code></pre>
-<pre><code>» He keeps dropping the database.</code></pre>
+<pre><code>Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.</code></pre>
 <hr>
-<pre><code>Why do bees hum?</code></pre>
-<pre><code>» Because they don't know the words.</code></pre>
+<pre><code>When does a joke become a dad joke?</code></pre>
+<pre><code>» When it becomes apparent.</code></pre>
 <hr>
-<pre><code>Why did Sweden start painting barcodes on the sides of their battleships?</code></pre>
-<pre><code>» So they could Scandinavian.</code></pre>
+<pre><code>Hey girl are you a school? Because I want to shoot some kids up inside of you.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +201,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Men can read smaller print than women; women can hear better.</code></pre>
-<pre><code>2 » Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</code></pre>
-<pre><code>3 » For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."</code></pre>
+<pre><code>1 » Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</code></pre>
+<pre><code>2 » In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</code></pre>
+<pre><code>3 » Most lipstick contains fish scales!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +213,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The ticket to the future is always open. - Vash The Stampede</code></pre>
-<pre><code>2 » Don’t give up, there’s no shame in falling down! True shame is to not stand up again! - Shintaro Midorima</code></pre>
-<pre><code>3 » Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>1 » There are no regrets. If one can be proud of one’s life, one should not wish for another chance.” - Saber</code></pre>
+<pre><code>2 » Believe you can and you’re halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>3 » Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover. - Mark Twain</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
