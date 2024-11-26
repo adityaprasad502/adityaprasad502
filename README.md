@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/eb17d780f05c1e47d9b87dc6329ccd9fa0787c4e7fd6b8f99b3005c1d9d57202/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331383325323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C183%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,044+ Commits made on Github</p>
-<p>📦 42.7 MiB Used in GitHub's Storage</p>
+<p>🏆 3,045+ Commits made on Github</p>
+<p>📦 42.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -65,42 +65,42 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 12 mins</td>
+<td>3 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.7%</td>
+<td>56.44%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 37 mins</td>
+<td>1 hr 9 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.48%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>1 hr 21 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.51%</td>
+<td>16.48%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>59 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.63%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.05%</td>
 </tr> 
  <tr>
-<td>TOML</td>
-<td>8 mins</td>
+<td>Java</td>
+<td>55 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.0%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.6%</td>
+<td>0.02%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>0.01%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
+<td>Java Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.01%</td>
@@ -110,22 +110,22 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>79.52%</td>
+<td>5 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>72.94%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>1 hr 54 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.48%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.06%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 20 mins</td>
+<td>7 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 25, 2024</td>
+<td>Tuesday</td>
+<td>November 26, 2024</td>
 <td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 26, 2024</td>
+<td>Wednesday</td>
+<td>November 27, 2024</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the private classes break up?</code></pre>
-<pre><code>» Because they never saw each other.</code></pre>
+<pre><code>I was reading a great book about an immortal dog the other day. It was impossible to put down.</code></pre>
 <hr>
-<pre><code>What's the difference between a hot potato and a flying pig?</code></pre>
-<pre><code>» One's a heated yam, the other's a yeeted ham.</code></pre>
+<pre><code>Why did the coffee file a police report?</code></pre>
+<pre><code>» It got mugged!</code></pre>
 <hr>
-<pre><code>What do you tell a woman with 2 black eyes?</code></pre>
-<pre><code>» Nothing. You already told her twice.</code></pre>
+<pre><code>So what's a set of predefined steps the government might take to preserve the environment?</code></pre>
+<pre><code>» An Al-Gore-ithm.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It`s possible to lead a cow upstairs but not downstairs.</code></pre>
-<pre><code>2 » The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</code></pre>
-<pre><code>3 » Weatherman Willard Scott was the first original Ronald McDonald.</code></pre>
+<pre><code>1 » In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.</code></pre>
+<pre><code>2 » Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</code></pre>
+<pre><code>3 » In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill</code></pre>
-<pre><code>2 » If you’re gonna insist on gambling and then complain when you lose, you had better work on your game.” - Hatsu Kominato</code></pre>
-<pre><code>3 » We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato</code></pre>
+<pre><code>1 » If you don’t like your destiny, don’t accept it. - Naruto Uzumaki</code></pre>
+<pre><code>2 » Either write something worth reading or do something worth writing. - Benjamin Franklin</code></pre>
+<pre><code>3 » Start where you are. Use what you have.  Do what you can. - Arthur Ashe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
