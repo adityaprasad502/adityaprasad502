@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/58a5ef5b4150c5d77b9b41e8e07df6281a8c7655c14e7a9c05a90ea5aa2d3e20/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331383825323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C188%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/245130578986c8b563557a35a1ffe5a8cba049caf1e2bfae0758858c1cdc1ea8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393025323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C190%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,053+ Commits made on Github</p>
+<p>🏆 3,057+ Commits made on Github</p>
 <p>📦 42.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,62 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>49 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.96%</td>
+<td>12.93%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>90 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.81%</td>
+<td>23.75%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.46%</td>
+<td>17.41%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>173 commits</td>
+<td>174 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.77%</td>
+<td>45.91%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>Kotlin</td>
+<td>2 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.72%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 13 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.35%</td>
+</tr> 
+ <tr>
 <td>HTML</td>
 <td>59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.91%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.35%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>58 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.13%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>55 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.03%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.48%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>0 secs</td>
+<td>Python</td>
+<td>19 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.68%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>3.15%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
+<td>Android Studio</td>
+<td>5 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.75%</td>
+</tr> 
+ <tr>
 <td>VS Code</td>
-<td>1 hr 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>3 hrs 21 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.25%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 54 mins</td>
+<td>8 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -137,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 27, 2024</td>
-<td>19:23:00 IST</td>
+<td>Thursday</td>
+<td>November 28, 2024</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 28, 2024</td>
-<td>19:20:00 IST</td>
+<td>Friday</td>
+<td>November 29, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,14 +186,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"</code></pre>
+<pre><code>Your momma is so fat, you need to switch to NTFS to store a picture of her.</code></pre>
 <hr>
-<pre><code>Why was the math book sad?</code></pre>
-<pre><code>» It had too many problems.</code></pre>
+<pre><code>I had a granny that we couldn't decide whether to bury or cremate</code></pre>
+<pre><code>» In the end we decided to just let her live.</code></pre>
 <hr>
-<pre><code>Did you hear about the cheese factory that exploded in France?</code></pre>
-<pre><code>» There was nothing but de brie.</code></pre>
+<pre><code>I dropped a pear in my car this morning.</code></pre>
+<pre><code>» You should drop another one, then you would have a pair.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -173,9 +202,9 @@ It approaches, and asks "may I join you?"</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Iceland consumes more Coca-Cola per capita than any other nation.</code></pre>
-<pre><code>2 » One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</code></pre>
-<pre><code>3 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
+<pre><code>1 » 40,000 Americans are injured by toilets each year.</code></pre>
+<pre><code>2 » The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</code></pre>
+<pre><code>3 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +214,9 @@ It approaches, and asks "may I join you?"</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. - Booker T. Washington</code></pre>
-<pre><code>2 » Whether you think you can or you think you can’t, you’re right. - Henry Ford</code></pre>
-<pre><code>3 » I refuse to let my fear control me anymore.” - Maka Albarn</code></pre>
+<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
+<pre><code>2 » In the middle of every difficulty lies opportunity. - Albert Einstein</code></pre>
+<pre><code>3 » I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person - Armin Arlert</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
