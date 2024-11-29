@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/245130578986c8b563557a35a1ffe5a8cba049caf1e2bfae0758858c1cdc1ea8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393025323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C190%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,057+ Commits made on Github</p>
+<p>🏆 3,059+ Commits made on Github</p>
 <p>📦 42.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>49 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.93%</td>
+<td>12.89%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>90 commits</td>
+<td>91 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.75%</td>
+<td>23.95%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.41%</td>
+<td>17.37%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>174 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.91%</td>
+<td>45.79%</td>
 </tr>
 </tbody></table>
 <table>
@@ -167,14 +167,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>November 28, 2024</td>
-<td>19:22:56 IST</td>
+<td>Friday</td>
+<td>November 29, 2024</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>November 29, 2024</td>
+<td>Saturday</td>
+<td>November 30, 2024</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -186,13 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Your momma is so fat, you need to switch to NTFS to store a picture of her.</code></pre>
+<pre><code>What do you call a pile of cats?</code></pre>
+<pre><code>» A meowtain.</code></pre>
 <hr>
-<pre><code>I had a granny that we couldn't decide whether to bury or cremate</code></pre>
-<pre><code>» In the end we decided to just let her live.</code></pre>
+<pre><code>Why are frogs so happy?</code></pre>
+<pre><code>» Because they eat whatever bugs them.</code></pre>
 <hr>
-<pre><code>I dropped a pear in my car this morning.</code></pre>
-<pre><code>» You should drop another one, then you would have a pair.</code></pre>
+<pre><code>What do birds give out on Halloween?</code></pre>
+<pre><code>» Tweets.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 40,000 Americans are injured by toilets each year.</code></pre>
-<pre><code>2 » The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</code></pre>
-<pre><code>3 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
+<pre><code>1 » The S in Harry S. Truman did not stand for anything.</code></pre>
+<pre><code>2 » A spider has transparent blood.</code></pre>
+<pre><code>3 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
-<pre><code>2 » In the middle of every difficulty lies opportunity. - Albert Einstein</code></pre>
-<pre><code>3 » I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person - Armin Arlert</code></pre>
+<pre><code>1 » Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau</code></pre>
+<pre><code>2 » It is at the moment of death that humanity has value. - Archer</code></pre>
+<pre><code>3 » People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. - Zig Ziglar</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
