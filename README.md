@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/245130578986c8b563557a35a1ffe5a8cba049caf1e2bfae0758858c1cdc1ea8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393025323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C190%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,059+ Commits made on Github</p>
+<p>🏆 3,060+ Commits made on Github</p>
 <p>📦 42.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 29, 2024</td>
-<td>19:22:57 IST</td>
+<td>Saturday</td>
+<td>November 30, 2024</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 30, 2024</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>December 01, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do you call a pile of cats?</code></pre>
-<pre><code>» A meowtain.</code></pre>
+<pre><code>What kind of award did the dentist receive?</code></pre>
+<pre><code>» A little plaque.</code></pre>
 <hr>
-<pre><code>Why are frogs so happy?</code></pre>
-<pre><code>» Because they eat whatever bugs them.</code></pre>
+<pre><code>Dads are like boomerangs.</code></pre>
+<pre><code>» I hope.</code></pre>
 <hr>
-<pre><code>What do birds give out on Halloween?</code></pre>
-<pre><code>» Tweets.</code></pre>
+<pre><code>Why did the ghost go inside the bar?</code></pre>
+<pre><code>» For the boos.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The S in Harry S. Truman did not stand for anything.</code></pre>
-<pre><code>2 » A spider has transparent blood.</code></pre>
-<pre><code>3 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
+<pre><code>1 » You were born with 300 bones, but by the time you are an adult you will only have 206.</code></pre>
+<pre><code>2 » Rubber bands last longer when refrigerated.  </code></pre>
+<pre><code>3 » Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau</code></pre>
-<pre><code>2 » It is at the moment of death that humanity has value. - Archer</code></pre>
-<pre><code>3 » People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. - Zig Ziglar</code></pre>
+<pre><code>1 » The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at. - Jesse Owens</code></pre>
+<pre><code>2 » No matter how hard or impossible it is, never lose sight of your goal.” - Monkey D Luffy</code></pre>
+<pre><code>3 » If you can dream it, you can achieve it. - Zig Ziglar</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
