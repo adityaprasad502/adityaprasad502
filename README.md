@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/245130578986c8b563557a35a1ffe5a8cba049caf1e2bfae0758858c1cdc1ea8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393025323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C190%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/76addd60e3c5be781bcaf1117eaf8031721fd6a20d77dcfe128cb0312003853e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393025323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C190%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,061+ Commits made on Github</p>
+<p>🏆 3,064+ Commits made on Github</p>
 <p>📦 42.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>49 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.89%</td>
+<td>12.86%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>91 commits</td>
+<td>92 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.95%</td>
+<td>24.15%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.37%</td>
+<td>17.32%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>174 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.79%</td>
+<td>45.67%</td>
 </tr>
 </tbody></table>
 <table>
@@ -67,43 +67,43 @@ fun main() {
 <td>Kotlin</td>
 <td>2 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.31%</td>
+<td>41.84%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.0%</td>
+<td>32.42%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>58 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.05%</td>
+<td>14.23%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>19 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.64%</td>
+<td>4.7%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>16 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.98%</td>
+<td>4.03%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.38%</td>
+<td>1.4%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>5 mins</td>
+<td>Gradle</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.28%</td>
+<td>0.67%</td>
 </tr>
 </tbody></table>
 <table>
@@ -112,20 +112,20 @@ fun main() {
 <td>Android Studio</td>
 <td>5 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.97%</td>
+<td>78.97%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 31 mins</td>
+<td>1 hr 26 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.03%</td>
+<td>21.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 56 mins</td>
+<td>6 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 01, 2024</td>
-<td>19:23:06 IST</td>
+<td>Monday</td>
+<td>December 02, 2024</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 02, 2024</td>
-<td>19:20:05 IST</td>
+<td>Tuesday</td>
+<td>December 03, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,15 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.</code></pre>
+<pre><code>How do you steal a coat?</code></pre>
+<pre><code>» You jacket.</code></pre>
 <hr>
-<pre><code>What do Santa's little helpers learn at school?</code></pre>
-<pre><code>» The elf-abet!
-</code></pre>
+<pre><code>What do you get hanging from Apple trees?</code></pre>
+<pre><code>» Sore arms.</code></pre>
 <hr>
-<pre><code>I bought some shoes from a drug dealer.</code></pre>
-<pre><code>» I don't know what he laced them with, but I was tripping all day!</code></pre>
+<pre><code>If you boil a clown...</code></pre>
+<pre><code>» Do you get a laughing stock?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -204,9 +203,9 @@ I hope your code behaves the same on Monday as it did on Friday.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » On average, people fear spiders more than they do death.</code></pre>
-<pre><code>2 » The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</code></pre>
-<pre><code>3 » Barbie`s full name is Barbara Millicent Roberts.</code></pre>
+<pre><code>1 » In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.</code></pre>
+<pre><code>2 » Camels have three eyelids to protect themselves from blowing sand!</code></pre>
+<pre><code>3 » Van Gogh only sold one painting when he was alive.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -216,9 +215,9 @@ I hope your code behaves the same on Monday as it did on Friday.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Everything you’ve ever wanted is on the other side of fear. - George Addair</code></pre>
-<pre><code>2 » Believe you can and you’re halfway there. - Theodore Roosevelt</code></pre>
-<pre><code>3 » If you don’t share someone’s pain, you can never understand them. - Nagato</code></pre>
+<pre><code>1 » A truly rich man is one whose children run into his arms when his hands are empty. - Unknown</code></pre>
+<pre><code>2 » If you don’t like your destiny, don’t accept it. - Naruto Uzumaki</code></pre>
+<pre><code>3 » The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
