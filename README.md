@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/76addd60e3c5be781bcaf1117eaf8031721fd6a20d77dcfe128cb0312003853e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393025323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C190%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d0152741bc2ebf88855087df95fb8d0bedae2aa2cbb67aaa3bfe349b53e6000d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393225323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C192%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,065+ Commits made on Github</p>
-<p>📦 42.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,067+ Commits made on Github</p>
+<p>📦 44.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>49 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.86%</td>
+<td>12.83%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>92 commits</td>
+<td>91 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.15%</td>
+<td>23.82%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>66 commits</td>
+<td>68 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.32%</td>
+<td>17.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>174 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.67%</td>
+<td>45.55%</td>
 </tr>
 </tbody></table>
 <table>
@@ -141,8 +141,8 @@ fun main() {
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.74%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.39%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
@@ -152,6 +152,12 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
+<td>x repos</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.35%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>4.35%</td>
@@ -167,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 03, 2024</td>
-<td>19:22:58 IST</td>
+<td>Wednesday</td>
+<td>December 04, 2024</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 04, 2024</td>
+<td>Thursday</td>
+<td>December 05, 2024</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -186,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I'm reading a book about anti-gravity. It's impossible to put down!</code></pre>
+<pre><code>Why did the fireman wear red, white, and blue suspenders?</code></pre>
+<pre><code>» To hold his pants up.</code></pre>
 <hr>
-<pre><code>What's a titan favorite food?</code></pre>
-<pre><code>» rawmen</code></pre>
+<pre><code>There are 10 types of people in this world...</code></pre>
+<pre><code>» Those who understand binary and those who don't</code></pre>
 <hr>
-<pre><code>There are 10 kinds of people in this world.</code></pre>
-<pre><code>» Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.</code></pre>
+<pre><code>Why did the Clydesdale give the pony a glass of water?</code></pre>
+<pre><code>» Because he was a little horse</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.</code></pre>
-<pre><code>2 » The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</code></pre>
-<pre><code>3 » A shark is the only fish that can blink with both eyes.</code></pre>
+<pre><code>1 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
+<pre><code>2 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
+<pre><code>3 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The best revenge is massive success. - Frank Sinatra</code></pre>
-<pre><code>2 » If you can’t do something, then don’t. Focus on what you can do.” - Shiroe</code></pre>
-<pre><code>3 » Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice! - Don Quixote Doflamingo</code></pre>
+<pre><code>1 » This World Is Cruel And It s Also Very Beautiful - Mikasa</code></pre>
+<pre><code>2 » If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward - Tobio Kageyama</code></pre>
+<pre><code>3 » Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. - Jamie Paolinetti</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
