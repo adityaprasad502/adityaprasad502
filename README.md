@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d0152741bc2ebf88855087df95fb8d0bedae2aa2cbb67aaa3bfe349b53e6000d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393225323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C192%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54116e2ea4f535b04f2b84161e4e9887290b70195bb98e6fe45b01c573bb037/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C195%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,067+ Commits made on Github</p>
+<p>🏆 3,069+ Commits made on Github</p>
 <p>📦 44.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>49 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.83%</td>
+<td>12.86%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>91 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.82%</td>
+<td>23.88%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>68 commits</td>
+<td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.8%</td>
+<td>17.32%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>174 commits</td>
+<td>175 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.55%</td>
+<td>45.93%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.74%</td>
+<td>2 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.85%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>31 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.94%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 13 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.79%</td>
+<td>20 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.74%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 17 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.9%</td>
+<td>18 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.06%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>14 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.04%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.75%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>20 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.68%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>16 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.83%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>5 mins</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.33%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.64%</td>
+<td>0.43%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>75.01%</td>
+<td>2 hrs 21 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.66%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 48 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.99%</td>
+<td>1 hr 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.34%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 13 mins</td>
+<td>3 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 04, 2024</td>
-<td>19:22:55 IST</td>
+<td>Thursday</td>
+<td>December 05, 2024</td>
+<td>19:22:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 05, 2024</td>
-<td>19:20:55 IST</td>
+<td>Friday</td>
+<td>December 06, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the fireman wear red, white, and blue suspenders?</code></pre>
-<pre><code>» To hold his pants up.</code></pre>
+<pre><code>Why did the programmer go broke?</code></pre>
+<pre><code>» He used up all his cache</code></pre>
 <hr>
-<pre><code>There are 10 types of people in this world...</code></pre>
-<pre><code>» Those who understand binary and those who don't</code></pre>
+<pre><code>What did the digital clock say to the grandfather clock?</code></pre>
+<pre><code>» Look, no hands!</code></pre>
 <hr>
-<pre><code>Why did the Clydesdale give the pony a glass of water?</code></pre>
-<pre><code>» Because he was a little horse</code></pre>
+<pre><code>What do you call a belt made out of watches?</code></pre>
+<pre><code>» A waist of time.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</code></pre>
-<pre><code>2 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
-<pre><code>3 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
+<pre><code>1 » The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</code></pre>
+<pre><code>2 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
+<pre><code>3 » Some lions mate over 50 times a day.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » This World Is Cruel And It s Also Very Beautiful - Mikasa</code></pre>
-<pre><code>2 » If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward - Tobio Kageyama</code></pre>
-<pre><code>3 » Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. - Jamie Paolinetti</code></pre>
+<pre><code>1 » The last ones standing are the victors Only the strongest If you want to be the last one standing become strong - Tobio Kageyama</code></pre>
+<pre><code>2 » Everything has beauty, but not everyone can see. - Confucius</code></pre>
+<pre><code>3 » If you want your children to turn out well, spend twice as much time with them, and half as much money. - Abigail Van Buren</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
