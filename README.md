@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54116e2ea4f535b04f2b84161e4e9887290b70195bb98e6fe45b01c573bb037/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C195%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,071+ Commits made on Github</p>
+<p>🏆 3,072+ Commits made on Github</p>
 <p>📦 44.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 07, 2024</td>
-<td>19:22:43 IST</td>
+<td>Sunday</td>
+<td>December 08, 2024</td>
+<td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 08, 2024</td>
-<td>19:20:40 IST</td>
+<td>Monday</td>
+<td>December 09, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What does the mermaid wear to math class?</code></pre>
-<pre><code>» Algae-bra.</code></pre>
+<pre><code>Why did the functions stop calling each other?</code></pre>
+<pre><code>» Because they had constant arguments.</code></pre>
 <hr>
-<pre><code>What do ghosts call their true love?</code></pre>
-<pre><code>» Their ghoul-friend</code></pre>
+<pre><code>What do you call an eagle who can play the piano?</code></pre>
+<pre><code>» Talonted!</code></pre>
 <hr>
-<pre><code>Why did the golfer bring two pairs of pants?</code></pre>
-<pre><code>» In case he got a hole in one!</code></pre>
+<pre><code>What do you call a computer mouse that swears a lot?</code></pre>
+<pre><code>» A cursor!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
-<pre><code>2 » If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.</code></pre>
-<pre><code>3 » The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </code></pre>
+<pre><code>1 » The first contraceptive was crocodile dung used by the ancient Egyptians.</code></pre>
+<pre><code>2 » The word "set" has more definitions than any other word in the English language.</code></pre>
+<pre><code>3 » Average life span of a major league baseball: 7 pitches.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. - Booker T. Washington</code></pre>
-<pre><code>2 » Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image. - Archer</code></pre>
-<pre><code>3 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
+<pre><code>1 » The moment you think of giving up, think of the reason why you held on so long.” - Natsu Dragneel</code></pre>
+<pre><code>2 » In the middle of every difficulty lies opportunity. - Albert Einstein</code></pre>
+<pre><code>3 » Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that. - Keima Katsuragi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
