@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54116e2ea4f535b04f2b84161e4e9887290b70195bb98e6fe45b01c573bb037/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C195%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,072+ Commits made on Github</p>
+<p>🏆 3,073+ Commits made on Github</p>
 <p>📦 44.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 08, 2024</td>
-<td>19:22:47 IST</td>
+<td>Monday</td>
+<td>December 09, 2024</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 09, 2024</td>
-<td>19:20:45 IST</td>
+<td>Tuesday</td>
+<td>December 10, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the functions stop calling each other?</code></pre>
-<pre><code>» Because they had constant arguments.</code></pre>
+<pre><code>What is red and smells like blue paint?</code></pre>
+<pre><code>» Red paint!</code></pre>
 <hr>
-<pre><code>What do you call an eagle who can play the piano?</code></pre>
-<pre><code>» Talonted!</code></pre>
+<pre><code>Why don't scientists trust atoms?</code></pre>
+<pre><code>» Because they make up everything!</code></pre>
 <hr>
-<pre><code>What do you call a computer mouse that swears a lot?</code></pre>
-<pre><code>» A cursor!</code></pre>
+<pre><code>What do you call a girl between two posts?</code></pre>
+<pre><code>» Annette.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The first contraceptive was crocodile dung used by the ancient Egyptians.</code></pre>
-<pre><code>2 » The word "set" has more definitions than any other word in the English language.</code></pre>
-<pre><code>3 » Average life span of a major league baseball: 7 pitches.</code></pre>
+<pre><code>1 » The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </code></pre>
+<pre><code>2 » The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.</code></pre>
+<pre><code>3 » Van Gogh only sold one painting when he was alive.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The moment you think of giving up, think of the reason why you held on so long.” - Natsu Dragneel</code></pre>
-<pre><code>2 » In the middle of every difficulty lies opportunity. - Albert Einstein</code></pre>
-<pre><code>3 » Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that. - Keima Katsuragi</code></pre>
+<pre><code>1 » When you give up, that’s when the game ends. - Mitsuyoshi Anzai</code></pre>
+<pre><code>2 » Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. - Paine</code></pre>
+<pre><code>3 » Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. - Gilgamesh</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
