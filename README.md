@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54116e2ea4f535b04f2b84161e4e9887290b70195bb98e6fe45b01c573bb037/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C195%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,076+ Commits made on Github</p>
+<p>🏆 3,077+ Commits made on Github</p>
 <p>📦 44.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -61,69 +61,18 @@ fun main() {
 <td>45.93%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.04%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>11 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.52%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>9 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.78%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>8 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.48%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.87%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.31%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.2%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>21 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.8%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -167,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 12, 2024</td>
-<td>19:22:51 IST</td>
+<td>Friday</td>
+<td>December 13, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 13, 2024</td>
-<td>19:20:50 IST</td>
+<td>Saturday</td>
+<td>December 14, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +135,17 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>A ham sandwhich walks into a bar and orders a beer. The bartender says...</code></pre>
-<pre><code>» I'm sorry, we don't serve food here</code></pre>
+<pre><code>Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</code></pre>
 <hr>
-<pre><code>What do you call a group of killer whales playing instruments?</code></pre>
-<pre><code>» An Orca-stra.</code></pre>
+<pre><code>What's orange and sounds like a parrot?</code></pre>
+<pre><code>» A Carrot.</code></pre>
 <hr>
-<pre><code>What do you get when you cross a chicken with a skunk?</code></pre>
-<pre><code>» A fowl smell!</code></pre>
+<pre><code>Two guys walk into a bar . . .</code></pre>
+<pre><code>» The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +155,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</code></pre>
-<pre><code>2 » There are two credit cards for every person in the United States.</code></pre>
-<pre><code>3 » The Minneapolis phone book has 21 pages of Andersons.</code></pre>
+<pre><code>1 » It is illegal to hunt camels in the state of Arizona.</code></pre>
+<pre><code>2 » A whale`s penis is called a dork.</code></pre>
+<pre><code>3 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +167,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Life s a bore if you don t challenge yourself - Yuu Nishinoya</code></pre>
-<pre><code>2 » The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb</code></pre>
-<pre><code>3 » Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it. - Johann Wolfgang von Goethe</code></pre>
+<pre><code>1 » Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. - Miss Kobayashi</code></pre>
+<pre><code>2 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
+<pre><code>3 » We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
