@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54116e2ea4f535b04f2b84161e4e9887290b70195bb98e6fe45b01c573bb037/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C195%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,077+ Commits made on Github</p>
+<p>🏆 3,078+ Commits made on Github</p>
 <p>📦 44.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 13, 2024</td>
-<td>19:22:59 IST</td>
+<td>Saturday</td>
+<td>December 14, 2024</td>
+<td>19:22:43 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 14, 2024</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>December 15, 2024</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,17 +135,14 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</code></pre>
+<pre><code>Why was the mushroom always invited to parties?</code></pre>
+<pre><code>» Cause he's a fungi.</code></pre>
 <hr>
-<pre><code>What's orange and sounds like a parrot?</code></pre>
-<pre><code>» A Carrot.</code></pre>
+<pre><code>Why do birds fly south for the winter?</code></pre>
+<pre><code>» Because it's too far to walk.</code></pre>
 <hr>
-<pre><code>Two guys walk into a bar . . .</code></pre>
-<pre><code>» The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."</code></pre>
+<pre><code>Which side of the chicken has more feathers?</code></pre>
+<pre><code>» The outside.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -155,9 +152,9 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It is illegal to hunt camels in the state of Arizona.</code></pre>
-<pre><code>2 » A whale`s penis is called a dork.</code></pre>
-<pre><code>3 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
+<pre><code>1 » Venus is the only planet that rotates clockwise.</code></pre>
+<pre><code>2 » The king of hearts is the only king without a mustache.</code></pre>
+<pre><code>3 » The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -167,9 +164,9 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. - Miss Kobayashi</code></pre>
-<pre><code>2 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
-<pre><code>3 » We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato</code></pre>
+<pre><code>1 » Life is what happens to you while you’re busy making other plans. - John Lennon</code></pre>
+<pre><code>2 » Our lives begin to end the day we become silent about things that matter. - Martin Luther King Jr.</code></pre>
+<pre><code>3 » I would rather die of passion than of boredom. - Vincent van Gogh</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
