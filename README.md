@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54116e2ea4f535b04f2b84161e4e9887290b70195bb98e6fe45b01c573bb037/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C195%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a1979d3a0208e8525306e5be4f98563257c51db2cec6bd1d9a6e9696dbd8a2e7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393725323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C197%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,081+ Commits made on Github</p>
-<p>📦 44.7 MiB Used in GitHub's Storage</p>
+<p>🏆 3,084+ Commits made on Github</p>
+<p>📦 46.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -38,41 +38,92 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>49 commits</td>
+<td>50 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.86%</td>
+<td>13.09%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>91 commits</td>
+<td>90 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.88%</td>
+<td>23.56%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>66 commits</td>
+<td>68 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.32%</td>
+<td>17.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>175 commits</td>
+<td>174 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.93%</td>
+<td>45.55%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 hr 34 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>76.24%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>22 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.59%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.36%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.43%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.36%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.02%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>Android Studio</td>
+<td>1 hr 57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>95.21%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.79%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>2 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,15 +167,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 17, 2024</td>
-<td>19:22:58 IST</td>
+<td>Thursday</td>
+<td>December 19, 2024</td>
+<td>19:22:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 18, 2024</td>
-<td>19:20:55 IST</td>
+<td>Friday</td>
+<td>December 20, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,14 +186,13 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>No matter how kind you are...</code></pre>
-<pre><code>» German kids are always Kinder.</code></pre>
+<pre><code>Why don't React developers like nature?</code></pre>
+<pre><code>» They prefer the virtual DOM.</code></pre>
 <hr>
-<pre><code>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</code></pre>
-<pre><code>» Attire.</code></pre>
+<pre><code>Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.</code></pre>
 <hr>
-<pre><code>How many lips does a flower have?</code></pre>
-<pre><code>» Tulips</code></pre>
+<pre><code>Why did the scarecrow win an award?</code></pre>
+<pre><code>» Because he was outstanding in his field.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +202,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</code></pre>
-<pre><code>2 » A whale`s penis is called a dork.</code></pre>
-<pre><code>3 » 1 in every 4 Americans has appeared someway or another on television.</code></pre>
+<pre><code>1 » The S in Harry S. Truman did not stand for anything.</code></pre>
+<pre><code>2 » There are 269 steps to the top of the Leaning Tower of Pisa</code></pre>
+<pre><code>3 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +214,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. - Vincent Van Gogh</code></pre>
-<pre><code>2 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
-<pre><code>3 » The moment you think of giving up, think of the reason why you held on so long.” - Natsu Dragneel</code></pre>
+<pre><code>1 » Whatever you do, enjoy it to the fullest. That is the secret of life.” - Rider</code></pre>
+<pre><code>2 » Either write something worth reading or do something worth writing. - Benjamin Franklin</code></pre>
+<pre><code>3 » A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. - Jiraiya</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
