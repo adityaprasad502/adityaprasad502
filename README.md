@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a1979d3a0208e8525306e5be4f98563257c51db2cec6bd1d9a6e9696dbd8a2e7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393725323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C197%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e3ff9bb164f48cbc24143724324b619ee3e3edac30ddecdedefa5293b20f9fbb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393925323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C199%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,085+ Commits made on Github</p>
+<p>🏆 3,090+ Commits made on Github</p>
 <p>📦 46.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -38,88 +38,88 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>50 commits</td>
+<td>52 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.09%</td>
+<td>13.54%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>90 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.56%</td>
+<td>88 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.92%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>68 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.8%</td>
+<td>17.71%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>174 commits</td>
+<td>176 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.55%</td>
+<td>45.83%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>76.24%</td>
+<td>3 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.41%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>22 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.59%</td>
+<td>1 hr 10 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.61%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.36%</td>
+<td>1.56%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.92%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.84%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.43%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.36%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.66%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>95.21%</td>
+<td>4 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>97.78%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>5 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.79%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.22%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 3 mins</td>
+<td>4 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 20, 2024</td>
-<td>19:22:47 IST</td>
+<td>Saturday</td>
+<td>December 21, 2024</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 21, 2024</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>December 22, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What’s 50 Cent’s name in Zimbabwe?</code></pre>
-<pre><code>» 200 Dollars.</code></pre>
+<pre><code>A programmer puts two glasses on his bedside table before going to sleep.</code></pre>
+<pre><code>» A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</code></pre>
 <hr>
-<pre><code>Do you want a brief explanation of what an acorn is?</code></pre>
-<pre><code>» In a nutshell, it's an oak tree.</code></pre>
+<pre><code>What do you call a bee that lives in America?</code></pre>
+<pre><code>» A USB.</code></pre>
 <hr>
-<pre><code>What kind of shoes does a thief wear?</code></pre>
-<pre><code>» Sneakers</code></pre>
+<pre><code>Why didn’t the orange win the race?</code></pre>
+<pre><code>» It ran out of juice.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 293 ways to make change for a dollar.</code></pre>
-<pre><code>2 » The electric chair was invented by a dentist.</code></pre>
-<pre><code>3 » Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</code></pre>
+<pre><code>1 » The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."</code></pre>
+<pre><code>2 » When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</code></pre>
+<pre><code>3 » Average number of people airborne over the US any given hour: 61,000.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela</code></pre>
-<pre><code>2 » It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight - Eren</code></pre>
-<pre><code>3 » Life is not a game of luck. If you wanna win, work hard. - Sora</code></pre>
+<pre><code>1 » The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb</code></pre>
+<pre><code>2 » I didn’t fail the test. I just found 100 ways to do it wrong. - Benjamin Franklin</code></pre>
+<pre><code>3 » Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. - Mavis Vermillion</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
