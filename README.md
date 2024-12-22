@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e3ff9bb164f48cbc24143724324b619ee3e3edac30ddecdedefa5293b20f9fbb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393925323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C199%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,090+ Commits made on Github</p>
-<p>📦 46.6 MiB Used in GitHub's Storage</p>
+<p>🏆 3,091+ Commits made on Github</p>
+<p>📦 46.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -65,61 +65,61 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 5 mins</td>
+<td>3 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.41%</td>
+<td>69.13%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 10 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.61%</td>
+<td>25.66%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>6 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.27%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.56%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.92%</td>
+<td>1.5%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.84%</td>
+<td>0.81%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.66%</td>
+<td>0.64%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 20 mins</td>
+<td>4 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.78%</td>
+<td>97.86%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.22%</td>
+<td>2.14%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 26 mins</td>
+<td>4 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 21, 2024</td>
-<td>19:22:57 IST</td>
+<td>Sunday</td>
+<td>December 22, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 22, 2024</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>December 23, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>A programmer puts two glasses on his bedside table before going to sleep.</code></pre>
-<pre><code>» A full one, in case he gets thirsty, and an empty one, in case he doesn’t.</code></pre>
+<pre><code>Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.</code></pre>
 <hr>
-<pre><code>What do you call a bee that lives in America?</code></pre>
-<pre><code>» A USB.</code></pre>
+<pre><code>Say what you want about pedophiles...</code></pre>
+<pre><code>» But at least they drive slowly through the school zones.</code></pre>
 <hr>
-<pre><code>Why didn’t the orange win the race?</code></pre>
-<pre><code>» It ran out of juice.</code></pre>
+<pre><code>What kind of doctor is Dr. Pepper?</code></pre>
+<pre><code>» He's a fizzician.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +202,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."</code></pre>
-<pre><code>2 » When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</code></pre>
-<pre><code>3 » Average number of people airborne over the US any given hour: 61,000.</code></pre>
+<pre><code>1 » Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.</code></pre>
+<pre><code>2 » Thirty-five percent of people who use personal ads for dating are already married.</code></pre>
+<pre><code>3 » To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +214,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The best time to plant a tree was 20 years ago. The second best time is now. - Chinese Proverb</code></pre>
-<pre><code>2 » I didn’t fail the test. I just found 100 ways to do it wrong. - Benjamin Franklin</code></pre>
-<pre><code>3 » Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. - Mavis Vermillion</code></pre>
+<pre><code>1 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
+<pre><code>2 » A dropout will beat a genius through hard work. - Rock Lee</code></pre>
+<pre><code>3 » If you don’t like your destiny, don’t accept it. - Naruto Uzumaki</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
