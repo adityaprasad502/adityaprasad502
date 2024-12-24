@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e3ff9bb164f48cbc24143724324b619ee3e3edac30ddecdedefa5293b20f9fbb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324331393925323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C199%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7ca6edd1a67182498b61c5ea114ae494b66c2797630333da39e1cdb8e75689c0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323131253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C211%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,092+ Commits made on Github</p>
+<p>🏆 3,105+ Commits made on Github</p>
 <p>📦 46.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -38,88 +38,88 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>52 commits</td>
+<td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.54%</td>
+<td>15.32%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>88 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.92%</td>
+<td>92 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.9%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>68 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.71%</td>
+<td>17.66%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>176 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.83%</td>
+<td>166 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.12%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.13%</td>
+<td>5 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.95%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 10 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.66%</td>
+<td>2 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.03%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.27%</td>
+<td>1.26%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
+<td>0.83%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.81%</td>
+<td>0.58%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.64%</td>
+<td>0.35%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 30 mins</td>
+<td>8 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.86%</td>
+<td>98.82%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.14%</td>
+<td>1.18%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 36 mins</td>
+<td>8 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 23, 2024</td>
-<td>19:22:42 IST</td>
+<td>Tuesday</td>
+<td>December 24, 2024</td>
+<td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 24, 2024</td>
-<td>19:20:40 IST</td>
+<td>Wednesday</td>
+<td>December 25, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Did you hear about the kidnapping at school?</code></pre>
-<pre><code>» It's ok, he woke up.</code></pre>
+<pre><code>My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</code></pre>
 <hr>
-<pre><code>Why doesn't Sasuke play hide and seek?</code></pre>
-<pre><code>» Because good luck hiding from the Sharingan!</code></pre>
+<pre><code>When is a door not a door?</code></pre>
+<pre><code>» When it's ajar.</code></pre>
 <hr>
-<pre><code>Why did the tomato blush?</code></pre>
-<pre><code>» Because it saw the salad dressing.</code></pre>
+<pre><code>Why did the girl smear peanut butter on the road?</code></pre>
+<pre><code>» To go with the traffic jam.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +202,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Length of beard an average man would grow if he never shaved 27.5 feet</code></pre>
-<pre><code>2 » Until 1994, world maps and globes sold in Albania only had Albania on them.</code></pre>
-<pre><code>3 » There is approximately one chicken for every human being in the world.</code></pre>
+<pre><code>1 » You spend 7 years of your life in the bathroom.</code></pre>
+<pre><code>2 » One quarter of the bones in your body are in your feet.</code></pre>
+<pre><code>3 » Shakespeare spelled his OWN name several different ways.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +214,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
-<pre><code>2 » Being weak is nothing to be ashamed of… Staying weak is !! - Fuegoleon Vermillion</code></pre>
-<pre><code>3 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
+<pre><code>1 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
+<pre><code>2 » You can’t always hold on to the things that are important. By letting them go we gain something else.” - Kunio Yaobi</code></pre>
+<pre><code>3 » You can fly even higher - Tobio Kageyama</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
