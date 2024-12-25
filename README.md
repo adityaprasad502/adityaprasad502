@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7ca6edd1a67182498b61c5ea114ae494b66c2797630333da39e1cdb8e75689c0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323131253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C211%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/712fa8d66e4143381c6d5115e16e77d34f9a15370f85825022e11e659e93bbc5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313525323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C215%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,105+ Commits made on Github</p>
+<p>🏆 3,109+ Commits made on Github</p>
 <p>📦 46.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,86 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.32%</td>
+<td>15.28%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>92 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.9%</td>
+<td>23.83%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>68 commits</td>
+<td>70 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.66%</td>
+<td>18.13%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>166 commits</td>
+<td>165 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.12%</td>
+<td>42.75%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 14 mins</td>
+<td>10 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.95%</td>
+<td>61.77%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 49 mins</td>
+<td>6 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.03%</td>
+<td>35.43%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.94%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.26%</td>
+<td>0.64%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>6 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.64%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.83%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.58%</td>
+<td>0.41%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 hrs 13 mins</td>
+<td>16 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.82%</td>
+<td>99.42%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.18%</td>
+<td>0.58%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 19 mins</td>
+<td>17 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 24, 2024</td>
-<td>19:22:47 IST</td>
+<td>Wednesday</td>
+<td>December 25, 2024</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 25, 2024</td>
-<td>19:20:45 IST</td>
+<td>Thursday</td>
+<td>December 26, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</code></pre>
+<pre><code>What kind of magic do cows believe in?</code></pre>
+<pre><code>» MOODOO.</code></pre>
 <hr>
-<pre><code>When is a door not a door?</code></pre>
-<pre><code>» When it's ajar.</code></pre>
+<pre><code>Why do bears have hairy coats?</code></pre>
+<pre><code>» Fur protection.</code></pre>
 <hr>
-<pre><code>Why did the girl smear peanut butter on the road?</code></pre>
-<pre><code>» To go with the traffic jam.</code></pre>
+<pre><code>I like my girls how I like my COVID.</code></pre>
+<pre><code>» 19 and easily spread.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » You spend 7 years of your life in the bathroom.</code></pre>
-<pre><code>2 » One quarter of the bones in your body are in your feet.</code></pre>
-<pre><code>3 » Shakespeare spelled his OWN name several different ways.</code></pre>
+<pre><code>1 » Every acre of American crops harvested contains 100 pounds of insects.</code></pre>
+<pre><code>2 » The giant squid has the largest eyes in the world.</code></pre>
+<pre><code>3 » Tom Sawyer was the first novel written on a typewriter.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
-<pre><code>2 » You can’t always hold on to the things that are important. By letting them go we gain something else.” - Kunio Yaobi</code></pre>
-<pre><code>3 » You can fly even higher - Tobio Kageyama</code></pre>
+<pre><code>1 » Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. - Erza Scarlet</code></pre>
+<pre><code>2 » No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least - Levi Ackerman</code></pre>
+<pre><code>3 » Nothing is impossible, the word itself says, “I’m possible!” - –Audrey Hepburn</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
