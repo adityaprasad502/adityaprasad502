@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/25c5964ee188697fa7b9d6d0a622fc962247a6134ce1e2a4a6a256a2a3e45494/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313625323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C216%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,110+ Commits made on Github</p>
+<p>🏆 3,111+ Commits made on Github</p>
 <p>📦 46.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 26, 2024</td>
-<td>19:22:49 IST</td>
+<td>Friday</td>
+<td>December 27, 2024</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 27, 2024</td>
-<td>19:20:45 IST</td>
+<td>Saturday</td>
+<td>December 28, 2024</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the software developer go broke?</code></pre>
-<pre><code>» Because he used up all his cache!</code></pre>
+<pre><code>Why did the Clydesdale give the pony a glass of water?</code></pre>
+<pre><code>» Because he was a little horse</code></pre>
 <hr>
-<pre><code>Did you hear about the guy who invented Lifesavers?</code></pre>
-<pre><code>» They say he made a mint.</code></pre>
+<pre><code>What is the most used language in programming?</code></pre>
+<pre><code>» Profanity.</code></pre>
 <hr>
-<pre><code>What do you call a troublesome Canadian high schooler?</code></pre>
-<pre><code>» A poutine.</code></pre>
+<pre><code>Where do sheep go to get their hair cut?</code></pre>
+<pre><code>» The baa-baa shop.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A crocodile cannot stick its tongue out.</code></pre>
-<pre><code>2 » Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</code></pre>
-<pre><code>3 » The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.</code></pre>
+<pre><code>1 » Only 6 people in the whole world have died from moshing.</code></pre>
+<pre><code>2 » One quarter of the bones in your body are in your feet.</code></pre>
+<pre><code>3 » A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Don’t beg for things. Do it yourself, or else you won’t get anything. - Renton Thurston</code></pre>
-<pre><code>2 » Life is what we make it, always has been, always will be. - Grandma Moses</code></pre>
-<pre><code>3 » It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings. - Ann Landers</code></pre>
+<pre><code>1 » Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference. - Robert Frost</code></pre>
+<pre><code>2 » All we can do is live until the day we die. Control what we can…and fly free. - Deneil Young</code></pre>
+<pre><code>3 » Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. - Hinata Miyake</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
