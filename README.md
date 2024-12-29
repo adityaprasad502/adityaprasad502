@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/25c5964ee188697fa7b9d6d0a622fc962247a6134ce1e2a4a6a256a2a3e45494/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313625323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C216%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,112+ Commits made on Github</p>
+<p>🏆 3,113+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,39 +65,39 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>10 hrs 6 mins</td>
+<td>10 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.53%</td>
+<td>59.51%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>5 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.26%</td>
+<td>30.55%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>59 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.84%</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>21 mins</td>
+<td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.1%</td>
+<td>1.74%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>0.91%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.64%</td>
+<td>0.65%</td>
 </tr> 
  <tr>
 <td>CSS</td>
@@ -110,22 +110,22 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs 32 mins</td>
+<td>14 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>85.61%</td>
+<td>85.47%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>2 hrs 26 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.39%</td>
+<td>14.53%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>16 hrs 59 mins</td>
+<td>16 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 28, 2024</td>
-<td>19:22:46 IST</td>
+<td>Sunday</td>
+<td>December 29, 2024</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 29, 2024</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>December 30, 2024</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the koala get rejected?</code></pre>
-<pre><code>» Because he did not have any koalafication.</code></pre>
+<pre><code>What did the late tomato say to the early tomato?</code></pre>
+<pre><code>» I’ll ketch up</code></pre>
 <hr>
-<pre><code>Do you want a brief explanation of what an acorn is?</code></pre>
-<pre><code>» In a nutshell, it's an oak tree.</code></pre>
+<pre><code>Why did the mushroom get invited to the party?</code></pre>
+<pre><code>» Because he was a fungi.</code></pre>
 <hr>
-<pre><code>When do doctors get angry?</code></pre>
-<pre><code>» When they run out of patients.</code></pre>
+<pre><code>What's long and hard and has cum in it?</code></pre>
+<pre><code>» A cucumber.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</code></pre>
-<pre><code>2 » PEZ candy even comes in a Coffee flavor.</code></pre>
-<pre><code>3 » More bullets were fired in `Starship Troopers` than any other movie ever made.</code></pre>
+<pre><code>1 » A `jiffy` is a unit of time for 1/100th of a second.</code></pre>
+<pre><code>2 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
+<pre><code>3 » In Vermont, the ratio of cows to people is 10:1</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I have learned over the years that when one’s mind is made up, this diminishes fear. - Rosa Parks</code></pre>
-<pre><code>2 » Challenges are what make life interesting and overcoming them is what makes life meaningful. - Joshua J. Marine</code></pre>
-<pre><code>3 » You can never cross the ocean until you have the courage to lose sight of the shore. - Christopher Columbus</code></pre>
+<pre><code>1 » The last ones standing are the victors Only the strongest If you want to be the last one standing become strong - Tobio Kageyama</code></pre>
+<pre><code>2 » The ticket to the future is always open. - Vash The Stampede</code></pre>
+<pre><code>3 » Forgetting is like a wound. The wound may heal, but it has already left a scar. - Monkey D Luffy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
