@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/25c5964ee188697fa7b9d6d0a622fc962247a6134ce1e2a4a6a256a2a3e45494/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313625323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C216%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,113+ Commits made on Github</p>
+<p>🏆 3,114+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 29, 2024</td>
-<td>19:22:50 IST</td>
+<td>Monday</td>
+<td>December 30, 2024</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 30, 2024</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>December 31, 2024</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,15 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the late tomato say to the early tomato?</code></pre>
-<pre><code>» I’ll ketch up</code></pre>
+<pre><code>Why didn’t the orange win the race?</code></pre>
+<pre><code>» It ran out of juice.</code></pre>
 <hr>
-<pre><code>Why did the mushroom get invited to the party?</code></pre>
-<pre><code>» Because he was a fungi.</code></pre>
+<pre><code>How many optometrists does it take to change a light bulb?</code></pre>
+<pre><code>» 1 or 2? 1... or 2?</code></pre>
 <hr>
-<pre><code>What's long and hard and has cum in it?</code></pre>
-<pre><code>» A cucumber.</code></pre>
+<pre><code>What do Santa's little helpers learn at school?</code></pre>
+<pre><code>» The elf-abet!
+</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A `jiffy` is a unit of time for 1/100th of a second.</code></pre>
-<pre><code>2 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
-<pre><code>3 » In Vermont, the ratio of cows to people is 10:1</code></pre>
+<pre><code>1 » Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</code></pre>
+<pre><code>2 » The dot over the letter `i` is called a tittle.  </code></pre>
+<pre><code>3 » The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, &amp; Cancer.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +222,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The last ones standing are the victors Only the strongest If you want to be the last one standing become strong - Tobio Kageyama</code></pre>
-<pre><code>2 » The ticket to the future is always open. - Vash The Stampede</code></pre>
-<pre><code>3 » Forgetting is like a wound. The wound may heal, but it has already left a scar. - Monkey D Luffy</code></pre>
+<pre><code>1 » Life is 10% what happens to me and 90% of how I react to it. - Charles Swindoll</code></pre>
+<pre><code>2 » When you give up, that’s when the game ends. - Mitsuyoshi Anzai</code></pre>
+<pre><code>3 » Simplicity is the easiest path to true beauty. - Seishuu Handa</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
