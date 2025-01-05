@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b555c8a1567d6b7bbce839decd96622a3fe2da68232987a5ccc4a29dc5e90adf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313725323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C217%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,119+ Commits made on Github</p>
+<p>🏆 3,120+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 04, 2025</td>
-<td>19:22:48 IST</td>
+<td>Sunday</td>
+<td>January 05, 2025</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 05, 2025</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>January 06, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,14 +135,14 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Is the pool safe for diving?</code></pre>
-<pre><code>» It deep ends.</code></pre>
+<pre><code>Why did the koala get rejected?</code></pre>
+<pre><code>» Because he did not have any koalafication.</code></pre>
 <hr>
-<pre><code>Where do you learn to make banana splits?</code></pre>
-<pre><code>» At sundae school.</code></pre>
+<pre><code>Why did the programmer quit his job?</code></pre>
+<pre><code>» Because he didn't get arrays.</code></pre>
 <hr>
-<pre><code>Where do bees go to the bathroom?</code></pre>
-<pre><code>» The BP station.</code></pre>
+<pre><code>What is the most used language in programming?</code></pre>
+<pre><code>» Profanity.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +152,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.</code></pre>
-<pre><code>2 » Tehran is the most expensive city on earth.</code></pre>
-<pre><code>3 » Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</code></pre>
+<pre><code>1 » The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</code></pre>
+<pre><code>2 » Spain leads the world in cork production</code></pre>
+<pre><code>3 » The HyperMart outside of Garland Texas has 58 check-outs.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +164,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. - Sebastian Michaelis</code></pre>
-<pre><code>2 » When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life. - John Lennon</code></pre>
-<pre><code>3 » Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. - Paine</code></pre>
+<pre><code>1 » I’ll leave tomorrow’s problems to tomorrow’s me. - Saitama</code></pre>
+<pre><code>2 » Every strike brings me closer to the next home run. - Babe Ruth</code></pre>
+<pre><code>3 » Definiteness of purpose is the starting point of all achievement. - W. Clement Stone</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
