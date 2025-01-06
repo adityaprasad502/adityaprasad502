@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b555c8a1567d6b7bbce839decd96622a3fe2da68232987a5ccc4a29dc5e90adf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313725323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C217%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,120+ Commits made on Github</p>
+<p>🏆 3,121+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 05, 2025</td>
-<td>19:22:57 IST</td>
+<td>Monday</td>
+<td>January 06, 2025</td>
+<td>19:23:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 06, 2025</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>January 07, 2025</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,14 +135,14 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the koala get rejected?</code></pre>
-<pre><code>» Because he did not have any koalafication.</code></pre>
+<pre><code>Want to hear a chimney joke?</code></pre>
+<pre><code>» Got stacks of em! First one's on the house</code></pre>
 <hr>
-<pre><code>Why did the programmer quit his job?</code></pre>
-<pre><code>» Because he didn't get arrays.</code></pre>
+<pre><code>What does a woman's pussy and a chainsaw have in common?</code></pre>
+<pre><code>» Miss by a few inches and you're in deep shit.</code></pre>
 <hr>
-<pre><code>What is the most used language in programming?</code></pre>
-<pre><code>» Profanity.</code></pre>
+<pre><code>Did you hear about the scientist who was lab partners with a pot of boiling water?</code></pre>
+<pre><code>» He had a very esteemed colleague.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +152,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</code></pre>
-<pre><code>2 » Spain leads the world in cork production</code></pre>
-<pre><code>3 » The HyperMart outside of Garland Texas has 58 check-outs.</code></pre>
+<pre><code>1 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
+<pre><code>2 » The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</code></pre>
+<pre><code>3 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +164,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I’ll leave tomorrow’s problems to tomorrow’s me. - Saitama</code></pre>
-<pre><code>2 » Every strike brings me closer to the next home run. - Babe Ruth</code></pre>
-<pre><code>3 » Definiteness of purpose is the starting point of all achievement. - W. Clement Stone</code></pre>
+<pre><code>1 » Sometimes it’s necessary to do unnecessary things. - Kanade Jinguuji</code></pre>
+<pre><code>2 » Dream big and dare to fail. - Norman Vaughan</code></pre>
+<pre><code>3 » Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. - Himura Kenshin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
