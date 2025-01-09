@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b555c8a1567d6b7bbce839decd96622a3fe2da68232987a5ccc4a29dc5e90adf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313725323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C217%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,123+ Commits made on Github</p>
+<p>🏆 3,124+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -116,14 +116,14 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 08, 2025</td>
-<td>19:22:57 IST</td>
+<td>Thursday</td>
+<td>January 09, 2025</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 09, 2025</td>
+<td>Friday</td>
+<td>January 10, 2025</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -135,14 +135,14 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do you call a bird sitting with their legs spread?</code></pre>
-<pre><code>» A prostitweety.</code></pre>
+<pre><code>My wife left me because I'm too insecure and paranoid.</code></pre>
+<pre><code>» Oh wait, never mind. She was just getting the mail.</code></pre>
 <hr>
-<pre><code>How do you know if there’s an elephant under your bed?</code></pre>
-<pre><code>» Your head hits the ceiling!</code></pre>
+<pre><code>Why did the banana go see a doctor?</code></pre>
+<pre><code>» Because it wasn't peeling well.</code></pre>
 <hr>
-<pre><code>Did you hear about the new restaurant on the moon?</code></pre>
-<pre><code>» The food is great, but there’s just no atmosphere.</code></pre>
+<pre><code>What's grey and comes in pints?</code></pre>
+<pre><code>» An elephant.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +152,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Venus is the only planet that rotates clockwise.</code></pre>
-<pre><code>2 » Starfish haven`t got brains.</code></pre>
-<pre><code>3 » 38% of American men say they love their cars more than women</code></pre>
+<pre><code>1 » The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!</code></pre>
+<pre><code>2 » The longest one-syllable word in the English language is "screeched."</code></pre>
+<pre><code>3 » Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +164,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Winning isn’t everything, but wanting to win is. - Vince Lombardi</code></pre>
-<pre><code>2 » Our lives begin to end the day we become silent about things that matter. - Martin Luther King Jr.</code></pre>
-<pre><code>3 » I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. - Julis Alexia Van Riessfeld</code></pre>
+<pre><code>1 » If you don’t like your destiny, don’t accept it. - Naruto Uzumaki</code></pre>
+<pre><code>2 » When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. - Helen Keller</code></pre>
+<pre><code>3 » No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least - Levi Ackerman</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
