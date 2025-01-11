@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/fdd45197dfea370cfbf4515325bfb93995aee9a4a7a9f8535037602875f9ff4d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332313925323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C219%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9e2cf8a90d8be20efcf0f181ac6c2aaea415a15135ac2ade088e2eb8a97e6340/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323230253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,125+ Commits made on Github</p>
+<p>🏆 3,126+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -155,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 10, 2025</td>
-<td>19:22:46 IST</td>
+<td>Saturday</td>
+<td>January 11, 2025</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 11, 2025</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>January 12, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,14 +174,17 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>How can you tell a vampire has a cold?</code></pre>
-<pre><code>» They start coffin.</code></pre>
+<pre><code>What is the least spoken language in the world?</code></pre>
+<pre><code>» Sign language.</code></pre>
 <hr>
-<pre><code>I just watched a documentary about beavers.</code></pre>
-<pre><code>» It was the best dam show I ever saw</code></pre>
+<pre><code>Finally realized why my plant sits around doing nothing all day...</code></pre>
+<pre><code>» He loves his pot.</code></pre>
 <hr>
-<pre><code>What is Gohan's favorite instrument?</code></pre>
-<pre><code>» The PICCOLO!</code></pre>
+<pre><code>Knock knock. 
+ Who's there? 
+ A broken pencil. 
+ A broken pencil who?</code></pre>
+<pre><code>» Never mind. It's pointless.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -191,9 +194,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
-<pre><code>2 » Babies are most likely to be born on Tuesdays.</code></pre>
-<pre><code>3 » The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.</code></pre>
+<pre><code>1 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
+<pre><code>2 » Canada makes up 6.67 percent of the Earth`s land area</code></pre>
+<pre><code>3 » In Vermont, the ratio of cows to people is 10:1</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +206,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!” - Natsu Dragneel</code></pre>
-<pre><code>2 » I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. - Leonardo da Vinci</code></pre>
-<pre><code>3 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
+<pre><code>1 » Life is what we make it, always has been, always will be. - Grandma Moses</code></pre>
+<pre><code>2 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
+<pre><code>3 » Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. - Gilgamesh</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
