@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/9e2cf8a90d8be20efcf0f181ac6c2aaea415a15135ac2ade088e2eb8a97e6340/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323230253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d091c2abf5bcffbc558c5f06833b07645b69e516ebd545ffac446bf4b120a220/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323025323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,126+ Commits made on Github</p>
+<p>🏆 3,127+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -66,48 +66,54 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>1 hr 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.86%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.99%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>6 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.27%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.6%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.41%</td>
+<td>3.56%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.46%</td>
+<td>0.25%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>1 hr 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>85.84%</td>
+<td>VS Code</td>
+<td>1 hr 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.44%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>10 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.16%</td>
+<td>Android Studio</td>
+<td>1 hr 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.56%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 12 mins</td>
+<td>2 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 11, 2025</td>
-<td>19:22:58 IST</td>
+<td>Sunday</td>
+<td>January 12, 2025</td>
+<td>19:22:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 12, 2025</td>
-<td>19:20:55 IST</td>
+<td>Monday</td>
+<td>January 13, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,17 +180,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What is the least spoken language in the world?</code></pre>
-<pre><code>» Sign language.</code></pre>
+<pre><code>One time I masturbated on a plane.</code></pre>
+<pre><code>» I called it "highjacking".</code></pre>
 <hr>
-<pre><code>Finally realized why my plant sits around doing nothing all day...</code></pre>
-<pre><code>» He loves his pot.</code></pre>
+<pre><code>What kind of shoes does a thief wear?</code></pre>
+<pre><code>» Sneakers</code></pre>
 <hr>
-<pre><code>Knock knock. 
- Who's there? 
- A broken pencil. 
- A broken pencil who?</code></pre>
-<pre><code>» Never mind. It's pointless.</code></pre>
+<pre><code>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</code></pre>
+<pre><code>» the rest of them will write Perl</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -194,9 +197,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
-<pre><code>2 » Canada makes up 6.67 percent of the Earth`s land area</code></pre>
-<pre><code>3 » In Vermont, the ratio of cows to people is 10:1</code></pre>
+<pre><code>1 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
+<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
+<pre><code>3 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -206,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Life is what we make it, always has been, always will be. - Grandma Moses</code></pre>
-<pre><code>2 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
-<pre><code>3 » Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness. - Gilgamesh</code></pre>
+<pre><code>1 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
+<pre><code>2 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
+<pre><code>3 » I want you to be happy. I want you to laugh a lot. I don’t know what exactly I’ll be able to do for you, but I’ll always be by your side. - Kagome</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
