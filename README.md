@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d091c2abf5bcffbc558c5f06833b07645b69e516ebd545ffac446bf4b120a220/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323025323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,127+ Commits made on Github</p>
+<p>🏆 3,128+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 12, 2025</td>
-<td>19:22:52 IST</td>
+<td>Monday</td>
+<td>January 13, 2025</td>
+<td>19:23:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 13, 2025</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>January 14, 2025</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -180,14 +180,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>One time I masturbated on a plane.</code></pre>
-<pre><code>» I called it "highjacking".</code></pre>
+<pre><code>Why didn’t the orange win the race?</code></pre>
+<pre><code>» It ran out of juice.</code></pre>
 <hr>
-<pre><code>What kind of shoes does a thief wear?</code></pre>
-<pre><code>» Sneakers</code></pre>
+<pre><code>You see, mountains aren't just funny.</code></pre>
+<pre><code>» They are hill areas.</code></pre>
 <hr>
-<pre><code>If you put a million monkeys at a million keyboards, one of them will eventually write a Java program</code></pre>
-<pre><code>» the rest of them will write Perl</code></pre>
+<pre><code>Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?</code></pre>
+<pre><code>» Because there’s a Shortstop in between!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +197,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
-<pre><code>2 » The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</code></pre>
-<pre><code>3 » The symbol on the "pound" key (#) is called an octothorpe..  </code></pre>
+<pre><code>1 » A giraffe can go without water longer than a camel.</code></pre>
+<pre><code>2 » Shakespeare invented the word `assassination` and `bump`.</code></pre>
+<pre><code>3 » Average number of days a West German goes without washing his underwear: 7</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
-<pre><code>2 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
-<pre><code>3 » I want you to be happy. I want you to laugh a lot. I don’t know what exactly I’ll be able to do for you, but I’ll always be by your side. - Kagome</code></pre>
+<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
+<pre><code>2 » Too many of us are not living our dreams because we are living our fears. - Les Brown</code></pre>
+<pre><code>3 » Life is what we make it, always has been, always will be. - Grandma Moses</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
