@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d091c2abf5bcffbc558c5f06833b07645b69e516ebd545ffac446bf4b120a220/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323025323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,131+ Commits made on Github</p>
+<p>🏆 3,132+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,56 +64,50 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.99%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.6%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.93%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>6 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.6%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.04%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.56%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.25%</td>
+<td>0.04%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.44%</td>
+<td>58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.93%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.56%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.07%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 11 mins</td>
+<td>58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -161,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 16, 2025</td>
-<td>19:22:59 IST</td>
+<td>Friday</td>
+<td>January 17, 2025</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 17, 2025</td>
-<td>19:20:55 IST</td>
+<td>Saturday</td>
+<td>January 18, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -180,14 +174,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do Japanese cannibals eat?</code></pre>
-<pre><code>» Raw men.</code></pre>
+<pre><code>Where do rabbits go after they get married?</code></pre>
+<pre><code>» On a bunny-moon.</code></pre>
 <hr>
-<pre><code>What does a turkey dress up as for Halloween?</code></pre>
-<pre><code>» A gobblin'!</code></pre>
+<pre><code>Why do bears have hairy coats?</code></pre>
+<pre><code>» Fur protection.</code></pre>
 <hr>
-<pre><code>Why do programmers confuse Halloween and Christmas?</code></pre>
-<pre><code>» Because Oct 31 = Dec 25</code></pre>
+<pre><code>What do you call a sheep with no legs?</code></pre>
+<pre><code>» A cloud.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +191,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</code></pre>
-<pre><code>2 » When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</code></pre>
-<pre><code>3 » There are no clocks in Las Vegas gambling casinos.</code></pre>
+<pre><code>1 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
+<pre><code>2 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
+<pre><code>3 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It’s just pathetic to give up on something before you even give it a shot. - Reiko Mikami</code></pre>
-<pre><code>2 » Whatever you lose, you’ll find it again. But what you throw away you’ll never get back. - Kenshin Himura</code></pre>
-<pre><code>3 » It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt. - Grimsley</code></pre>
+<pre><code>1 » The last ones standing are the victors Only the strongest If you want to be the last one standing become strong - Tobio Kageyama</code></pre>
+<pre><code>2 » Life is what happens to you while you’re busy making other plans. - John Lennon</code></pre>
+<pre><code>3 » You can never cross the ocean until you have the courage to lose sight of the shore. - Christopher Columbus</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
