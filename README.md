@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d091c2abf5bcffbc558c5f06833b07645b69e516ebd545ffac446bf4b120a220/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323025323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,132+ Commits made on Github</p>
+<p>🏆 3,133+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -155,14 +155,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 17, 2025</td>
-<td>19:22:46 IST</td>
+<td>Saturday</td>
+<td>January 18, 2025</td>
+<td>19:22:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 18, 2025</td>
+<td>Sunday</td>
+<td>January 19, 2025</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -174,14 +174,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Where do rabbits go after they get married?</code></pre>
-<pre><code>» On a bunny-moon.</code></pre>
+<pre><code>How many programmers does it take to change a lightbulb?</code></pre>
+<pre><code>» None that's a hardware problem</code></pre>
 <hr>
-<pre><code>Why do bears have hairy coats?</code></pre>
-<pre><code>» Fur protection.</code></pre>
+<pre><code>Why did the octopus beat the shark in a fight?</code></pre>
+<pre><code>» Because it was well armed.</code></pre>
 <hr>
-<pre><code>What do you call a sheep with no legs?</code></pre>
-<pre><code>» A cloud.</code></pre>
+<pre><code>What kind of music do planets listen to?</code></pre>
+<pre><code>» Nep-tunes.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -191,9 +191,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Shakespeare is quoted 33,150 times in the Oxford English dictionary.</code></pre>
-<pre><code>2 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
-<pre><code>3 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
+<pre><code>1 » Simplistic passwords contribute to over 80% of all computer password break-ins.</code></pre>
+<pre><code>2 » Shakespeare invented the word `assassination` and `bump`.</code></pre>
+<pre><code>3 » Almonds are a member of the peach family.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The last ones standing are the victors Only the strongest If you want to be the last one standing become strong - Tobio Kageyama</code></pre>
-<pre><code>2 » Life is what happens to you while you’re busy making other plans. - John Lennon</code></pre>
-<pre><code>3 » You can never cross the ocean until you have the courage to lose sight of the shore. - Christopher Columbus</code></pre>
+<pre><code>1 » The question isn’t who is going to let me; it’s who is going to stop me. - Ayn Rand</code></pre>
+<pre><code>2 » To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have. - Matsumoto Rangiku</code></pre>
+<pre><code>3 » Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
