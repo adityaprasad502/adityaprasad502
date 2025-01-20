@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/310ab457409fcc6b149edc4c6e6a17c95cb38262d73b54b50c6207941923f4a2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323025323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C220%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,134+ Commits made on Github</p>
+<p>🏆 3,135+ Commits made on Github</p>
 <p>📦 46.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -61,18 +61,33 @@ fun main() {
 <td>42.75%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>HTML</td>
+<td>6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,15 +131,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 19, 2025</td>
-<td>19:22:51 IST</td>
+<td>Monday</td>
+<td>January 20, 2025</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 20, 2025</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>January 21, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,14 +150,14 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>How many Dragon Ball Z characters does it take to screw in a Light Bulb?</code></pre>
-<pre><code>» Just One! But it'll take 6 episodes.</code></pre>
+<pre><code>What did the mountain climber name his son?</code></pre>
+<pre><code>» Cliff.</code></pre>
 <hr>
-<pre><code>I just watched a documentary about beavers.</code></pre>
-<pre><code>» It was the best dam show I ever saw</code></pre>
+<pre><code>What musical instrument is found in the bathroom?</code></pre>
+<pre><code>» A tuba toothpaste.</code></pre>
 <hr>
-<pre><code>Why did the koala get rejected?</code></pre>
-<pre><code>» Because he did not have any koalafication.</code></pre>
+<pre><code>Why does a chicken coop only have two doors?</code></pre>
+<pre><code>» Because if it had four doors it would be a chicken sedan.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +167,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The sweat drops drawn in cartoon comic strips are called pleuts.</code></pre>
-<pre><code>2 » The average American/Canadian will eat about 11.9 pounds of cereal per year!</code></pre>
-<pre><code>3 » Poland is the "stolen car capital of the world".</code></pre>
+<pre><code>1 » There is a town in Newfoundland, Canada called Dildo.</code></pre>
+<pre><code>2 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
+<pre><code>3 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +179,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight - Eren</code></pre>
-<pre><code>2 » Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that. - Keima Katsuragi</code></pre>
-<pre><code>3 » People’s lives don’t end when they die, it ends when they lose faith. - Itachi Uchiha</code></pre>
+<pre><code>1 » People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. - Zig Ziglar</code></pre>
+<pre><code>2 » If you just submit yourself to fate, then that’s the end of it. - Keiichi Maebara</code></pre>
+<pre><code>3 » If you’re gonna insist on gambling and then complain when you lose, you had better work on your game. - Hatsu Kominato</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
