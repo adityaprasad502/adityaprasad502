@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/1ab7469bf66f2858b766b3bccb0465a92b23b631f3ac7b57fec1425cff0bb2b4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323125323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C221%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,139+ Commits made on Github</p>
-<p>📦 46.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,140+ Commits made on Github</p>
+<p>📦 46.9 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>January 21, 2025</td>
-<td>19:23:03 IST</td>
+<td>Wednesday</td>
+<td>January 22, 2025</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>January 22, 2025</td>
-<td>19:20:00 IST</td>
+<td>Thursday</td>
+<td>January 23, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -180,14 +180,15 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>A SQL query walks into a bar, walks up to two tables and asks...</code></pre>
-<pre><code>» 'Can I join you?'</code></pre>
+<pre><code>What's the difference between a seal and a sea lion?</code></pre>
+<pre><code>» An ion! </code></pre>
 <hr>
-<pre><code>Thank you student loans for getting me through college.</code></pre>
-<pre><code>» I don't think I'll ever be able to repay you.</code></pre>
+<pre><code>Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</code></pre>
 <hr>
-<pre><code>How does an octopus go into battle?</code></pre>
-<pre><code>» Well-armed!</code></pre>
+<pre><code>How did the hipster burn the roof of his mouth?</code></pre>
+<pre><code>» He ate the pizza before it was cool.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +198,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » If done perfectly, a rubix cube combination can be solved in 17 turns.</code></pre>
-<pre><code>2 » Van Gogh only sold one painting when he was alive.</code></pre>
-<pre><code>3 » The pop you hear when you crack your knuckles is actually a bubble of gas burning.</code></pre>
+<pre><code>1 » Almonds are a member of the peach family.</code></pre>
+<pre><code>2 » There are 269 steps to the top of the Leaning Tower of Pisa</code></pre>
+<pre><code>3 » Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +210,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. - Helen Keller</code></pre>
-<pre><code>2 » Life shrinks or expands in proportion to one’s courage. - Anais Nin</code></pre>
-<pre><code>3 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
+<pre><code>1 » Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever! - Izuku Midoriya</code></pre>
+<pre><code>2 » Few things can help an individual more than to place responsibility on him, and to let him know that you trust him. - Booker T. Washington</code></pre>
+<pre><code>3 » You can die anytime, but living takes true courage. - Kenshin Himura</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
