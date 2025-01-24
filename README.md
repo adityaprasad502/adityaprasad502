@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/40c4e7f93b18eb958ed552473f0c5cae48370eb20b78001be382026c1de58bee/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323233253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C223%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,147+ Commits made on Github</p>
+<p>🏆 3,148+ Commits made on Github</p>
 <p>📦 46.9 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 23, 2025</td>
-<td>19:22:46 IST</td>
+<td>Friday</td>
+<td>January 24, 2025</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 24, 2025</td>
+<td>Saturday</td>
+<td>January 25, 2025</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -192,17 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Knock knock. 
- Who's there? 
- Little old lady. 
- Little old lady who?</code></pre>
-<pre><code>» I didn't know you could yodel!</code></pre>
+<pre><code>I can't believe I got fired from the calendar factory.</code></pre>
+<pre><code>» All I did was take a day off.</code></pre>
 <hr>
-<pre><code>Why was Cinderalla thrown out of the football team?</code></pre>
-<pre><code>» Because she ran away from the ball.</code></pre>
+<pre><code>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</code></pre>
 <hr>
-<pre><code>Why did the chicken get a penalty?</code></pre>
-<pre><code>» For fowl play.</code></pre>
+<pre><code>What do you call a deaf gynecologist?</code></pre>
+<pre><code>» A lip reader.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -212,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » An ostrich`s eye is bigger than its brain.  </code></pre>
-<pre><code>2 » A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.</code></pre>
-<pre><code>3 » All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.</code></pre>
+<pre><code>1 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
+<pre><code>2 » Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</code></pre>
+<pre><code>3 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -224,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The person who says it cannot be done should not interrupt the person who is doing it. - Chinese Proverb</code></pre>
-<pre><code>2 » If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward - Tobio Kageyama</code></pre>
-<pre><code>3 » Life isn’t about getting and having, it’s about giving and being. - Kevin Kruse</code></pre>
+<pre><code>1 » People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. - Zig Ziglar</code></pre>
+<pre><code>2 » People’s lives don’t end when they die, it ends when they lose faith. - Itachi Uchiha</code></pre>
+<pre><code>3 » I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. - Julis Alexia Van Riessfeld</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
