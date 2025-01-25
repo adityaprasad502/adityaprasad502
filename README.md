@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/40c4e7f93b18eb958ed552473f0c5cae48370eb20b78001be382026c1de58bee/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323233253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C223%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3a1ebbb58ba6449d4f773b9066a7fd7068f6fea60ef4e7270686ab3be875daf6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323425323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C224%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,148+ Commits made on Github</p>
-<p>📦 46.9 MiB Used in GitHub's Storage</p>
+<p>🏆 3,155+ Commits made on Github</p>
+<p>📦 68.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.25%</td>
+<td>15.09%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>94 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.29%</td>
+<td>24.04%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>68 commits</td>
+<td>66 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.57%</td>
+<td>16.88%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>166 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.89%</td>
+<td>172 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.99%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.8%</td>
+<td>1 hr 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.61%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>49 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.03%</td>
+<td>52 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.82%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>21 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.02%</td>
+<td>26 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.08%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>17 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.88%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.33%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>12 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.26%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.49%</td>
+<td>2.68%</td>
 </tr> 
  <tr>
-<td>Properties</td>
-<td>1 min</td>
+<td>YAML</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
-</tr> 
- <tr>
-<td>Java Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>1.28%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.51%</td>
+<td>3 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.42%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.49%</td>
+<td>22 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.58%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 57 mins</td>
+<td>3 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 24, 2025</td>
-<td>19:22:49 IST</td>
+<td>Saturday</td>
+<td>January 25, 2025</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 25, 2025</td>
-<td>19:20:45 IST</td>
+<td>Sunday</td>
+<td>January 26, 2025</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I can't believe I got fired from the calendar factory.</code></pre>
-<pre><code>» All I did was take a day off.</code></pre>
+<pre><code>What is the least spoken language in the world?</code></pre>
+<pre><code>» Sign language.</code></pre>
 <hr>
-<pre><code>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</code></pre>
+<pre><code>What's the worst part about being a cross-eyed teacher?</code></pre>
+<pre><code>» They can't control their pupils.</code></pre>
 <hr>
-<pre><code>What do you call a deaf gynecologist?</code></pre>
-<pre><code>» A lip reader.</code></pre>
+<pre><code>How much does a full metal alchemist boxset cost? </code></pre>
+<pre><code>» An Arm and a Leg</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</code></pre>
-<pre><code>2 » Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</code></pre>
-<pre><code>3 » Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</code></pre>
+<pre><code>1 » A Boeing 747`s wingspan is longer than the Wright brother`s first flight.</code></pre>
+<pre><code>2 » All polar bears are left-handed.</code></pre>
+<pre><code>3 » If done perfectly, a rubix cube combination can be solved in 17 turns.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. - Zig Ziglar</code></pre>
-<pre><code>2 » People’s lives don’t end when they die, it ends when they lose faith. - Itachi Uchiha</code></pre>
-<pre><code>3 » I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for. - Julis Alexia Van Riessfeld</code></pre>
+<pre><code>1 » It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight - Eren</code></pre>
+<pre><code>2 » People who can’t throw something important away, can never hope to change anything. - Armin Arlelt</code></pre>
+<pre><code>3 » If you can’t do something, then don’t. Focus on what you can. - Shiroe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
