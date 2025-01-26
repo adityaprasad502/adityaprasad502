@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3a1ebbb58ba6449d4f773b9066a7fd7068f6fea60ef4e7270686ab3be875daf6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323425323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C224%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,155+ Commits made on Github</p>
+<p>🏆 3,156+ Commits made on Github</p>
 <p>📦 68.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 25, 2025</td>
-<td>19:23:02 IST</td>
+<td>Sunday</td>
+<td>January 26, 2025</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 26, 2025</td>
-<td>19:20:00 IST</td>
+<td>Monday</td>
+<td>January 27, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,17 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What is the least spoken language in the world?</code></pre>
-<pre><code>» Sign language.</code></pre>
+<pre><code>My wife left me because I'm too insecure and paranoid.</code></pre>
+<pre><code>» Oh wait, never mind. She was just getting the mail.</code></pre>
 <hr>
-<pre><code>What's the worst part about being a cross-eyed teacher?</code></pre>
-<pre><code>» They can't control their pupils.</code></pre>
+<pre><code>Y-You can tune a piano..... </code></pre>
+<pre><code>» ...but you can't tuna fish!</code></pre>
 <hr>
-<pre><code>How much does a full metal alchemist boxset cost? </code></pre>
-<pre><code>» An Arm and a Leg</code></pre>
+<pre><code>Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +212,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A Boeing 747`s wingspan is longer than the Wright brother`s first flight.</code></pre>
-<pre><code>2 » All polar bears are left-handed.</code></pre>
-<pre><code>3 » If done perfectly, a rubix cube combination can be solved in 17 turns.</code></pre>
+<pre><code>1 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
+<pre><code>2 » The average person spends 12 weeks a year `looking for things`.</code></pre>
+<pre><code>3 » Only one person in two billion will live to be 116 or older.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +224,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight - Eren</code></pre>
-<pre><code>2 » People who can’t throw something important away, can never hope to change anything. - Armin Arlelt</code></pre>
-<pre><code>3 » If you can’t do something, then don’t. Focus on what you can. - Shiroe</code></pre>
+<pre><code>1 » The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela</code></pre>
+<pre><code>2 » The person who says it cannot be done should not interrupt the person who is doing it. - Chinese Proverb</code></pre>
+<pre><code>3 » If you don’t take risks, you can’t create a future! - Monkey D Luffy</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
