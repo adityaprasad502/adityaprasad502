@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3a1ebbb58ba6449d4f773b9066a7fd7068f6fea60ef4e7270686ab3be875daf6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323425323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C224%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d3483512750f46457238fb11ccb8078e4c4989a0f719354b95531103de5c8383/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323425323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C224%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,156+ Commits made on Github</p>
+<p>🏆 3,160+ Commits made on Github</p>
 <p>📦 68.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.09%</td>
+<td>15.05%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>94 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.04%</td>
+<td>23.98%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>66 commits</td>
+<td>67 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.88%</td>
+<td>17.09%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>172 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.99%</td>
+<td>43.88%</td>
 </tr>
 </tbody></table>
 <table>
@@ -67,43 +67,43 @@ fun main() {
 <td>Kotlin</td>
 <td>1 hr 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.61%</td>
+<td>50.93%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>52 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.82%</td>
+<td>22.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>26 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.08%</td>
+<td>11.38%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.33%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.52%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>12 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.26%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.68%</td>
+<td>5.4%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.28%</td>
+<td>1.32%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.53%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>3 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.42%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>92.82%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>22 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.58%</td>
+<td>16 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.18%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 59 mins</td>
+<td>3 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 26, 2025</td>
-<td>19:22:59 IST</td>
+<td>Monday</td>
+<td>January 27, 2025</td>
+<td>19:23:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 27, 2025</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>January 28, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,17 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>My wife left me because I'm too insecure and paranoid.</code></pre>
-<pre><code>» Oh wait, never mind. She was just getting the mail.</code></pre>
+<pre><code>A DHCP packet walks into a bar and asks for a beer.</code></pre>
+<pre><code>» Bartender says, "here, but I’ll need that back in an hour!"</code></pre>
 <hr>
-<pre><code>Y-You can tune a piano..... </code></pre>
-<pre><code>» ...but you can't tuna fish!</code></pre>
+<pre><code>Why did the JavaScript heap close shop?</code></pre>
+<pre><code>» It ran out of memory.</code></pre>
 <hr>
-<pre><code>Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.</code></pre>
+<pre><code>What do elves post on Social Media?</code></pre>
+<pre><code>» Elf-ies!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -212,9 +209,9 @@ But I'd use RGB for you.</code></pre>
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
-<pre><code>2 » The average person spends 12 weeks a year `looking for things`.</code></pre>
-<pre><code>3 » Only one person in two billion will live to be 116 or older.</code></pre>
+<pre><code>1 » `Obsession` is the most popular boat name.</code></pre>
+<pre><code>2 » An eighteenth-century German named Matthew Birchinger, known as "the little man of Nuremberg," played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.</code></pre>
+<pre><code>3 » NBA superstar Michael Jordan was originally cut from his high school basketball team.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -224,9 +221,9 @@ But I'd use RGB for you.</code></pre>
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela</code></pre>
-<pre><code>2 » The person who says it cannot be done should not interrupt the person who is doing it. - Chinese Proverb</code></pre>
-<pre><code>3 » If you don’t take risks, you can’t create a future! - Monkey D Luffy</code></pre>
+<pre><code>1 » Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. - Miss Kobayashi</code></pre>
+<pre><code>2 » The two most important days in your life are the day you are born and the day you find out why. - Mark Twain</code></pre>
+<pre><code>3 » Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever! - Izuku Midoriya</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
