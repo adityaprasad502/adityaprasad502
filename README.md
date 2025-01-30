@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a9b77ed439d5ec91bc76943875011472d6352ff5149d8980a1e5548e4bbfd88b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323625323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C226%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8a82c199d897f3e034b397fbcff6225abf870079c976c00eafd144abec075603/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323625323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C226%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,166+ Commits made on Github</p>
+<p>🏆 3,167+ Commits made on Github</p>
 <p>📦 68.7 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,68 +64,68 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.2%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>1 hr 40 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.93%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.99%</td>
 </tr> 
  <tr>
-<td>Groovy</td>
-<td>43 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.25%</td>
+<td>Kotlin</td>
+<td>1 hr 10 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.6%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>26 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.25%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>21 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.47%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.74%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>17 mins</td>
+<td>16 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.36%</td>
+<td>7.36%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>5 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.22%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.94%</td>
+<td>1.34%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.09%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>3 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.7%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
 <td>2 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.73%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>1 hr 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.3%</td>
+<td>41.27%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 26 mins</td>
+<td>3 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 29, 2025</td>
-<td>19:23:05 IST</td>
+<td>Thursday</td>
+<td>January 30, 2025</td>
+<td>19:23:20 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 30, 2025</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>January 31, 2025</td>
+<td>19:20:20 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do you get when you cross a chicken with a skunk?</code></pre>
-<pre><code>» A fowl smell!</code></pre>
+<pre><code>Yo mama is so old, she knew Burger King while he was still a prince.</code></pre>
 <hr>
-<pre><code>Why can’t you hear a pterodactyl go to the bathroom?</code></pre>
-<pre><code>» The p is silent.</code></pre>
+<pre><code>What did the dog say to the two trees?</code></pre>
+<pre><code>» Bark bark.</code></pre>
 <hr>
-<pre><code>Why did the ghost go inside the bar?</code></pre>
-<pre><code>» For the boos.</code></pre>
+<pre><code>Is the pool safe for diving?</code></pre>
+<pre><code>» It deep ends.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </code></pre>
-<pre><code>2 » Women blink nearly twice as much as men.</code></pre>
-<pre><code>3 » Giraffes have no vocal cords.</code></pre>
+<pre><code>1 » Starfish haven`t got brains.</code></pre>
+<pre><code>2 » In the average lifetime, a person will walk the equivalent of 5 times around the equator.</code></pre>
+<pre><code>3 » There are 1 million ants for every human in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Who decides limits? And based on what? You said you worked hard? Well, maybe you need to work a little harder. Is that really the limit of your strength? Could you of tomorrow beat you today? Instead of giving in, move forward. - Saitama</code></pre>
-<pre><code>2 » Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. - Sebastian Michaelis</code></pre>
-<pre><code>3 » Go confidently in the direction of your dreams.  Live the life you have imagined. - Henry David Thoreau</code></pre>
+<pre><code>1 » Strive not to be a success, but rather to be of value. - Albert Einstein</code></pre>
+<pre><code>2 » I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person - Armin Arlert</code></pre>
+<pre><code>3 » If you can’t do something, then don’t. Focus on what you can do. - Shiroe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
