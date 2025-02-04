@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8a82c199d897f3e034b397fbcff6225abf870079c976c00eafd144abec075603/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323625323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C226%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,171+ Commits made on Github</p>
+<p>🏆 3,172+ Commits made on Github</p>
 <p>📦 68.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,68 +64,32 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>1 hr 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.77%</td>
-</tr> 
- <tr>
 <td>Kotlin</td>
-<td>32 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.5%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>26 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.09%</td>
+<td>5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.98%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>11 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.98%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.04%</td>
-</tr> 
- <tr>
-<td>Docker</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.14%</td>
-</tr> 
- <tr>
-<td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.43%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>1 hr 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.48%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
-<td>49 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.52%</td>
+<td>5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 47 mins</td>
+<td>5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +137,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>February 03, 2025</td>
-<td>19:22:58 IST</td>
+<td>Tuesday</td>
+<td>February 04, 2025</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>February 04, 2025</td>
+<td>Wednesday</td>
+<td>February 05, 2025</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +156,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What is the hardest part about sky diving?</code></pre>
-<pre><code>» The ground.</code></pre>
+<pre><code>How do you comfort a JavaScript bug?</code></pre>
+<pre><code>» You console it!</code></pre>
 <hr>
-<pre><code>Who did the wizard marry?</code></pre>
-<pre><code>» His ghoul-friend</code></pre>
+<pre><code>My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.</code></pre>
 <hr>
-<pre><code>What did the cell say when his sister cell stepped on his foot?</code></pre>
-<pre><code>» Mitosis.</code></pre>
+<pre><code>If you boil a clown...</code></pre>
+<pre><code>» Do you get a laughing stock?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +173,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</code></pre>
-<pre><code>2 » Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</code></pre>
-<pre><code>3 » 3.6 cans of Spam are consumed each second.</code></pre>
+<pre><code>1 » Most dust particles in your house are made from dead skin.</code></pre>
+<pre><code>2 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
+<pre><code>3 » There is approximately one chicken for every human being in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +185,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. - Gildarts Clive</code></pre>
-<pre><code>2 » It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt. - Grimsley</code></pre>
-<pre><code>3 » If you don’t share someone’s pain, you can never understand them. - Nagato</code></pre>
+<pre><code>1 » Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice! - Don Quixote Doflamingo</code></pre>
+<pre><code>2 » Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end. - Clare</code></pre>
+<pre><code>3 » You take your life in your own hands, and what happens? A terrible thing, no one to blame. - Erica Jong</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
