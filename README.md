@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/8a82c199d897f3e034b397fbcff6225abf870079c976c00eafd144abec075603/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323625323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C226%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,175+ Commits made on Github</p>
+<p>🏆 3,176+ Commits made on Github</p>
 <p>📦 68.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -61,39 +61,18 @@ fun main() {
 <td>43.61%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>5 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.98%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>5 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>5 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -137,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>February 05, 2025</td>
-<td>19:22:46 IST</td>
+<td>Thursday</td>
+<td>February 06, 2025</td>
+<td>19:23:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>February 06, 2025</td>
-<td>19:20:45 IST</td>
+<td>Friday</td>
+<td>February 07, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -156,14 +135,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What happens to a frog's car when it breaks down?</code></pre>
-<pre><code>» It gets toad away</code></pre>
+<pre><code>What do you call a fly without wings?</code></pre>
+<pre><code>» A walk.</code></pre>
 <hr>
-<pre><code>What's grey and comes in pints?</code></pre>
-<pre><code>» An elephant.</code></pre>
+<pre><code>What do you call a droid that takes the long way around?</code></pre>
+<pre><code>» R2 detour.</code></pre>
 <hr>
-<pre><code>What did the shy pebble wish for?</code></pre>
-<pre><code>» That she was a little boulder.</code></pre>
+<pre><code>Did you hear about the cow who jumped over the barbed wire fence?</code></pre>
+<pre><code>» It was udder destruction.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -173,9 +152,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.</code></pre>
-<pre><code>2 » Meteorologists claim they`re right 85% of the time (think about that one!)</code></pre>
-<pre><code>3 » Most dust particles in your house are made from dead skin.</code></pre>
+<pre><code>1 » Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</code></pre>
+<pre><code>2 » The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</code></pre>
+<pre><code>3 » Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +164,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » There are some flowers you only see when you take detours - Tanaka Saeko</code></pre>
-<pre><code>2 » Definiteness of purpose is the starting point of all achievement. - W. Clement Stone</code></pre>
-<pre><code>3 » Sometimes it’s necessary to do unnecessary things. - Kanade Jinguuji</code></pre>
+<pre><code>1 » Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. - Kyousuke Natsume</code></pre>
+<pre><code>2 » Certain things catch your eye, but pursue only those that capture the heart. -  Ancient Indian Proverb</code></pre>
+<pre><code>3 » Life is like a tube of toothpaste. When you’ve used all the toothpaste down to the last squeeze, that’s when you’ve really lived. Live with all your might, and struggle as long as you have life. - Mion Sonozaki</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
