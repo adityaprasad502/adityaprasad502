@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6b06d08b8cbdc2538615f6191ce7f4c907813793d64a34477c1d91f820ef8618/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332323925323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C229%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/14692b51b6d8cae10f17e8590b7dd9f3c695501fb930a780f56a8b6a0ba3a5f3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332333325323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C233%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,183+ Commits made on Github</p>
+<p>🏆 3,188+ Commits made on Github</p>
 <p>📦 68.7 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,52 +65,52 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>63.01%</td>
+<td>3 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>71.9%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>45 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.24%</td>
+<td>1 hr 23 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.91%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.15%</td>
+<td>0.5%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.09%</td>
+<td>0.47%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.13%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.18%</td>
+<td>0.08%</td>
 </tr> 
  <tr>
 <td>Shrinker Config File</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.01%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 12 mins</td>
+<td>5 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -119,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 12 mins</td>
+<td>5 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>February 08, 2025</td>
-<td>19:22:52 IST</td>
+<td>Sunday</td>
+<td>February 09, 2025</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>February 09, 2025</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>February 10, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What's the best thing about Switzerland?</code></pre>
-<pre><code>» I don't know, but the flag is a big plus.</code></pre>
+<pre><code>Why would a guitarist become a good programmer?</code></pre>
+<pre><code>» He's adept at riffing in C#.</code></pre>
 <hr>
-<pre><code>Whats the Grinchs least favorite band?</code></pre>
-<pre><code>» The Who.</code></pre>
+<pre><code>Why was the designer always cold?</code></pre>
+<pre><code>» Because they always used too much ice-olation.</code></pre>
 <hr>
-<pre><code>How can you tell a vampire has a cold?</code></pre>
-<pre><code>» They start coffin.</code></pre>
+<pre><code>Schrödinger's cat walks into a bar and doesn't.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +202,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Blueberry Jelly Bellies were created especially for Ronald Reagan.</code></pre>
-<pre><code>2 » China has more English speakers than the United States.</code></pre>
-<pre><code>3 » Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.</code></pre>
+<pre><code>1 » The average American butt is 14.9 inches long.</code></pre>
+<pre><code>2 » Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </code></pre>
+<pre><code>3 » There are 1 million ants for every human in the world.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +214,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » We can’t help everyone, but everyone can help someone. - Ronald Reagan</code></pre>
-<pre><code>2 » That’s why I can’t make a change. Everything I do is so… Half-assed. - Hiroshi Kido</code></pre>
-<pre><code>3 » If you want your children to turn out well, spend twice as much time with them, and half as much money. - Abigail Van Buren</code></pre>
+<pre><code>1 » If you can’t find a reason to fight, then you shouldn’t be fighting. - Akame</code></pre>
+<pre><code>2 » Life is not measured by the number of breaths we take, but by the moments that take our breath away. - Maya Angelou</code></pre>
+<pre><code>3 » When I let go of what I am, I become what I might be. - Lao Tzu</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
