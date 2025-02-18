@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/14692b51b6d8cae10f17e8590b7dd9f3c695501fb930a780f56a8b6a0ba3a5f3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332333325323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C233%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,196+ Commits made on Github</p>
+<p>🏆 3,197+ Commits made on Github</p>
 <p>📦 68.7 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -61,39 +61,18 @@ fun main() {
 <td>44.67%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.61%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.39%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -137,14 +116,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>February 17, 2025</td>
-<td>19:22:45 IST</td>
+<td>Tuesday</td>
+<td>February 18, 2025</td>
+<td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>February 18, 2025</td>
+<td>Wednesday</td>
+<td>February 19, 2025</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody></table>
@@ -156,17 +135,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Knock knock. 
- Who's there? 
- Hatch. 
- Hatch who?</code></pre>
-<pre><code>» Bless you!</code></pre>
-<hr>
-<pre><code>What do you call a suspicious looking laptop?</code></pre>
-<pre><code>» Asus</code></pre>
-<hr>
 <pre><code>What type of music do balloons hate?</code></pre>
 <pre><code>» Pop music!</code></pre>
+<hr>
+<pre><code>Why couldn't the kid see the pirate movie?</code></pre>
+<pre><code>» Because it was rated arrr!</code></pre>
+<hr>
+<pre><code>What do I look like?</code></pre>
+<pre><code>» A JOKE MACHINE!?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -176,9 +152,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It has been estimated that humans use only 10% of their brain.</code></pre>
-<pre><code>2 » The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</code></pre>
-<pre><code>3 » Shakespeare invented the word `assassination` and `bump`.</code></pre>
+<pre><code>1 » Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.</code></pre>
+<pre><code>2 » The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</code></pre>
+<pre><code>3 » In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -188,9 +164,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless. - Jamie Paolinetti</code></pre>
-<pre><code>2 » We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever. - Hitsugaya Toshiro</code></pre>
-<pre><code>3 » Remember no one can make you feel inferior without your consent. - Eleanor Roosevelt</code></pre>
+<pre><code>1 » If you can’t do something, then don’t. Focus on what you can. - Shiroe</code></pre>
+<pre><code>2 » The question isn’t who is going to let me; it’s who is going to stop me. - Ayn Rand</code></pre>
+<pre><code>3 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
