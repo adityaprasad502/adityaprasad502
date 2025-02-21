@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/950dcbe469096863ba7b4950272cc187795f5a1ad73c3c633c2e424778e7d028/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332333425323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C234%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,225+ Commits made on Github</p>
+<p>🏆 3,226+ Commits made on Github</p>
 <p>📦 66.9 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>February 20, 2025</td>
-<td>19:23:02 IST</td>
+<td>Friday</td>
+<td>February 21, 2025</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>February 21, 2025</td>
-<td>19:20:00 IST</td>
+<td>Saturday</td>
+<td>February 22, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,12 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why couldn't the lifeguard save the hippie?</code></pre>
-<pre><code>» He was too far out, man.</code></pre>
+<pre><code>My parents raised me as an only child, which really annoyed my younger brother.</code></pre>
 <hr>
-<pre><code>Why did the bicycle fall over?</code></pre>
-<pre><code>» Because it was two-tired!</code></pre>
+<pre><code>I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.</code></pre>
 <hr>
-<pre><code>Why do programmers prefer dark mode?</code></pre>
-<pre><code>» Because the light attracts bugs!</code></pre>
+<pre><code>Do you want a brief explanation of what an acorn is?</code></pre>
+<pre><code>» In a nutshell, it's an oak tree.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +207,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In every episode of Seinfeld there is a Superman somewhere.</code></pre>
-<pre><code>2 » Weatherman Willard Scott was the first original Ronald McDonald.</code></pre>
-<pre><code>3 » South Dakota is the only U.S state which shares no letters with the name of it`s capital</code></pre>
+<pre><code>1 » There are more than 10 million bricks in the Empire State Building!</code></pre>
+<pre><code>2 » Blueberry Jelly Bellies were created especially for Ronald Reagan.</code></pre>
+<pre><code>3 » There are 1,792 steps in the Eiffel Tower</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +219,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? - Yuuji Kazami</code></pre>
-<pre><code>2 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
-<pre><code>3 » Whatever you do, enjoy it to the fullest. That is the secret of life. - Rider</code></pre>
+<pre><code>1 » We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. - Marie Curie</code></pre>
+<pre><code>2 » The greatest pleasure in life is doing what people say you cannot do. - Walter Bagehot</code></pre>
+<pre><code>3 » As Long As We Continue To Fight We Are Not Defeated - Miche Zacharius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
