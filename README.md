@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/950dcbe469096863ba7b4950272cc187795f5a1ad73c3c633c2e424778e7d028/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332333425323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C234%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,228+ Commits made on Github</p>
+<p>🏆 3,229+ Commits made on Github</p>
 <p>📦 66.9 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>February 23, 2025</td>
-<td>19:22:50 IST</td>
+<td>Monday</td>
+<td>February 24, 2025</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>February 24, 2025</td>
+<td>Tuesday</td>
+<td>February 25, 2025</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -192,18 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."</code></pre>
+<pre><code>How many hipsters does it take to change a lightbulb?</code></pre>
+<pre><code>» Oh, it's a really obscure number. You've probably never heard of it.</code></pre>
 <hr>
-<pre><code>When is a door not a door?</code></pre>
-<pre><code>» When it's ajar.</code></pre>
+<pre><code>Why did the tree go to the dentist?</code></pre>
+<pre><code>» It needed a root canal.</code></pre>
 <hr>
-<pre><code>What do you call an elephant that doesn’t matter?</code></pre>
-<pre><code>» An irrelephant.</code></pre>
+<pre><code>Dark humor is like cancer.</code></pre>
+<pre><code>» It's more funny when children get it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
-<pre><code>2 » Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</code></pre>
-<pre><code>3 » A dime has 118 ridges around the edge.</code></pre>
+<pre><code>1 » Ten percent of the Russian government`s income comes from the sale of vodka.</code></pre>
+<pre><code>2 » Donald Duck`s middle name is Fauntleroy.  </code></pre>
+<pre><code>3 » Babies are most likely to be born on Tuesdays.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -225,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You become what you believe. - Oprah Winfrey</code></pre>
-<pre><code>2 » Sometimes it’s necessary to do unnecessary things. - Kanade Jinguuji</code></pre>
-<pre><code>3 » Every strike brings me closer to the next home run. - Babe Ruth</code></pre>
+<pre><code>1 » I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. - Michael Jordan</code></pre>
+<pre><code>2 » You take your life in your own hands, and what happens? A terrible thing, no one to blame. - Erica Jong</code></pre>
+<pre><code>3 » When I let go of what I am, I become what I might be. - Lao Tzu</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
