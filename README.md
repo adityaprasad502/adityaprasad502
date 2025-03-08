@@ -25,12 +25,12 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5453261ed02c7d82bd1d9992839a6690eec35aeb64906cbc63e7558fe3f4fefd/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332333625323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C236%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3c014c7961ba0b5c10b786fdfacb981ff0d2141ada77830116c6675d85918734/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332343025323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C240%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,319+ Commits made on Github</p>
+<p>🏆 3,323+ Commits made on Github</p>
 <p>📦 67.0 MiB Used in GitHub's Storage</p>
-<p>📜 6 Public Repositories</p>
+<p>📜 7 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
 <p>📊 <strong>This Week I Spent My Time On</strong></p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>58 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.74%</td>
+<td>13.65%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>94 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.27%</td>
+<td>22.12%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>64 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.17%</td>
+<td>15.06%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>206 commits</td>
+<td>209 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.82%</td>
+<td>49.18%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,44 +66,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.64%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.89%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>17 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.14%</td>
+<td>10.21%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>13 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.83%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>10 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.39%</td>
+<td>5.86%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.61%</td>
+<td>1.48%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.4%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.14%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.07%</td>
-</tr> 
- <tr>
-<td>Shrinker Config File</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>0.13%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.39%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.15%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.61%</td>
+<td>16 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.85%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 36 mins</td>
+<td>2 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -136,52 +136,52 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.0%</td>
+<td>53.85%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.0%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.38%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.0%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.38%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>7.69%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>3.85%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>3.85%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>March 07, 2025</td>
-<td>19:23:11 IST</td>
+<td>Saturday</td>
+<td>March 08, 2025</td>
+<td>19:22:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>March 08, 2025</td>
-<td>19:20:10 IST</td>
+<td>Sunday</td>
+<td>March 09, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,17 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Dads are like boomerangs.</code></pre>
-<pre><code>» I hope.</code></pre>
+<pre><code>Why did the girl smear peanut butter on the road?</code></pre>
+<pre><code>» To go with the traffic jam.</code></pre>
 <hr>
-<pre><code>What do you call two barracuda fish?</code></pre>
-<pre><code>» A Pairacuda!</code></pre>
+<pre><code>How did you make your friend rage?</code></pre>
+<pre><code>» I implemented a greek question mark in his JavaScript code.</code></pre>
 <hr>
-<pre><code>99.9% of the people are dumb!</code></pre>
-<pre><code>» Fortunately I belong to the remaining 1%</code></pre>
+<pre><code>Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +212,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</code></pre>
-<pre><code>2 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
-<pre><code>3 » A spider has transparent blood.</code></pre>
+<pre><code>1 » One third of all cancers are sun related.</code></pre>
+<pre><code>2 » The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</code></pre>
+<pre><code>3 » The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +224,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer</code></pre>
-<pre><code>2 » The question isn’t who is going to let me; it’s who is going to stop me. - Ayn Rand</code></pre>
-<pre><code>3 » Go confidently in the direction of your dreams.  Live the life you have imagined. - Henry David Thoreau</code></pre>
+<pre><code>1 » If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity - Armin Arlert</code></pre>
+<pre><code>2 » If you can’t do something, then don’t. Focus on what you can do. - Shiroe</code></pre>
+<pre><code>3 » Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? - Juuzou Suzuya</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
