@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/abb2df658c8921b33d77eb509c85cd9f3577c127dfe8c31d23a3c6a418a1085e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323437253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C247%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0d4a041703e0069f97a88d9229e910f4a0aa68c4cc689edeb8717cf463b31de8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332343925323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C249%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,340+ Commits made on Github</p>
+<p>🏆 3,344+ Commits made on Github</p>
 <p>📦 67.2 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>60 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.61%</td>
+<td>13.51%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>104 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.58%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.42%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>65 commits</td>
+<td>67 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.74%</td>
+<td>15.09%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>212 commits</td>
+<td>213 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.07%</td>
+<td>47.97%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Python</td>
-<td>3 hrs 11 mins</td>
+<td>HTML</td>
+<td>4 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.32%</td>
+<td>33.33%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>2 hrs 34 mins</td>
+<td>Python</td>
+<td>4 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.41%</td>
+<td>28.22%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 6 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.24%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.57%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>1 hr 48 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.55%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>40 mins</td>
+<td>58 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.42%</td>
+<td>6.7%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.21%</td>
+<td>2.01%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.84%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.31%</td>
+<td>1.15%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.65%</td>
+<td>11 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.23%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.35%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.77%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 3 mins</td>
+<td>14 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>March 09, 2025</td>
-<td>19:22:58 IST</td>
+<td>Monday</td>
+<td>March 10, 2025</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>March 10, 2025</td>
+<td>Tuesday</td>
+<td>March 11, 2025</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What's long and hard and has cum in it?</code></pre>
-<pre><code>» A cucumber.</code></pre>
+<pre><code>What's the difference between a baby and a watermelon?</code></pre>
+<pre><code>» One's satisfying to hit with a sledgehammer. The other's a watermelon.</code></pre>
 <hr>
-<pre><code>The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.</code></pre>
-<pre><code>» Thank you very much, sir.</code></pre>
+<pre><code>Why do wizards clean their teeth three times a day?</code></pre>
+<pre><code>» To prevent bat breath!</code></pre>
 <hr>
-<pre><code>Did you hear about the guy whose whole left side was cut off?</code></pre>
-<pre><code>» He's all right now.</code></pre>
+<pre><code>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Leonardo Da Vinci invented the scissors.</code></pre>
-<pre><code>2 » THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.</code></pre>
-<pre><code>3 » The highest per capita Jell-O comsumption in the US is Des Moines.</code></pre>
+<pre><code>1 » A dime has 118 ridges around the edge.</code></pre>
+<pre><code>2 » The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </code></pre>
+<pre><code>3 » Napoleon`s penis was sold to an American Urologist for $40,000.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Challenges are what make life interesting and overcoming them is what makes life meaningful. - Joshua J. Marine</code></pre>
-<pre><code>2 » Thinking you’re no-good and worthless is the worst thing you can do - Nobito</code></pre>
-<pre><code>3 » Being the best decoy ever is as cool as being the ace - Tobio Kageyama</code></pre>
+<pre><code>1 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
+<pre><code>2 » Life shrinks or expands in proportion to one’s courage. - Anais Nin</code></pre>
+<pre><code>3 » Do what you can, where you are, with what you have. - Teddy Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
