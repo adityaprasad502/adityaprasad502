@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0d4a041703e0069f97a88d9229e910f4a0aa68c4cc689edeb8717cf463b31de8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332343925323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C249%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/2cef60c2707772ba46c958172095bdfc1af47cbc2282bfb2d59089d6e09a6baa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353125323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C251%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,345+ Commits made on Github</p>
+<p>🏆 3,349+ Commits made on Github</p>
 <p>📦 67.2 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>60 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.51%</td>
+<td>13.48%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>104 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.42%</td>
+<td>23.37%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>67 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.09%</td>
+<td>15.06%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>213 commits</td>
+<td>214 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.97%</td>
+<td>48.09%</td>
 </tr>
 </tbody></table>
 <table>
@@ -67,43 +67,43 @@ fun main() {
 <td>HTML</td>
 <td>5 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.96%</td>
+<td>31.79%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.59%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.76%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 6 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.1%</td>
+<td>2 hrs 33 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.08%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 50 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.37%</td>
+<td>11.58%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>58 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.49%</td>
+<td>6.07%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>17 mins</td>
+<td>33 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.95%</td>
+<td>3.46%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>10 mins</td>
+<td>25 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.12%</td>
+<td>2.64%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>VS Code</td>
 <td>12 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>82.79%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>77.49%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 34 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.21%</td>
+<td>3 hrs 35 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.51%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 55 mins</td>
+<td>15 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>March 11, 2025</td>
-<td>19:23:26 IST</td>
+<td>Wednesday</td>
+<td>March 12, 2025</td>
+<td>19:23:16 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>March 12, 2025</td>
-<td>19:20:25 IST</td>
+<td>Thursday</td>
+<td>March 13, 2025</td>
+<td>19:20:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,13 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why are pirates called pirates?</code></pre>
-<pre><code>» Because they arrr!</code></pre>
+<pre><code>My wife and I have reached the difficult decision that we do not want children.
+If anybody does, please just send me your contact details and we can drop them off tomorrow.</code></pre>
 <hr>
-<pre><code>Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.</code></pre>
+<pre><code>I have a fish that can breakdance! Only for 20 seconds though, and only once.</code></pre>
 <hr>
-<pre><code>How does an octopus go into battle?</code></pre>
-<pre><code>» Well-armed!</code></pre>
+<pre><code>What happens when you anger a brain surgeon?</code></pre>
+<pre><code>» They will give you a piece of your mind.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
-<pre><code>2 » 1 in every 4 Americans has appeared someway or another on television.</code></pre>
-<pre><code>3 » A pregnant goldfish is called a twit.</code></pre>
+<pre><code>1 » This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</code></pre>
+<pre><code>2 » The average person spends 6 months of their life sitting at red lights.</code></pre>
+<pre><code>3 » The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Simplicity is the easiest path to true beauty. - Seishuu Handa</code></pre>
-<pre><code>2 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
-<pre><code>3 » Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end. - Clare</code></pre>
+<pre><code>1 » I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. - Leonardo da Vinci</code></pre>
+<pre><code>2 » The most common way people give up their power is by thinking they don’t have any. - Alice Walker</code></pre>
+<pre><code>3 » You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane - Hange Zoë</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
