@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/2cef60c2707772ba46c958172095bdfc1af47cbc2282bfb2d59089d6e09a6baa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353125323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C251%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,349+ Commits made on Github</p>
+<p>🏆 3,350+ Commits made on Github</p>
 <p>📦 67.2 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -66,44 +66,44 @@ fun main() {
  <tr>
 <td>HTML</td>
 <td>5 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.79%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.85%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 hrs 15 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.76%</td>
+<td>24.29%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 33 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.08%</td>
+<td>3 hrs 39 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.8%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 50 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.58%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.51%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>58 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.07%</td>
+<td>5.51%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>56 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.39%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>33 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.46%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>25 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.64%</td>
+<td>3.17%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>VS Code</td>
 <td>12 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.49%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>70.33%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 35 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.51%</td>
+<td>5 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.67%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 56 mins</td>
+<td>17 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -135,53 +135,53 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.85%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.52%</td>
+<td>17.86%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.81%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>x repos</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.41%</td>
+<td>14.29%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>7.14%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>x repos</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.14%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.57%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>March 12, 2025</td>
-<td>19:23:16 IST</td>
+<td>Thursday</td>
+<td>March 13, 2025</td>
+<td>19:23:07 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>March 13, 2025</td>
-<td>19:20:15 IST</td>
+<td>Friday</td>
+<td>March 14, 2025</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>My wife and I have reached the difficult decision that we do not want children.
-If anybody does, please just send me your contact details and we can drop them off tomorrow.</code></pre>
+<pre><code>Want to hear a joke about construction?</code></pre>
+<pre><code>» Nah, I'm still working on it.</code></pre>
 <hr>
-<pre><code>I have a fish that can breakdance! Only for 20 seconds though, and only once.</code></pre>
+<pre><code>Why are Assembly programmers always soaking wet?</code></pre>
+<pre><code>» They work below C-level.</code></pre>
 <hr>
-<pre><code>What happens when you anger a brain surgeon?</code></pre>
-<pre><code>» They will give you a piece of your mind.</code></pre>
+<pre><code>Why can’t you hear a pterodactyl go to the bathroom?</code></pre>
+<pre><code>» The p is silent.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +209,9 @@ If anybody does, please just send me your contact details and we can drop them o
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</code></pre>
-<pre><code>2 » The average person spends 6 months of their life sitting at red lights.</code></pre>
-<pre><code>3 » The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</code></pre>
+<pre><code>1 » Kelsey Grammar sings and plays the piano for the theme song of Fraiser.</code></pre>
+<pre><code>2 » The dot over the letter `i` is called a tittle.  </code></pre>
+<pre><code>3 » Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +221,9 @@ If anybody does, please just send me your contact details and we can drop them o
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do. - Leonardo da Vinci</code></pre>
-<pre><code>2 » The most common way people give up their power is by thinking they don’t have any. - Alice Walker</code></pre>
-<pre><code>3 » You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane - Hange Zoë</code></pre>
+<pre><code>1 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
+<pre><code>2 » Fall seven times and stand up eight. - Japanese Proverb</code></pre>
+<pre><code>3 » When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. - Erma Bombeck</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
