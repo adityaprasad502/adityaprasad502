@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/2cef60c2707772ba46c958172095bdfc1af47cbc2282bfb2d59089d6e09a6baa/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353125323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C251%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0a892315fc3c5f59333579284c9cb320fec36d7edc466bbb0a33a9875cbc97f1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353225323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C252%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,350+ Commits made on Github</p>
+<p>🏆 3,353+ Commits made on Github</p>
 <p>📦 67.2 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,25 +40,25 @@ fun main() {
 <td>🌞 Morning</td>
 <td>60 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.48%</td>
+<td>13.42%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>104 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.37%</td>
+<td>23.27%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>67 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.06%</td>
+<td>14.99%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>214 commits</td>
+<td>216 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.09%</td>
+<td>48.32%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,66 +66,66 @@ fun main() {
  <tr>
 <td>HTML</td>
 <td>5 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.85%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.41%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.29%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>3 hrs 39 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.8%</td>
+<td>4 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.45%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 50 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.17%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 hr 32 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.51%</td>
+<td>10.21%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>58 mins</td>
+<td>1 hr 5 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.51%</td>
+<td>7.16%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>56 mins</td>
+<td>46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.39%</td>
+<td>5.14%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>33 mins</td>
+<td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.17%</td>
+<td>1.75%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.33%</td>
+<td>12 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.58%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.67%</td>
+<td>2 hrs 38 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.42%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>17 hrs 34 mins</td>
+<td>15 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>March 13, 2025</td>
-<td>19:23:07 IST</td>
+<td>Friday</td>
+<td>March 14, 2025</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>March 14, 2025</td>
-<td>19:20:05 IST</td>
+<td>Saturday</td>
+<td>March 15, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Want to hear a joke about construction?</code></pre>
-<pre><code>» Nah, I'm still working on it.</code></pre>
+<pre><code>Why didn’t the orange win the race?</code></pre>
+<pre><code>» It ran out of juice.</code></pre>
 <hr>
-<pre><code>Why are Assembly programmers always soaking wet?</code></pre>
-<pre><code>» They work below C-level.</code></pre>
+<pre><code>Where do young cows eat lunch?</code></pre>
+<pre><code>» In the calf-ateria.</code></pre>
 <hr>
-<pre><code>Why can’t you hear a pterodactyl go to the bathroom?</code></pre>
-<pre><code>» The p is silent.</code></pre>
+<pre><code>Want to hear a joke about a piece of paper?</code></pre>
+<pre><code>» Never mind...it's tearable</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Kelsey Grammar sings and plays the piano for the theme song of Fraiser.</code></pre>
-<pre><code>2 » The dot over the letter `i` is called a tittle.  </code></pre>
-<pre><code>3 » Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</code></pre>
+<pre><code>1 » The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.</code></pre>
+<pre><code>2 » Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</code></pre>
+<pre><code>3 » Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
-<pre><code>2 » Fall seven times and stand up eight. - Japanese Proverb</code></pre>
-<pre><code>3 » When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. - Erma Bombeck</code></pre>
+<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
+<pre><code>2 » Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. - Yato</code></pre>
+<pre><code>3 » Life isn’t about getting and having, it’s about giving and being. - Kevin Kruse</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
