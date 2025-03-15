@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/0a892315fc3c5f59333579284c9cb320fec36d7edc466bbb0a33a9875cbc97f1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353225323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C252%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/05d9654dd9e53c27ac9a3c76c692e31b332dece8e93ea8fa110c4b9b87297660/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353325323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C253%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,353+ Commits made on Github</p>
+<p>🏆 3,354+ Commits made on Github</p>
 <p>📦 67.2 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>HTML</td>
-<td>5 hrs 4 mins</td>
+<td>5 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.41%</td>
+<td>32.47%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 18 mins</td>
+<td>4 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.45%</td>
+<td>28.41%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 50 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.17%</td>
+<td>11.65%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>1 hr 32 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.21%</td>
+<td>9.77%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>1 hr 5 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.16%</td>
+<td>1 hr 30 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.48%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.14%</td>
+<td>4.92%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.75%</td>
+<td>1.68%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 31 mins</td>
+<td>13 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>82.58%</td>
+<td>83.33%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 38 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.42%</td>
+<td>16.67%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 10 mins</td>
+<td>15 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>March 14, 2025</td>
-<td>19:22:55 IST</td>
+<td>Saturday</td>
+<td>March 15, 2025</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>March 15, 2025</td>
-<td>19:20:55 IST</td>
+<td>Sunday</td>
+<td>March 16, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why didn’t the orange win the race?</code></pre>
-<pre><code>» It ran out of juice.</code></pre>
+<pre><code>What did the Dorito farmer say to the other Dorito farmer?</code></pre>
+<pre><code>» Cool Ranch!</code></pre>
 <hr>
-<pre><code>Where do young cows eat lunch?</code></pre>
-<pre><code>» In the calf-ateria.</code></pre>
+<pre><code>What was the pumpkin’s favorite sport?</code></pre>
+<pre><code>» Squash.</code></pre>
 <hr>
-<pre><code>Want to hear a joke about a piece of paper?</code></pre>
-<pre><code>» Never mind...it's tearable</code></pre>
+<pre><code>How much does a hipster weigh?</code></pre>
+<pre><code>» An instagram.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.</code></pre>
-<pre><code>2 » Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</code></pre>
-<pre><code>3 » Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
+<pre><code>1 » Camels have three eyelids to protect themselves from blowing sand!</code></pre>
+<pre><code>2 » The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.</code></pre>
+<pre><code>3 » The first owner of the Marlboro company died of lung cancer.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
-<pre><code>2 » Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it. - Yato</code></pre>
-<pre><code>3 » Life isn’t about getting and having, it’s about giving and being. - Kevin Kruse</code></pre>
+<pre><code>1 » If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. - Vincent Van Gogh</code></pre>
+<pre><code>2 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
+<pre><code>3 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
