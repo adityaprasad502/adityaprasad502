@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/05d9654dd9e53c27ac9a3c76c692e31b332dece8e93ea8fa110c4b9b87297660/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353325323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C253%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a202bec41adf446e89c4f821cd0500135d392a0cb53d58d4e0baf3f57c16168f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353325323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C253%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,354+ Commits made on Github</p>
-<p>📦 67.2 MiB Used in GitHub's Storage</p>
+<p>🏆 3,355+ Commits made on Github</p>
+<p>📦 67.3 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>HTML</td>
-<td>5 hrs 8 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.47%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>4 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.41%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 50 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.65%</td>
+<td>2 hrs 34 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.49%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 32 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.77%</td>
+<td>1 hr 57 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.33%</td>
 </tr> 
  <tr>
-<td>Markdown</td>
-<td>1 hr 30 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.48%</td>
+<td>JavaScript</td>
+<td>1 hr 49 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.03%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 31 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.12%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>46 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.92%</td>
+<td>52 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.63%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>50 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.34%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.68%</td>
+<td>2.63%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>83.33%</td>
+<td>7 hrs 27 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.82%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 38 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.67%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.18%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 51 mins</td>
+<td>10 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 15, 2025</td>
-<td>19:22:49 IST</td>
+<td>Sunday</td>
+<td>March 16, 2025</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 16, 2025</td>
-<td>19:20:45 IST</td>
+<td>Monday</td>
+<td>March 17, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the Dorito farmer say to the other Dorito farmer?</code></pre>
-<pre><code>» Cool Ranch!</code></pre>
+<pre><code>Why do seagulls fly over the ocean?</code></pre>
+<pre><code>» Because if they flew over the bay, they'd be bagels!</code></pre>
 <hr>
-<pre><code>What was the pumpkin’s favorite sport?</code></pre>
-<pre><code>» Squash.</code></pre>
+<pre><code>What kind of dog lives in a particle accelerator?</code></pre>
+<pre><code>» A Fermilabrador Retriever.</code></pre>
 <hr>
-<pre><code>How much does a hipster weigh?</code></pre>
-<pre><code>» An instagram.</code></pre>
+<pre><code>The punchline often arrives before the set-up.</code></pre>
+<pre><code>» Do you know the problem with UDP jokes?</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Camels have three eyelids to protect themselves from blowing sand!</code></pre>
-<pre><code>2 » The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.</code></pre>
-<pre><code>3 » The first owner of the Marlboro company died of lung cancer.</code></pre>
+<pre><code>1 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
+<pre><code>2 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
+<pre><code>3 » The word "samba" means "to rub navels together."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. - Vincent Van Gogh</code></pre>
-<pre><code>2 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
-<pre><code>3 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>1 » If you wanna make people dream, you’ve gotta start by believing in that dream yourself! - Seiya Kanie</code></pre>
+<pre><code>2 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
+<pre><code>3 » We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
