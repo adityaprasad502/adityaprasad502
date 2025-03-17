@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a202bec41adf446e89c4f821cd0500135d392a0cb53d58d4e0baf3f57c16168f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353325323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C253%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a6c100508622f3f3814bf228b4474766cba23e321bb4485a952a99cc20457f18/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353525323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C255%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,355+ Commits made on Github</p>
+<p>🏆 3,356+ Commits made on Github</p>
 <p>📦 67.3 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,68 +64,68 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>HTML</td>
-<td>2 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.49%</td>
-</tr> 
- <tr>
 <td>Kotlin</td>
 <td>1 hr 57 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.33%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 49 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.03%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>1 hr 31 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.12%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.45%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>52 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.63%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.51%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>38 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.78%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>50 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.34%</td>
+<td>32 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.6%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>19 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.06%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>15 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.64%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.63%</td>
+<td>1.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>VS Code</td>
-<td>7 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.82%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
 <td>2 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.18%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.15%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>2 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.85%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 5 mins</td>
+<td>4 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>March 16, 2025</td>
-<td>19:22:54 IST</td>
+<td>Monday</td>
+<td>March 17, 2025</td>
+<td>19:23:04 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>March 17, 2025</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>March 18, 2025</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why do seagulls fly over the ocean?</code></pre>
-<pre><code>» Because if they flew over the bay, they'd be bagels!</code></pre>
+<pre><code>When is a door not a door?</code></pre>
+<pre><code>» When it's ajar.</code></pre>
 <hr>
-<pre><code>What kind of dog lives in a particle accelerator?</code></pre>
-<pre><code>» A Fermilabrador Retriever.</code></pre>
+<pre><code>Did you know that protons have mass?</code></pre>
+<pre><code>» I didn't even know they were catholic.</code></pre>
 <hr>
-<pre><code>The punchline often arrives before the set-up.</code></pre>
-<pre><code>» Do you know the problem with UDP jokes?</code></pre>
+<pre><code>What do you call a belt made out of watches?</code></pre>
+<pre><code>» A waist of time.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</code></pre>
-<pre><code>2 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
-<pre><code>3 » The word "samba" means "to rub navels together."</code></pre>
+<pre><code>1 » The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</code></pre>
+<pre><code>2 » Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.  The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.</code></pre>
+<pre><code>3 » The first contraceptive was crocodile dung used by the ancient Egyptians.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you wanna make people dream, you’ve gotta start by believing in that dream yourself! - Seiya Kanie</code></pre>
-<pre><code>2 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
-<pre><code>3 » We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato</code></pre>
+<pre><code>1 » When you give up, that’s when the game ends. - Mitsuyoshi Anzai</code></pre>
+<pre><code>2 » The most common way people give up their power is by thinking they don’t have any. - Alice Walker</code></pre>
+<pre><code>3 » Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? - Juuzou Suzuya</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
