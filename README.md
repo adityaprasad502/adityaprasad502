@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/a6c100508622f3f3814bf228b4474766cba23e321bb4485a952a99cc20457f18/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353525323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C255%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/894d90d73570c5fa0366012705d3dc43f1bd1ef8f05b09fb409f9f67b62e081e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353825323068727325323034372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C258%20hrs%2047%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,356+ Commits made on Github</p>
+<p>🏆 3,357+ Commits made on Github</p>
 <p>📦 67.3 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,68 +64,68 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
+<td>HTML</td>
+<td>3 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.34%</td>
+</tr> 
+ <tr>
 <td>Kotlin</td>
 <td>1 hr 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.45%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.0%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 12 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.78%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>52 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.51%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>38 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.78%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.72%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>32 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.6%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>19 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.06%</td>
+<td>6.72%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>15 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.64%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.27%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.05%</td>
+<td>0.61%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>2 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.15%</td>
+<td>VS Code</td>
+<td>5 hrs 29 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.5%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>2 hrs 3 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.85%</td>
+<td>Android Studio</td>
+<td>2 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.5%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 42 mins</td>
+<td>8 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>March 17, 2025</td>
-<td>19:23:04 IST</td>
+<td>Tuesday</td>
+<td>March 18, 2025</td>
+<td>19:23:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>March 18, 2025</td>
-<td>19:20:00 IST</td>
+<td>Wednesday</td>
+<td>March 19, 2025</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>When is a door not a door?</code></pre>
-<pre><code>» When it's ajar.</code></pre>
+<pre><code>I couldn't get a reservation at the library...</code></pre>
+<pre><code>» They were fully booked.</code></pre>
 <hr>
-<pre><code>Did you know that protons have mass?</code></pre>
-<pre><code>» I didn't even know they were catholic.</code></pre>
+<pre><code>What did the array say after it was extended?</code></pre>
+<pre><code>» Stop objectifying me.</code></pre>
 <hr>
-<pre><code>What do you call a belt made out of watches?</code></pre>
-<pre><code>» A waist of time.</code></pre>
+<pre><code>What is the difference between ignorance and apathy?</code></pre>
+<pre><code>» I don't know and I don't care.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</code></pre>
-<pre><code>2 » Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.  The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.</code></pre>
-<pre><code>3 » The first contraceptive was crocodile dung used by the ancient Egyptians.</code></pre>
+<pre><code>1 » Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</code></pre>
+<pre><code>2 » The word "set" has more definitions than any other word in the English language.</code></pre>
+<pre><code>3 » The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » When you give up, that’s when the game ends. - Mitsuyoshi Anzai</code></pre>
-<pre><code>2 » The most common way people give up their power is by thinking they don’t have any. - Alice Walker</code></pre>
-<pre><code>3 » Why should I apologize for being a monster? Has anyone ever apologized for turning me into one? - Juuzou Suzuya</code></pre>
+<pre><code>1 » I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. - Michael Jordan</code></pre>
+<pre><code>2 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
+<pre><code>3 » I refuse to let my fear control me anymore. - Maka Albarn</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
