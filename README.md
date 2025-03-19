@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/894d90d73570c5fa0366012705d3dc43f1bd1ef8f05b09fb409f9f67b62e081e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353825323068727325323034372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C258%20hrs%2047%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,357+ Commits made on Github</p>
+<p>🏆 3,358+ Commits made on Github</p>
 <p>📦 67.3 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.34%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 hr 57 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.0%</td>
+<td>3 hrs 43 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.21%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 12 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.78%</td>
+<td>2 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.27%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 hr 29 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.34%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>52 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.72%</td>
+<td>37 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.17%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>32 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.72%</td>
+<td>6.35%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.47%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>15 mins</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.27%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.61%</td>
+<td>0.05%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.5%</td>
+<td>6 hrs 59 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.15%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.5%</td>
+<td>1 hr 37 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.85%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 8 mins</td>
+<td>8 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>March 18, 2025</td>
-<td>19:23:09 IST</td>
+<td>Wednesday</td>
+<td>March 19, 2025</td>
+<td>19:22:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>March 19, 2025</td>
-<td>19:20:05 IST</td>
+<td>Thursday</td>
+<td>March 20, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I couldn't get a reservation at the library...</code></pre>
-<pre><code>» They were fully booked.</code></pre>
+<pre><code>Why was the JavaScript developer sad?</code></pre>
+<pre><code>» Because he didn't know how to 'null' his feelings.</code></pre>
 <hr>
-<pre><code>What did the array say after it was extended?</code></pre>
-<pre><code>» Stop objectifying me.</code></pre>
+<pre><code>Did you hear about the submarine industry?</code></pre>
+<pre><code>» It really took a dive...</code></pre>
 <hr>
-<pre><code>What is the difference between ignorance and apathy?</code></pre>
-<pre><code>» I don't know and I don't care.</code></pre>
+<pre><code>Say what you want about pedophiles...</code></pre>
+<pre><code>» But at least they drive slowly through the school zones.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</code></pre>
-<pre><code>2 » The word "set" has more definitions than any other word in the English language.</code></pre>
-<pre><code>3 » The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </code></pre>
+<pre><code>1 » A whale`s penis is called a dork.</code></pre>
+<pre><code>2 » Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</code></pre>
+<pre><code>3 » 40,000 Americans are injured by toilets each year.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed. - Michael Jordan</code></pre>
-<pre><code>2 » Fools who don’t respect the past are likely to repeat it. - Nico Robin</code></pre>
-<pre><code>3 » I refuse to let my fear control me anymore. - Maka Albarn</code></pre>
+<pre><code>1 » If you want to lift yourself up, lift up someone else. - Booker T. Washington</code></pre>
+<pre><code>2 » The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful. - Roy Mustang</code></pre>
+<pre><code>3 » We become what we think about. - Earl Nightingale</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
