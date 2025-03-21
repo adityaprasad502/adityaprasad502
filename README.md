@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/894d90d73570c5fa0366012705d3dc43f1bd1ef8f05b09fb409f9f67b62e081e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353825323068727325323034372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C258%20hrs%2047%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,359+ Commits made on Github</p>
+<p>🏆 3,360+ Commits made on Github</p>
 <p>📦 67.3 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -67,37 +67,37 @@ fun main() {
 <td>HTML</td>
 <td>3 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.24%</td>
+<td>54.58%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 10 mins</td>
+<td>2 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.14%</td>
+<td>31.18%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>32 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.82%</td>
+<td>25 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.28%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>24 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.77%</td>
+<td>5.92%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>5 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.32%</td>
+<td>1.35%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.58%</td>
+<td>0.55%</td>
 </tr> 
  <tr>
 <td>CSS</td>
@@ -110,7 +110,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 59 mins</td>
+<td>6 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -119,7 +119,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 59 mins</td>
+<td>6 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>March 20, 2025</td>
-<td>19:23:16 IST</td>
+<td>Friday</td>
+<td>March 21, 2025</td>
+<td>19:23:13 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>March 21, 2025</td>
-<td>19:20:15 IST</td>
+<td>Saturday</td>
+<td>March 22, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What time did the man go to the dentist?</code></pre>
-<pre><code>» Tooth hurt-y.</code></pre>
+<pre><code>Why did Gara open a beach resort?</code></pre>
+<pre><code>» Because he’s great with sand!</code></pre>
 <hr>
-<pre><code>How did you make your friend rage?</code></pre>
-<pre><code>» I implemented a greek question mark in his JavaScript code.</code></pre>
+<pre><code>What do you call a factory that sells passable products?</code></pre>
+<pre><code>» A satisfactory</code></pre>
 <hr>
-<pre><code>What did the ocean say to the shore?</code></pre>
-<pre><code>» Nothing, it just waved.</code></pre>
+<pre><code>What's the best thing about elevator jokes?</code></pre>
+<pre><code>» They work on so many levels.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The most common street name in the U.S. is Second Street.</code></pre>
-<pre><code>2 » Starfish haven`t got brains.</code></pre>
-<pre><code>3 » A dragonfly has a lifespan of 24 hours.</code></pre>
+<pre><code>1 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
+<pre><code>2 » One third of all cancers are sun related.</code></pre>
+<pre><code>3 » You can sail all the way around the world at latitude 60 degrees south.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. - Kyousuke Natsume</code></pre>
-<pre><code>2 » If you re gonna hit it hit it until it breaks - Tooru Oikawa</code></pre>
-<pre><code>3 » Every child is an artist.  The problem is how to remain an artist once he grows up. - Pablo Picasso</code></pre>
+<pre><code>1 » Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin - Kenny Ackerman</code></pre>
+<pre><code>2 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
+<pre><code>3 » If the wind will not serve, take to the oars. - Latin Proverb</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
