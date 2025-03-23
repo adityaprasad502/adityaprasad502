@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/894d90d73570c5fa0366012705d3dc43f1bd1ef8f05b09fb409f9f67b62e081e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332353825323068727325323034372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C258%20hrs%2047%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63f874a1df227685b9312df6d5ea9a4694920688abe70d34a570b460ec7ea8ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332363125323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C261%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,365+ Commits made on Github</p>
+<p>🏆 3,366+ Commits made on Github</p>
 <p>📦 67.3 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,61 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.58%</td>
+<td>3 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.23%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.18%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>25 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.28%</td>
+<td>1 hr 48 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.38%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>24 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.92%</td>
+<td>1 hr 24 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.56%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>5 mins</td>
+<td>1 hr</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.62%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.35%</td>
+<td>1.48%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.55%</td>
+<td>0.46%</td>
 </tr> 
  <tr>
-<td>CSS</td>
+<td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>6 hrs 27 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.17%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>1 hr 35 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.83%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 48 mins</td>
+<td>8 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 22, 2025</td>
-<td>19:23:19 IST</td>
+<td>Sunday</td>
+<td>March 23, 2025</td>
+<td>19:22:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 23, 2025</td>
-<td>19:20:15 IST</td>
+<td>Monday</td>
+<td>March 24, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What is the best prefix for global variables?</code></pre>
-<pre><code>» //</code></pre>
+<pre><code>What do you tell a woman with 2 black eyes?</code></pre>
+<pre><code>» Nothing. You already told her twice.</code></pre>
 <hr>
-<pre><code>Did you hear about the new restaurant on the moon?</code></pre>
-<pre><code>» The food is great, but there’s just no atmosphere.</code></pre>
+<pre><code>Why is every gender equality officer female?</code></pre>
+<pre><code>» Because it's cheaper.</code></pre>
 <hr>
-<pre><code>What's grey and comes in pints?</code></pre>
-<pre><code>» An elephant.</code></pre>
+<pre><code>How does a French skeleton say hello?</code></pre>
+<pre><code>» Bone-jour.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</code></pre>
-<pre><code>2 » A whale`s penis is called a dork.</code></pre>
-<pre><code>3 » In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</code></pre>
+<pre><code>1 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
+<pre><code>2 » Virginia Woolf wrote all her books standing.</code></pre>
+<pre><code>3 » Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You miss 100% of the shots you don’t take. - Wayne Gretzky</code></pre>
-<pre><code>2 » A place where someone still thinks about you is a place you can call home. - Jiraiya</code></pre>
-<pre><code>3 » When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life. - John Lennon</code></pre>
+<pre><code>1 » Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living. - Erza Scarlet</code></pre>
+<pre><code>2 » There are some flowers you only see when you take detours - Tanaka Saeko</code></pre>
+<pre><code>3 » Reject common sense to make the impossible possible. - Simon</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
