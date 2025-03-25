@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/63f874a1df227685b9312df6d5ea9a4694920688abe70d34a570b460ec7ea8ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332363125323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C261%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/25dee0070bd91f9f12c6efac27c10d67a2a083d8a56d62b4f0ead643830f86c7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332363425323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C264%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,367+ Commits made on Github</p>
-<p>📦 67.3 MiB Used in GitHub's Storage</p>
+<p>🏆 3,369+ Commits made on Github</p>
+<p>📦 67.2 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>61 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.65%</td>
+<td>13.62%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>107 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.94%</td>
+<td>23.88%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>67 commits</td>
+<td>68 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.99%</td>
+<td>15.18%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>212 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.43%</td>
+<td>47.32%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>HTML</td>
-<td>3 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.23%</td>
+<td>Kotlin</td>
+<td>1 hr 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.06%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 48 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.38%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 hr 24 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.56%</td>
+<td>1 hr 3 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.53%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.48%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>31 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.62%</td>
+<td>12.53%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.48%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.46%</td>
+<td>2.87%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>0.34%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.12%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.17%</td>
+<td>2 hrs 33 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.55%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 35 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.83%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.45%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 2 mins</td>
+<td>4 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>March 24, 2025</td>
-<td>19:23:04 IST</td>
+<td>Tuesday</td>
+<td>March 25, 2025</td>
+<td>19:23:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>March 25, 2025</td>
+<td>Wednesday</td>
+<td>March 26, 2025</td>
 <td>19:20:00 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do Ted Bundy and the Space Shuttle Columbia have in common?</code></pre>
-<pre><code>» They both left bodies in four states.</code></pre>
+<pre><code>To understand what recursion is...</code></pre>
+<pre><code>» You must first understand what recursion is</code></pre>
 <hr>
-<pre><code>Why do chicken coops only have two doors?</code></pre>
-<pre><code>» Because if they had four, they would be chicken sedans</code></pre>
+<pre><code>Did you hear about the guy whose whole left side was cut off?</code></pre>
+<pre><code>» He's all right now.</code></pre>
 <hr>
-<pre><code>What’s the advantage of living in Switzerland?</code></pre>
-<pre><code>» Well, the flag is a big plus.</code></pre>
+<pre><code>I was gonna tell you a joke about UDP...</code></pre>
+<pre><code>» ...but you might not get it.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.</code></pre>
-<pre><code>2 » There are 336 dimples on a regulation golf ball.</code></pre>
-<pre><code>3 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
+<pre><code>1 » In every episode of Seinfeld there is a Superman somewhere.</code></pre>
+<pre><code>2 » Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</code></pre>
+<pre><code>3 » The praying mantis is the only insect that can turn its head</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer</code></pre>
-<pre><code>2 » If you don’t share someone’s pain, you can never understand them. - Nagato</code></pre>
-<pre><code>3 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
+<pre><code>1 » I have learned over the years that when one’s mind is made up, this diminishes fear. - Rosa Parks</code></pre>
+<pre><code>2 » A place where someone still thinks about you is a place you can call home. - Jiraiya</code></pre>
+<pre><code>3 » Life is 10% what happens to me and 90% of how I react to it. - Charles Swindoll</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
