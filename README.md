@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f082396b4646871c91cc0f18cb68f832af72fba07d722916633f65572166bd4f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373125323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C271%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/390eddc26e4367263f19544e0d265a08c9bcdbeed30f426c3bc89ccf6a709528/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373225323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C272%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,376+ Commits made on Github</p>
-<p>📦 67.5 MiB Used in GitHub's Storage</p>
+<p>🏆 3,381+ Commits made on Github</p>
+<p>📦 67.8 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>61 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.44%</td>
+<td>13.32%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>107 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.57%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.36%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>68 commits</td>
+<td>69 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.98%</td>
+<td>15.07%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>218 commits</td>
+<td>221 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.02%</td>
+<td>48.25%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>CSS</td>
-<td>4 hrs 27 mins</td>
+<td>5 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.26%</td>
+<td>41.23%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.68%</td>
+<td>4 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.98%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>1 hr 24 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.4%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.95%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.63%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.15%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>35 mins</td>
+<td>58 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.61%</td>
+<td>6.89%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.13%</td>
+<td>0.84%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.11%</td>
+<td>0.83%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.87%</td>
+<td>12 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>88.77%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 35 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.13%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.23%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 32 mins</td>
+<td>14 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +173,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>March 26, 2025</td>
-<td>19:22:57 IST</td>
+<td>Thursday</td>
+<td>March 27, 2025</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>March 27, 2025</td>
+<td>Friday</td>
+<td>March 28, 2025</td>
 <td>19:20:55 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What do you call a fly without wings?</code></pre>
-<pre><code>» A walk.</code></pre>
+<pre><code>Where do programmers like to hangout?</code></pre>
+<pre><code>» The Foo Bar.</code></pre>
 <hr>
-<pre><code>What do you call a nervous javelin thrower?</code></pre>
-<pre><code>» Shakespeare.</code></pre>
+<pre><code>Why do trees seem suspicious on sunny days?</code></pre>
+<pre><code>» Dunno, they're just a bit shady.</code></pre>
 <hr>
-<pre><code>One time I masturbated on a plane.</code></pre>
-<pre><code>» I called it "highjacking".</code></pre>
+<pre><code>If you mix a melon and collie, what do you get?</code></pre>
+<pre><code>» The Melancholy of Haruhi Suzumiya!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Peanuts are one of the ingredients of dynamite.</code></pre>
-<pre><code>2 » 40,000 Americans are injured by toilets each year.</code></pre>
-<pre><code>3 » When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</code></pre>
+<pre><code>1 » Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</code></pre>
+<pre><code>2 » Starfish haven`t got brains.</code></pre>
+<pre><code>3 » Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today! - Natsu Dragneel</code></pre>
-<pre><code>2 » Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin - Kenny Ackerman</code></pre>
-<pre><code>3 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>1 » How wonderful it is that nobody need wait a single moment before starting to improve the world. - Anne Frank</code></pre>
+<pre><code>2 » Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill</code></pre>
+<pre><code>3 » It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live. - Mae Jemison</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
