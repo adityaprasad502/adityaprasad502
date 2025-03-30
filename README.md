@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/390eddc26e4367263f19544e0d265a08c9bcdbeed30f426c3bc89ccf6a709528/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373225323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C272%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/161ab3d52a051c48bcc90fb4bb94dee9f29868735587fddfbfd7bd0f62b48fe7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373525323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C275%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,383+ Commits made on Github</p>
-<p>📦 67.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,392+ Commits made on Github</p>
+<p>📦 67.9 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -38,27 +38,27 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>61 commits</td>
+<td>60 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.32%</td>
+<td>13.07%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>107 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.36%</td>
+<td>113 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.62%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>69 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.07%</td>
+<td>15.03%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>221 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.25%</td>
+<td>217 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.28%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,66 +66,48 @@ fun main() {
  <tr>
 <td>CSS</td>
 <td>5 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.23%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.51%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.98%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 hr 24 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.95%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.15%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.4%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>58 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.89%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>7 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.84%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.44%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>7 mins</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.83%</td>
+<td>0.65%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.77%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>1 hr 35 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.23%</td>
+<td>11 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 12 mins</td>
+<td>11 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +155,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 29, 2025</td>
-<td>19:23:07 IST</td>
+<td>Sunday</td>
+<td>March 30, 2025</td>
+<td>19:22:37 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 30, 2025</td>
-<td>19:20:05 IST</td>
+<td>Monday</td>
+<td>March 31, 2025</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +174,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What part of a vegetable are you not supposed to eat?</code></pre>
-<pre><code>» The wheelchair.</code></pre>
+<pre><code>My parents raised me as an only child, which really annoyed my younger brother.</code></pre>
 <hr>
-<pre><code>Why are frogs so happy?</code></pre>
-<pre><code>» Because they eat whatever bugs them.</code></pre>
+<pre><code>What did the boy with no arms get for Christmas?</code></pre>
+<pre><code>» I don't know, he hasn't opened it yet.</code></pre>
 <hr>
-<pre><code>Why don't eggs tell jokes?</code></pre>
-<pre><code>» Because they would crack each other up.</code></pre>
+<pre><code>Why did the half blind man fall in the well?</code></pre>
+<pre><code>» Because he couldn't see that well!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +190,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Donald Duck comics were banned from Finland because he doesn`t wear pants!</code></pre>
-<pre><code>2 » Peanuts are one of the ingredients of dynamite.</code></pre>
-<pre><code>3 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
+<pre><code>1 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
+<pre><code>2 » The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </code></pre>
+<pre><code>3 » The sperm of a mouse is actually longer than the sperm of an elephant.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +202,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart. - Mavis Vermillion</code></pre>
-<pre><code>2 » You should never give up on life, no matter how you feel. No matter how badly you want to give up. - Canaan</code></pre>
-<pre><code>3 » “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. - Edward Elric </code></pre>
+<pre><code>1 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
+<pre><code>2 » You can’t use up creativity.  The more you use, the more you have. - Maya Angelou</code></pre>
+<pre><code>3 » Dreaming, after all, is a form of planning. - Gloria Steinem</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
