@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/161ab3d52a051c48bcc90fb4bb94dee9f29868735587fddfbfd7bd0f62b48fe7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373525323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C275%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/896ef10d5a6a2386bae13e3c96563c90df5031fbe62412bfcc1703b8054c33ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373625323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C276%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,392+ Commits made on Github</p>
+<p>🏆 3,394+ Commits made on Github</p>
 <p>📦 67.9 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -44,9 +44,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>113 commits</td>
+<td>112 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.62%</td>
+<td>24.4%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -56,9 +56,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>217 commits</td>
+<td>218 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.28%</td>
+<td>47.49%</td>
 </tr>
 </tbody></table>
 <table>
@@ -66,48 +66,66 @@ fun main() {
  <tr>
 <td>CSS</td>
 <td>5 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.51%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.81%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.4%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.84%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>2 hrs 40 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.21%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>58 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.44%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.66%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>22 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.57%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.51%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>0 secs</td>
+<td>Groovy</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>0.25%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>13 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>89.62%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>1 hr 31 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.38%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>11 hrs 36 mins</td>
+<td>14 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>March 30, 2025</td>
-<td>19:22:37 IST</td>
+<td>Monday</td>
+<td>March 31, 2025</td>
+<td>19:22:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>March 31, 2025</td>
-<td>19:20:35 IST</td>
+<td>Tuesday</td>
+<td>April 01, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -174,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>My parents raised me as an only child, which really annoyed my younger brother.</code></pre>
+<pre><code>Why did the barber win the race?</code></pre>
+<pre><code>» He took a short cut.</code></pre>
 <hr>
-<pre><code>What did the boy with no arms get for Christmas?</code></pre>
-<pre><code>» I don't know, he hasn't opened it yet.</code></pre>
+<pre><code>What does the mermaid wear to math class?</code></pre>
+<pre><code>» Algae-bra.</code></pre>
 <hr>
-<pre><code>Why did the half blind man fall in the well?</code></pre>
-<pre><code>» Because he couldn't see that well!</code></pre>
+<pre><code>Did you hear the news?</code></pre>
+<pre><code>» FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -190,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The San Francisco Cable cars are the only mobile National Monuments.</code></pre>
-<pre><code>2 » The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </code></pre>
-<pre><code>3 » The sperm of a mouse is actually longer than the sperm of an elephant.</code></pre>
+<pre><code>1 » Leonardo Da Vinci invented the scissors.</code></pre>
+<pre><code>2 » Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</code></pre>
+<pre><code>3 » The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
-<pre><code>2 » You can’t use up creativity.  The more you use, the more you have. - Maya Angelou</code></pre>
-<pre><code>3 » Dreaming, after all, is a form of planning. - Gloria Steinem</code></pre>
+<pre><code>1 » Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. - Jesus</code></pre>
+<pre><code>2 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
+<pre><code>3 » Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. - Hinata Miyake</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
