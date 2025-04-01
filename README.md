@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/896ef10d5a6a2386bae13e3c96563c90df5031fbe62412bfcc1703b8054c33ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373625323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C276%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/98192003d24787b5588a5fe526b20a0300326980a02565d73b48e67b7cbfa90c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373625323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C276%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,394+ Commits made on Github</p>
+<p>🏆 3,395+ Commits made on Github</p>
 <p>📦 67.9 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -66,38 +66,38 @@ fun main() {
  <tr>
 <td>CSS</td>
 <td>5 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.81%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.29%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.84%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.42%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 40 mins</td>
+<td>2 hrs 52 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.21%</td>
+<td>19.28%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>58 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.66%</td>
+<td>6.57%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>22 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.57%</td>
+<td>2.54%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.51%</td>
+<td>0.5%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
@@ -110,22 +110,22 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 11 mins</td>
+<td>13 hrs 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>89.62%</td>
+<td>89.44%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 31 mins</td>
+<td>1 hr 34 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.38%</td>
+<td>10.56%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 43 mins</td>
+<td>14 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>March 31, 2025</td>
-<td>19:22:58 IST</td>
+<td>Tuesday</td>
+<td>April 01, 2025</td>
+<td>19:23:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>April 01, 2025</td>
-<td>19:20:55 IST</td>
+<td>Wednesday</td>
+<td>April 02, 2025</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the barber win the race?</code></pre>
-<pre><code>» He took a short cut.</code></pre>
+<pre><code>Why did the burglar hang his mugshot on the wall?</code></pre>
+<pre><code>» To prove that he was framed!</code></pre>
 <hr>
-<pre><code>What does the mermaid wear to math class?</code></pre>
-<pre><code>» Algae-bra.</code></pre>
+<pre><code>What did the cannibal do after he dumped his girlfriend?</code></pre>
+<pre><code>» He wiped his ass.</code></pre>
 <hr>
-<pre><code>Did you hear the news?</code></pre>
-<pre><code>» FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.</code></pre>
+<pre><code>Hey girl are you a school? Because I want to shoot some kids up inside of you.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Leonardo Da Vinci invented the scissors.</code></pre>
-<pre><code>2 » Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</code></pre>
-<pre><code>3 » The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</code></pre>
+<pre><code>1 » Rhode Island is the only state which the hammer throw is a legal high school sport.</code></pre>
+<pre><code>2 » Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.</code></pre>
+<pre><code>3 » Pinocchio is Italian for "pine head."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. - Jesus</code></pre>
-<pre><code>2 » Believe you can and you're halfway there. - Theodore Roosevelt</code></pre>
-<pre><code>3 » Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high. - Hinata Miyake</code></pre>
+<pre><code>1 » If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. - Alibaba Saluja</code></pre>
+<pre><code>2 » Change your thoughts and you change your world. - Norman Vincent Peale</code></pre>
+<pre><code>3 » When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. - Henry Ford</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
