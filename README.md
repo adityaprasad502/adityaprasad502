@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/98192003d24787b5588a5fe526b20a0300326980a02565d73b48e67b7cbfa90c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373625323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C276%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,396+ Commits made on Github</p>
+<p>🏆 3,397+ Commits made on Github</p>
 <p>📦 67.9 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -66,66 +66,60 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.78%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 52 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.54%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 24 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.89%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>23 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.5%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.84%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>22 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.37%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.18%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.07%</td>
+<td>2.22%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.52%</td>
+<td>1.09%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.65%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.66%</td>
+<td>1 hr 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.53%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 34 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.34%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.47%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 3 mins</td>
+<td>3 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,14 +167,14 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>April 02, 2025</td>
-<td>19:22:51 IST</td>
+<td>Thursday</td>
+<td>April 03, 2025</td>
+<td>19:22:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>April 03, 2025</td>
+<td>Friday</td>
+<td>April 04, 2025</td>
 <td>19:20:50 IST</td>
 </tr>
 </tbody></table>
@@ -192,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I'm thinking of setting up a comedy group to help people going through cancer treatment.</code></pre>
-<pre><code>» I'll call it "A Sense of Tumor".</code></pre>
+<pre><code>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</code></pre>
 <hr>
-<pre><code>What is a centipedes's favorite Beatle song?</code></pre>
-<pre><code>» I want to hold your hand, hand, hand, hand...</code></pre>
+<pre><code>An IPv6 packet is walking out of the house.</code></pre>
+<pre><code>» He goes nowhere.</code></pre>
 <hr>
-<pre><code>What did the duck say when he bought lipstick?</code></pre>
-<pre><code>» Put it on my bill</code></pre>
+<pre><code>What do Santa's little helpers learn at school?</code></pre>
+<pre><code>» The elf-abet!
+</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.</code></pre>
-<pre><code>2 » A pregnant goldfish is called a twit.</code></pre>
-<pre><code>3 » When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</code></pre>
+<pre><code>1 » To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
+<pre><code>2 » The state of Florida is bigger than England!</code></pre>
+<pre><code>3 » The longest one-syllable word in the English language is "screeched."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You take your life in your own hands, and what happens? A terrible thing, no one to blame. - Erica Jong</code></pre>
-<pre><code>2 » The only way to do great work is to love what you do. - Steve Jobs</code></pre>
-<pre><code>3 » Dream big and dare to fail. - Norman Vaughan</code></pre>
+<pre><code>1 » If you don’t like your destiny, don’t accept it. - Naruto Uzumaki</code></pre>
+<pre><code>2 » If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. - Naruto Uzumaki</code></pre>
+<pre><code>3 » Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes. - Junichirou Kagami</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
