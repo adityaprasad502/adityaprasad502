@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/98192003d24787b5588a5fe526b20a0300326980a02565d73b48e67b7cbfa90c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373625323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C276%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/5196c6ccaf858d82b5b8c2423d1a02b13cfcb08f32c8fca4630ed957085d4d3e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332373625323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C276%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,397+ Commits made on Github</p>
+<p>🏆 3,398+ Commits made on Github</p>
 <p>📦 67.9 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -67,7 +67,7 @@ fun main() {
 <td>Kotlin</td>
 <td>2 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.84%</td>
+<td>84.83%</td>
 </tr> 
  <tr>
 <td>XML</td>
@@ -91,7 +91,7 @@ fun main() {
 <td>Gradle</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.66%</td>
 </tr> 
  <tr>
 <td>Java</td>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>April 03, 2025</td>
-<td>19:22:53 IST</td>
+<td>Friday</td>
+<td>April 04, 2025</td>
+<td>19:22:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>April 04, 2025</td>
-<td>19:20:50 IST</td>
+<td>Saturday</td>
+<td>April 05, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</code></pre>
+<pre><code>A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"</code></pre>
 <hr>
-<pre><code>An IPv6 packet is walking out of the house.</code></pre>
-<pre><code>» He goes nowhere.</code></pre>
+<pre><code>What do you call a cop's penis after he's done masturbating?</code></pre>
+<pre><code>» Pulled pork.</code></pre>
 <hr>
-<pre><code>What do Santa's little helpers learn at school?</code></pre>
-<pre><code>» The elf-abet!
-</code></pre>
+<pre><code>Where does batman go to the bathroom?</code></pre>
+<pre><code>» The batroom.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</code></pre>
-<pre><code>2 » The state of Florida is bigger than England!</code></pre>
-<pre><code>3 » The longest one-syllable word in the English language is "screeched."</code></pre>
+<pre><code>1 » Meteorologists claim they`re right 85% of the time (think about that one!)</code></pre>
+<pre><code>2 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
+<pre><code>3 » A whale`s penis is called a dork.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you don’t like your destiny, don’t accept it. - Naruto Uzumaki</code></pre>
-<pre><code>2 » If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. - Naruto Uzumaki</code></pre>
-<pre><code>3 » Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes. - Junichirou Kagami</code></pre>
+<pre><code>1 » You can die anytime, but living takes true courage. - Kenshin Himura</code></pre>
+<pre><code>2 » Vision is not what your eyes see, but an image that your brain comprehends. - Touko Aozaki</code></pre>
+<pre><code>3 » When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. - Helen Keller</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
