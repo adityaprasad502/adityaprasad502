@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/2598deb09dd8bac1655f7cedeffa887e9b7f1755fb49e178bc5580a67e0d8335/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383225323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C282%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6f0fe20f5672988f7b6ff130b546c95664dcf791b3344b96c813bba4e05f0734/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383425323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C284%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,407+ Commits made on Github</p>
-<p>📦 67.5 MiB Used in GitHub's Storage</p>
+<p>🏆 3,415+ Commits made on Github</p>
+<p>📦 67.6 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,58 +40,58 @@ fun main() {
 <td>🌞 Morning</td>
 <td>60 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.07%</td>
+<td>13.02%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>106 commits</td>
+<td>101 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.09%</td>
+<td>21.91%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>71 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.47%</td>
+<td>76 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.49%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>222 commits</td>
+<td>224 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.37%</td>
+<td>48.59%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>HTML</td>
-<td>2 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.09%</td>
+<td>Kotlin</td>
+<td>4 hrs 4 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.03%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>56 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.18%</td>
+<td>HTML</td>
+<td>2 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.03%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>11 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.54%</td>
+<td>1 hr 11 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.03%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>10 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.32%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.07%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>1 min</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
+<td>0.78%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
@@ -104,22 +104,22 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.25%</td>
+<td>4 hrs 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.9%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>53 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.75%</td>
+<td>3 hrs 34 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.1%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 4 mins</td>
+<td>8 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>April 07, 2025</td>
-<td>19:22:54 IST</td>
+<td>Tuesday</td>
+<td>April 08, 2025</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>April 08, 2025</td>
-<td>19:20:50 IST</td>
+<td>Wednesday</td>
+<td>April 09, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,13 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why did the butcher work extra hours at the shop?</code></pre>
-<pre><code>» To make ends meat.</code></pre>
+<pre><code>I just got fired from my job at the keyboard factory.</code></pre>
+<pre><code>» They told me I wasn't putting in enough shifts.</code></pre>
 <hr>
-<pre><code>What do you call fake spaghetti?</code></pre>
-<pre><code>» An impasta.</code></pre>
+<pre><code>Where do you learn to make banana splits?</code></pre>
+<pre><code>» At sundae school.</code></pre>
 <hr>
-<pre><code>I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"</code></pre>
+<pre><code>How many seconds are in a year?</code></pre>
+<pre><code>» 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -202,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</code></pre>
-<pre><code>2 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
-<pre><code>3 » Meteorologists claim they`re right 85% of the time (think about that one!)</code></pre>
+<pre><code>1 » Almonds are a member of the peach family.</code></pre>
+<pre><code>2 » A snail can sleep for three years.</code></pre>
+<pre><code>3 » Tom Sawyer was the first novel written on a typewriter.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -214,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. - Alibaba Saluja</code></pre>
-<pre><code>2 » Life is what we make it, always has been, always will be. - Grandma Moses</code></pre>
-<pre><code>3 » An excellent leader must be passionate because it’s their duty to keep everyone moving forward. - Nico Yazawa</code></pre>
+<pre><code>1 » Certain things catch your eye, but pursue only those that capture the heart. -  Ancient Indian Proverb</code></pre>
+<pre><code>2 » It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight - Eren</code></pre>
+<pre><code>3 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
