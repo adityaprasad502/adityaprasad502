@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/6f0fe20f5672988f7b6ff130b546c95664dcf791b3344b96c813bba4e05f0734/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383425323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C284%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bdf6746b4d4ab009386eb9486b26ada7c31ddb1e0a17300a022fd7207b10a2ec/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383525323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C285%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,415+ Commits made on Github</p>
+<p>🏆 3,417+ Commits made on Github</p>
 <p>📦 67.6 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -44,9 +44,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>101 commits</td>
+<td>100 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.91%</td>
+<td>21.69%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -56,48 +56,48 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>224 commits</td>
+<td>225 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.59%</td>
+<td>48.81%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 4 mins</td>
+<td>4 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.03%</td>
+<td>49.42%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.03%</td>
+<td>33.24%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 11 mins</td>
+<td>1 hr 18 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.03%</td>
+<td>14.59%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.07%</td>
+<td>1.97%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.78%</td>
+<td>0.74%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.05%</td>
 </tr>
 </tbody></table>
 <table>
@@ -105,21 +105,21 @@ fun main() {
  <tr>
 <td>VS Code</td>
 <td>4 hrs 55 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.9%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.94%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.1%</td>
+<td>4 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.06%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 29 mins</td>
+<td>8 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +167,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>April 08, 2025</td>
-<td>19:22:49 IST</td>
+<td>Wednesday</td>
+<td>April 09, 2025</td>
+<td>19:26:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>April 09, 2025</td>
-<td>19:20:45 IST</td>
+<td>Thursday</td>
+<td>April 10, 2025</td>
+<td>19:25:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +186,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I just got fired from my job at the keyboard factory.</code></pre>
-<pre><code>» They told me I wasn't putting in enough shifts.</code></pre>
+<pre><code>Why did the burglar hang his mugshot on the wall?</code></pre>
+<pre><code>» To prove that he was framed!</code></pre>
 <hr>
-<pre><code>Where do you learn to make banana splits?</code></pre>
-<pre><code>» At sundae school.</code></pre>
+<pre><code>How does Kakashi always win arguments?</code></pre>
+<pre><code>» He uses his Sharingan to backtrack every word!</code></pre>
 <hr>
-<pre><code>How many seconds are in a year?</code></pre>
-<pre><code>» 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc</code></pre>
+<pre><code>What do you call an eagle who can play the piano?</code></pre>
+<pre><code>» Talonted!</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +203,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Almonds are a member of the peach family.</code></pre>
-<pre><code>2 » A snail can sleep for three years.</code></pre>
-<pre><code>3 » Tom Sawyer was the first novel written on a typewriter.</code></pre>
+<pre><code>1 » Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</code></pre>
+<pre><code>2 » Half of all Americans live within 50 miles of their birthplace.</code></pre>
+<pre><code>3 » For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +215,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Certain things catch your eye, but pursue only those that capture the heart. -  Ancient Indian Proverb</code></pre>
-<pre><code>2 » It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight - Eren</code></pre>
-<pre><code>3 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
+<pre><code>1 » Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? - Yuuji Kazami</code></pre>
+<pre><code>2 » Life shrinks or expands in proportion to one’s courage. - Anais Nin</code></pre>
+<pre><code>3 » Our lives begin to end the day we become silent about things that matter. - Martin Luther King Jr.</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
