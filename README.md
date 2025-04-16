@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bdf6746b4d4ab009386eb9486b26ada7c31ddb1e0a17300a022fd7207b10a2ec/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383525323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C285%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,423+ Commits made on Github</p>
+<p>🏆 3,424+ Commits made on Github</p>
 <p>📦 67.6 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -61,51 +61,18 @@ fun main() {
 <td>48.81%</td>
 </tr>
 </tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>75.04%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>6 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.94%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
+ 
+Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
- <tr>
-<td>Windows</td>
-<td>27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -149,15 +116,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>April 15, 2025</td>
-<td>19:23:26 IST</td>
+<td>Wednesday</td>
+<td>April 16, 2025</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>April 16, 2025</td>
-<td>19:20:25 IST</td>
+<td>Thursday</td>
+<td>April 17, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -168,14 +135,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What's the best thing about a Boolean?</code></pre>
-<pre><code>» Even if you're wrong, you're only off by a bit.</code></pre>
+<pre><code>Where was the Declaration of Independence signed?</code></pre>
+<pre><code>» At the bottom! </code></pre>
 <hr>
-<pre><code>What happened to the cannibal who showed up late to Halloween dinner?</code></pre>
-<pre><code>» They gave him the cold shoulder.</code></pre>
+<pre><code>My wife is really mad at the fact that I have no sense of direction.
+So I packed up my stuff and right.</code></pre>
 <hr>
-<pre><code>You see, mountains aren't just funny.</code></pre>
-<pre><code>» They are hill areas.</code></pre>
+<pre><code>I have a joke about Stack Overflow, but you would say it's a duplicate.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -185,9 +151,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Mr. Rogers is an ordained minister.</code></pre>
-<pre><code>2 » The word "set" has more definitions than any other word in the English language.</code></pre>
-<pre><code>3 » The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</code></pre>
+<pre><code>1 » The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.</code></pre>
+<pre><code>2 » Over 1000 birds a year die from smashing into windows!</code></pre>
+<pre><code>3 » Van Gogh only sold one painting when he was alive.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +163,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Everything you’ve ever wanted is on the other side of fear. - George Addair</code></pre>
-<pre><code>2 » Fall seven times and stand up eight. - Japanese Proverb</code></pre>
-<pre><code>3 » You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane - Hange Zoë</code></pre>
+<pre><code>1 » Definiteness of purpose is the starting point of all achievement. - W. Clement Stone</code></pre>
+<pre><code>2 » Protecting someone means giving them a place to belong. Giving them a place where they can be happy. - Princess Lenessia</code></pre>
+<pre><code>3 » If you can’t do something, then don’t. Focus on what you can. - Shiroe</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
