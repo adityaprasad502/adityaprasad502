@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/391839ceba0b3ed6f5bb467803f6f6683e2375fb2ee0647f1713f2b61d0f4d73/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383625323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C286%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,428+ Commits made on Github</p>
+<p>🏆 3,429+ Commits made on Github</p>
 <p>📦 67.6 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -66,44 +66,44 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>85.85%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.56%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>8 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.75%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.74%</td>
+<td>8.58%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>6 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.06%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>0 secs</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.62%</td>
+<td>1.66%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.36%</td>
+<td>1.09%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.39%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>0.31%</td>
 </tr>
 </tbody></table>
 <table>
@@ -111,21 +111,21 @@ fun main() {
  <tr>
 <td>VS Code</td>
 <td>59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.34%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>78.53%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.66%</td>
+<td>16 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.47%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr</td>
+<td>1 hr 15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>April 20, 2025</td>
-<td>19:23:06 IST</td>
+<td>Monday</td>
+<td>April 21, 2025</td>
+<td>19:22:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>April 21, 2025</td>
-<td>19:20:05 IST</td>
+<td>Tuesday</td>
+<td>April 22, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>I started a new business making yachts in my attic this year...</code></pre>
-<pre><code>» The sails are going through the roof.</code></pre>
+<pre><code>What did the cell say when his sister cell stepped on his foot?</code></pre>
+<pre><code>» Mitosis.</code></pre>
 <hr>
-<pre><code>Why did the ghost go inside the bar?</code></pre>
-<pre><code>» For the boos.</code></pre>
+<pre><code>What do you call a fly without wings?</code></pre>
+<pre><code>» A walk.</code></pre>
 <hr>
-<pre><code>What did the ocean say to the shore?</code></pre>
-<pre><code>» Nothing, it just waved.</code></pre>
+<pre><code>Never take advice from electrons.</code></pre>
+<pre><code>» They are always negative.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » In 1986 Congress &amp; President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.</code></pre>
-<pre><code>2 » Men can read smaller print than women; women can hear better.</code></pre>
-<pre><code>3 » It`s possible to lead a cow upstairs but not downstairs.</code></pre>
+<pre><code>1 » Humans are the only primates that don`t have pigment in the palms of their hands.</code></pre>
+<pre><code>2 » The sweat drops drawn in cartoon comic strips are called pleuts.</code></pre>
+<pre><code>3 » Poland is the "stolen car capital of the world".</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas. - Alibaba Saluja</code></pre>
-<pre><code>2 » It doesn’t do any good to pretend you can’t see what’s going on. - Yuuya Mochizuki</code></pre>
-<pre><code>3 » Dreaming, after all, is a form of planning. - Gloria Steinem</code></pre>
+<pre><code>1 » Every child is an artist.  The problem is how to remain an artist once he grows up. - Pablo Picasso</code></pre>
+<pre><code>2 » I refuse to let my fear control me anymore. - Maka Albarn</code></pre>
+<pre><code>3 » That’s why I can’t make a change. Everything I do is so… Half-assed. - Hiroshi Kido</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
