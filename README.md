@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/391839ceba0b3ed6f5bb467803f6f6683e2375fb2ee0647f1713f2b61d0f4d73/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332383625323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C286%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,431+ Commits made on Github</p>
+<p>🏆 3,432+ Commits made on Github</p>
 <p>📦 67.6 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>April 23, 2025</td>
-<td>19:23:28 IST</td>
+<td>Thursday</td>
+<td>April 24, 2025</td>
+<td>19:23:37 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>April 24, 2025</td>
-<td>19:20:25 IST</td>
+<td>Friday</td>
+<td>April 25, 2025</td>
+<td>19:20:35 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>If you boil a clown...</code></pre>
-<pre><code>» Do you get a laughing stock?</code></pre>
+<pre><code>What is this movie about?</code></pre>
+<pre><code>» It is about 2 hours long.</code></pre>
 <hr>
-<pre><code>I can't believe I got fired from the calendar factory.</code></pre>
-<pre><code>» All I did was take a day off.</code></pre>
+<pre><code>What did the pirate say on his 80th birthday?</code></pre>
+<pre><code>» Aye Matey!</code></pre>
 <hr>
-<pre><code>Did you know that protons have mass?</code></pre>
-<pre><code>» I didn't even know they were catholic.</code></pre>
+<pre><code>What did the ocean say to the shore?</code></pre>
+<pre><code>» Nothing, it just waved.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</code></pre>
-<pre><code>2 » "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</code></pre>
-<pre><code>3 » If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</code></pre>
+<pre><code>1 » A cat has 32 muscles in each ear.</code></pre>
+<pre><code>2 » The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </code></pre>
+<pre><code>3 » On average, people fear spiders more than they do death.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Teach thy tongue to say, “I do not know,” and thous shalt progress. - Maimonides</code></pre>
-<pre><code>2 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
-<pre><code>3 » Life shrinks or expands in proportion to one’s courage. - Anais Nin</code></pre>
+<pre><code>1 » We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato</code></pre>
+<pre><code>2 » Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. - Sebastian Michaelis</code></pre>
+<pre><code>3 » It is at the moment of death that humanity has value. - Archer</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
