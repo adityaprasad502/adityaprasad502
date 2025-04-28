@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b4a7b34db805c19e714536b1427a7d3b1e5a4b1d976891592476a8d37244a688/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323839253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C289%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,435+ Commits made on Github</p>
+<p>🏆 3,436+ Commits made on Github</p>
 <p>📦 67.6 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -66,60 +66,54 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>1 hr 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>71.08%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>78.75%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>14 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.91%</td>
+<td>9.89%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>11 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.86%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>8 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.35%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>7 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.5%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.61%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
 <td>5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.67%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.31%</td>
+<td>0.08%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>1 hr 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.64%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
 <td>1 hr 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.36%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.48%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>1 hr 13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.52%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 47 mins</td>
+<td>2 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>April 27, 2025</td>
-<td>19:22:57 IST</td>
+<td>Monday</td>
+<td>April 28, 2025</td>
+<td>19:28:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>April 28, 2025</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>April 29, 2025</td>
+<td>19:25:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +180,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>While I was sleeping my friends decided to write math equations on me.</code></pre>
-<pre><code>» You should have seen the expression on my face when I woke up.</code></pre>
+<pre><code>Why does Beyonce sing "to the left, to the left"?</code></pre>
+<pre><code>» Because women don't have rights.</code></pre>
 <hr>
-<pre><code>No matter how kind you are...</code></pre>
-<pre><code>» German kids are always Kinder.</code></pre>
+<pre><code>Where did you learn to make ice cream?</code></pre>
+<pre><code>» Sunday school.</code></pre>
 <hr>
-<pre><code>What did the Buffalo say to his little boy when he dropped him off at school?</code></pre>
-<pre><code>» Bison.</code></pre>
+<pre><code>How does a train eat?</code></pre>
+<pre><code>» It goes chew, chew</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +197,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</code></pre>
-<pre><code>2 » In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</code></pre>
-<pre><code>3 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
+<pre><code>1 » A bull can inseminate 300 cows from one single ejaculation.</code></pre>
+<pre><code>2 » Women manage the money and pay the bills in  75% of all Americans households.</code></pre>
+<pre><code>3 » In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt</code></pre>
-<pre><code>2 » People become stronger because they have memories they can’t forget. - Tsunade</code></pre>
-<pre><code>3 » When you give up, that’s when the game ends. - Mitsuyoshi Anzai</code></pre>
+<pre><code>1 » Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward. - Sebastian Michaelis</code></pre>
+<pre><code>2 » I refuse to let my fear control me anymore. - Maka Albarn</code></pre>
+<pre><code>3 » You can’t always hold on to the things that are important. By letting them go we gain something else. - Kunio Yaobi</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
