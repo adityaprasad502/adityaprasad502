@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b4a7b34db805c19e714536b1427a7d3b1e5a4b1d976891592476a8d37244a688/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323839253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C289%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,439+ Commits made on Github</p>
+<p>🏆 3,440+ Commits made on Github</p>
 <p>📦 67.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,55 +65,55 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.75%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>14 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.89%</td>
+<td>57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>85.27%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>11 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.61%</td>
+<td>8 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.25%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.7%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
-<td>5 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.67%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.61%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.08%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 17 mins</td>
+<td>34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.48%</td>
+<td>51.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 13 mins</td>
+<td>32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.52%</td>
+<td>48.6%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 31 mins</td>
+<td>1 hr 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>May 01, 2025</td>
-<td>19:22:55 IST</td>
+<td>Friday</td>
+<td>May 02, 2025</td>
+<td>19:22:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>May 02, 2025</td>
-<td>19:20:55 IST</td>
+<td>Saturday</td>
+<td>May 03, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -180,14 +180,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Did you hear about the crime in the parking garage?</code></pre>
-<pre><code>» It was wrong on so many levels.</code></pre>
+<pre><code>A grocery store cashier asked if I would like my milk in a bag.</code></pre>
+<pre><code>» I told her 'No, thanks. The carton works fine.'</code></pre>
 <hr>
-<pre><code>I hate Russian matryoshka dolls.</code></pre>
-<pre><code>» They're so full of themselves.</code></pre>
+<pre><code>What do you get when you cross a bee and a sheep?</code></pre>
+<pre><code>» A bah-humbug.</code></pre>
 <hr>
-<pre><code>Why did the invisible man turn down the job offer?</code></pre>
-<pre><code>» He couldn't see himself doing it</code></pre>
+<pre><code>Your momma is so fat, you need to switch to NTFS to store a picture of her.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -197,9 +196,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.</code></pre>
-<pre><code>2 » Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</code></pre>
-<pre><code>3 » On average, Americans eat 18 acres of pizza everyday.</code></pre>
+<pre><code>1 » When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</code></pre>
+<pre><code>2 » The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  </code></pre>
+<pre><code>3 » The praying mantis is the only insect that can turn its head</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » I want you to be happy. I want you to laugh a lot. I don’t know what exactly I’ll be able to do for you, but I’ll always be by your side. - Kagome</code></pre>
-<pre><code>2 » We can’t help everyone, but everyone can help someone. - Ronald Reagan</code></pre>
-<pre><code>3 » Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice! - Don Quixote Doflamingo</code></pre>
+<pre><code>1 » Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer. - Miss Kobayashi</code></pre>
+<pre><code>2 » A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. - Jiraiya</code></pre>
+<pre><code>3 » Believe you can and you’re halfway there. - Theodore Roosevelt</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
