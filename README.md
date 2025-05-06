@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b4a7b34db805c19e714536b1427a7d3b1e5a4b1d976891592476a8d37244a688/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323839253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C289%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,443+ Commits made on Github</p>
+<p>🏆 3,444+ Commits made on Github</p>
 <p>📦 67.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 05, 2025</td>
-<td>19:22:53 IST</td>
+<td>Tuesday</td>
+<td>May 06, 2025</td>
+<td>19:24:27 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 06, 2025</td>
-<td>19:20:50 IST</td>
+<td>Wednesday</td>
+<td>May 07, 2025</td>
+<td>19:20:25 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,14 +135,13 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the janitor say when he jumped out of the closet?</code></pre>
-<pre><code>» Supplies!</code></pre>
+<pre><code>My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</code></pre>
 <hr>
-<pre><code>Can February march?</code></pre>
-<pre><code>» No, but April may.</code></pre>
+<pre><code>What's green and smells like pork?</code></pre>
+<pre><code>» Kermit's Fingers.</code></pre>
 <hr>
-<pre><code>How many seconds are in a year?</code></pre>
-<pre><code>» 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc</code></pre>
+<pre><code>Did you hear that David lost his ID in prague?</code></pre>
+<pre><code>» Now we just have to call him Dav.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +151,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Human eyes never grow, but nose and ears never stop growing.</code></pre>
-<pre><code>2 » Between 25% and 33% of the population sneeze when exposed to light.</code></pre>
-<pre><code>3 » Until 1994, world maps and globes sold in Albania only had Albania on them.</code></pre>
+<pre><code>1 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
+<pre><code>2 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
+<pre><code>3 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +163,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Challenges are what make life interesting and overcoming them is what makes life meaningful. - Joshua J. Marine</code></pre>
-<pre><code>2 » Everything has beauty, but not everyone can see. - Confucius</code></pre>
-<pre><code>3 » If you begin to regret, you’ll dull your future decisions and let others make your choices for you. All that’s left for you then is to die. Nobody can foretell the outcome. Each decision you make holds meaning only by affecting your next decision. - Erwin Smith</code></pre>
+<pre><code>1 » The ticket to the future is always open. - Vash The Stampede</code></pre>
+<pre><code>2 » We can’t help everyone, but everyone can help someone. - Ronald Reagan</code></pre>
+<pre><code>3 » Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. - Paine</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
