@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b4a7b34db805c19e714536b1427a7d3b1e5a4b1d976891592476a8d37244a688/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243323839253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C289%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,444+ Commits made on Github</p>
+<p>🏆 3,445+ Commits made on Github</p>
 <p>📦 67.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -116,15 +116,15 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 06, 2025</td>
-<td>19:24:27 IST</td>
+<td>Wednesday</td>
+<td>May 07, 2025</td>
+<td>19:25:29 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 07, 2025</td>
-<td>19:20:25 IST</td>
+<td>Thursday</td>
+<td>May 08, 2025</td>
+<td>19:25:25 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -135,13 +135,16 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>My girlfriend's dog died, so I tried to cheer her up by getting her an identical one. It just made her more upset. She screamed at me, "What am I supposed to do with two dead dogs?"</code></pre>
+<pre><code>My first high-school football game was a lot like my first time having sex.</code></pre>
+<pre><code>» I was bloody and sore at the end, but at least my dad came.</code></pre>
 <hr>
-<pre><code>What's green and smells like pork?</code></pre>
-<pre><code>» Kermit's Fingers.</code></pre>
+<pre><code>"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.</code></pre>
 <hr>
-<pre><code>Did you hear that David lost his ID in prague?</code></pre>
-<pre><code>» Now we just have to call him Dav.</code></pre>
+<pre><code>why do python programmers wear glasses?</code></pre>
+<pre><code>» Because they can't C.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -151,9 +154,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The longest word comprised of one row on the keyboard is: TYPEWRITER</code></pre>
-<pre><code>2 » The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</code></pre>
-<pre><code>3 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
+<pre><code>1 » James Bond`s car had three different license plates in Goldfinger</code></pre>
+<pre><code>2 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
+<pre><code>3 » The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -163,9 +166,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » The ticket to the future is always open. - Vash The Stampede</code></pre>
-<pre><code>2 » We can’t help everyone, but everyone can help someone. - Ronald Reagan</code></pre>
-<pre><code>3 » Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife. - Paine</code></pre>
+<pre><code>1 » Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? - Yuuji Kazami</code></pre>
+<pre><code>2 » If you want your children to turn out well, spend twice as much time with them, and half as much money. - Abigail Van Buren</code></pre>
+<pre><code>3 » Everything has beauty, but not everyone can see. - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
