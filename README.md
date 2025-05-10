@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b5c8eaf20965696cffe4591d5a0ce9848f22a49cbdace18109d9dd8275682b35/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332393125323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C291%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,448+ Commits made on Github</p>
+<p>🏆 3,449+ Commits made on Github</p>
 <p>📦 67.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -61,18 +61,39 @@ fun main() {
 <td>48.92%</td>
 </tr>
 </tbody></table>
- 
-Didn't Touch PC Last Week
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+ <tr>
+<td>JavaScript</td>
+<td>1 hr 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>77.73%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>28 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.27%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr></tbody></table>
- 
-Didn't Touch PC Last Week
+<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>2 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr></tbody></table>
+<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+ <tr>
+<td>Windows</td>
+<td>2 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 <table>
 <tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
  <tr>
@@ -116,14 +137,14 @@ Didn't Touch PC Last Week
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>May 09, 2025</td>
-<td>19:23:00 IST</td>
+<td>Saturday</td>
+<td>May 10, 2025</td>
+<td>19:23:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>May 10, 2025</td>
+<td>Sunday</td>
+<td>May 11, 2025</td>
 <td>19:20:00 IST</td>
 </tr>
 </tbody></table>
@@ -135,14 +156,14 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did one nut say as he chased another nut?</code></pre>
-<pre><code>»  I'm a cashew!</code></pre>
+<pre><code>Why do bees have sticky hair?</code></pre>
+<pre><code>» Because they use honey combs!</code></pre>
 <hr>
-<pre><code>Why do bears have hairy coats?</code></pre>
-<pre><code>» Fur protection.</code></pre>
+<pre><code>Why does Beyonce sing "to the left, to the left"?</code></pre>
+<pre><code>» Because women don't have rights.</code></pre>
 <hr>
-<pre><code>What do you call a group of disorganized cats?</code></pre>
-<pre><code>» A cat-tastrophe.</code></pre>
+<pre><code>What is the most used language in programming?</code></pre>
+<pre><code>» Profanity.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -152,9 +173,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The king of hearts is the only king without a mustache.</code></pre>
-<pre><code>2 » The longest recorded flight of a chicken is thirteen seconds.</code></pre>
-<pre><code>3 » In most advertisements, including newspapers, the time displayed on a watch is 10:10.</code></pre>
+<pre><code>1 » In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</code></pre>
+<pre><code>2 » The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</code></pre>
+<pre><code>3 » Honey is the only food which does not spoil.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -164,9 +185,9 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » There are no regrets. If one can be proud of one’s life, one should not wish for another chance. - Saber</code></pre>
-<pre><code>2 » We can’t help everyone, but everyone can help someone. - Ronald Reagan</code></pre>
-<pre><code>3 » The last ones standing are the victors Only the strongest If you want to be the last one standing become strong - Tobio Kageyama</code></pre>
+<pre><code>1 » Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing! - Satsuki Kiryuuin</code></pre>
+<pre><code>2 » First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end. - Aristotle</code></pre>
+<pre><code>3 » Life is not a game of luck. If you wanna win, work hard. - Sora</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
