@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/c0aba90146f740491c6b6e99fce8315509053a33d721e349ba376a0097413022/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332393525323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C295%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bd1584ab2e74bd62a1cca1e6b5258c8b568622f5ed545fbff3a6829c79687a24/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332393925323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C299%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,460+ Commits made on Github</p>
-<p>📦 67.7 MiB Used in GitHub's Storage</p>
+<p>🏆 3,471+ Commits made on Github</p>
+<p>📦 67.8 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -38,88 +38,94 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>60 commits</td>
+<td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.93%</td>
+<td>12.69%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>98 commits</td>
+<td>97 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.12%</td>
+<td>20.86%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>79 commits</td>
+<td>77 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.03%</td>
+<td>16.56%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>227 commits</td>
+<td>232 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.92%</td>
+<td>49.89%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>JavaScript</td>
-<td>1 hr 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.84%</td>
+<td>Kotlin</td>
+<td>3 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.74%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>44 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.56%</td>
+<td>JavaScript</td>
+<td>1 hr 59 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.08%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>42 mins</td>
+<td>1 hr 46 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.66%</td>
+<td>22.24%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>28 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.13%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.71%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.97%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>0 secs</td>
+<td>19 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.0%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.1%</td>
+<td>0.93%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.59%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.54%</td>
+<td>4 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.11%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 8 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.46%</td>
+<td>3 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.89%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 36 mins</td>
+<td>7 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -167,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 11, 2025</td>
-<td>19:22:58 IST</td>
+<td>Monday</td>
+<td>May 12, 2025</td>
+<td>19:23:18 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 12, 2025</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>May 13, 2025</td>
+<td>19:20:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -186,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Want to hear a chimney joke?</code></pre>
-<pre><code>» Got stacks of em! First one's on the house</code></pre>
+<pre><code>If you see a robbery at an Apple Store...</code></pre>
+<pre><code>» Does that make you an iWitness?</code></pre>
 <hr>
-<pre><code>Why did the rooster cross the road?</code></pre>
-<pre><code>» He heard that the chickens at KFC were pretty hot.</code></pre>
+<pre><code>What musical instrument is found in the bathroom?</code></pre>
+<pre><code>» A tuba toothpaste.</code></pre>
 <hr>
-<pre><code>Why do bees hum?</code></pre>
-<pre><code>» Because they don't know the words.</code></pre>
+<pre><code>I dropped a pear in my car this morning.</code></pre>
+<pre><code>» You should drop another one, then you would have a pair.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -203,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The praying mantis is the only insect that can turn its head</code></pre>
-<pre><code>2 » Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</code></pre>
-<pre><code>3 » Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</code></pre>
+<pre><code>1 » 166,875,000,000 pieces of mail are delivered each year in the US</code></pre>
+<pre><code>2 » Lawn darts are illegal in Canada.</code></pre>
+<pre><code>3 » Ten percent of the Russian government`s income comes from the sale of vodka.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -215,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » If you can’t find a reason to fight, then you shouldn’t be fighting. - Akame</code></pre>
-<pre><code>2 » You become what you believe. - Oprah Winfrey</code></pre>
-<pre><code>3 » There’s no shame in falling down! True shame is to not stand up again! - Shintar Midorima</code></pre>
+<pre><code>1 » You can’t use up creativity.  The more you use, the more you have. - Maya Angelou</code></pre>
+<pre><code>2 » Either write something worth reading or do something worth writing. - Benjamin Franklin</code></pre>
+<pre><code>3 » It does not matter how slowly you go as long as you do not stop. - Confucius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
