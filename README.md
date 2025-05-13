@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bd1584ab2e74bd62a1cca1e6b5258c8b568622f5ed545fbff3a6829c79687a24/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324332393925323068727325323033342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C299%20hrs%2034%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f65280f676c4fd302a3c86594c56f3ed22559f54eefbe4b893722046038a7b78/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333303025323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C300%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,471+ Commits made on Github</p>
+<p>🏆 3,472+ Commits made on Github</p>
 <p>📦 67.8 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 14 mins</td>
+<td>4 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.74%</td>
+<td>43.47%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.5%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 59 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.08%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 46 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.24%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.02%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>28 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.97%</td>
+<td>4.53%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.05%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
+<td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.93%</td>
+<td>1.2%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>2 mins</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.59%</td>
+<td>0.78%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.11%</td>
+<td>5 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.46%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.89%</td>
+<td>5 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.54%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 57 mins</td>
+<td>10 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 12, 2025</td>
-<td>19:23:18 IST</td>
+<td>Tuesday</td>
+<td>May 13, 2025</td>
+<td>19:26:18 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 13, 2025</td>
-<td>19:20:15 IST</td>
+<td>Wednesday</td>
+<td>May 14, 2025</td>
+<td>19:25:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>If you see a robbery at an Apple Store...</code></pre>
-<pre><code>» Does that make you an iWitness?</code></pre>
+<pre><code>What did the scarf say to the hat?</code></pre>
+<pre><code>» You go on ahead, I am going to hang around a bit longer.</code></pre>
 <hr>
-<pre><code>What musical instrument is found in the bathroom?</code></pre>
-<pre><code>» A tuba toothpaste.</code></pre>
+<pre><code>A Roman walks into a bar and raises 2 fingers and says to the bartender...</code></pre>
+<pre><code>» "Five beers, please."</code></pre>
 <hr>
-<pre><code>I dropped a pear in my car this morning.</code></pre>
-<pre><code>» You should drop another one, then you would have a pair.</code></pre>
+<pre><code>Did you hear about the chameleon who couldn't change color?</code></pre>
+<pre><code>» They had a reptile dysfunction.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » 166,875,000,000 pieces of mail are delivered each year in the US</code></pre>
-<pre><code>2 » Lawn darts are illegal in Canada.</code></pre>
-<pre><code>3 » Ten percent of the Russian government`s income comes from the sale of vodka.</code></pre>
+<pre><code>1 » The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.</code></pre>
+<pre><code>2 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
+<pre><code>3 » 60% of electrocutions occur while talking on the telephone during a thunderstorm.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You can’t use up creativity.  The more you use, the more you have. - Maya Angelou</code></pre>
-<pre><code>2 » Either write something worth reading or do something worth writing. - Benjamin Franklin</code></pre>
-<pre><code>3 » It does not matter how slowly you go as long as you do not stop. - Confucius</code></pre>
+<pre><code>1 » Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. - Kyousuke Natsume</code></pre>
+<pre><code>2 » There are no traffic jams along the extra mile. - Roger Staubach</code></pre>
+<pre><code>3 » Sometimes it’s necessary to do unnecessary things. - Kanade Jinguuji</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
