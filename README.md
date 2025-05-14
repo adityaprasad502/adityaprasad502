@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/f65280f676c4fd302a3c86594c56f3ed22559f54eefbe4b893722046038a7b78/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333303025323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C300%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/7442743afba323f08a9408b5f5140e429020d4f1d345b2c6a10c19fe53f848b8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333303625323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C306%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,472+ Commits made on Github</p>
-<p>📦 67.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,489+ Commits made on Github</p>
+<p>📦 79.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.69%</td>
+<td>12.58%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>97 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.86%</td>
+<td>91 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.4%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>77 commits</td>
+<td>78 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.56%</td>
+<td>16.63%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>232 commits</td>
+<td>241 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.89%</td>
+<td>51.39%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 33 mins</td>
+<td>5 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.47%</td>
+<td>39.89%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.5%</td>
+<td>3 hrs 32 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.49%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 59 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.02%</td>
+<td>2 hrs 2 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.1%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 hr 35 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.0%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>40 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.64%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>28 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.53%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.05%</td>
+<td>3.29%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>7 mins</td>
+<td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.2%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>4 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.78%</td>
+<td>0.95%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.46%</td>
+<td>7 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.0%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 11 mins</td>
+<td>6 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.54%</td>
+<td>48.0%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 29 mins</td>
+<td>14 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 13, 2025</td>
-<td>19:26:18 IST</td>
+<td>Wednesday</td>
+<td>May 14, 2025</td>
+<td>19:24:15 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 14, 2025</td>
-<td>19:25:15 IST</td>
+<td>Thursday</td>
+<td>May 15, 2025</td>
+<td>19:20:15 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>What did the scarf say to the hat?</code></pre>
-<pre><code>» You go on ahead, I am going to hang around a bit longer.</code></pre>
+<pre><code>A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"</code></pre>
 <hr>
-<pre><code>A Roman walks into a bar and raises 2 fingers and says to the bartender...</code></pre>
-<pre><code>» "Five beers, please."</code></pre>
+<pre><code>Did you watch the new comic book movie?</code></pre>
+<pre><code>» It was very graphic!</code></pre>
 <hr>
-<pre><code>Did you hear about the chameleon who couldn't change color?</code></pre>
-<pre><code>» They had a reptile dysfunction.</code></pre>
+<pre><code>What do elves post on Social Media?</code></pre>
+<pre><code>» Elf-ies.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary, because when it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites.</code></pre>
-<pre><code>2 » If a rooster can`t fully extend its neck, it can`t crow.</code></pre>
-<pre><code>3 » 60% of electrocutions occur while talking on the telephone during a thunderstorm.</code></pre>
+<pre><code>1 » Jupiter is bigger than all the other planets in our solar system combined.</code></pre>
+<pre><code>2 » Mr. Rogers is an ordained minister.</code></pre>
+<pre><code>3 » Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Anything can happen. No one ever thinks it will until it does. What will happen, happens. That’s how the world is. The most important thing is to not let the tragedy defeat you. To believe that you can get through it. - Kyousuke Natsume</code></pre>
-<pre><code>2 » There are no traffic jams along the extra mile. - Roger Staubach</code></pre>
-<pre><code>3 » Sometimes it’s necessary to do unnecessary things. - Kanade Jinguuji</code></pre>
+<pre><code>1 » In order to succeed, your desire for success should be greater than your fear of failure. - Bill Cosby</code></pre>
+<pre><code>2 » If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud! - Haruhi Fujioka</code></pre>
+<pre><code>3 » All we can do is live until the day we die. Control what we can…and fly free. - Deneil Young</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
