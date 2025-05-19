@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/3643b2afe4b52951471b31d044690df53f679129db0fcaa6b4500baf2b01103f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313025323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C310%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/54e2326743bf2bbc634d89b3871bd9fba0bef320e309ddb601092849a537000e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313125323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C311%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,498+ Commits made on Github</p>
+<p>🏆 3,499+ Commits made on Github</p>
 <p>📦 79.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -65,67 +65,67 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>6 hrs 33 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.19%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 29 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.81%</td>
+<td>4 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.55%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 16 mins</td>
+<td>3 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.36%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 26 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.58%</td>
+<td>18.31%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 37 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.17%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.17%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>58 mins</td>
+<td>39 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.53%</td>
+<td>4.97%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>36 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.41%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.52%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>26 mins</td>
+<td>Java</td>
+<td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.46%</td>
+<td>1.75%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.77%</td>
+<td>8 hrs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.23%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.23%</td>
+<td>5 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.77%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>17 hrs 38 mins</td>
+<td>13 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 18, 2025</td>
-<td>19:22:58 IST</td>
+<td>Monday</td>
+<td>May 19, 2025</td>
+<td>19:25:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 19, 2025</td>
-<td>19:20:55 IST</td>
+<td>Tuesday</td>
+<td>May 20, 2025</td>
+<td>19:25:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,13 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>He definitely won't get wet ! OH NO, it's raining.</code></pre>
-<pre><code>» K know! I'll use my trusty frying pan as a drying pan!</code></pre>
+<pre><code>How come a man driving a train got struck by lightning?</code></pre>
+<pre><code>» He was a good conductor.</code></pre>
 <hr>
-<pre><code>Why are modern programming languages so materialistic?</code></pre>
-<pre><code>» Because they are object-oriented.</code></pre>
+<pre><code>What do you call a group of killer whales playing instruments?</code></pre>
+<pre><code>» An Orca-stra.</code></pre>
 <hr>
-<pre><code>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</code></pre>
+<pre><code>How can you tell an extroverted programmer?</code></pre>
+<pre><code>» He looks at YOUR shoes when he's talking.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -208,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</code></pre>
-<pre><code>2 » Men can read smaller print than women; women can hear better.</code></pre>
-<pre><code>3 » Each month, there is at least one report of UFOs from each province of Canada.</code></pre>
+<pre><code>1 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
+<pre><code>2 » On average, Americans` favorite smell is banana.</code></pre>
+<pre><code>3 » Nearly 80% of all animals on earth have six legs.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -220,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » You take your life in your own hands, and what happens? A terrible thing, no one to blame. - Erica Jong</code></pre>
-<pre><code>2 » The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful. - Roy Mustang</code></pre>
-<pre><code>3 » If you really want to be strong… Stop caring about what your surrounding thinks of you! - Saitama</code></pre>
+<pre><code>1 » “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. - Edward Elric </code></pre>
+<pre><code>2 » A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. - Jiraiya</code></pre>
+<pre><code>3 » Strive not to be a success, but rather to be of value. - Albert Einstein</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
