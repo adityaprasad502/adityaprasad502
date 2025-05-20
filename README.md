@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/54e2326743bf2bbc634d89b3871bd9fba0bef320e309ddb601092849a537000e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313125323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C311%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/e8d88ea5b2780149536f4cbaeff7ccb2e64a3a848f1fedea9791b680101f017f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313325323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C313%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,499+ Commits made on Github</p>
+<p>🏆 3,503+ Commits made on Github</p>
 <p>📦 79.7 MiB Used in GitHub's Storage</p>
 <p>📜 8 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -40,92 +40,92 @@ fun main() {
 <td>🌞 Morning</td>
 <td>59 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.47%</td>
+<td>12.45%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>91 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.24%</td>
+<td>19.2%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>83 commits</td>
+<td>84 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.55%</td>
+<td>17.72%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>240 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.74%</td>
+<td>50.63%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 3 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.55%</td>
+<td>4 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.91%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 14 mins</td>
+<td>3 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.36%</td>
+<td>26.28%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 26 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.31%</td>
+<td>1 hr 55 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.36%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 37 mins</td>
+<td>1 hr 45 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.17%</td>
+<td>12.29%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>39 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.97%</td>
+<td>4.63%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.52%</td>
+<td>4.19%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>13 mins</td>
+<td>Gradle</td>
+<td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.75%</td>
+<td>2.42%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.23%</td>
+<td>8 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.54%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 17 mins</td>
+<td>6 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.77%</td>
+<td>43.46%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 18 mins</td>
+<td>14 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 19, 2025</td>
-<td>19:25:46 IST</td>
+<td>Tuesday</td>
+<td>May 20, 2025</td>
+<td>19:25:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 20, 2025</td>
-<td>19:25:45 IST</td>
+<td>Wednesday</td>
+<td>May 21, 2025</td>
+<td>19:25:50 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>How come a man driving a train got struck by lightning?</code></pre>
-<pre><code>» He was a good conductor.</code></pre>
+<pre><code>Why do pirates not know the alphabet?</code></pre>
+<pre><code>» They always get stuck at "C".</code></pre>
 <hr>
-<pre><code>What do you call a group of killer whales playing instruments?</code></pre>
-<pre><code>» An Orca-stra.</code></pre>
+<pre><code>I hate Russian matryoshka dolls.</code></pre>
+<pre><code>» They're so full of themselves.</code></pre>
 <hr>
-<pre><code>How can you tell an extroverted programmer?</code></pre>
-<pre><code>» He looks at YOUR shoes when he's talking.</code></pre>
+<pre><code>How much does a full metal alchemist boxset cost? </code></pre>
+<pre><code>» An Arm and a Leg</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</code></pre>
-<pre><code>2 » On average, Americans` favorite smell is banana.</code></pre>
-<pre><code>3 » Nearly 80% of all animals on earth have six legs.</code></pre>
+<pre><code>1 » The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</code></pre>
+<pre><code>2 » Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</code></pre>
+<pre><code>3 » Simplistic passwords contribute to over 80% of all computer password break-ins.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -221,9 +221,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » “A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart. - Edward Elric </code></pre>
-<pre><code>2 » A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. - Jiraiya</code></pre>
-<pre><code>3 » Strive not to be a success, but rather to be of value. - Albert Einstein</code></pre>
+<pre><code>1 » As Long As We Continue To Fight We Are Not Defeated - Miche Zacharius</code></pre>
+<pre><code>2 » I would rather die of passion than of boredom. - Vincent van Gogh</code></pre>
+<pre><code>3 » Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt? - Yuuji Kazami</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
