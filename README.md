@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/52e43ceda8d2680ef74b11c75b61f14b33f08651f0066171364faa58ee1a79af/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C315%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,509+ Commits made on Github</p>
+<p>🏆 3,510+ Commits made on Github</p>
 <p>📦 79.5 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,28 +64,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>2 hrs 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.87%</td>
+<td>Python</td>
+<td>2 hrs 44 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.52%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>1 hr 53 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.73%</td>
+<td>Kotlin</td>
+<td>2 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.32%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 10 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.69%</td>
+<td>36 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>33 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.78%</td>
+<td>7.77%</td>
 </tr> 
  <tr>
 <td>JSON</td>
@@ -94,31 +94,31 @@ fun main() {
 <td>4.39%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
-<td>17 mins</td>
+<td>Markdown</td>
+<td>15 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.22%</td>
+<td>3.62%</td>
 </tr> 
  <tr>
-<td>Groovy</td>
-<td>13 mins</td>
+<td>Gradle</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.18%</td>
+<td>2.54%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>3 hrs 47 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.49%</td>
+<td>VS Code</td>
+<td>4 hrs 25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.3%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>3 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.51%</td>
+<td>Android Studio</td>
+<td>2 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.7%</td>
 </tr>
 </tbody></table>
 <table>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>May 23, 2025</td>
-<td>19:23:09 IST</td>
+<td>Saturday</td>
+<td>May 24, 2025</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>May 24, 2025</td>
-<td>19:20:05 IST</td>
+<td>Sunday</td>
+<td>May 25, 2025</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,14 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>How do you organize a space party?</code></pre>
-<pre><code>» You planet.</code></pre>
+<pre><code>What do you call a Titan who can't swim?</code></pre>
+<pre><code>» Titanic.</code></pre>
 <hr>
-<pre><code>Why did the melons plan a big wedding?</code></pre>
-<pre><code>» Because they cantaloupe!</code></pre>
+<pre><code>I can't tell if i like this blender...</code></pre>
+<pre><code>» It keeps giving me mixed results.</code></pre>
 <hr>
-<pre><code>How did you make your friend rage?</code></pre>
-<pre><code>» I implemented a greek question mark in his JavaScript code.</code></pre>
+<pre><code>Why do Java programmers hate communism?</code></pre>
+<pre><code>» They don't want to live in a classless society.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -209,9 +209,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.</code></pre>
-<pre><code>2 » When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</code></pre>
-<pre><code>3 » The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</code></pre>
+<pre><code>1 » Months that begin on a Sunday will always have a `Friday the 13th`.</code></pre>
+<pre><code>2 » Hong Kong holds the most Rolls Royce’s per capita.</code></pre>
+<pre><code>3 » The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</code></pre>
 </details>
 <p>
 	<a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -222,8 +222,8 @@ fun main() {
 <summary><b>Random Quotes for Today</b></summary>
 <br>
 <pre><code>1 » Life is what we make it, always has been, always will be. - Grandma Moses</code></pre>
-<pre><code>2 » Today might be the chance to grasp the chance to let your talent bloom - Tooru Oikawa</code></pre>
-<pre><code>3 » The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson</code></pre>
+<pre><code>2 » Every journey begins with a single step. We just have to have patience. - Milly Thompson</code></pre>
+<pre><code>3 » We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained. - Marie Curie</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
