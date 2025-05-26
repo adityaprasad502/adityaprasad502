@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"> <img src="https://camo.githubusercontent.com/72894b23ec15fa8da01c4850c207d865366cf637452609b0e0d7f48c6f342093/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313525323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C315%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://a.devh.in" rel="nofollow"> <img src="https://camo.githubusercontent.com/6f426440035caa17593ee11b4cb72958c9e73949207076e35b058f048c685b24/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313625323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C316%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,516+ Commits made on Github</p>
-<p>📦 79.5 MiB Used in GitHub's Storage</p>
+<p>🏆 3,518+ Commits made on Github</p>
+<p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
@@ -38,27 +38,27 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>60 commits</td>
+<td>62 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.35%</td>
+<td>12.68%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>94 commits</td>
+<td>95 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.34%</td>
+<td>19.43%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>86 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.7%</td>
+<td>17.59%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>246 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.62%</td>
+<td>50.31%</td>
 </tr>
 </tbody></table>
 <table>
@@ -67,65 +67,65 @@ fun main() {
 <td>Kotlin</td>
 <td>2 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.63%</td>
+<td>37.8%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 41 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.85%</td>
+<td>1 hr 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.33%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>35 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.87%</td>
+<td>10.64%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>32 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.71%</td>
+<td>9.5%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>17 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.33%</td>
+<td>5.21%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.27%</td>
+<td>3.2%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.72%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.58%</td>
+<td>3 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.55%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.42%</td>
+<td>44.45%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 30 mins</td>
+<td>5 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -175,13 +175,13 @@ fun main() {
 <td>Last Refresh</td>
 <td>Monday</td>
 <td>May 26, 2025</td>
-<td>02:23:40 IST</td>
+<td>19:23:43 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Tuesday</td>
 <td>May 27, 2025</td>
-<td>02:20:40 IST</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,14 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>Why do choirs keep buckets handy?</code></pre>
-<pre><code>» So they can carry their tune</code></pre>
+<pre><code>How many programmers does it take to change a lightbulb?</code></pre>
+<pre><code>» None that's a hardware problem</code></pre>
 <hr>
-<pre><code>What do you get hanging from Apple trees?</code></pre>
-<pre><code>» Sore arms.</code></pre>
+<pre><code>What's the difference between a baby and a pile of sand?</code></pre>
+<pre><code>» You can't pick a pile of sand up with a pitchfork.</code></pre>
 <hr>
-<pre><code>How many apples grow on a tree?</code></pre>
-<pre><code>» All of them!</code></pre>
+<pre><code>I was going to tell a dead baby joke. But I decided to abort.</code></pre>
 </details>
 <p>
 	<a href="https://a.devh.in" rel="nofollow">
@@ -209,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.</code></pre>
-<pre><code>2 » In the 1980`s American migraines increased by 60%.</code></pre>
-<pre><code>3 » The Vatican city registered 0 births in 1983</code></pre>
+<pre><code>1 » There are 1 million ants for every human in the world.</code></pre>
+<pre><code>2 » Non-dairy creamer is flammable.</code></pre>
+<pre><code>3 » Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.</code></pre>
 </details>
 <p>
 	<a href="https://a.devh.in" rel="nofollow">
@@ -221,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » That’s why I can’t make a change. Everything I do is so… Half-assed. - Hiroshi Kido</code></pre>
-<pre><code>2 » Winning isn’t everything, but wanting to win is. - Vince Lombardi</code></pre>
-<pre><code>3 » It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it. - Might Guy</code></pre>
+<pre><code>1 » Fall seven times and stand up eight. - Japanese Proverb</code></pre>
+<pre><code>2 » When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. - Helen Keller</code></pre>
+<pre><code>3 » Don’t beg for things. Do it yourself, or else you won’t get anything. - Renton Thurston</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
