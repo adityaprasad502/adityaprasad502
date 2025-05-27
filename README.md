@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"> <img src="https://camo.githubusercontent.com/6f426440035caa17593ee11b4cb72958c9e73949207076e35b058f048c685b24/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313625323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C316%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,518+ Commits made on Github</p>
+<p>🏆 3,519+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -64,68 +64,68 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>2 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.8%</td>
-</tr> 
- <tr>
 <td>Python</td>
-<td>1 hr 49 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.33%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>35 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.64%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>32 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.5%</td>
+<td>1 hr 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>65.34%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.21%</td>
+<td>44 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.33%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
-<td>10 mins</td>
+<td>HTML</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.2%</td>
+<td>2.76%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>1.54%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.53%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.37%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.1%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.55%</td>
+<td>2 hrs 33 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>99.97%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.45%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 <table>
 <tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 37 mins</td>
+<td>2 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -173,15 +173,15 @@ fun main() {
 <tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 26, 2025</td>
-<td>19:23:43 IST</td>
+<td>Tuesday</td>
+<td>May 27, 2025</td>
+<td>19:25:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 27, 2025</td>
-<td>19:20:40 IST</td>
+<td>Wednesday</td>
+<td>May 28, 2025</td>
+<td>19:25:45 IST</td>
 </tr>
 </tbody></table>
 <p>
@@ -192,13 +192,13 @@ fun main() {
 <details>
 <summary><b>Random Jokes for Today</b></summary>
 <hr>
-<pre><code>How many programmers does it take to change a lightbulb?</code></pre>
-<pre><code>» None that's a hardware problem</code></pre>
+<pre><code>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</code></pre>
 <hr>
-<pre><code>What's the difference between a baby and a pile of sand?</code></pre>
-<pre><code>» You can't pick a pile of sand up with a pitchfork.</code></pre>
+<pre><code>Never take advice from electrons.</code></pre>
+<pre><code>» They are always negative.</code></pre>
 <hr>
-<pre><code>I was going to tell a dead baby joke. But I decided to abort.</code></pre>
+<pre><code>Why did the koala get rejected?</code></pre>
+<pre><code>» Because he did not have any koalafication.</code></pre>
 </details>
 <p>
 	<a href="https://a.devh.in" rel="nofollow">
@@ -208,9 +208,9 @@ fun main() {
 <details>
 <summary><b>Random Facts for Today</b></summary>
 <br>
-<pre><code>1 » There are 1 million ants for every human in the world.</code></pre>
-<pre><code>2 » Non-dairy creamer is flammable.</code></pre>
-<pre><code>3 » Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.</code></pre>
+<pre><code>1 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
+<pre><code>2 » John Lennon`s first girlfriend was named Thelma Pickles.</code></pre>
+<pre><code>3 » On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.</code></pre>
 </details>
 <p>
 	<a href="https://a.devh.in" rel="nofollow">
@@ -220,9 +220,9 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary>
 <br>
-<pre><code>1 » Fall seven times and stand up eight. - Japanese Proverb</code></pre>
-<pre><code>2 » When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. - Helen Keller</code></pre>
-<pre><code>3 » Don’t beg for things. Do it yourself, or else you won’t get anything. - Renton Thurston</code></pre>
+<pre><code>1 » You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. - Junichirou Kagami</code></pre>
+<pre><code>2 » Either you run the day, or the day runs you. - Jim Rohn</code></pre>
+<pre><code>3 » As Long As We Continue To Fight We Are Not Defeated - Miche Zacharius</code></pre>
 </details>
 
 <!--END_SECTION:waka-->
