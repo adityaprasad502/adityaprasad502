@@ -25,7 +25,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"> <img src="https://camo.githubusercontent.com/6f426440035caa17593ee11b4cb72958c9e73949207076e35b058f048c685b24/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313625323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C316%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"> </a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
 <p>🏆 3,519+ Commits made on Github</p>
@@ -33,105 +33,148 @@ fun main() {
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
 </blockquote>
-<p>📊 <strong>This Week I Spent My Time On</strong></p>
+<div class="markdown-heading"><h2 align="center" class="heading-element">📊 I Spend My Time On 📊</h2><a id="user-content--i-spend-my-time-on-" class="anchor" aria-label="Permalink: 📊 I Spend My Time On 📊" href="#-i-spend-my-time-on-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - May 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>62 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.68%</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>95 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.43%</td>
+<td>2 commits</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.85%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>86 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.59%</td>
+<td>12 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.08%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>246 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.31%</td>
+<td>38 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.08%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>52 commits in May 2025</b></td>
 </tr>
 </tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Programming Languages</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">💬 Programming Languages🧑‍💻 </th></tr> 
+<tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 40 mins</td>
+<td>2 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.34%</td>
+<td>65.11%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>44 mins</td>
+<td>59 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.33%</td>
+<td>30.45%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.76%</td>
+<td>2.18%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.54%</td>
+<td>1.22%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.53%</td>
+<td>0.45%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.37%</td>
+<td>0.29%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
+<td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.1%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Code Editors</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors🔥 </th></tr> 
+<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 33 mins</td>
+<td>3 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.97%</td>
+<td>99.98%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Operating Systems</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System🖥️ </th></tr> 
+<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 33 mins</td>
+<td>3 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 </tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>My Repository Languages</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁</th></tr> 
+<tbody><tr><th colspan="4"> 🧑‍💻 I have more Python Repos 📁 (Overall)</th></tr> 
  <tr>
 <td>Python</td>
 <td>xx repos</td>
@@ -169,60 +212,87 @@ fun main() {
 <td>3.7%</td>
 </tr>
 </tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<div class="markdown-heading"><h2 align="center" class="heading-element">🎈 Fun Mode 🎈</h2><a id="user-content--fun-mode-" class="anchor" aria-label="Permalink: 🎈 Fun Mode 🎈" href="#-fun-mode-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Random Jokes for Today</b></summary><br>
+<p><strong>What's the difference between a hippo and a zippo?</strong></p>
+<p><em>» One is really heavy, the other is a little lighter.</em></p>
+<hr>
+<p><strong>What do you call a fake noodle?</strong></p>
+<p><em>» An impasta.</em></p>
+<hr>
+<p>Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.</p>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Random Facts for Today</b></summary><br>
+<p>💡 Americans travel 1,144,721,000 miles by air every day</p>
+<hr>
+<p>💡 The average American looks at eight houses before buying one.</p>
+<hr>
+<p>💡 A duck`s quack doesn`t echo, and no one knows why.</p>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Random Quotes for Today</b></summary><br>
+<blockquote>
+  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily."</em> - Zig Ziglar</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Winning isn’t everything, but wanting to win is."</em> - Vince Lombardi</p>
+</blockquote>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Refresh Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">⏳ Refresh Stats ⌛</th></tr>
+<tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 27, 2025</td>
-<td>19:25:46 IST</td>
+<td>Wednesday</td>
+<td>May 28, 2025</td>
+<td>19:25:38 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 28, 2025</td>
-<td>19:25:45 IST</td>
+<td>Thursday</td>
+<td>May 29, 2025</td>
+<td>19:25:35 IST</td>
 </tr>
-</tbody></table>
-<p>
-	<a href="https://a.devh.in" rel="nofollow">
-		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
-	</a>
-</p>
-<details>
-<summary><b>Random Jokes for Today</b></summary>
-<hr>
-<pre><code>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</code></pre>
-<hr>
-<pre><code>Never take advice from electrons.</code></pre>
-<pre><code>» They are always negative.</code></pre>
-<hr>
-<pre><code>Why did the koala get rejected?</code></pre>
-<pre><code>» Because he did not have any koalafication.</code></pre>
-</details>
-<p>
-	<a href="https://a.devh.in" rel="nofollow">
-		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
-	</a>
-</p>
-<details>
-<summary><b>Random Facts for Today</b></summary>
-<br>
-<pre><code>1 » Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</code></pre>
-<pre><code>2 » John Lennon`s first girlfriend was named Thelma Pickles.</code></pre>
-<pre><code>3 » On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.</code></pre>
-</details>
-<p>
-	<a href="https://a.devh.in" rel="nofollow">
-		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
-	</a>
-</p>
-<details>
-<summary><b>Random Quotes for Today</b></summary>
-<br>
-<pre><code>1 » You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way. - Junichirou Kagami</code></pre>
-<pre><code>2 » Either you run the day, or the day runs you. - Jim Rohn</code></pre>
-<pre><code>3 » As Long As We Continue To Fight We Are Not Defeated - Miche Zacharius</code></pre>
+</tbody>
+</table>
 </details>
 
 <!--END_SECTION:waka-->
