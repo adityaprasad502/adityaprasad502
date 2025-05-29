@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,519+ Commits made on Github</p>
+<p>🏆 3,520+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 6 mins</td>
+<td>3 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.11%</td>
+<td>66.14%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>59 mins</td>
+<td>1 hr 44 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.45%</td>
+<td>30.47%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.18%</td>
+<td>1.24%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.87%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.22%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.45%</td>
+<td>0.69%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>0 secs</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.36%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>0.12%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 14 mins</td>
+<td>5 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.98%</td>
+<td>99.99%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 14 mins</td>
+<td>5 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -226,17 +226,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's the difference between a hippo and a zippo?</strong></p>
-<p><em>» One is really heavy, the other is a little lighter.</em></p>
+<p><strong>How do you make a tissue dance?</strong></p>
+<p><em>» You put a little boogie on it.</em></p>
 <hr>
-<p><strong>What do you call a fake noodle?</strong></p>
-<p><em>» An impasta.</em></p>
+<p><strong>Want to hear a joke about a piece of paper?</strong></p>
+<p><em>» Never mind...it's tearable</em></p>
 <hr>
-<p>Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.</p>
+<p><strong>What do you call a dad that has fallen through the ice?</strong></p>
+<p><em>» A Popsicle.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -245,11 +242,11 @@ Knock knock.</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Americans travel 1,144,721,000 miles by air every day</p>
+<p>💡 Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
 <hr>
-<p>💡 The average American looks at eight houses before buying one.</p>
+<p>💡 February 1865 is the only month in recorded history not to have a full moon.</p>
 <hr>
-<p>💡 A duck`s quack doesn`t echo, and no one knows why.</p>
+<p>💡 Sex burns 360 calories per hour.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -259,15 +256,15 @@ Knock knock.</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily."</em> - Zig Ziglar</p>
+  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
+  <p><em>"Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about."</em> - Jet Black</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Winning isn’t everything, but wanting to win is."</em> - Vince Lombardi</p>
+  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
 </blockquote>
 </details>
 <p>
@@ -281,15 +278,15 @@ Knock knock.</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>May 28, 2025</td>
-<td>19:25:38 IST</td>
+<td>Thursday</td>
+<td>May 29, 2025</td>
+<td>19:23:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>May 29, 2025</td>
-<td>19:25:35 IST</td>
+<td>Friday</td>
+<td>May 30, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody>
 </table>
