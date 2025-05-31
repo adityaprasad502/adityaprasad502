@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,521+ Commits made on Github</p>
+<p>🏆 3,522+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.36%</td>
+<td>2 hrs 46 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>63.34%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>1 hr 44 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.35%</td>
+<td>1 hr 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.67%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.28%</td>
-</tr> 
- <tr>
-<td>Git Config</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.71%</td>
+<td>1.61%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.68%</td>
+<td>0.82%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>1 min</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.37%</td>
+<td>0.25%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.12%</td>
+<td>0.15%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.06%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 31 mins</td>
+<td>4 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.97%</td>
+<td>99.98%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 31 mins</td>
+<td>4 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -226,15 +226,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do Santa's little helpers learn at school?</strong></p>
-<p><em>» The elf-abet!
-</em></p>
+<p>I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.</p>
 <hr>
-<p><strong>A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"</strong></p>
-<p><em>» Pop,goes the weasel.</em></p>
+<p><strong>What do you call fake spaghetti?</strong></p>
+<p><em>» An impasta!</em></p>
 <hr>
-<p><strong>When does a joke become a dad joke?</strong></p>
-<p><em>» When it becomes apparent.</em></p>
+<p><strong>What time did the man go to the dentist?</strong></p>
+<p><em>» Tooth hurt-y.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -243,11 +241,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 %60 of all people using the Internet, use it for pornography.</p>
+<p>💡 Women manage the money and pay the bills in  75% of all Americans households.</p>
 <hr>
-<p>💡 The word Pennsylvania is misspelled on the Liberty Bell.</p>
+<p>💡 A bull can inseminate 300 cows from one single ejaculation.</p>
 <hr>
-<p>💡 One quarter of the bones in your body are in your feet.</p>
+<p>💡 The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -257,15 +255,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
+  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
+  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for."</em> - Julis Alexia Van Riessfeld</p>
+  <p><em>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</em> - Juuzou Suzuya</p>
 </blockquote>
 </details>
 <p>
@@ -279,15 +277,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>May 30, 2025</td>
-<td>19:23:34 IST</td>
+<td>Saturday</td>
+<td>May 31, 2025</td>
+<td>19:22:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>May 31, 2025</td>
-<td>19:20:30 IST</td>
+<td>Sunday</td>
+<td>June 01, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody>
 </table>
