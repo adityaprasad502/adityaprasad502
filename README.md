@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,523+ Commits made on Github</p>
+<p>🏆 3,524+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -56,39 +56,39 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 12 mins</td>
+<td>2 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.49%</td>
+<td>57.13%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>1 hr 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.06%</td>
+<td>39.3%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.86%</td>
+<td>1.93%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.95%</td>
+<td>0.98%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.3%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.17%</td>
+<td>0.18%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -109,7 +109,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 47 mins</td>
+<td>3 hrs 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>99.98%</td>
 </tr> 
@@ -132,7 +132,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 47 mins</td>
+<td>3 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -198,14 +198,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>// This line doesn't actually do anything, but the code stops working when I delete it.</p>
+<p><strong>What do you call a belt made out of watches?</strong></p>
+<p><em>» A waist of time.</em></p>
 <hr>
-<p>Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.</p>
+<p><strong>You see, mountains aren't just funny.</strong></p>
+<p><em>» They are hill areas.</em></p>
 <hr>
-<p><strong>Did you hear about the Viking who was reincarnated?</strong></p>
-<p><em>» He was Bjorn again</em></p>
+<p><strong>I was feeling depressed, my wife put her hand on my back and said "Earth."</strong></p>
+<p><em>» It meant the world to me.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -214,11 +214,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.</p>
+<p>💡 Women manage the money and pay the bills in  75% of all Americans households.</p>
 <hr>
-<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</p>
+<p>💡 In the last 4000 years, no new animals have been domesticated.</p>
 <hr>
-<p>💡 Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.</p>
+<p>💡 Non-dairy creamer is flammable.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -228,15 +228,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The question isn’t who is going to let me; it’s who is going to stop me."</em> - Ayn Rand</p>
+  <p><em>"Either you run the day, or the day runs you."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Your time is limited, so don’t waste it living someone else’s life."</em> - Steve Jobs</p>
+  <p><em>"Success usually comes to those who are too busy to be looking for it."</em> - Henry David Thoreau</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."</em> - Plato</p>
+  <p><em>"When you lose sight of your path, listen for the destination in your heart."</em> - Allen Walker</p>
 </blockquote>
 </details>
 <p>
@@ -250,15 +250,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 01, 2025</td>
-<td>19:22:54 IST</td>
+<td>Monday</td>
+<td>June 02, 2025</td>
+<td>19:25:29 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 02, 2025</td>
-<td>19:20:50 IST</td>
+<td>Tuesday</td>
+<td>June 03, 2025</td>
+<td>19:25:25 IST</td>
 </tr>
 </tbody>
 </table>
