@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,525+ Commits made on Github</p>
+<p>🏆 3,526+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -56,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 5 mins</td>
+<td>1 hr 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.77%</td>
+<td>67.47%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>59 mins</td>
+<td>44 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.39%</td>
+<td>30.49%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.14%</td>
+<td>1.41%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.21%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.45%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.05%</td>
+<td>0.07%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.04%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.04%</td>
 </tr>
 </tbody></table>
 </details>
@@ -109,15 +109,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 8 mins</td>
+<td>2 hrs 27 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.98%</td>
+<td>99.97%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 </details>
@@ -132,7 +132,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 8 mins</td>
+<td>2 hrs 27 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -198,18 +198,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Knock knock. 
- Who's there? 
- Little old lady. 
- Little old lady who?</strong></p>
-<p><em>» I didn't know you could yodel!</em></p>
+<p><strong>What do you call a deaf gynecologist?</strong></p>
+<p><em>» A lip reader.</em></p>
 <hr>
-<p>A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."</p>
+<p><strong>How do you get two whales in a car?</strong></p>
+<p><em>» Start in England and drive West.</em></p>
 <hr>
-<p><strong>Why was the mushroom always invited to parties?</strong></p>
-<p><em>» Cause he's a fungi.</em></p>
+<p><strong>What do you call a group of 8 Hobbits?</strong></p>
+<p><em>» A Hobbyte.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -218,11 +214,11 @@ The guy says "In that case, better make it a double."</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</p>
+<p>💡 Honeybees have a type of hair on their eyes!</p>
 <hr>
-<p>💡 The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</p>
+<p>💡 Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</p>
 <hr>
-<p>💡 Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</p>
+<p>💡 The average North American will eat 35,000 cookies during their life span.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -232,15 +228,15 @@ The guy says "In that case, better make it a double."</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing!"</em> - Satsuki Kiryuuin</p>
+  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Hard work is worthless for those that don’t believe in themselves."</em> - Naruto Uzumaki</p>
+  <p><em>"Start where you are. Use what you have.  Do what you can."</em> - Arthur Ashe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The best time to plant a tree was 20 years ago. The second best time is now."</em> - Chinese Proverb</p>
+  <p><em>"An excellent leader must be passionate because it’s their duty to keep everyone moving forward."</em> - Nico Yazawa</p>
 </blockquote>
 </details>
 <p>
@@ -254,15 +250,15 @@ The guy says "In that case, better make it a double."</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 03, 2025</td>
-<td>19:26:37 IST</td>
+<td>Wednesday</td>
+<td>June 04, 2025</td>
+<td>19:25:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 04, 2025</td>
-<td>19:25:35 IST</td>
+<td>Thursday</td>
+<td>June 05, 2025</td>
+<td>19:25:45 IST</td>
 </tr>
 </tbody>
 </table>
