@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,526+ Commits made on Github</p>
+<p>🏆 3,527+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -55,46 +55,22 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Python</td>
-<td>1 hr 39 mins</td>
+<td>Gradle</td>
+<td>0 secs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.47%</td>
+<td>66.7%</td>
 </tr> 
  <tr>
-<td>Markdown</td>
-<td>44 mins</td>
+<td>Kotlin</td>
+<td>0 secs</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.49%</td>
+<td>28.89%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.41%</td>
-</tr> 
- <tr>
-<td>Other</td>
+<td>XML</td>
 <td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.45%</td>
-</tr> 
- <tr>
-<td>YAML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.07%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.41%</td>
 </tr>
 </tbody></table>
 </details>
@@ -108,16 +84,10 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
-<td>VS Code</td>
-<td>2 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>99.97%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -132,7 +102,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 27 mins</td>
+<td>0 secs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -198,14 +168,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a deaf gynecologist?</strong></p>
-<p><em>» A lip reader.</em></p>
+<p><strong>How does the moon cut his hair?</strong></p>
+<p><em>» Eclipse it.</em></p>
 <hr>
-<p><strong>How do you get two whales in a car?</strong></p>
-<p><em>» Start in England and drive West.</em></p>
+<p><strong>What do you call a cow with no legs?</strong></p>
+<p><em>» Ground beef.</em></p>
 <hr>
-<p><strong>What do you call a group of 8 Hobbits?</strong></p>
-<p><em>» A Hobbyte.</em></p>
+<p><strong>What do Ted Bundy and the Space Shuttle Columbia have in common?</strong></p>
+<p><em>» They both left bodies in four states.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -214,11 +184,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Honeybees have a type of hair on their eyes!</p>
+<p>💡 The word Pennsylvania is misspelled on the Liberty Bell.</p>
 <hr>
-<p>💡 Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</p>
+<p>💡 Each month, there is at least one report of UFOs from each province of Canada.</p>
 <hr>
-<p>💡 The average North American will eat 35,000 cookies during their life span.</p>
+<p>💡 An eighteenth-century German named Matthew Birchinger, known as "the little man of Nuremberg," played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -228,15 +198,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
+  <p><em>"Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing!"</em> - Satsuki Kiryuuin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Start where you are. Use what you have.  Do what you can."</em> - Arthur Ashe</p>
+  <p><em>"Life is not a game of luck. If you wanna win, work hard."</em> - Sora</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"An excellent leader must be passionate because it’s their duty to keep everyone moving forward."</em> - Nico Yazawa</p>
+  <p><em>"Whatever the mind of man can conceive and believe, it can achieve."</em> - Napoleon Hill</p>
 </blockquote>
 </details>
 <p>
@@ -250,15 +220,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>June 04, 2025</td>
-<td>19:25:48 IST</td>
+<td>Thursday</td>
+<td>June 05, 2025</td>
+<td>19:26:17 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>June 05, 2025</td>
-<td>19:25:45 IST</td>
+<td>Friday</td>
+<td>June 06, 2025</td>
+<td>19:25:15 IST</td>
 </tr>
 </tbody>
 </table>
