@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,527+ Commits made on Github</p>
+<p>🏆 3,528+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -52,27 +52,9 @@ fun main() {
 </p>
 <details>
 <summary><b>Programming Languages</b></summary><br>
-<table>
-<tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
- <tr>
-<td>Gradle</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.7%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.89%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.41%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -81,15 +63,9 @@ fun main() {
 </p>
 <details>
 <summary><b>Code Editors</b></summary><br>
-<table>
-<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -98,15 +74,9 @@ fun main() {
 </p>
 <details>
 <summary><b>Operating Systems</b></summary><br>
-<table>
-<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
- <tr>
-<td>Windows</td>
-<td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -168,14 +138,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How does the moon cut his hair?</strong></p>
-<p><em>» Eclipse it.</em></p>
+<p><strong>Why do front end developers eat lunch alone?</strong></p>
+<p><em>» Because they don't know how to join tables.</em></p>
 <hr>
-<p><strong>What do you call a cow with no legs?</strong></p>
-<p><em>» Ground beef.</em></p>
+<p><strong>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?</strong></p>
+<p><em>» European</em></p>
 <hr>
-<p><strong>What do Ted Bundy and the Space Shuttle Columbia have in common?</strong></p>
-<p><em>» They both left bodies in four states.</em></p>
+<p><strong>Why did the math book look sad?</strong></p>
+<p><em>» Because it had too many problems.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -184,11 +154,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The word Pennsylvania is misspelled on the Liberty Bell.</p>
+<p>💡 The Vatican city registered 0 births in 1983</p>
 <hr>
-<p>💡 Each month, there is at least one report of UFOs from each province of Canada.</p>
+<p>💡 Oak trees do not produce acorns until they are fifty years of age or older.</p>
 <hr>
-<p>💡 An eighteenth-century German named Matthew Birchinger, known as "the little man of Nuremberg," played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.</p>
+<p>💡 Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.  The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -198,15 +168,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Fear is freedom! Subjugation is liberation! Contradiction is the truth! Those are the facts of this world! And you will all surrender to them, you pigs in human clothing!"</em> - Satsuki Kiryuuin</p>
+  <p><em>"To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have."</em> - Matsumoto Rangiku</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is not a game of luck. If you wanna win, work hard."</em> - Sora</p>
+  <p><em>"If you want to lift yourself up, lift up someone else."</em> - Booker T. Washington</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whatever the mind of man can conceive and believe, it can achieve."</em> - Napoleon Hill</p>
+  <p><em>"In the middle of every difficulty lies opportunity."</em> - Albert Einstein</p>
 </blockquote>
 </details>
 <p>
@@ -220,15 +190,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>June 05, 2025</td>
-<td>19:26:17 IST</td>
+<td>Friday</td>
+<td>June 06, 2025</td>
+<td>19:25:01 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>June 06, 2025</td>
-<td>19:25:15 IST</td>
+<td>Saturday</td>
+<td>June 07, 2025</td>
+<td>19:25:00 IST</td>
 </tr>
 </tbody>
 </table>
