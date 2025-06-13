@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,534+ Commits made on Github</p>
+<p>🏆 3,535+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -138,13 +138,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></p>
-<p><em>» Because 7 8 9 A?</em></p>
+<p><strong>What do you call a belt made out of watches?</strong></p>
+<p><em>» A waist of time.</em></p>
 <hr>
-<p>ASCII silly question, get a silly ANSI.</p>
+<p><strong>To understand what recursion is...</strong></p>
+<p><em>» You must first understand what recursion is</em></p>
 <hr>
-<p><strong>What did the dog say to the two trees?</strong></p>
-<p><em>» Bark bark.</em></p>
+<p><strong>What do you call an alligator in a vest?</strong></p>
+<p><em>» An in-vest-igator!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -153,11 +154,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The serial number of the first MAC ever produced was 2001.</p>
+<p>💡 To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</p>
 <hr>
-<p>💡 All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.</p>
+<p>💡 Barbie`s full name is Barbara Millicent Roberts.</p>
 <hr>
-<p>💡 Most dust particles in your house are made from dead skin.</p>
+<p>💡 The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -167,15 +168,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Whatever you lose, you’ll find it again. But what you throw away you’ll never get back."</em> - Himura Kenshin</p>
+  <p><em>"Whatever you lose, you’ll find it again. But what you throw away you’ll never get back."</em> - Kenshin Himura</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being weak is nothing to be ashamed of… Staying weak is !!"</em> - Fuegoleon Vermillion</p>
+  <p><em>"When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life."</em> - John Lennon</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It does not matter how slowly you go as long as you do not stop."</em> - Confucius</p>
+  <p><em>"Change your thoughts and you change your world."</em> - Norman Vincent Peale</p>
 </blockquote>
 </details>
 <p>
@@ -189,15 +190,15 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>June 12, 2025</td>
-<td>19:26:17 IST</td>
+<td>Friday</td>
+<td>June 13, 2025</td>
+<td>19:24:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>June 13, 2025</td>
-<td>19:25:15 IST</td>
+<td>Saturday</td>
+<td>June 14, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody>
 </table>
