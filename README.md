@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,536+ Commits made on Github</p>
+<p>🏆 3,537+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -52,9 +52,27 @@ fun main() {
 </p>
 <details>
 <summary><b>Programming Languages</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
+ <tr>
+<td>Gradle</td>
+<td>0 secs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.02%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>0 secs</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.9%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>0 secs</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.08%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -63,9 +81,15 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Code Editors</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
+ <tr>
+<td>Android Studio</td>
+<td>0 secs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -74,9 +98,15 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Operating Systems</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
+ <tr>
+<td>Windows</td>
+<td>0 secs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -138,14 +168,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why don't programmers like nature?</strong></p>
-<p><em>» There's too many bugs.</em></p>
+<p><strong>Why do birds fly south for the winter?</strong></p>
+<p><em>» Because it's too far to walk.</em></p>
 <hr>
-<p><strong>How do you organize an outer space party?</strong></p>
-<p><em>» You planet</em></p>
+<p><strong>What time is it?</strong></p>
+<p><em>» I don't know... it keeps changing.</em></p>
 <hr>
-<p><strong>Why don't you find hippopotamuses hiding in trees?</strong></p>
-<p><em>» They're really good at it.</em></p>
+<p><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></p>
+<p><em>» Attire.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -154,11 +184,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  </p>
+<p>💡 the bird is the word</p>
 <hr>
-<p>💡 If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
+<p>💡 When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
 <hr>
-<p>💡 A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</p>
+<p>💡 The average American looks at eight houses before buying one.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -168,15 +198,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
+  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough."</em> - Oprah Winfrey</p>
+  <p><em>"Every strike brings me closer to the next home run."</em> - Babe Ruth</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed."</em> - Michael Jordan</p>
+  <p><em>"Strive not to be a success, but rather to be of value."</em> - Albert Einstein</p>
 </blockquote>
 </details>
 <p>
@@ -190,15 +220,15 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>June 14, 2025</td>
-<td>19:22:50 IST</td>
+<td>Sunday</td>
+<td>June 15, 2025</td>
+<td>19:22:42 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>June 15, 2025</td>
-<td>19:20:50 IST</td>
+<td>Monday</td>
+<td>June 16, 2025</td>
+<td>19:20:40 IST</td>
 </tr>
 </tbody>
 </table>
