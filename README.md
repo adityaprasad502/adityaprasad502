@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/13a69e8e404b387a8bacf27bc20068e2fe0210928313def280ad50682d58d406/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/15b1d4069fca6abacba9057dbd2638a41fc564d8ba451b9462c7c8caead3b721/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,537+ Commits made on Github</p>
+<p>🏆 3,538+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -55,22 +55,34 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
+<td>Python</td>
+<td>0 secs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.31%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>0 secs</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.7%</td>
+</tr> 
+ <tr>
 <td>Gradle</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.02%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.77%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.9%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.54%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>0 secs</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.08%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.69%</td>
 </tr>
 </tbody></table>
 </details>
@@ -84,10 +96,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
+<td>VS Code</td>
+<td>1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>94.0%</td>
+</tr> 
+ <tr>
 <td>Android Studio</td>
 <td>0 secs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -102,7 +120,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>0 secs</td>
+<td>1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -168,14 +186,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do birds fly south for the winter?</strong></p>
-<p><em>» Because it's too far to walk.</em></p>
+<p><strong>Tokyo Ghoul - You KEN run</strong></p>
+<p><em>» But you can't HIDE</em></p>
 <hr>
-<p><strong>What time is it?</strong></p>
-<p><em>» I don't know... it keeps changing.</em></p>
+<p><strong>Why do trees seem suspicious on sunny days?</strong></p>
+<p><em>» Dunno, they're just a bit shady.</em></p>
 <hr>
-<p><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></p>
-<p><em>» Attire.</em></p>
+<p><strong>Which song would an exception sing?</strong></p>
+<p><em>» Can't catch me - Avicii</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -184,9 +202,9 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 the bird is the word</p>
+<p>💡 Iceland consumes more Coca-Cola per capita than any other nation.</p>
 <hr>
-<p>💡 When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
+<p>💡 Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.</p>
 <hr>
 <p>💡 The average American looks at eight houses before buying one.</p>
 </details>
@@ -198,15 +216,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
+  <p><em>"Either you run the day, or the day runs you."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every strike brings me closer to the next home run."</em> - Babe Ruth</p>
+  <p><em>"A person who never made a mistake never tried anything new."</em> -  Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Strive not to be a success, but rather to be of value."</em> - Albert Einstein</p>
+  <p><em>"Challenges are what make life interesting and overcoming them is what makes life meaningful."</em> - Joshua J. Marine</p>
 </blockquote>
 </details>
 <p>
@@ -220,15 +238,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 15, 2025</td>
-<td>19:22:42 IST</td>
+<td>Monday</td>
+<td>June 16, 2025</td>
+<td>19:27:12 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 16, 2025</td>
-<td>19:20:40 IST</td>
+<td>Tuesday</td>
+<td>June 17, 2025</td>
+<td>19:25:10 IST</td>
 </tr>
 </tbody>
 </table>
