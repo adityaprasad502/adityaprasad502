@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/15b1d4069fca6abacba9057dbd2638a41fc564d8ba451b9462c7c8caead3b721/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,539+ Commits made on Github</p>
+<p>🏆 3,540+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -186,14 +186,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why should you never talk to pi?</strong></p>
-<p><em>» Because it will go on forever.</em></p>
+<p><strong>What do you call a suspicious looking laptop?</strong></p>
+<p><em>» Asus</em></p>
 <hr>
-<p><strong>How does an octopus go into battle?</strong></p>
-<p><em>» Well-armed!</em></p>
+<p><strong>Two peanuts were walking.</strong></p>
+<p><em>» One was assaulted.</em></p>
 <hr>
-<p><strong>How many bones are in the human hand?</strong></p>
-<p><em>» A handful of them.</em></p>
+<p><strong>Did you watch the new comic book movie?</strong></p>
+<p><em>» It was very graphic!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -202,11 +202,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</p>
+<p>💡 Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</p>
 <hr>
-<p>💡 The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.</p>
+<p>💡 An ostrich`s eye is bigger than its brain.  </p>
 <hr>
-<p>💡 Van Gogh only sold one painting when he was alive.</p>
+<p>💡 There is a town in Newfoundland, Canada called Dildo.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -216,15 +216,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Reject common sense to make the impossible possible."</em> - Simon</p>
+  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can’t waste time worrying about the what if’s."</em> - Ichigo Kurosaki</p>
+  <p><em>"Eighty percent of success is showing up."</em> - Woody Allen</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful."</em> - Roy Mustang</p>
+  <p><em>"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end."</em> - Aristotle</p>
 </blockquote>
 </details>
 <p>
@@ -238,15 +238,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 17, 2025</td>
-<td>19:26:20 IST</td>
+<td>Wednesday</td>
+<td>June 18, 2025</td>
+<td>19:26:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 18, 2025</td>
-<td>19:25:20 IST</td>
+<td>Thursday</td>
+<td>June 19, 2025</td>
+<td>19:25:50 IST</td>
 </tr>
 </tbody>
 </table>
