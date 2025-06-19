@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/15b1d4069fca6abacba9057dbd2638a41fc564d8ba451b9462c7c8caead3b721/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,540+ Commits made on Github</p>
+<p>🏆 3,541+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -186,14 +186,16 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a suspicious looking laptop?</strong></p>
-<p><em>» Asus</em></p>
+<p><strong>Thank you student loans for getting me through college.</strong></p>
+<p><em>» I don't think I'll ever be able to repay you.</em></p>
 <hr>
-<p><strong>Two peanuts were walking.</strong></p>
-<p><em>» One was assaulted.</em></p>
+<p><strong>Knock knock. 
+ Who's there? 
+ Opportunity.</strong></p>
+<p><em>» That is impossible. Opportunity doesn’t come knocking twice!</em></p>
 <hr>
-<p><strong>Did you watch the new comic book movie?</strong></p>
-<p><em>» It was very graphic!</em></p>
+<p><strong>Lady: How do I spread love in this cruel world?</strong></p>
+<p><em>» Random Dude: [...💘]</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -202,11 +204,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</p>
+<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
 <hr>
-<p>💡 An ostrich`s eye is bigger than its brain.  </p>
+<p>💡 Until 1994, world maps and globes sold in Albania only had Albania on them.</p>
 <hr>
-<p>💡 There is a town in Newfoundland, Canada called Dildo.</p>
+<p>💡 Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -216,15 +218,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
+  <p><em>"When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us."</em> - Helen Keller</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Eighty percent of success is showing up."</em> - Woody Allen</p>
+  <p><em>"You should never give up on life, no matter how you feel. No matter how badly you want to give up."</em> - Canaan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end."</em> - Aristotle</p>
+  <p><em>"You take your life in your own hands, and what happens? A terrible thing, no one to blame."</em> - Erica Jong</p>
 </blockquote>
 </details>
 <p>
@@ -238,15 +240,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>June 18, 2025</td>
-<td>19:26:51 IST</td>
+<td>Thursday</td>
+<td>June 19, 2025</td>
+<td>19:25:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>June 19, 2025</td>
-<td>19:25:50 IST</td>
+<td>Friday</td>
+<td>June 20, 2025</td>
+<td>19:25:00 IST</td>
 </tr>
 </tbody>
 </table>
