@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/15b1d4069fca6abacba9057dbd2638a41fc564d8ba451b9462c7c8caead3b721/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333313925323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C319%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,542+ Commits made on Github</p>
+<p>🏆 3,543+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -138,38 +138,44 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.85%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.52%</td>
+<td>17.86%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.11%</td>
+<td>10.71%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.41%</td>
+<td>7.14%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.41%</td>
+<td>7.14%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.57%</td>
+</tr> 
+ <tr>
+<td>Go</td>
+<td>x repos</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -186,14 +192,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's the difference between a hot potato and a flying pig?</strong></p>
-<p><em>» One's a heated yam, the other's a yeeted ham.</em></p>
+<p><strong>Why are skeletons so calm?</strong></p>
+<p><em>» Because nothing gets under their skin.</em></p>
 <hr>
-<p><strong>Why was the stadium so cool?</strong></p>
-<p><em>» It was filled with fans!</em></p>
+<p><strong>Did you hear about the bread factory burning down?</strong></p>
+<p><em>» They say the business is toast.</em></p>
 <hr>
-<p><strong>Why did the worker get fired from the orange juice factory?</strong></p>
-<p><em>» Lack of concentration.</em></p>
+<p><strong>Why is every gender equality officer female?</strong></p>
+<p><em>» Because it's cheaper.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -202,11 +208,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
+<p>💡 The katydid bug hears through holes in its hind legs!</p>
 <hr>
-<p>💡 You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
+<p>💡 Most Egyptians died by the time they were 30 about 300 years ago,</p>
 <hr>
-<p>💡 The longest one-syllable word in the English language is "screeched."</p>
+<p>💡 In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -216,15 +222,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."</em> - Booker T. Washington</p>
+  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Dream big and dare to fail."</em> - Norman Vaughan</p>
+  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Dreaming, after all, is a form of planning."</em> - Gloria Steinem</p>
+  <p><em>"You take your life in your own hands, and what happens? A terrible thing, no one to blame."</em> - Erica Jong</p>
 </blockquote>
 </details>
 <p>
@@ -238,15 +244,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>June 20, 2025</td>
-<td>19:25:18 IST</td>
+<td>Saturday</td>
+<td>June 21, 2025</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>June 21, 2025</td>
-<td>19:25:15 IST</td>
+<td>Sunday</td>
+<td>June 22, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody>
 </table>
