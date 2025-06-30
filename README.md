@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/91195af2d54adb202f980647dd32d58143a2a13be533dc0866bddb784a568561/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,551+ Commits made on Github</p>
+<p>🏆 3,552+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -52,9 +52,51 @@ fun main() {
 </p>
 <details>
 <summary><b>Programming Languages</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
+ <tr>
+<td>Kotlin</td>
+<td>29 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>77.15%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>4 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.64%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.8%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.22%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.1%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.02%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.07%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -63,9 +105,21 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Code Editors</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
+ <tr>
+<td>Android Studio</td>
+<td>30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.64%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>7 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.36%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -74,9 +128,15 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Operating Systems</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
+ <tr>
+<td>Windows</td>
+<td>38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -144,13 +204,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>UDP is better in the COVID era since it avoids unnecessary handshakes.</p>
+<p><strong>How did Darth Vader know what Luke was getting for Christmas?</strong></p>
+<p><em>» He felt his presents.</em></p>
 <hr>
-<p><strong>Why did the ghost go to the bar?</strong></p>
-<p><em>» To get sheet faced.</em></p>
+<p><strong>Why does Santa go down the chimney?</strong></p>
+<p><em>» Because it soots him!</em></p>
 <hr>
-<p><strong>How do you know if there’s an elephant under your bed?</strong></p>
-<p><em>» Your head hits the ceiling!</em></p>
+<p><strong>If you see a robbery at an Apple Store...</strong></p>
+<p><em>» Does that make you an iWitness?</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -159,11 +220,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
+<p>💡 Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</p>
 <hr>
-<p>💡 In the White House, there are 13,092 knives, forks and spoons!</p>
+<p>💡 Venus is the only planet that rotates clockwise.</p>
 <hr>
-<p>💡 Bats always turn left when exiting a cave</p>
+<p>💡 When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -173,15 +234,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</em> - Albert Schweitzer</p>
+  <p><em>"If you just submit yourself to fate, then that’s the end of it."</em> - Keiichi Maebara</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whether you think you can or you think you can’t, you’re right."</em> - Henry Ford</p>
+  <p><em>"If you do what you’ve always done, you’ll get what you’ve always gotten."</em> - Tony Robbins</p>
 </blockquote>
 </details>
 <p>
@@ -195,15 +256,15 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 29, 2025</td>
-<td>19:23:36 IST</td>
+<td>Monday</td>
+<td>June 30, 2025</td>
+<td>19:26:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 30, 2025</td>
-<td>19:20:35 IST</td>
+<td>Tuesday</td>
+<td>July 01, 2025</td>
+<td>19:25:40 IST</td>
 </tr>
 </tbody>
 </table>
