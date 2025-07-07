@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/91195af2d54adb202f980647dd32d58143a2a13be533dc0866bddb784a568561/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%; height: auto;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/91195af2d54adb202f980647dd32d58143a2a13be533dc0866bddb784a568561/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,558+ Commits made on Github</p>
+<p>🏆 3,559+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -36,7 +36,7 @@ fun main() {
 <div class="markdown-heading"><h2 align="center" class="heading-element">📊 I Spend My Time On 📊</h2><a id="user-content--i-spend-my-time-on-" class="anchor" aria-label="Permalink: 📊 I Spend My Time On 📊" href="#-i-spend-my-time-on-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
@@ -47,100 +47,40 @@ fun main() {
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Programming Languages</b></summary><br>
-<table>
-<tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
- <tr>
-<td>Kotlin</td>
-<td>29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.15%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>4 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.64%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.22%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.1%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.02%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.07%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Code Editors</b></summary><br>
-<table>
-<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
- <tr>
-<td>Android Studio</td>
-<td>30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.64%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>7 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.36%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Operating Systems</b></summary><br>
-<table>
-<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
- <tr>
-<td>Windows</td>
-<td>38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
@@ -193,61 +133,61 @@ fun main() {
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <div class="markdown-heading"><h2 align="center" class="heading-element">🎈 Fun Mode 🎈</h2><a id="user-content--fun-mode-" class="anchor" aria-label="Permalink: 🎈 Fun Mode 🎈" href="#-fun-mode-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a cow on a trampoline?</strong></p>
-<p><em>» A milk shake!</em></p>
+<p><strong>The past, the present and the future walk into a bar.</strong></p>
+<p><em>» It was tense.</em></p>
 <hr>
-<p><strong>If I make you breakfast in bed, a simple thank you is all I need.</strong></p>
-<p><em>» Not all this "How the fuck did you get in my house?!" nonsense.</em></p>
+<p><strong>Why did the melons plan a big wedding?</strong></p>
+<p><em>» Because they cantaloupe!</em></p>
 <hr>
-<p><strong>Why did the kid throw the watch out the window?</strong></p>
-<p><em>» So time would fly.</em></p>
+<p><strong>Want to hear my pizza joke?</strong></p>
+<p><em>» Never mind, it's too cheesy.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Most American car horns honk in the key of F.</p>
+<p>💡 On the ground, a group of geese is a gaggle, in the sky it is a skein.</p>
 <hr>
-<p>💡 Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
+<p>💡 The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, &amp; Cancer.</p>
 <hr>
-<p>💡 The Black Widow spider eats her mate during or after sex.</p>
+<p>💡 The average American/Canadian will eat about 11.9 pounds of cereal per year!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end."</em> - Aristotle</p>
+  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can’t use up creativity.  The more you use, the more you have."</em> - Maya Angelou</p>
+  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In the middle of every difficulty lies opportunity."</em> - Albert Einstein</p>
+  <p><em>"Sometimes it’s necessary to do unnecessary things."</em> - Kanade Jinguuji</p>
 </blockquote>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto;">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
@@ -256,15 +196,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 06, 2025</td>
-<td>19:23:11 IST</td>
+<td>Monday</td>
+<td>July 07, 2025</td>
+<td>19:26:50 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 07, 2025</td>
-<td>19:20:10 IST</td>
+<td>Tuesday</td>
+<td>July 08, 2025</td>
+<td>19:25:50 IST</td>
 </tr>
 </tbody>
 </table>
