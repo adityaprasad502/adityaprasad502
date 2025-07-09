@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/91195af2d54adb202f980647dd32d58143a2a13be533dc0866bddb784a568561/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,560+ Commits made on Github</p>
+<p>🏆 3,561+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -144,18 +144,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do cows wear bells?</strong></p>
-<p><em>» Because their horns don't work!</em></p>
+<p><strong>What is a dying programmer's last program?</strong></p>
+<p><em>» Goodbye, world!</em></p>
 <hr>
-<p>Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.</p>
+<p><strong>Why couldn't the lifeguard save the hippie?</strong></p>
+<p><em>» He was too far out, man.</em></p>
 <hr>
-<p>Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.</p>
+<p><strong>What is the most used language in programming?</strong></p>
+<p><em>» Profanity.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -164,11 +160,11 @@ Knock knock.</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Virginia Woolf wrote all her books standing.</p>
+<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
 <hr>
-<p>💡 Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
+<p>💡 Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.</p>
 <hr>
-<p>💡 In most advertisements, including newspapers, the time displayed on a watch is 10:10.</p>
+<p>💡 Annual growth of WWW traffic is 314,000%</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -178,15 +174,15 @@ Knock knock.</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
+  <p><em>"There’s no shame in falling down! True shame is to not stand up again!"</em> - Shintar Midorima</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People, who can’t throw something important away, can never hope to change anything."</em> - Armin Arlert</p>
+  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"</em> - Izuku Midoriya</p>
+  <p><em>"Do you need a reason to not want to lose"</em> - Shoyo Hinata</p>
 </blockquote>
 </details>
 <p>
@@ -200,15 +196,15 @@ Knock knock.</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 08, 2025</td>
-<td>19:27:56 IST</td>
+<td>Wednesday</td>
+<td>July 09, 2025</td>
+<td>19:27:07 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 09, 2025</td>
-<td>19:25:55 IST</td>
+<td>Thursday</td>
+<td>July 10, 2025</td>
+<td>19:25:05 IST</td>
 </tr>
 </tbody>
 </table>
