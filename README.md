@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/91195af2d54adb202f980647dd32d58143a2a13be533dc0866bddb784a568561/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/0a16afe6cc0a92733a7d131c1dac60e117b4467dbba25c6be3b30129b79c52a2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,567+ Commits made on Github</p>
+<p>🏆 3,568+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -52,9 +52,33 @@ fun main() {
 </p>
 <details>
 <summary><b>Programming Languages</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
+ <tr>
+<td>Turtle</td>
+<td>7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.66%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>4 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.68%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 min</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.0%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.65%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -63,9 +87,15 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Code Editors</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
+ <tr>
+<td>VS Code</td>
+<td>13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -74,9 +104,15 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Operating Systems</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
+ <tr>
+<td>Windows</td>
+<td>13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -144,17 +180,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What is the leading cause of dry skin?</strong></p>
-<p><em>» Towels</em></p>
+<p><strong>Why shouldn't you visit an expensive wig shop?</strong></p>
+<p><em>» It's too high a price "toupee."</em></p>
 <hr>
-<p>Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."</p>
+<p><strong>Why was the font always tired?</strong></p>
+<p><em>» It was always bold.</em></p>
 <hr>
-<p>I have these weird muscle spasms in my gluteus maximus.
-I figured out from my doctor that everything was alright:
-He said "Weird flex, butt okay."</p>
+<p><strong>What do Ted Bundy and the Space Shuttle Columbia have in common?</strong></p>
+<p><em>» They both left bodies in four states.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -163,11 +196,11 @@ He said "Weird flex, butt okay."</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The HyperMart outside of Garland Texas has 58 check-outs.</p>
+<p>💡 In the 1980`s American migraines increased by 60%.</p>
 <hr>
-<p>💡 Most collect calls are made on father`s day.</p>
+<p>💡 Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</p>
 <hr>
-<p>💡 A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</p>
+<p>💡 The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -177,15 +210,15 @@ He said "Weird flex, butt okay."</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Dreaming, after all, is a form of planning."</em> - Gloria Steinem</p>
+  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is not a game of luck. If you wanna win, work hard."</em> - Sora</p>
+  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."</em> - Bob Dylan</p>
+  <p><em>"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it."</em> - Johann Wolfgang von Goethe</p>
 </blockquote>
 </details>
 <p>
@@ -199,15 +232,15 @@ He said "Weird flex, butt okay."</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 15, 2025</td>
-<td>19:29:26 IST</td>
+<td>Wednesday</td>
+<td>July 16, 2025</td>
+<td>19:29:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 16, 2025</td>
-<td>19:25:25 IST</td>
+<td>Thursday</td>
+<td>July 17, 2025</td>
+<td>19:25:50 IST</td>
 </tr>
 </tbody>
 </table>
