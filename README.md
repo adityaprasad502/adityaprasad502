@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/0a16afe6cc0a92733a7d131c1dac60e117b4467dbba25c6be3b30129b79c52a2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323025323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C320%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,568+ Commits made on Github</p>
+<p>🏆 3,569+ Commits made on Github</p>
 <p>📦 79.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 15 Private Repositories</p>
@@ -55,28 +55,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Turtle</td>
-<td>7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.66%</td>
+<td>Python</td>
+<td>14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.84%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>4 mins</td>
+<td>Turtle</td>
+<td>7 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.68%</td>
+<td>31.94%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 min</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.0%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.84%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.38%</td>
 </tr>
 </tbody></table>
 </details>
@@ -91,7 +91,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>13 mins</td>
+<td>23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -108,7 +108,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 mins</td>
+<td>23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -180,14 +180,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why shouldn't you visit an expensive wig shop?</strong></p>
-<p><em>» It's too high a price "toupee."</em></p>
+<p><strong>Why are fish so smart?</strong></p>
+<p><em>» Because they live in schools!</em></p>
 <hr>
-<p><strong>Why was the font always tired?</strong></p>
-<p><em>» It was always bold.</em></p>
+<p><strong>Is the pool safe for diving?</strong></p>
+<p><em>» It deep ends.</em></p>
 <hr>
-<p><strong>What do Ted Bundy and the Space Shuttle Columbia have in common?</strong></p>
-<p><em>» They both left bodies in four states.</em></p>
+<p><strong>.NET developers are picky when it comes to food.</strong></p>
+<p><em>» They only like chicken NuGet.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -196,11 +196,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 In the 1980`s American migraines increased by 60%.</p>
+<p>💡 To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</p>
 <hr>
-<p>💡 Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</p>
+<p>💡 The only real person to ever to appear on a pez dispenser was Betsy Ross.</p>
 <hr>
-<p>💡 The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  </p>
+<p>💡 Sex burns 360 calories per hour.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -210,15 +210,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"We can’t waste time worrying about the what if’s."</em> - Ichigo Kurosaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
+  <p><em>"Everything you’ve ever wanted is on the other side of fear."</em> - George Addair</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it."</em> - Johann Wolfgang von Goethe</p>
+  <p><em>"People, who can’t throw something important away, can never hope to change anything."</em> - Armin Arlert</p>
 </blockquote>
 </details>
 <p>
@@ -232,15 +232,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 16, 2025</td>
-<td>19:29:52 IST</td>
+<td>Thursday</td>
+<td>July 17, 2025</td>
+<td>19:28:59 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>July 17, 2025</td>
-<td>19:25:50 IST</td>
+<td>Friday</td>
+<td>July 18, 2025</td>
+<td>19:25:55 IST</td>
 </tr>
 </tbody>
 </table>
