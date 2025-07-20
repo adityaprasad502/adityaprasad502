@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/179fba53636193d89703a031766f7c66fe26515acecb7daeeb789f73eda94cbf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323125323068727325323035352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C321%20hrs%2055%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/79a99af4fdc3e9c56c20f0226985a35cc6d84573f81c574d131008f2c9f3d284/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323425323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C324%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,578+ Commits made on Github</p>
-<p>📦 81.3 MiB Used in GitHub's Storage</p>
+<p>🏆 3,581+ Commits made on Github</p>
+<p>📦 81.5 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -83,34 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
+<td>CSS</td>
+<td>53 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.09%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>23 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.95%</td>
+</tr> 
+ <tr>
 <td>Python</td>
 <td>14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.44%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.74%</td>
 </tr> 
  <tr>
 <td>Turtle</td>
 <td>7 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.5%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>7 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.28%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.61%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.48%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.39%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.13%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.09%</td>
 </tr>
 </tbody></table>
 </details>
@@ -125,7 +137,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>31 mins</td>
+<td>1 hr 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -142,7 +154,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>31 mins</td>
+<td>1 hr 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -214,13 +226,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>I dropped a pear in my car this morning.</strong></p>
-<p><em>» You should drop another one, then you would have a pair.</em></p>
+<p><strong>A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"</strong></p>
+<p><em>» Pop,goes the weasel.</em></p>
 <hr>
-<p><strong>How do you fix a broken pizza?</strong></p>
-<p><em>» With tomato paste.</em></p>
+<p><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></p>
+<p><em>» Attire.</em></p>
 <hr>
-<p>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</p>
+<p><strong>What did the cell say when his sister cell stepped on his foot?</strong></p>
+<p><em>» Mitosis.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -229,11 +242,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 A horse can look forward with one eye and back with the other.</p>
+<p>💡 Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</p>
 <hr>
-<p>💡 The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</p>
+<p>💡 Over 60% of all those who marry get divorced.</p>
 <hr>
-<p>💡 In every episode of Seinfeld there is a Superman somewhere.</p>
+<p>💡 When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -243,15 +256,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
+  <p><em>"You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper."</em> - Himura Kenshin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In the middle of every difficulty lies opportunity."</em> - Albert Einstein</p>
+  <p><em>"We become what we think about."</em> - Earl Nightingale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
+  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
 </blockquote>
 </details>
 <p>
@@ -265,15 +278,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>July 19, 2025</td>
-<td>19:25:50 IST</td>
+<td>Sunday</td>
+<td>July 20, 2025</td>
+<td>19:25:30 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>July 20, 2025</td>
-<td>19:25:50 IST</td>
+<td>Monday</td>
+<td>July 21, 2025</td>
+<td>19:25:30 IST</td>
 </tr>
 </tbody>
 </table>
