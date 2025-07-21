@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/79a99af4fdc3e9c56c20f0226985a35cc6d84573f81c574d131008f2c9f3d284/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323425323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C324%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,581+ Commits made on Github</p>
-<p>📦 81.5 MiB Used in GitHub's Storage</p>
+<p>🏆 3,583+ Commits made on Github</p>
+<p>📦 81.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>CSS</td>
-<td>53 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.09%</td>
+<td>2 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>59.35%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>23 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.95%</td>
+<td>49 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.06%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>28 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.76%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>14 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.74%</td>
+<td>17 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.51%</td>
 </tr> 
  <tr>
 <td>Turtle</td>
 <td>7 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.61%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.92%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.83%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.39%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.09%</td>
+<td>0.53%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,7 +137,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 40 mins</td>
+<td>4 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -154,7 +154,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 40 mins</td>
+<td>4 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -226,14 +226,15 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"</strong></p>
-<p><em>» Pop,goes the weasel.</em></p>
+<p><strong>Why did the scarecrow win an award?</strong></p>
+<p><em>» Because he was outstanding in his field.</em></p>
 <hr>
-<p><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></p>
-<p><em>» Attire.</em></p>
+<p>Doctor: "I have some news about your baby."
+Parents: "Don't tell us the gender, we want to keep it a surprise."
+Doctor: "Oh I get it, you're those type of people. Okay, well IT is not breathing."</p>
 <hr>
-<p><strong>What did the cell say when his sister cell stepped on his foot?</strong></p>
-<p><em>» Mitosis.</em></p>
+<p><strong>Why does Dr. Pepper come in a bottle?</strong></p>
+<p><em>» His wife is dead.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -242,11 +243,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</p>
+<p>💡 There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </p>
 <hr>
-<p>💡 Over 60% of all those who marry get divorced.</p>
+<p>💡 The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
 <hr>
-<p>💡 When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
+<p>💡 The average woman consumes 6 lbs of lipstick in her lifetime.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -256,15 +257,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
+  <p><em>"Whatever you lose, you’ll find it again. But what you throw away you’ll never get back."</em> - Himura Kenshin</p>
+</blockquote>
+<hr>
+<blockquote>
   <p><em>"You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper."</em> - Himura Kenshin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We become what we think about."</em> - Earl Nightingale</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
+  <p><em>"A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."</em> - Jiraiya</p>
 </blockquote>
 </details>
 <p>
@@ -278,15 +279,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 20, 2025</td>
-<td>19:25:30 IST</td>
+<td>Monday</td>
+<td>July 21, 2025</td>
+<td>19:30:33 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 21, 2025</td>
-<td>19:25:30 IST</td>
+<td>Tuesday</td>
+<td>July 22, 2025</td>
+<td>19:30:30 IST</td>
 </tr>
 </tbody>
 </table>
