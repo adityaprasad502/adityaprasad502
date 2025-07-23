@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/79a99af4fdc3e9c56c20f0226985a35cc6d84573f81c574d131008f2c9f3d284/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323425323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C324%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1d63b6cf6548184d344f39920a7c6ec547910ceaf1eee7fab39e0ecbea2de4ba/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333237253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C327%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,586+ Commits made on Github</p>
+<p>🏆 3,590+ Commits made on Github</p>
 <p>📦 81.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -58,18 +58,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>1 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.33%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>2 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.67%</td>
+<td>4 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>3 commits in July 2025</b></td>
+<td colspan="2"><b>5 commits in July 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>CSS</td>
-<td>2 hrs 35 mins</td>
+<td>2 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.35%</td>
+<td>56.73%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>49 mins</td>
+<td>54 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.06%</td>
+<td>19.48%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>28 mins</td>
+<td>30 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.76%</td>
+<td>10.85%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.51%</td>
-</tr> 
- <tr>
-<td>Turtle</td>
-<td>7 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.92%</td>
+<td>28 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.21%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>2 mins</td>
+<td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.83%</td>
+<td>2.41%</td>
 </tr> 
  <tr>
-<td>XML</td>
-<td>1 min</td>
+<td>Bash</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.53%</td>
+<td>0.31%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,7 +137,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 22 mins</td>
+<td>4 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -154,7 +154,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 22 mins</td>
+<td>4 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -226,16 +226,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How do you fix a broken pizza?</strong></p>
-<p><em>» With tomato paste.</em></p>
+<p><strong>Why don't skeletons fight each other?</strong></p>
+<p><em>» They don't have the guts.</em></p>
 <hr>
-<p>Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."</p>
+<p><strong>How do you fix a damaged jack-o-lantern?</strong></p>
+<p><em>» You use a pumpkin patch.</em></p>
 <hr>
-<p><strong>Why couldn't the bicycle stand up by itself?</strong></p>
-<p><em>» It was two-tired.</em></p>
+<p><strong>Why are fish easy to weigh?</strong></p>
+<p><em>» Because they have their own scales.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -244,11 +242,11 @@ The bartender asks, "Can I get you anything?"
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</p>
+<p>💡 Most toilets flush in E flat.</p>
 <hr>
-<p>💡 Koala is Aboriginal for "no drink".</p>
+<p>💡 Thirty-five percent of people who use personal ads for dating are already married.</p>
 <hr>
-<p>💡 Golf courses cover 4% of North America.</p>
+<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -258,15 +256,15 @@ The bartender asks, "Can I get you anything?"
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
+  <p><em>"You can’t use up creativity.  The more you use, the more you have."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"All we can do is live until the day we die. Control what we can…and fly free."</em> - Deneil Young</p>
+  <p><em>"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."</em> - Aristotle</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I’ll leave tomorrow’s problems to tomorrow’s me."</em> - Saitama</p>
+  <p><em>"Do what you can, where you are, with what you have."</em> - Teddy Roosevelt</p>
 </blockquote>
 </details>
 <p>
@@ -280,15 +278,15 @@ The bartender asks, "Can I get you anything?"
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 22, 2025</td>
-<td>19:30:53 IST</td>
+<td>Wednesday</td>
+<td>July 23, 2025</td>
+<td>19:29:38 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 23, 2025</td>
-<td>19:30:50 IST</td>
+<td>Thursday</td>
+<td>July 24, 2025</td>
+<td>19:25:35 IST</td>
 </tr>
 </tbody>
 </table>
