@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1d63b6cf6548184d344f39920a7c6ec547910ceaf1eee7fab39e0ecbea2de4ba/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333237253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C327%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/cbc8cb6a1c739865d9233eb8600b7a916eb87afa282b9bbb3a0836cbbc97e3b3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323725323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C327%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,590+ Commits made on Github</p>
+<p>🏆 3,591+ Commits made on Github</p>
 <p>📦 81.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>CSS</td>
-<td>2 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.73%</td>
+<td>3 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.38%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>54 mins</td>
+<td>1 hr 9 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.48%</td>
+<td>17.21%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>30 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.85%</td>
+<td>1 hr 1 min</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.33%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>28 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.21%</td>
+<td>21 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.3%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>15 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>6 mins</td>
+<td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.41%</td>
+<td>2.77%</td>
 </tr> 
  <tr>
-<td>Bash</td>
-<td>0 secs</td>
+<td>Blade Template</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.31%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>1.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,7 +137,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 37 mins</td>
+<td>6 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -154,9 +154,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>6 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>95.2%</td>
+</tr> 
+ <tr>
+<td>Linux</td>
+<td>19 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -226,14 +232,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why don't skeletons fight each other?</strong></p>
-<p><em>» They don't have the guts.</em></p>
+<p><strong>What is the difference between ignorance and apathy?</strong></p>
+<p><em>» I don't know and I don't care.</em></p>
 <hr>
-<p><strong>How do you fix a damaged jack-o-lantern?</strong></p>
-<p><em>» You use a pumpkin patch.</em></p>
+<p><strong>Why did the tree go to the dentist?</strong></p>
+<p><em>» It needed a root canal.</em></p>
 <hr>
-<p><strong>Why are fish easy to weigh?</strong></p>
-<p><em>» Because they have their own scales.</em></p>
+<p><strong>Why do Java programmers hate communism?</strong></p>
+<p><em>» They don't want to live in a classless society.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -242,11 +248,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Most toilets flush in E flat.</p>
+<p>💡 Average life span of a major league baseball: 7 pitches.</p>
 <hr>
-<p>💡 Thirty-five percent of people who use personal ads for dating are already married.</p>
+<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 <hr>
-<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
+<p>💡 The Vatican city registered 0 births in 1983</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -256,15 +262,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can’t use up creativity.  The more you use, the more you have."</em> - Maya Angelou</p>
+  <p><em>"If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced."</em> - Vincent Van Gogh</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."</em> - Aristotle</p>
+  <p><em>"Hard work is worthless for those that don’t believe in themselves."</em> - Naruto Uzumaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Do what you can, where you are, with what you have."</em> - Teddy Roosevelt</p>
+  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
 </blockquote>
 </details>
 <p>
@@ -278,15 +284,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 23, 2025</td>
-<td>19:29:38 IST</td>
+<td>Thursday</td>
+<td>July 24, 2025</td>
+<td>19:30:06 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>July 24, 2025</td>
-<td>19:25:35 IST</td>
+<td>Friday</td>
+<td>July 25, 2025</td>
+<td>19:30:05 IST</td>
 </tr>
 </tbody>
 </table>
