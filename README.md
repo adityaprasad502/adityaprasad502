@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/cbc8cb6a1c739865d9233eb8600b7a916eb87afa282b9bbb3a0836cbbc97e3b3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333323725323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C327%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9c78963be70af058ff752b764ec6d93afa13ec0f02ad72e50b9356741f07390c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333238253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C328%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,592+ Commits made on Github</p>
-<p>📦 81.6 MiB Used in GitHub's Storage</p>
+<p>🏆 3,625+ Commits made on Github</p>
+<p>📦 81.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -58,18 +58,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>1 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.78%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>4 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.0%</td>
+<td>35 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>97.22%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>5 commits in July 2025</b></td>
+<td colspan="2"><b>36 commits in July 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>CSS</td>
-<td>3 hrs 39 mins</td>
+<td>3 hrs 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.38%</td>
+<td>53.54%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 9 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.21%</td>
+<td>17.52%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 1 min</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.33%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.62%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>21 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.4%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>15 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>3.87%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.77%</td>
+<td>2.82%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.0%</td>
+<td>1.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,7 +137,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 43 mins</td>
+<td>6 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -154,15 +154,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 23 mins</td>
+<td>6 hrs 16 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>95.2%</td>
+<td>95.11%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>19 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>4.89%</td>
 </tr>
 </tbody></table>
 </details>
@@ -232,17 +232,17 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call Zenitsu when he doesn’t sleep?</strong></p>
-<p><em>» Thunderstruck!</em></p>
+<p><strong>Why don't skeletons fight each other?</strong></p>
+<p><em>» They don't have the guts.</em></p>
 <hr>
-<p><strong>Who hides in the bakery at Christmas?</strong></p>
-<p><em>» A mince spy!</em></p>
+<p>How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.</p>
 <hr>
-<p><strong>Knock knock. 
- Who's there? 
- Cows go. 
- Cows go who?</strong></p>
-<p><em>» No, cows go moo.</em></p>
+<p><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></p>
+<p><em>» I told her, "We already have food in the house".</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -251,11 +251,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 An ostrich`s eye is bigger than its brain.  </p>
+<p>💡 China has more English speakers than the United States.</p>
 <hr>
-<p>💡 Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</p>
+<p>💡 A giraffe can go without water longer than a camel.</p>
 <hr>
-<p>💡 Babies are most likely to be born on Tuesdays.</p>
+<p>💡 The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,15 +265,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People who can’t throw something important away, can never hope to change anything."</em> - Armin Arlelt</p>
+  <p><em>"Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it."</em> - Yato</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
+  <p><em>"I attribute my success to this: I never gave or took any excuse."</em> - Florence Nightingale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You take your life in your own hands, and what happens? A terrible thing, no one to blame."</em> - Erica Jong</p>
+  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
 </blockquote>
 </details>
 <p>
@@ -287,15 +287,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 25, 2025</td>
-<td>19:28:47 IST</td>
+<td>Saturday</td>
+<td>July 26, 2025</td>
+<td>19:25:33 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 26, 2025</td>
-<td>19:25:45 IST</td>
+<td>Sunday</td>
+<td>July 27, 2025</td>
+<td>19:25:30 IST</td>
 </tr>
 </tbody>
 </table>
