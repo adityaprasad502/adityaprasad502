@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/99ee4911d1b3a57ffdcc756cfd2ad32409ebcea8acfa689e5c1ac4cd7320dc8b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333330253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C330%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ca3829476afc08c6ccf1c1520d8e3fd1157aec57dcd0166e32d5ddf93197a36f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333025323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C330%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,626+ Commits made on Github</p>
-<p>📦 81.7 MiB Used in GitHub's Storage</p>
+<p>🏆 3,628+ Commits made on Github</p>
+<p>📦 81.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -83,46 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
+<td>Python</td>
+<td>1 hr 33 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.83%</td>
+</tr> 
+ <tr>
 <td>CSS</td>
-<td>2 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.45%</td>
+<td>1 hr 30 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.96%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 3 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.87%</td>
+<td>1 hr 13 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.71%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>58 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.53%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>43 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.64%</td>
+<td>31 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.83%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>15 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.09%</td>
+<td>4.72%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>11 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.09%</td>
+<td>13 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.3%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.08%</td>
+<td>1.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,7 +137,7 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 14 mins</td>
+<td>5 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -154,15 +154,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>83.75%</td>
+<td>4 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.23%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.25%</td>
+<td>18.77%</td>
 </tr>
 </tbody></table>
 </details>
@@ -232,14 +232,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call crystal clear urine?</strong></p>
-<p><em>» 1080p.</em></p>
+<p><strong>Why do programmers wear glasses?</strong></p>
+<p><em>» Because they need to C#</em></p>
 <hr>
-<p><strong>I just watched a documentary about beavers.</strong></p>
-<p><em>» It was the best dam show I ever saw</em></p>
+<p><strong>How does a penguin build its house?</strong></p>
+<p><em>» Igloos it together!</em></p>
 <hr>
-<p><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></p>
-<p><em>» I told her, "We already have food in the house".</em></p>
+<p><strong>Why are pirates called pirates?</strong></p>
+<p><em>» Because they arrr!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -248,11 +248,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</p>
+<p>💡 When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</p>
 <hr>
-<p>💡 Barbie`s full name is Barbara Millicent Roberts.</p>
+<p>💡 Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.</p>
 <hr>
-<p>💡 The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</p>
+<p>💡 The longest recorded flight of a chicken is thirteen seconds.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -262,15 +262,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When you lose sight of your path, listen for the destination in your heart."</em> - Allen Walker</p>
+  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can never cross the ocean until you have the courage to lose sight of the shore."</em> - Christopher Columbus</p>
+  <p><em>"To act is not necessarily compassion. True compassion sometimes comes from inaction."</em> - Hinata Miyake</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."</em> - Erma Bombeck</p>
+  <p><em>"Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"</em> - Izuku Midoriya</p>
 </blockquote>
 </details>
 <p>
@@ -284,15 +284,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 27, 2025</td>
-<td>19:25:19 IST</td>
+<td>Monday</td>
+<td>July 28, 2025</td>
+<td>19:31:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 28, 2025</td>
-<td>19:25:15 IST</td>
+<td>Tuesday</td>
+<td>July 29, 2025</td>
+<td>19:30:55 IST</td>
 </tr>
 </tbody>
 </table>
