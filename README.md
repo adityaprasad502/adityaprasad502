@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ca3829476afc08c6ccf1c1520d8e3fd1157aec57dcd0166e32d5ddf93197a36f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333025323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C330%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c43c8c915c17bf984f5c7ef35aa6ead595ca937422d05e5e5c2cacb421f532b3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333425323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C334%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,628+ Commits made on Github</p>
-<p>📦 81.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,633+ Commits made on Github</p>
+<p>📦 82.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -53,23 +53,23 @@ fun main() {
 <td>🌆 Daytime</td>
 <td>4 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.76%</td>
+<td>8.89%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>1 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.44%</td>
+<td>4 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.89%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>36 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.8%</td>
+<td>37 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>82.22%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>41 commits in July 2025</b></td>
+<td colspan="2"><b>45 commits in July 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 33 mins</td>
+<td>2 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.83%</td>
+<td>31.49%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 30 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.96%</td>
+<td>1 hr 32 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.89%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 13 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.71%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.63%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>31 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.83%</td>
+<td>1 hr 5 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.74%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>22 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.13%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>15 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.72%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>13 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
-</tr> 
- <tr>
-<td>Blade Template</td>
-<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.24%</td>
+<td>3.45%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>11 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.64%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,9 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>7 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.17%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>16 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.83%</td>
 </tr>
 </tbody></table>
 </details>
@@ -154,15 +160,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.23%</td>
+<td>5 hrs 32 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>74.92%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>1 hr</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.77%</td>
+<td>1 hr 51 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.08%</td>
 </tr>
 </tbody></table>
 </details>
@@ -188,25 +194,25 @@ fun main() {
 <td>17.24%</td>
 </tr> 
  <tr>
+<td>CSS</td>
+<td>x repos</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.34%</td>
+</tr> 
+ <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>10.34%</td>
 </tr> 
  <tr>
-<td>CSS</td>
+<td>TypeScript</td>
 <td>x repos</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.45%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>x repos</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
-</tr> 
- <tr>
-<td>TypeScript</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>3.45%</td>
@@ -232,14 +238,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do programmers wear glasses?</strong></p>
-<p><em>» Because they need to C#</em></p>
+<p>Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.</p>
 <hr>
-<p><strong>How does a penguin build its house?</strong></p>
-<p><em>» Igloos it together!</em></p>
+<p><strong>Why can't orphans play baseball?</strong></p>
+<p><em>» They don't know where home is.</em></p>
 <hr>
-<p><strong>Why are pirates called pirates?</strong></p>
-<p><em>» Because they arrr!</em></p>
+<p>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -248,11 +253,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</p>
+<p>💡 You can sail all the way around the world at latitude 60 degrees south.</p>
 <hr>
-<p>💡 Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.</p>
+<p>💡 All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</p>
 <hr>
-<p>💡 The longest recorded flight of a chicken is thirteen seconds.</p>
+<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -262,15 +267,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
+  <p><em>"Life is not measured by the number of breaths we take, but by the moments that take our breath away."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To act is not necessarily compassion. True compassion sometimes comes from inaction."</em> - Hinata Miyake</p>
+  <p><em>"Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward."</em> - Sebastian Michaelis</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"</em> - Izuku Midoriya</p>
+  <p><em>"It’s just pathetic to give up on something before you even give it a shot."</em> - Reiko Mikami</p>
 </blockquote>
 </details>
 <p>
@@ -284,15 +289,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>July 28, 2025</td>
-<td>19:31:58 IST</td>
+<td>Tuesday</td>
+<td>July 29, 2025</td>
+<td>19:33:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>July 29, 2025</td>
-<td>19:30:55 IST</td>
+<td>Wednesday</td>
+<td>July 30, 2025</td>
+<td>19:30:05 IST</td>
 </tr>
 </tbody>
 </table>
