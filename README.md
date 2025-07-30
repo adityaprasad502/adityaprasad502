@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c43c8c915c17bf984f5c7ef35aa6ead595ca937422d05e5e5c2cacb421f532b3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333425323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C334%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/27eb955c952a52e838bfca847073d479aeb100122a3a977c92b8c4fb036de7ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333425323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C334%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,633+ Commits made on Github</p>
-<p>📦 82.7 MiB Used in GitHub's Storage</p>
+<p>🏆 3,634+ Commits made on Github</p>
+<p>📦 82.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -83,46 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Python</td>
-<td>2 hrs 19 mins</td>
+<td>HTML</td>
+<td>2 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.49%</td>
+<td>27.71%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>2 hrs 25 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.83%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 32 mins</td>
+<td>1 hr 54 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.89%</td>
+<td>19.54%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 13 mins</td>
+<td>1 hr 34 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.63%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 hr 5 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.74%</td>
+<td>16.21%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>22 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.13%</td>
+<td>18 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.11%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.45%</td>
+<td>2.61%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>11 mins</td>
+<td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.64%</td>
+<td>2.28%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 7 mins</td>
+<td>9 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.17%</td>
+<td>97.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>16 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.83%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,15 +160,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.92%</td>
+<td>7 hrs 54 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.99%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr 51 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.08%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -238,13 +238,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.</p>
+<p><strong>How do you get a baby alien to sleep?</strong></p>
+<p><em>» You rocket.</em></p>
 <hr>
-<p><strong>Why can't orphans play baseball?</strong></p>
-<p><em>» They don't know where home is.</em></p>
+<p><strong>Why did the functions stop calling each other?</strong></p>
+<p><em>» Because they had constant arguments.</em></p>
 <hr>
-<p>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</p>
+<p><strong>How does a train eat?</strong></p>
+<p><em>» It goes chew, chew</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -253,11 +254,11 @@ I hope your code behaves the same on Monday as it did on Friday.</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 You can sail all the way around the world at latitude 60 degrees south.</p>
+<p>💡 The word "samba" means "to rub navels together."</p>
 <hr>
-<p>💡 All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</p>
+<p>💡 This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
 <hr>
-<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p>💡 The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -267,15 +268,15 @@ I hope your code behaves the same on Monday as it did on Friday.</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Life is not measured by the number of breaths we take, but by the moments that take our breath away."</em> - Maya Angelou</p>
+  <p><em>"Certain things catch your eye, but pursue only those that capture the heart."</em> -  Ancient Indian Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward."</em> - Sebastian Michaelis</p>
+  <p><em>"If you don’t share someone’s pain, you can never understand them."</em> - Nagato</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It’s just pathetic to give up on something before you even give it a shot."</em> - Reiko Mikami</p>
+  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
 </blockquote>
 </details>
 <p>
@@ -289,15 +290,15 @@ I hope your code behaves the same on Monday as it did on Friday.</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 29, 2025</td>
-<td>19:33:05 IST</td>
+<td>Wednesday</td>
+<td>July 30, 2025</td>
+<td>19:32:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 30, 2025</td>
-<td>19:30:05 IST</td>
+<td>Thursday</td>
+<td>July 31, 2025</td>
+<td>19:30:10 IST</td>
 </tr>
 </tbody>
 </table>
