@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/27eb955c952a52e838bfca847073d479aeb100122a3a977c92b8c4fb036de7ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333425323068727325323035382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C334%20hrs%2058%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/fa66557c2998269b445cd533e16cf362f6a8696bcc542d030a5de3baf1fb4704/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333825323068727325323032382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C338%20hrs%2028%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,634+ Commits made on Github</p>
-<p>📦 82.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,644+ Commits made on Github</p>
+<p>📦 82.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -52,24 +52,24 @@ fun main() {
  <tr>
 <td>🌆 Daytime</td>
 <td>4 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.89%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.41%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>4 commits</td>
+<td>5 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.89%</td>
+<td>9.26%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>37 commits</td>
+<td>45 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>82.22%</td>
+<td>83.33%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>45 commits in July 2025</b></td>
+<td colspan="2"><b>54 commits in July 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>HTML</td>
-<td>2 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.71%</td>
+<td>2 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.63%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.83%</td>
+<td>2 hrs 22 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.75%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 hr 52 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.01%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 54 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.54%</td>
+<td>1 hr 10 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.23%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 34 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.21%</td>
+<td>1 hr 6 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.61%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.65%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>18 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.11%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>15 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.61%</td>
-</tr> 
- <tr>
-<td>JSON</td>
 <td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.28%</td>
+<td>2.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.1%</td>
+<td>8 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.81%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>16 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
+<td>1 hr 53 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.19%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,15 +160,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>7 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.99%</td>
+<td>8 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.97%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>1 hr 51 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.01%</td>
+<td>1 hr 33 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.03%</td>
 </tr>
 </tbody></table>
 </details>
@@ -238,14 +238,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How do you get a baby alien to sleep?</strong></p>
-<p><em>» You rocket.</em></p>
+<p><strong>Why do pirates not know the alphabet?</strong></p>
+<p><em>» They always get stuck at "C".</em></p>
 <hr>
-<p><strong>Why did the functions stop calling each other?</strong></p>
-<p><em>» Because they had constant arguments.</em></p>
+<p><strong>What do you call a bee that can't make up its mind?</strong></p>
+<p><em>» A maybe.</em></p>
 <hr>
-<p><strong>How does a train eat?</strong></p>
-<p><em>» It goes chew, chew</em></p>
+<p><strong>To prove he was right, the flat-earther walked to the end of the Earth.</strong></p>
+<p><em>» He eventually came around.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -254,11 +254,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The word "samba" means "to rub navels together."</p>
+<p>💡 A horse can look forward with one eye and back with the other.</p>
 <hr>
-<p>💡 This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
+<p>💡 A whale`s penis is called a dork.</p>
 <hr>
-<p>💡 The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.</p>
+<p>💡 The most common name in world is Mohammed.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -268,15 +268,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Certain things catch your eye, but pursue only those that capture the heart."</em> -  Ancient Indian Proverb</p>
+  <p><em>"Either you run the day, or the day runs you."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you don’t share someone’s pain, you can never understand them."</em> - Nagato</p>
+  <p><em>"Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife."</em> - Paine</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."</em> - Bob Dylan</p>
 </blockquote>
 </details>
 <p>
@@ -290,15 +290,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 30, 2025</td>
-<td>19:32:14 IST</td>
+<td>Thursday</td>
+<td>July 31, 2025</td>
+<td>19:31:29 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>July 31, 2025</td>
-<td>19:30:10 IST</td>
+<td>Friday</td>
+<td>August 01, 2025</td>
+<td>19:30:25 IST</td>
 </tr>
 </tbody>
 </table>
