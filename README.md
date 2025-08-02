@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4a5a8c3b165666b5bb54e5f671e236890ecd918f7415473038545c81e442d436/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333333825323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C338%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e76a1d10bdc564e62221ced8700fe5a9cb0c71fd732dd7e34a961e7fcdc5bdc4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333343225323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C342%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,646+ Commits made on Github</p>
+<p>🏆 3,651+ Commits made on Github</p>
 <p>📦 82.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -42,7 +42,35 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in August 2025</th></tr>
+<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤 - August 2025</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>1 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>1 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>2 commits in August 2025</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -57,44 +85,44 @@ fun main() {
  <tr>
 <td>HTML</td>
 <td>2 hrs 47 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.99%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 22 mins</td>
+<td>2 hrs 40 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.39%</td>
+<td>20.96%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 2 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.5%</td>
+<td>2 hrs 33 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.09%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 20 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.51%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.51%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 18 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.18%</td>
+<td>10.21%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>41 mins</td>
+<td>48 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.94%</td>
+<td>6.41%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.84%</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -106,18 +134,18 @@ fun main() {
 <details>
 <summary><b>Code Editors</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">🔥 Editors (7d) 🔥</th></tr> 
+<tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 12 mins</td>
+<td>9 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.27%</td>
+<td>76.37%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 24 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.73%</td>
+<td>3 hrs</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.63%</td>
 </tr>
 </tbody></table>
 </details>
@@ -129,18 +157,41 @@ fun main() {
 <details>
 <summary><b>Operating Systems</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">💻 Operating System (7d) 🖥️</th></tr> 
+<tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 3 mins</td>
+<td>10 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.53%</td>
+<td>84.12%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>1 hr 33 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.47%</td>
+<td>2 hrs 1 min</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.88%</td>
+</tr>
+</tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>Dev Machines</b></summary><br>
+<table>
+<tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
+ <tr>
+<td>Pu94X</td>
+<td>10 hrs 42 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.12%</td>
+</tr> 
+ <tr>
+<td>archpc</td>
+<td>2 hrs 1 min</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.88%</td>
 </tr>
 </tbody></table>
 </details>
@@ -210,14 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did one snowman say to the other snow man?</strong></p>
-<p><em>» Do you smell carrot?</em></p>
+<p><strong>How do you know if there’s an elephant under your bed?</strong></p>
+<p><em>» Your head hits the ceiling!</em></p>
 <hr>
-<p><strong>Why did the web developer walk out of a resturant in disgust?</strong></p>
-<p><em>» The seating was laid out in tables.</em></p>
+<p><strong>Is the pool safe for diving?</strong></p>
+<p><em>» It deep ends.</em></p>
 <hr>
-<p><strong>Why do fathers take an extra pair of socks when they go golfing?</strong></p>
-<p><em>» In case they get a hole in one!</em></p>
+<p><strong>Why did the cowboy have a weiner dog?</strong></p>
+<p><em>» Somebody told him to get a long little doggy.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -226,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</p>
+<p>💡 A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.</p>
 <hr>
-<p>💡 The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</p>
+<p>💡 Only 6 people in the whole world have died from moshing.</p>
 <hr>
-<p>💡 The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</p>
+<p>💡 The average person falls asleep in seven minutes.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -240,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground."</em> - Unknown</p>
+  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I would rather die of passion than of boredom."</em> - Vincent van Gogh</p>
+  <p><em>"Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness."</em> - Gilgamesh</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is not measured by the number of breaths we take, but by the moments that take our breath away."</em> - Maya Angelou</p>
+  <p><em>"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."</em> - Bob Dylan</p>
 </blockquote>
 </details>
 <p>
@@ -262,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 01, 2025</td>
-<td>19:31:03 IST</td>
+<td>Saturday</td>
+<td>August 02, 2025</td>
+<td>11:54:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 02, 2025</td>
-<td>19:30:00 IST</td>
+<td>Sunday</td>
+<td>August 03, 2025</td>
+<td>11:50:50 IST</td>
 </tr>
 </tbody>
 </table>
