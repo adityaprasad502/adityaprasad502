@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ff85a436c9620ac374f4558e5b6e6b12f8bf8ac41d9cca3e8255c7eb9c1ef3f2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333436253230687273253230342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C346%20hrs%204%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,658+ Commits made on Github</p>
+<p>🏆 3,659+ Commits made on Github</p>
 <p>📦 83.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -85,44 +85,44 @@ fun main() {
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 36 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.46%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>3 hrs 28 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.66%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 hrs 34 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.08%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.83%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 33 mins</td>
+<td>2 hrs 44 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.93%</td>
+<td>18.93%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>2 hrs 42 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.64%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>2 hrs 1 min</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.93%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 14 mins</td>
+<td>1 hr 12 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.72%</td>
+<td>8.3%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>48 mins</td>
+<td>1 hr</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.09%</td>
+<td>6.99%</td>
 </tr> 
  <tr>
-<td>JSON</td>
+<td>Markdown</td>
 <td>21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.21%</td>
+<td>2.44%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.26%</td>
+<td>11 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>79.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.74%</td>
+<td>3 hrs 1 min</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,15 +160,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.47%</td>
+<td>13 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.05%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>1 hr 51 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.53%</td>
+<td>1 hr</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.95%</td>
 </tr>
 </tbody></table>
 </details>
@@ -183,15 +183,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>14 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.47%</td>
+<td>13 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.05%</td>
 </tr> 
  <tr>
 <td>archpc</td>
-<td>1 hr 51 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.53%</td>
+<td>1 hr</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.95%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,13 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How many nice guys does it take to change a lightbulb?</strong></p>
-<p><em>» None, they'll just compliment it and get pissed off when it won't screw.</em></p>
+<p><strong>What kind of music do welders like?</strong></p>
+<p><em>» Heavy metal.</em></p>
 <hr>
-<p><strong>What do you call a cow with no legs?</strong></p>
-<p><em>» Ground beef.</em></p>
+<p><strong>A SQL query walks into a bar, walks up to two tables and asks...</strong></p>
+<p><em>» 'Can I join you?'</em></p>
 <hr>
-<p>Your mama's so FAT she can't save files bigger than 4GB.</p>
+<p><strong>What did the judge say to the dentist?</strong></p>
+<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 1 in 8 Americans has worked at a McDonalds restaurant.</p>
+<p>💡 The praying mantis is the only insect that can turn its head</p>
 <hr>
-<p>💡 The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</p>
+<p>💡 Chewing gum while peeling onions will keep you from crying.</p>
 <hr>
-<p>💡 The average American butt is 14.9 inches long.</p>
+<p>💡 70% of all boats sold are used for fishing.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed."</em> - Michael Jordan</p>
+  <p><em>"The mind is everything. What you think you become."</em> - Buddha</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every child is an artist.  The problem is how to remain an artist once he grows up."</em> - Pablo Picasso</p>
+  <p><em>"Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer."</em> - Miss Kobayashi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I attribute my success to this: I never gave or took any excuse."</em> - Florence Nightingale</p>
+  <p><em>"Whatever you do, enjoy it to the fullest. That is the secret of life."</em> - Rider</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>August 04, 2025</td>
-<td>19:33:55 IST</td>
+<td>Tuesday</td>
+<td>August 05, 2025</td>
+<td>19:34:25 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>August 05, 2025</td>
-<td>19:30:55 IST</td>
+<td>Wednesday</td>
+<td>August 06, 2025</td>
+<td>19:30:25 IST</td>
 </tr>
 </tbody>
 </table>
