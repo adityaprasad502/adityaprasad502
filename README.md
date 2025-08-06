@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ff85a436c9620ac374f4558e5b6e6b12f8bf8ac41d9cca3e8255c7eb9c1ef3f2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333436253230687273253230342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C346%20hrs%204%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,659+ Commits made on Github</p>
+<p>🏆 3,660+ Commits made on Github</p>
 <p>📦 83.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>JavaScript</td>
-<td>3 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.83%</td>
+<td>3 hrs 13 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.61%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 44 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.93%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.52%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 42 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.64%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 hrs 1 min</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.93%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 12 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.3%</td>
+<td>2 hrs 20 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.08%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.69%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>49 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.99%</td>
+<td>7.07%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.44%</td>
+<td>3.0%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>20 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.88%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.1%</td>
+<td>8 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>74.04%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>3 hrs 1 min</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.9%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.96%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,15 +160,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.05%</td>
+<td>10 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>91.37%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.95%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.63%</td>
 </tr>
 </tbody></table>
 </details>
@@ -183,15 +183,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>13 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.05%</td>
+<td>10 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>91.37%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>1 hr</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.95%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.63%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,14 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What kind of music do welders like?</strong></p>
-<p><em>» Heavy metal.</em></p>
+<p><strong>3 SQL statements walk into a NoSQL bar. Soon, they walk out</strong></p>
+<p><em>» They couldn't find a table.</em></p>
 <hr>
-<p><strong>A SQL query walks into a bar, walks up to two tables and asks...</strong></p>
-<p><em>» 'Can I join you?'</em></p>
+<p><strong>How does a train eat?</strong></p>
+<p><em>» It choo-choos its food!</em></p>
 <hr>
-<p><strong>What did the judge say to the dentist?</strong></p>
-<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
+<p><strong>What did Romans use to cut pizza before the rolling cutter was invented?</strong></p>
+<p><em>» Lil Caesars</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -277,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The praying mantis is the only insect that can turn its head</p>
+<p>💡 Until 1994, world maps and globes sold in Albania only had Albania on them.</p>
 <hr>
-<p>💡 Chewing gum while peeling onions will keep you from crying.</p>
+<p>💡 The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!</p>
 <hr>
-<p>💡 70% of all boats sold are used for fishing.</p>
+<p>💡 A standard slinky measures 87 feet when stretched out.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The mind is everything. What you think you become."</em> - Buddha</p>
+  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer."</em> - Miss Kobayashi</p>
+  <p><em>"Life s a bore if you don t challenge yourself"</em> - Yuu Nishinoya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whatever you do, enjoy it to the fullest. That is the secret of life."</em> - Rider</p>
+  <p><em>"I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person"</em> - Armin Arlert</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>August 05, 2025</td>
-<td>19:34:25 IST</td>
+<td>Wednesday</td>
+<td>August 06, 2025</td>
+<td>19:33:41 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>August 06, 2025</td>
-<td>19:30:25 IST</td>
+<td>Thursday</td>
+<td>August 07, 2025</td>
+<td>19:30:40 IST</td>
 </tr>
 </tbody>
 </table>
