@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ed7769dfeed861d44629470f9a273d4802b5d8862e78d1022824f8b8afaff376/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353125323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C351%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ea02e11d0fa248a5f651021edf64f03b836c745ac89057a9ced9c9652b1b995e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353525323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C355%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,672+ Commits made on Github</p>
-<p>📦 83.1 MiB Used in GitHub's Storage</p>
+<p>🏆 3,677+ Commits made on Github</p>
+<p>📦 84.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -47,7 +47,7 @@ fun main() {
 <td>🌞 Morning</td>
 <td>1 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.14%</td>
+<td>5.56%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
@@ -58,18 +58,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>7 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.89%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>6 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.86%</td>
+<td>10 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.56%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>14 commits in August 2025</b></td>
+<td colspan="2"><b>18 commits in August 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -83,46 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>JavaScript</td>
-<td>3 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.0%</td>
+<td>Kotlin</td>
+<td>4 hrs 37 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.26%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 57 mins</td>
+<td>3 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.18%</td>
+<td>25.19%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 hrs 59 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.56%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 20 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.92%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 hr 45 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.95%</td>
+<td>15.37%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>33 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>23 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.98%</td>
+<td>2.3%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.66%</td>
+<td>1.28%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.67%</td>
+<td>7 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.23%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.33%</td>
+<td>7 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.77%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,15 +160,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.43%</td>
+<td>14 hrs 15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.39%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.57%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.61%</td>
 </tr>
 </tbody></table>
 </details>
@@ -183,15 +183,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>10 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.43%</td>
+<td>14 hrs 15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>93.39%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>1 hr</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.57%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.61%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,14 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></p>
-<p><em>» I said, "Oh yeah... Just you wait."</em></p>
+<p><strong>Why do bananas have to put on sunscreen before they go to the beach?</strong></p>
+<p><em>» Because they might peel!</em></p>
 <hr>
-<p><strong>A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"</strong></p>
-<p><em>» Pop,goes the weasel.</em></p>
+<p><strong>What does C.S. Lewis keep at the back of his wardrobe?</strong></p>
+<p><em>» Narnia business!</em></p>
 <hr>
-<p><strong>What's the difference between a school bus and a cactus?</strong></p>
-<p><em>» A cactus keeps the little pricks on the outside.</em></p>
+<p><strong>Why did the database administrator leave his wife?</strong></p>
+<p><em>» She had one-to-many relationships.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -277,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</p>
+<p>💡 The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
 <hr>
-<p>💡 Mr. Rogers is an ordained minister.</p>
+<p>💡 Humans are the only primates that don`t have pigment in the palms of their hands.</p>
 <hr>
-<p>💡 Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</p>
+<p>💡 The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
+  <p><em>"The only limit to our realization of tomorrow will be our doubts of today."</em> - Franklin D. Roosevelt</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The best revenge is massive success."</em> - Frank Sinatra</p>
+  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>August 07, 2025</td>
-<td>19:32:40 IST</td>
+<td>Friday</td>
+<td>August 08, 2025</td>
+<td>19:31:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>August 08, 2025</td>
-<td>19:30:40 IST</td>
+<td>Saturday</td>
+<td>August 09, 2025</td>
+<td>19:30:00 IST</td>
 </tr>
 </tbody>
 </table>
