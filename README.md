@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/3b23f0bb75c918b1ad124d9869eb5b2473f7f8b6c3106d35eb0baa4bb273d244/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353525323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C355%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,682+ Commits made on Github</p>
+<p>🏆 3,683+ Commits made on Github</p>
 <p>📦 84.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -85,44 +85,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>4 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.03%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.55%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 1 min</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.25%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.54%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 59 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.72%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>2 hrs 2 mins</td>
+<td>1 hr 29 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.84%</td>
+<td>12.49%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>45 mins</td>
+<td>40 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.74%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>21 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.2%</td>
+<td>5.67%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.05%</td>
+<td>2.73%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>13 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.87%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>11 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.54%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,16 +136,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
-<td>VS Code</td>
-<td>8 hrs 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.46%</td>
-</tr> 
- <tr>
 <td>Android Studio</td>
 <td>7 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.54%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>65.8%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>4 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,15 +160,9 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.53%</td>
-</tr> 
- <tr>
-<td>Linux</td>
-<td>33 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.47%</td>
+<td>12 hrs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -183,15 +177,9 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>15 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.53%</td>
-</tr> 
- <tr>
-<td>archpc</td>
-<td>33 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.47%</td>
+<td>12 hrs</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>I stayed up all night wondering where the sun went.</strong></p>
-<p><em>» Then it dawned on me.</em></p>
+<p><strong>Did you hear about the crime in the parking garage?</strong></p>
+<p><em>» It was wrong on so many levels.</em></p>
 <hr>
-<p><strong>How do functions break up?</strong></p>
-<p><em>» They stop calling each other!</em></p>
+<p><strong>What did the judge say to the dentist?</strong></p>
+<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
 <hr>
-<p><strong>Why do valley girls hang out in odd numbered groups?</strong></p>
-<p><em>» Because they can't even.</em></p>
+<p><strong>Why does Beyonce sing "to the left, to the left"?</strong></p>
+<p><em>» Because women don't have rights.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -277,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.</p>
+<p>💡 The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</p>
 <hr>
-<p>💡 Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.</p>
+<p>💡 The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.</p>
 <hr>
-<p>💡 Every time you lick a stamp, you consume 1/10 of a calorie.</p>
+<p>💡 A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin"</em> - Kenny Ackerman</p>
+  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are some flowers you only see when you take detours"</em> - Tanaka Saeko</p>
+  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
+  <p><em>"Vision is not what your eyes see, but an image that your brain comprehends."</em> - Touko Aozaki</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 09, 2025</td>
-<td>19:24:00 IST</td>
+<td>Sunday</td>
+<td>August 10, 2025</td>
+<td>19:24:12 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 10, 2025</td>
-<td>19:20:00 IST</td>
+<td>Monday</td>
+<td>August 11, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody>
 </table>
