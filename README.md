@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/3b23f0bb75c918b1ad124d9869eb5b2473f7f8b6c3106d35eb0baa4bb273d244/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353525323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C355%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,683+ Commits made on Github</p>
+<p>🏆 3,684+ Commits made on Github</p>
 <p>📦 84.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -85,44 +85,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>4 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.55%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 1 min</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.54%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 29 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.49%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.62%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>40 mins</td>
+<td>21 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.67%</td>
+<td>3.62%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.73%</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.87%</td>
+<td>2.27%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>11 mins</td>
+<td>HTML</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.54%</td>
+<td>1.82%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,14 +138,14 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>7 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.8%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>79.7%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.2%</td>
+<td>2 hrs</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>12 hrs</td>
+<td>9 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>12 hrs</td>
+<td>9 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,14 +249,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Did you hear about the crime in the parking garage?</strong></p>
-<p><em>» It was wrong on so many levels.</em></p>
+<p>I have a joke about trickle down economics, but 99% of you will never get it.</p>
 <hr>
-<p><strong>What did the judge say to the dentist?</strong></p>
-<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
+<p><strong>What does a female snake use for support?</strong></p>
+<p><em>» A co-Bra!</em></p>
 <hr>
-<p><strong>Why does Beyonce sing "to the left, to the left"?</strong></p>
-<p><em>» Because women don't have rights.</em></p>
+<p><strong>What do you call a cow with no legs?</strong></p>
+<p><em>» Ground beef!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +264,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</p>
+<p>💡 Between 25% and 33% of the population sneeze when exposed to light.</p>
 <hr>
-<p>💡 The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.</p>
+<p>💡 Camels have three eyelids to protect themselves from blowing sand!</p>
 <hr>
-<p>💡 A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</p>
+<p>💡 NBA superstar Michael Jordan was originally cut from his high school basketball team.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +278,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
+  <p><em>"Life is like a tube of toothpaste. When you’ve used all the toothpaste down to the last squeeze, that’s when you’ve really lived. Live with all your might, and struggle as long as you have life."</em> - Mion Sonozaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
+  <p><em>"Don’t beg for things. Do it yourself, or else you won’t get anything."</em> - Renton Thurston</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Vision is not what your eyes see, but an image that your brain comprehends."</em> - Touko Aozaki</p>
+  <p><em>"The person who says it cannot be done should not interrupt the person who is doing it."</em> - Chinese Proverb</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +300,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 10, 2025</td>
-<td>19:24:12 IST</td>
+<td>Monday</td>
+<td>August 11, 2025</td>
+<td>19:30:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 11, 2025</td>
-<td>19:20:10 IST</td>
+<td>Tuesday</td>
+<td>August 12, 2025</td>
+<td>19:30:55 IST</td>
 </tr>
 </tbody>
 </table>
