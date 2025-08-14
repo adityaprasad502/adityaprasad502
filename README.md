@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/3b23f0bb75c918b1ad124d9869eb5b2473f7f8b6c3106d35eb0baa4bb273d244/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353525323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C355%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,686+ Commits made on Github</p>
+<p>🏆 3,687+ Commits made on Github</p>
 <p>📦 84.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.7%</td>
+<td>3 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.81%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>4 hrs 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.62%</td>
+<td>1 hr 53 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.15%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>21 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.62%</td>
+<td>5.18%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.72%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.27%</td>
+<td>3.24%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.82%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>4 mins</td>
+<td>3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>0.93%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>79.7%</td>
+<td>4 hrs 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>70.99%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>2 hrs</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.3%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>9 hrs 54 mins</td>
+<td>6 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>9 hrs 54 mins</td>
+<td>6 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,11 +249,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do cows wear bells?</strong></p>
-<p><em>» Because their horns don't work!</em></p>
+<p><strong>He definitely won't get wet ! OH NO, it's raining.</strong></p>
+<p><em>» K know! I'll use my trusty frying pan as a drying pan!</em></p>
 <hr>
-<p><strong>Did you hear about the cow who jumped over the barbed wire fence?</strong></p>
-<p><em>» It was udder destruction.</em></p>
+<p><strong>Finally realized why my plant sits around doing nothing all day...</strong></p>
+<p><em>» He loves his pot.</em></p>
 <hr>
 <p><strong>Why are oranges the smartest fruit?</strong></p>
 <p><em>» Because they are made to concentrate. </em></p>
@@ -265,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 If a rooster can`t fully extend its neck, it can`t crow.</p>
+<p>💡 Average number of people airborne over the US any given hour: 61,000.</p>
 <hr>
-<p>💡 Starfish haven`t got brains.</p>
+<p>💡 If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</p>
+<p>💡 The S in Harry S. Truman did not stand for anything.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Go confidently in the direction of your dreams.  Live the life you have imagined."</em> - Henry David Thoreau</p>
+  <p><em>"If you don’t share someone’s pain, you can never understand them."</em> - Nagato</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It’s just pathetic to give up on something before you even give it a shot."</em> - Reiko Mikami</p>
+  <p><em>"No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least"</em> - Levi Ackerman</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I refuse to let my fear control me anymore."</em> - Maka Albarn</p>
+  <p><em>"Definiteness of purpose is the starting point of all achievement."</em> - W. Clement Stone</p>
 </blockquote>
 </details>
 <p>
@@ -301,14 +301,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>August 13, 2025</td>
+<td>Thursday</td>
+<td>August 14, 2025</td>
 <td>19:28:20 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 14, 2025</td>
+<td>Friday</td>
+<td>August 15, 2025</td>
 <td>19:25:20 IST</td>
 </tr>
 </tbody>
