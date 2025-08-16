@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/3b23f0bb75c918b1ad124d9869eb5b2473f7f8b6c3106d35eb0baa4bb273d244/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353525323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C355%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5043ada2dfb1dc52f024c26ed30d770ab24c87a774014784fb49dc4134d41841/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353625323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C356%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,688+ Commits made on Github</p>
-<p>📦 84.9 MiB Used in GitHub's Storage</p>
+<p>🏆 3,689+ Commits made on Github</p>
+<p>📦 84.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -83,46 +83,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
+<td>Groovy</td>
+<td>17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.79%</td>
+</tr> 
+ <tr>
 <td>Kotlin</td>
-<td>32 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.86%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>21 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.01%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>18 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.19%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>10 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.07%</td>
+<td>16 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.99%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>10 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.99%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>9 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.94%</td>
-</tr> 
- <tr>
-<td>JSON</td>
 <td>2 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.21%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.49%</td>
+<td>0.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +119,9 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.44%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>35 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.56%</td>
+<td>36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +136,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 47 mins</td>
+<td>36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +153,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>1 hr 47 mins</td>
+<td>36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,14 +225,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call an alligator in a vest?</strong></p>
-<p><em>» An in-vest-igator!</em></p>
+<p><strong>Did you hear about the runner who was criticized?</strong></p>
+<p><em>» He just took it in stride</em></p>
 <hr>
-<p><strong>Why did the developer go broke buying Bitcoin?</strong></p>
-<p><em>» He kept calling it bytecoin and didn't get any.</em></p>
+<p><strong>Hey, dad, did you get a haircut?</strong></p>
+<p><em>» No, I got them all cut.</em></p>
 <hr>
-<p><strong>Why didn’t the orange win the race?</strong></p>
-<p><em>» It ran out of juice.</em></p>
+<p><strong>An IPv6 packet is walking out of the house.</strong></p>
+<p><em>» He goes nowhere.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +241,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 A horse can look forward with one eye and back with the other.</p>
+<p>💡 You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
 <hr>
-<p>💡 It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
+<p>💡 Bats always turn left when exiting a cave</p>
 <hr>
-<p>💡 When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</p>
+<p>💡 The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, &amp; Cancer.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +255,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
+  <p><em>"If you don’t take risks, you can’t create a future!"</em> - Monkey D Luffy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at."</em> - Jesse Owens</p>
+  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Vision is not what your eyes see, but an image that your brain comprehends."</em> - Touko Aozaki</p>
+  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +277,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 15, 2025</td>
-<td>19:24:42 IST</td>
+<td>Saturday</td>
+<td>August 16, 2025</td>
+<td>19:23:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 16, 2025</td>
-<td>19:20:40 IST</td>
+<td>Sunday</td>
+<td>August 17, 2025</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody>
 </table>
