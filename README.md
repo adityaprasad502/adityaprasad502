@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5043ada2dfb1dc52f024c26ed30d770ab24c87a774014784fb49dc4134d41841/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353625323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C356%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/0b63288fa98aefa782aec2a85996c65a46277f3ee6caf99e46ab34562939700a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333353825323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C358%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,692+ Commits made on Github</p>
-<p>📦 84.8 MiB Used in GitHub's Storage</p>
+<p>🏆 3,696+ Commits made on Github</p>
+<p>📦 84.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -47,7 +47,7 @@ fun main() {
 <td>🌞 Morning</td>
 <td>1 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
@@ -58,18 +58,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>7 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.82%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>14 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>63.64%</td>
+<td>17 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>22 commits in August 2025</b></td>
+<td colspan="2"><b>25 commits in August 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -83,25 +83,43 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Groovy</td>
-<td>17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.79%</td>
-</tr> 
- <tr>
 <td>Kotlin</td>
-<td>16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.99%</td>
+<td>59 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.65%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
-<td>2 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.21%</td>
+<td>Groovy</td>
+<td>25 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.18%</td>
 </tr> 
  <tr>
 <td>XML</td>
+<td>8 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.79%</td>
+</tr> 
+ <tr>
+<td>CLASS</td>
+<td>4 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.82%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.24%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.3%</td>
+</tr> 
+ <tr>
+<td>Shrinker Config File</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.01%</td>
@@ -119,9 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>1 hr 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.73%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.27%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>36 mins</td>
+<td>1 hr 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -153,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>36 mins</td>
+<td>1 hr 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -225,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why dot net developers don't wear glasses?</strong></p>
-<p><em>» Because they see sharp.</em></p>
+<p><strong>Do I enjoy making courthouse puns?</strong></p>
+<p><em>» Guilty</em></p>
 <hr>
-<p><strong>Programming is like sex.</strong></p>
-<p><em>» Make one mistake and you end up supporting it for the rest of your life.</em></p>
+<p><strong>What do you call a cow with no legs?</strong></p>
+<p><em>» Ground beef!</em></p>
 <hr>
-<p><strong>Why did the functions stop calling each other?</strong></p>
-<p><em>» Because they had constant arguments.</em></p>
+<p><strong>Why did the cookie go to the doctor?</strong></p>
+<p><em>»  Because it was feeling crumbly.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -241,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</p>
+<p>💡 Sex burns 360 calories per hour.</p>
 <hr>
-<p>💡 Deborah Winger did the voice of E.T.</p>
+<p>💡 Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</p>
 <hr>
-<p>💡 400-quarter pounders can be made from 1 cow.</p>
+<p>💡 The Black Widow spider eats her mate during or after sex.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -255,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You become what you believe."</em> - Oprah Winfrey</p>
+  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
+  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"This World Is Cruel And It s Also Very Beautiful"</em> - Mikasa</p>
+  <p><em>"Too many of us are not living our dreams because we are living our fears."</em> - Les Brown</p>
 </blockquote>
 </details>
 <p>
@@ -277,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>August 19, 2025</td>
-<td>19:24:23 IST</td>
+<td>Wednesday</td>
+<td>August 20, 2025</td>
+<td>19:24:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>August 20, 2025</td>
-<td>19:20:20 IST</td>
+<td>Thursday</td>
+<td>August 21, 2025</td>
+<td>19:20:50 IST</td>
 </tr>
 </tbody>
 </table>
