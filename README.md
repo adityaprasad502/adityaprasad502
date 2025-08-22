@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/cb2c1303c28c6fd0fe0581c8ac1f2f07e94b0fe1b596dc5341e6c978414879cf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333363025323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C360%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c13c2ca375b2aa618606500a3e3efed0c592dab65dc7326121be837e8d9397ff/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333363925323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C369%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,699+ Commits made on Github</p>
-<p>📦 84.6 MiB Used in GitHub's Storage</p>
+<p>🏆 3,732+ Commits made on Github</p>
+<p>📦 84.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - August 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>1 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>6 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
+<td>2 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>3.33%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>7 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.93%</td>
+<td>23 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.33%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>19 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.37%</td>
+<td>29 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.33%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>27 commits in August 2025</b></td>
+<td colspan="2"><b>60 commits in August 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.31%</td>
+<td>4 hrs 50 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.57%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>37 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.08%</td>
+<td>2 hrs 21 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.55%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>25 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.46%</td>
+<td>26 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.07%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>24 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.81%</td>
+</tr> 
+ <tr>
+<td>Shell Script</td>
+<td>20 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.03%</td>
 </tr> 
  <tr>
 <td>CLASS</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.39%</td>
+<td>0.96%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>3 mins</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.61%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.15%</td>
-</tr> 
- <tr>
-<td>Shrinker Config File</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.01%</td>
+<td>0.93%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 55 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.79%</td>
+<td>6 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>75.55%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>31 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.21%</td>
+<td>2 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.45%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 26 mins</td>
+<td>8 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>3 hrs 26 mins</td>
+<td>8 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>what do you call a dog that can do magic tricks?</strong></p>
-<p><em>» a labracadabrador</em></p>
+<p><strong>What did the Red light say to the Green light?</strong></p>
+<p><em>» Don't look at me I'm changing!</em></p>
 <hr>
-<p><strong>Why do Hong Kong cops like to go to work early?</strong></p>
-<p><em>» To beat the crowd.</em></p>
+<p><strong>When a dad drives past a graveyard: Did you know that's a popular cemetery?</strong></p>
+<p><em>» Yep, people are just dying to get in there</em></p>
 <hr>
-<p><strong>Why did the cookie cry?</strong></p>
-<p><em>» Because his father was a wafer so long!</em></p>
+<p><strong>What do you call a singing Laptop</strong></p>
+<p><em>» A Dell</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.</p>
+<p>💡 Napoleon`s penis was sold to an American Urologist for $40,000.</p>
 <hr>
-<p>💡 In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</p>
+<p>💡 Cats have over one hundred vocal sounds, while dogs only have about ten.</p>
 <hr>
-<p>💡 Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
+<p>💡 Americans travel 1,144,721,000 miles by air every day</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you don’t take risks, you can’t create a future!"</em> - Monkey D Luffy</p>
+  <p><em>"Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart."</em> - Mavis Vermillion</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."</em> - Jiraiya</p>
+  <p><em>"The only person you are destined to become is the person you decide to be."</em> - Ralph Waldo Emerson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I am not a product of my circumstances. I am a product of my decisions."</em> - Stephen Covey</p>
+  <p><em>"I attribute my success to this: I never gave or took any excuse."</em> - Florence Nightingale</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>August 21, 2025</td>
-<td>19:24:21 IST</td>
+<td>Friday</td>
+<td>August 22, 2025</td>
+<td>19:23:12 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>August 22, 2025</td>
-<td>19:20:20 IST</td>
+<td>Saturday</td>
+<td>August 23, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody>
 </table>
