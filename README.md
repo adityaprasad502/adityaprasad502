@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c13c2ca375b2aa618606500a3e3efed0c592dab65dc7326121be837e8d9397ff/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333363925323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C369%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f08458c9d5b578f873e11bcacb9c7495510702d7fdbad05c87228712f43e4ab6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333373425323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C374%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 3,732+ Commits made on Github</p>
+<p>🏆 4,308+ Commits made on Github</p>
 <p>📦 84.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - August 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>6 commits</td>
+<td>7 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.0%</td>
+<td>8.33%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>2 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.33%</td>
+<td>17 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.24%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>23 commits</td>
+<td>30 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.33%</td>
+<td>35.71%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>29 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.33%</td>
+<td>30 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.71%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>60 commits in August 2025</b></td>
+<td colspan="2"><b>84 commits in August 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.57%</td>
+<td>8 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.42%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.55%</td>
+<td>2 hrs 52 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.8%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>41 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.22%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>26 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.07%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>24 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.81%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.31%</td>
 </tr> 
  <tr>
 <td>Shell Script</td>
 <td>20 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.03%</td>
-</tr> 
- <tr>
-<td>CLASS</td>
-<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.96%</td>
+<td>2.62%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
+<td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.93%</td>
+<td>2.57%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>6 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>75.55%</td>
+<td>9 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.27%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 5 mins</td>
+<td>3 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.45%</td>
+<td>26.73%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 33 mins</td>
+<td>13 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>8 hrs 33 mins</td>
+<td>13 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -195,44 +195,44 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.72%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.24%</td>
+<td>16.67%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>x repos</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.33%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.34%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>x repos</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.34%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.45%</td>
+<td>3.33%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.45%</td>
+<td>3.33%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.45%</td>
+<td>3.33%</td>
 </tr>
 </tbody></table>
 </details>
@@ -249,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did the Red light say to the Green light?</strong></p>
-<p><em>» Don't look at me I'm changing!</em></p>
+<p><strong>What do you call a group of 8 Hobbits?</strong></p>
+<p><em>» A Hobbyte.</em></p>
 <hr>
-<p><strong>When a dad drives past a graveyard: Did you know that's a popular cemetery?</strong></p>
-<p><em>» Yep, people are just dying to get in there</em></p>
+<p><strong>Why did the coffee file a police report?</strong></p>
+<p><em>» It got mugged.</em></p>
 <hr>
-<p><strong>What do you call a singing Laptop</strong></p>
-<p><em>» A Dell</em></p>
+<p><strong>['hip', 'hip']</strong></p>
+<p><em>» (hip hip array)</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Napoleon`s penis was sold to an American Urologist for $40,000.</p>
+<p>💡 A jellyfish is 95 percent water!</p>
 <hr>
-<p>💡 Cats have over one hundred vocal sounds, while dogs only have about ten.</p>
+<p>💡 The praying mantis is the only insect that can turn its head</p>
 <hr>
-<p>💡 Americans travel 1,144,721,000 miles by air every day</p>
+<p>💡 The average American looks at eight houses before buying one.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart."</em> - Mavis Vermillion</p>
+  <p><em>"Who decides limits? And based on what? You said you worked hard? Well, maybe you need to work a little harder. Is that really the limit of your strength? Could you of tomorrow beat you today? Instead of giving in, move forward."</em> - Saitama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The only person you are destined to become is the person you decide to be."</em> - Ralph Waldo Emerson</p>
+  <p><em>"The most difficult thing is the decision to act, the rest is merely tenacity."</em> - Amelia Earhart</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I attribute my success to this: I never gave or took any excuse."</em> - Florence Nightingale</p>
+  <p><em>"Remember that not getting what you want is sometimes a wonderful stroke of luck."</em> - Dalai Lama</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 22, 2025</td>
-<td>19:23:12 IST</td>
+<td>Saturday</td>
+<td>August 23, 2025</td>
+<td>19:23:05 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 23, 2025</td>
-<td>19:20:10 IST</td>
+<td>Sunday</td>
+<td>August 24, 2025</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody>
 </table>
