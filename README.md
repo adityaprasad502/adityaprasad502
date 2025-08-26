@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/be030e3e1a1fb25dc151550385f2d58583dd10e6ce4ee5791c54afb426c9d0d0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333835253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C385%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2d7440a85dd0d6fca0bd2e362a7efce80740e61ddcc934c2a6ad1118287f4e5f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383525323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C385%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,468+ Commits made on Github</p>
+<p>🏆 4,469+ Commits made on Github</p>
 <p>📦 85.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>XML</td>
-<td>13 hrs 8 mins</td>
+<td>13 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.04%</td>
+<td>44.9%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>13 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.77%</td>
+<td>44.51%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>41 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.41%</td>
+<td>2.34%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>31 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.78%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>27 mins</td>
+<td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.59%</td>
+<td>1.6%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>24 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.46%</td>
+<td>1.42%</td>
 </tr> 
  <tr>
 <td>Shell Script</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.21%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>11 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>1.18%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,13 +139,13 @@ fun main() {
 <td>Android Studio</td>
 <td>20 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>71.45%</td>
+<td>69.43%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 9 mins</td>
+<td>8 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.55%</td>
+<td>30.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>28 hrs 33 mins</td>
+<td>29 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>28 hrs 33 mins</td>
+<td>29 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,14 +249,18 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a fat psychic?</strong></p>
-<p><em>» A four-chin teller.</em></p>
+<p><strong>One time I masturbated on a plane.</strong></p>
+<p><em>» I called it "highjacking".</em></p>
 <hr>
-<p><strong>99.9% of the people are dumb!</strong></p>
-<p><em>» Fortunately I belong to the remaining 1%</em></p>
+<p><strong>How did Harry Potter get down the hill?</strong></p>
+<p><em>» Walking...
+JK, Rolling.</em></p>
 <hr>
-<p><strong>The phrase that wouldn't go away</strong></p>
-<p><em>» Senpai..... Noticed Me!</em></p>
+<p>How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +269,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</p>
+<p>💡 John Lennon`s first girlfriend was named Thelma Pickles.</p>
 <hr>
-<p>💡 The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</p>
+<p>💡 400-quarter pounders can be made from 1 cow.</p>
 <hr>
-<p>💡 In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</p>
+<p>💡 A snail can sleep for three years.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +283,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Fools who don’t respect the past are likely to repeat it."</em> - Nico Robin</p>
+  <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Your time is limited, so don’t waste it living someone else’s life."</em> - Steve Jobs</p>
+  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You become what you believe."</em> - Oprah Winfrey</p>
+  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +305,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>August 25, 2025</td>
-<td>19:24:29 IST</td>
+<td>Tuesday</td>
+<td>August 26, 2025</td>
+<td>20:36:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>August 26, 2025</td>
-<td>19:20:25 IST</td>
+<td>Wednesday</td>
+<td>August 27, 2025</td>
+<td>20:35:45 IST</td>
 </tr>
 </tbody>
 </table>
