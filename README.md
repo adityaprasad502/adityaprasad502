@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2d7440a85dd0d6fca0bd2e362a7efce80740e61ddcc934c2a6ad1118287f4e5f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383525323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C385%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d239e8224c6d9c8fb15c30ccea415265fd51c36fb4d5cdae72abcb9d44493c9e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,469+ Commits made on Github</p>
+<p>🏆 4,470+ Commits made on Github</p>
 <p>📦 85.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>XML</td>
-<td>13 hrs 11 mins</td>
+<td>13 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.9%</td>
+<td>45.46%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>13 hrs 4 mins</td>
+<td>12 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.51%</td>
+<td>44.53%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>41 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.34%</td>
+<td>2.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.78%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.6%</td>
+<td>1.82%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>24 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.42%</td>
+<td>1.41%</td>
 </tr> 
  <tr>
 <td>Shell Script</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.18%</td>
+<td>1.2%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>19 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.14%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>20 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.43%</td>
+<td>19 hrs 19 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>67.34%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 59 mins</td>
+<td>8 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.57%</td>
+<td>31.23%</td>
+</tr> 
+ <tr>
+<td>IntelliJ IDEA</td>
+<td>24 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.43%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>29 hrs 23 mins</td>
+<td>28 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>29 hrs 23 mins</td>
+<td>28 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,18 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>One time I masturbated on a plane.</strong></p>
-<p><em>» I called it "highjacking".</em></p>
+<p><strong>Why do programmers confuse Halloween and Christmas?</strong></p>
+<p><em>» Because Oct 31 = Dec 25</em></p>
 <hr>
-<p><strong>How did Harry Potter get down the hill?</strong></p>
-<p><em>» Walking...
-JK, Rolling.</em></p>
+<p><strong>A DHCP packet walks into a bar and asks for a beer.</strong></p>
+<p><em>» Bartender says, "here, but I’ll need that back in an hour!"</em></p>
 <hr>
-<p>How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.</p>
+<p><strong>Did you hear about the cow who jumped over the barbed wire fence?</strong></p>
+<p><em>» It was udder destruction.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -269,11 +271,11 @@ JK, Rolling.</em></p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 John Lennon`s first girlfriend was named Thelma Pickles.</p>
+<p>💡 Between 25% and 33% of the population sneeze when exposed to light.</p>
 <hr>
-<p>💡 400-quarter pounders can be made from 1 cow.</p>
+<p>💡 A goldfish has a memory span of three seconds.  </p>
 <hr>
-<p>💡 A snail can sleep for three years.</p>
+<p>💡 A duck`s quack doesn`t echo, and no one knows why.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,15 +285,15 @@ JK, Rolling.</em></p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
+  <p><em>"Today might be the chance to grasp the chance to let your talent bloom"</em> - Tooru Oikawa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
+  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
+  <p><em>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</em> - Juuzou Suzuya</p>
 </blockquote>
 </details>
 <p>
@@ -305,15 +307,15 @@ JK, Rolling.</em></p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>August 26, 2025</td>
-<td>20:36:49 IST</td>
+<td>Wednesday</td>
+<td>August 27, 2025</td>
+<td>19:22:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>August 27, 2025</td>
-<td>20:35:45 IST</td>
+<td>Thursday</td>
+<td>August 28, 2025</td>
+<td>19:20:55 IST</td>
 </tr>
 </tbody>
 </table>
