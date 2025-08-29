@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d239e8224c6d9c8fb15c30ccea415265fd51c36fb4d5cdae72abcb9d44493c9e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,471+ Commits made on Github</p>
+<p>🏆 4,472+ Commits made on Github</p>
 <p>📦 85.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -83,46 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>12 hrs 47 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.31%</td>
-</tr> 
- <tr>
 <td>XML</td>
-<td>12 hrs 34 mins</td>
+<td>10 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.52%</td>
+<td>46.86%</td>
 </tr> 
  <tr>
-<td>Bash</td>
-<td>41 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.44%</td>
+<td>Kotlin</td>
+<td>10 hrs 12 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.12%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.85%</td>
+<td>2.26%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>24 mins</td>
+<td>22 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.43%</td>
-</tr> 
- <tr>
-<td>Shell Script</td>
-<td>20 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.22%</td>
+<td>1.64%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>19 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.16%</td>
+<td>1.4%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.19%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>11 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.86%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>18 hrs 5 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.05%</td>
+<td>14 hrs 32 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.88%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 27 mins</td>
+<td>6 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.96%</td>
+<td>29.8%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.99%</td>
+<td>7.32%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>28 hrs 14 mins</td>
+<td>23 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>28 hrs 14 mins</td>
+<td>23 hrs 7 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Who is the coolest Doctor in the hospital?</strong></p>
-<p><em>» The hip Doctor!</em></p>
+<p><strong>Why don't React developers like nature?</strong></p>
+<p><em>» They prefer the virtual DOM.</em></p>
 <hr>
-<p><strong>What do you call a cow with no legs?</strong></p>
-<p><em>» Ground beef!</em></p>
+<p><strong>Two guys walked into a bar.</strong></p>
+<p><em>» The third guy ducked.</em></p>
 <hr>
-<p><strong>Why did the fireman wear red, white, and blue suspenders?</strong></p>
-<p><em>» To hold his pants up.</em></p>
+<p><strong>Why did the chicken cross the playground?</strong></p>
+<p><em>» To get to the other slide.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </p>
+<p>💡 The Human eyes never grow, but nose and ears never stop growing.</p>
 <hr>
-<p>💡 A jellyfish is 95 percent water!</p>
+<p>💡 Meteorologists claim they`re right 85% of the time (think about that one!)</p>
 <hr>
-<p>💡 The only real person to ever to appear on a pez dispenser was Betsy Ross.</p>
+<p>💡 Men can read smaller print than women; women can hear better.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you wanna make people dream, you’ve gotta start by believing in that dream yourself!"</em> - Seiya Kanie</p>
+  <p><em>"An unexamined life is not worth living."</em> - Socrates</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I too will obtain everything that I desire. Not because someone asked me to do it, but because I know in my heart that I have something worth fighting for."</em> - Julis Alexia Van Riessfeld</p>
+  <p><em>"If you want your children to turn out well, spend twice as much time with them, and half as much money."</em> - Abigail Van Buren</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It is at the moment of death that humanity has value."</em> - Archer</p>
+  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>August 28, 2025</td>
-<td>19:23:22 IST</td>
+<td>Friday</td>
+<td>August 29, 2025</td>
+<td>19:22:49 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>August 29, 2025</td>
-<td>19:20:20 IST</td>
+<td>Saturday</td>
+<td>August 30, 2025</td>
+<td>19:20:45 IST</td>
 </tr>
 </tbody>
 </table>
