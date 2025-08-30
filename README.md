@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d239e8224c6d9c8fb15c30ccea415265fd51c36fb4d5cdae72abcb9d44493c9e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,472+ Commits made on Github</p>
-<p>📦 85.0 MiB Used in GitHub's Storage</p>
+<p>🏆 4,501+ Commits made on Github</p>
+<p>📦 84.2 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - August 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>11 commits</td>
+<td>13 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.28%</td>
+<td>9.63%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>25 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.36%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.52%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>3 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>29 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.48%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>68 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>63.55%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.37%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>107 commits in August 2025</b></td>
+<td colspan="2"><b>135 commits in August 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>XML</td>
-<td>10 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.86%</td>
+<td>10 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.69%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>10 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.12%</td>
+<td>6 hrs 32 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.55%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.26%</td>
-</tr> 
- <tr>
-<td>Gradle</td>
-<td>22 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.64%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>19 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>16 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.19%</td>
+<td>2.93%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.86%</td>
+<td>1.11%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.89%</td>
+</tr> 
+ <tr>
+<td>Gradle</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.43%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.19%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs 32 mins</td>
+<td>10 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.88%</td>
+<td>60.02%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>6 hrs 53 mins</td>
+<td>5 hrs 27 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.8%</td>
+<td>30.51%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 41 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.32%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.47%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>23 hrs 7 mins</td>
+<td>17 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>23 hrs 7 mins</td>
+<td>17 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why don't React developers like nature?</strong></p>
-<p><em>» They prefer the virtual DOM.</em></p>
+<p><strong>What is this movie about?</strong></p>
+<p><em>» It is about 2 hours long.</em></p>
 <hr>
-<p><strong>Two guys walked into a bar.</strong></p>
-<p><em>» The third guy ducked.</em></p>
+<p><strong>Ever wondered why bees hum?</strong></p>
+<p><em>» It's because they don't know the words.</em></p>
 <hr>
-<p><strong>Why did the chicken cross the playground?</strong></p>
-<p><em>» To get to the other slide.</em></p>
+<p><strong>What do you call an elephant that doesn’t matter?</strong></p>
+<p><em>» An irrelephant.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The Human eyes never grow, but nose and ears never stop growing.</p>
+<p>💡 The king of hearts is the only king without a mustache.</p>
 <hr>
-<p>💡 Meteorologists claim they`re right 85% of the time (think about that one!)</p>
+<p>💡 The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</p>
 <hr>
-<p>💡 Men can read smaller print than women; women can hear better.</p>
+<p>💡 Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"An unexamined life is not worth living."</em> - Socrates</p>
+  <p><em>"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."</em> - Erma Bombeck</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you want your children to turn out well, spend twice as much time with them, and half as much money."</em> - Abigail Van Buren</p>
+  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can fly even higher"</em> - Tobio Kageyama</p>
+  <p><em>"Life isn’t about getting and having, it’s about giving and being."</em> - Kevin Kruse</p>
 </blockquote>
 </details>
 <p>
@@ -307,14 +307,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 29, 2025</td>
-<td>19:22:49 IST</td>
+<td>Saturday</td>
+<td>August 30, 2025</td>
+<td>19:22:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 30, 2025</td>
+<td>Sunday</td>
+<td>August 31, 2025</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody>
