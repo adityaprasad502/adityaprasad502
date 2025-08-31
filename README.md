@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d239e8224c6d9c8fb15c30ccea415265fd51c36fb4d5cdae72abcb9d44493c9e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2040%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,501+ Commits made on Github</p>
+<p>🏆 4,502+ Commits made on Github</p>
 <p>📦 84.2 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>XML</td>
-<td>10 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.69%</td>
+<td>5 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>6 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.55%</td>
+<td>4 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.02%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>31 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.93%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.11%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>9 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.89%</td>
+<td>1.82%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>4 mins</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.43%</td>
+<td>0.19%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.18%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>2 mins</td>
+<td>1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.19%</td>
+<td>0.17%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>10 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.02%</td>
+<td>7 hrs 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>64.58%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.51%</td>
+<td>2 hrs 9 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.88%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 41 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.47%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.54%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>17 hrs 52 mins</td>
+<td>10 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>17 hrs 52 mins</td>
+<td>10 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What is this movie about?</strong></p>
-<p><em>» It is about 2 hours long.</em></p>
+<p><strong>Have you ever heard of a music group called Cellophane?</strong></p>
+<p><em>» They mostly wrap.</em></p>
 <hr>
-<p><strong>Ever wondered why bees hum?</strong></p>
-<p><em>» It's because they don't know the words.</em></p>
+<p>I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.</p>
 <hr>
-<p><strong>What do you call an elephant that doesn’t matter?</strong></p>
-<p><em>» An irrelephant.</em></p>
+<p>A neutron walks into a bar and asks for a price on a drink.
+The barkeeper says: "For you... no charge!"</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +270,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The king of hearts is the only king without a mustache.</p>
+<p>💡 Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</p>
 <hr>
-<p>💡 The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</p>
+<p>💡 Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.</p>
 <hr>
-<p>💡 Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </p>
+<p>💡 Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +284,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."</em> - Erma Bombeck</p>
+  <p><em>"This World Is Cruel And It s Also Very Beautiful"</em> - Mikasa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
+  <p><em>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</em> - Albert Schweitzer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life isn’t about getting and having, it’s about giving and being."</em> - Kevin Kruse</p>
+  <p><em>"That’s why I can’t make a change. Everything I do is so… Half-assed."</em> - Hiroshi Kido</p>
 </blockquote>
 </details>
 <p>
@@ -307,14 +306,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 30, 2025</td>
-<td>19:22:48 IST</td>
+<td>Sunday</td>
+<td>August 31, 2025</td>
+<td>19:22:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 31, 2025</td>
+<td>Monday</td>
+<td>September 01, 2025</td>
 <td>19:20:45 IST</td>
 </tr>
 </tbody>
