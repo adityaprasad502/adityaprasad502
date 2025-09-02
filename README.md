@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8acc326cd4134b2076ab1c65683083161482cf437658cab09eb1bb4c38d7c071/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,574+ Commits made on Github</p>
+<p>🏆 4,610+ Commits made on Github</p>
 <p>📦 84.3 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
@@ -57,19 +57,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>46 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.0%</td>
+<td>50 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.82%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>4 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>35 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.18%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>50 commits in September 2025</b></td>
+<td colspan="2"><b>85 commits in September 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,21 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.81%</td>
+<td>1 hr 43 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>99.22%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>31 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.37%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>12 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.03%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.78%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.76%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.77%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.67%</td>
-</tr> 
- <tr>
-<td>Batchfile</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.47%</td>
+<td>0.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,14 +114,14 @@ fun main() {
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.38%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>99.22%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>50 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.62%</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.78%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
@@ -166,7 +142,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 34 mins</td>
+<td>1 hr 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +159,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>2 hrs 34 mins</td>
+<td>1 hr 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +231,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What is the hardest part about sky diving?</strong></p>
-<p><em>» The ground.</em></p>
+<p><strong>When is a door not a door?</strong></p>
+<p><em>» When it's ajar.</em></p>
 <hr>
-<p><strong>Why are modern programming languages so materialistic?</strong></p>
-<p><em>» Because they are object-oriented.</em></p>
+<p><strong>Why did the half blind man fall in the well?</strong></p>
+<p><em>» Because he couldn't see that well!</em></p>
 <hr>
-<p><strong>My first high-school football game was a lot like my first time having sex.</strong></p>
-<p><em>» I was bloody and sore at the end, but at least my dad came.</em></p>
+<p><strong>How do locomotives know where they're going?</strong></p>
+<p><em>» Lots of training</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +247,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Jupiter is bigger than all the other planets in our solar system combined.</p>
+<p>💡 This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
 <hr>
-<p>💡 One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</p>
+<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
 <hr>
-<p>💡 All polar bears are left-handed.</p>
+<p>💡 The first contraceptive was crocodile dung used by the ancient Egyptians.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +261,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"</em> - Izuku Midoriya</p>
+  <p><em>"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you."</em> - Jesus</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"The moment you think of giving up, think of the reason why you held on so long."</em> - Natsu Dragneel</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Teach thy tongue to say, “I do not know,” and thous shalt progress."</em> - Maimonides</p>
+  <p><em>"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."</em> - Plato</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +283,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>September 01, 2025</td>
-<td>19:22:48 IST</td>
+<td>Tuesday</td>
+<td>September 02, 2025</td>
+<td>19:24:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>September 02, 2025</td>
-<td>19:20:45 IST</td>
+<td>Wednesday</td>
+<td>September 03, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody>
 </table>
