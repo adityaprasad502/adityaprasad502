@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8acc326cd4134b2076ab1c65683083161482cf437658cab09eb1bb4c38d7c071/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,610+ Commits made on Github</p>
-<p>📦 84.3 MiB Used in GitHub's Storage</p>
+<p>🏆 4,623+ Commits made on Github</p>
+<p>📦 84.4 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -58,18 +58,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>50 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.82%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.55%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>35 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.18%</td>
+<td>47 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.45%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>85 commits in September 2025</b></td>
+<td colspan="2"><b>97 commits in September 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,21 +84,15 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 43 mins</td>
+<td>1 hr 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>99.22%</td>
+<td>98.98%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.78%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -113,21 +107,15 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
 <td>IntelliJ IDEA</td>
-<td>1 hr 43 mins</td>
+<td>1 hr 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>99.22%</td>
+<td>98.98%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.78%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -142,7 +130,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 44 mins</td>
+<td>1 hr 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -159,7 +147,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>1 hr 44 mins</td>
+<td>1 hr 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -231,14 +219,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>When is a door not a door?</strong></p>
-<p><em>» When it's ajar.</em></p>
+<p><strong>How does a dyslexic poet write?</strong></p>
+<p><em>» Inverse.</em></p>
 <hr>
-<p><strong>Why did the half blind man fall in the well?</strong></p>
-<p><em>» Because he couldn't see that well!</em></p>
+<p><strong>What is a vampire's favorite fruit?</strong></p>
+<p><em>» A blood orange.</em></p>
 <hr>
-<p><strong>How do locomotives know where they're going?</strong></p>
-<p><em>» Lots of training</em></p>
+<p><strong>What did the pirate say on his 80th birthday?</strong></p>
+<p><em>» Aye Matey!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -247,11 +235,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
+<p>💡 Between 25% and 33% of the population sneeze when exposed to light.</p>
 <hr>
-<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p>💡 Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
 <hr>
-<p>💡 The first contraceptive was crocodile dung used by the ancient Egyptians.</p>
+<p>💡 60% of electrocutions occur while talking on the telephone during a thunderstorm.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -261,15 +249,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you."</em> - Jesus</p>
+  <p><em>"Power comes in response to a need, not a desire. You have to create that need."</em> - Goku</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The moment you think of giving up, think of the reason why you held on so long."</em> - Natsu Dragneel</p>
+  <p><em>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</em> - Anne Frank</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."</em> - Plato</p>
+  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
 </blockquote>
 </details>
 <p>
@@ -283,15 +271,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 02, 2025</td>
-<td>19:24:14 IST</td>
+<td>Wednesday</td>
+<td>September 03, 2025</td>
+<td>19:23:08 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 03, 2025</td>
-<td>19:20:10 IST</td>
+<td>Thursday</td>
+<td>September 04, 2025</td>
+<td>19:20:05 IST</td>
 </tr>
 </tbody>
 </table>
