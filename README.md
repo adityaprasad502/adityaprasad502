@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8acc326cd4134b2076ab1c65683083161482cf437658cab09eb1bb4c38d7c071/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333383725323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C387%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/192f4573ace200bcf0c903ae24554489368f283ea26921cb62116aedade9e6a0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333838253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C388%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,623+ Commits made on Github</p>
-<p>📦 84.4 MiB Used in GitHub's Storage</p>
+<p>🏆 4,637+ Commits made on Github</p>
+<p>📦 84.3 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -57,19 +57,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>50 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.55%</td>
+<td>45 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>47 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.45%</td>
+<td>55 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>97 commits in September 2025</b></td>
+<td colspan="2"><b>100 commits in September 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -83,16 +83,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.98%</td>
+<td>Python</td>
+<td>17 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.94%</td>
 </tr> 
  <tr>
-<td>Python</td>
+<td>Kotlin</td>
+<td>6 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.48%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.4%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.02%</td>
+<td>0.18%</td>
 </tr>
 </tbody></table>
 </details>
@@ -106,16 +118,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
-<td>IntelliJ IDEA</td>
-<td>1 hr 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.98%</td>
+<td>VS Code</td>
+<td>19 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>74.52%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.02%</td>
+<td>Android Studio</td>
+<td>6 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.48%</td>
 </tr>
 </tbody></table>
 </details>
@@ -130,7 +142,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 20 mins</td>
+<td>25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -147,7 +159,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>1 hr 20 mins</td>
+<td>25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -219,14 +231,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How does a dyslexic poet write?</strong></p>
-<p><em>» Inverse.</em></p>
+<p><strong>What did the boy with no arms get for Christmas?</strong></p>
+<p><em>» I don't know, he hasn't opened it yet.</em></p>
+<hr>
+<p><strong>Did you hear about the chameleon who couldn't change color?</strong></p>
+<p><em>» They had a reptile dysfunction.</em></p>
 <hr>
 <p><strong>What is a vampire's favorite fruit?</strong></p>
 <p><em>» A blood orange.</em></p>
-<hr>
-<p><strong>What did the pirate say on his 80th birthday?</strong></p>
-<p><em>» Aye Matey!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -235,11 +247,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Between 25% and 33% of the population sneeze when exposed to light.</p>
+<p>💡 Thirty-five percent of people who use personal ads for dating are already married.</p>
 <hr>
-<p>💡 Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
+<p>💡 There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </p>
 <hr>
-<p>💡 60% of electrocutions occur while talking on the telephone during a thunderstorm.</p>
+<p>💡 The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -249,15 +261,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Power comes in response to a need, not a desire. You have to create that need."</em> - Goku</p>
+  <p><em>"A person who never made a mistake never tried anything new."</em> -  Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</em> - Anne Frank</p>
+  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
+  <p><em>"You take your life in your own hands, and what happens? A terrible thing, no one to blame."</em> - Erica Jong</p>
 </blockquote>
 </details>
 <p>
@@ -271,15 +283,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>September 03, 2025</td>
-<td>19:23:08 IST</td>
+<td>Thursday</td>
+<td>September 04, 2025</td>
+<td>19:23:13 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>September 04, 2025</td>
-<td>19:20:05 IST</td>
+<td>Friday</td>
+<td>September 05, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody>
 </table>
