@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/192f4573ace200bcf0c903ae24554489368f283ea26921cb62116aedade9e6a0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243333838253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C388%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e840817f27c7eb1e2143962cb541ee0f8d225b11ec4ae72f445b338ad59aa687/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324333393225323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C392%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,637+ Commits made on Github</p>
-<p>📦 84.3 MiB Used in GitHub's Storage</p>
+<p>🏆 4,684+ Commits made on Github</p>
+<p>📦 84.4 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - September 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>0 commits</td>
+<td>4 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>3.17%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
+<td>4 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>3.17%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>45 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.71%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>55 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.0%</td>
+<td>73 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.94%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>100 commits in September 2025</b></td>
+<td colspan="2"><b>126 commits in September 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -83,28 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (7d) 🧑‍💻</th></tr> 
  <tr>
-<td>Python</td>
-<td>17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.94%</td>
-</tr> 
- <tr>
 <td>Kotlin</td>
+<td>27 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.44%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>26 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.88%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>11 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.34%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
 <td>6 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.48%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.63%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.4%</td>
+<td>Gradle</td>
+<td>6 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.5%</td>
 </tr> 
  <tr>
-<td>JSON</td>
-<td>0 secs</td>
+<td>Java Properties</td>
+<td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.18%</td>
+<td>3.25%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -118,16 +136,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (7d) 🔥</th></tr> 
  <tr>
-<td>VS Code</td>
-<td>19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.52%</td>
+<td>Android Studio</td>
+<td>45 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.68%</td>
 </tr> 
  <tr>
-<td>Android Studio</td>
-<td>6 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.48%</td>
+<td>VS Code</td>
+<td>42 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.32%</td>
 </tr>
 </tbody></table>
 </details>
@@ -142,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (7d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>25 mins</td>
+<td>1 hr 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -159,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (7d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>25 mins</td>
+<td>1 hr 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -231,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did the boy with no arms get for Christmas?</strong></p>
-<p><em>» I don't know, he hasn't opened it yet.</em></p>
+<p><strong>Why do programmers always get Christmas and Halloween mixed up?</strong></p>
+<p><em>» Because DEC 25 = OCT 31</em></p>
 <hr>
-<p><strong>Did you hear about the chameleon who couldn't change color?</strong></p>
-<p><em>» They had a reptile dysfunction.</em></p>
+<p><strong>What did Romans use to cut pizza before the rolling cutter was invented?</strong></p>
+<p><em>» Lil Caesars</em></p>
 <hr>
-<p><strong>What is a vampire's favorite fruit?</strong></p>
-<p><em>» A blood orange.</em></p>
+<p><strong>What does tofu and a dildo have in common?</strong></p>
+<p><em>» They're both meat substitutes.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -247,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Thirty-five percent of people who use personal ads for dating are already married.</p>
+<p>💡 A cat has 32 muscles in each ear.</p>
 <hr>
-<p>💡 There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </p>
+<p>💡 In every episode of Seinfeld there is a Superman somewhere.</p>
 <hr>
-<p>💡 The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
+<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -261,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"A person who never made a mistake never tried anything new."</em> -  Albert Einstein</p>
+  <p><em>"Everything has beauty, but not everyone can see."</em> - Confucius</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder."</em> - Gildarts Clive</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You take your life in your own hands, and what happens? A terrible thing, no one to blame."</em> - Erica Jong</p>
+  <p><em>"Protecting someone means giving them a place to belong. Giving them a place where they can be happy."</em> - Princess Lenessia</p>
 </blockquote>
 </details>
 <p>
@@ -283,14 +301,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>September 04, 2025</td>
-<td>19:23:13 IST</td>
+<td>Friday</td>
+<td>September 05, 2025</td>
+<td>19:23:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>September 05, 2025</td>
+<td>Saturday</td>
+<td>September 06, 2025</td>
 <td>19:20:10 IST</td>
 </tr>
 </tbody>
