@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ce2a453ee10ff1cfa5d62c487c9de5a5d16dcf59ba4b72758f63ff39454e565b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334303025323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C400%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f1f1cf035da1f427116132734958689ef33fd96ff8b33c16a416101e4545e216/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343033253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C403%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,713+ Commits made on Github</p>
-<p>📦 85.2 MiB Used in GitHub's Storage</p>
+<p>🏆 4,723+ Commits made on Github</p>
+<p>📦 85.3 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 16 Private Repositories</p>
 </blockquote>
@@ -47,29 +47,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>4 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.86%</td>
+<td>2.68%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>4 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.86%</td>
+<td>2.68%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>57 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.71%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.26%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>75 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.57%</td>
+<td>84 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.38%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>140 commits in September 2025</b></td>
+<td colspan="2"><b>149 commits in September 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>21 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.31%</td>
+<td>22 hrs 54 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.75%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>14 hrs 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.25%</td>
+<td>33.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.97%</td>
+<td>2.82%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>1 hr 11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.91%</td>
+<td>2.76%</td>
 </tr> 
  <tr>
 <td>Bash</td>
-<td>52 mins</td>
+<td>1 hr 1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.11%</td>
+<td>2.35%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>44 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.81%</td>
+<td>1.72%</td>
 </tr> 
  <tr>
 <td>Shell Script</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.84%</td>
+<td>0.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>26 hrs 47 mins</td>
+<td>28 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.91%</td>
+<td>65.87%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 44 mins</td>
+<td>13 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.89%</td>
+<td>30.15%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.19%</td>
+<td>3.99%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>41 hrs 15 mins</td>
+<td>43 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>41 hrs 15 mins</td>
+<td>43 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a duck that gets all A's?</strong></p>
-<p><em>» A wise quacker.</em></p>
+<p><strong>Did you hear about the cheese factory that exploded in France?</strong></p>
+<p><em>» There was nothing but de brie.</em></p>
 <hr>
-<p><strong>Why didn’t the orange win the race?</strong></p>
-<p><em>» It ran out of juice.</em></p>
+<p><strong>If I make you breakfast in bed, a simple thank you is all I need.</strong></p>
+<p><em>» Not all this "How the fuck did you get in my house?!" nonsense.</em></p>
 <hr>
-<p><strong>What do 9 out of 10 people enjoy?</strong></p>
-<p><em>» Gang rape.</em></p>
+<p><strong>What do you call a fake noodle?</strong></p>
+<p><em>» An impasta.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The average American/Canadian will eat about 11.9 pounds of cereal per year!</p>
+<p>💡 Sex burns 360 calories per hour.</p>
 <hr>
-<p>💡 The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.</p>
+<p>💡 Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
 <hr>
-<p>💡 Between 2 and 3 jockeys are killed each year in horse racing.</p>
+<p>💡 Babies are most likely to be born on Tuesdays.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight"</em> - Eren</p>
+  <p><em>"The only person you are destined to become is the person you decide to be."</em> - Ralph Waldo Emerson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Just like games, no matter how well you have things lined up in your life, there’s always something to keep you on your toes."</em> - Junichirou Kagami</p>
+  <p><em>"Don’t give up, there’s no shame in falling down! True shame is to not stand up again!"</em> - Shintaro Midorima</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life isn’t about getting and having, it’s about giving and being."</em> - Kevin Kruse</p>
+  <p><em>"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it."</em> - Johann Wolfgang von Goethe</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 09, 2025</td>
-<td>19:25:33 IST</td>
+<td>Wednesday</td>
+<td>September 10, 2025</td>
+<td>19:23:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 10, 2025</td>
-<td>19:25:30 IST</td>
+<td>Thursday</td>
+<td>September 11, 2025</td>
+<td>19:20:10 IST</td>
 </tr>
 </tbody>
 </table>
