@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/3923dc712afd958096c2e92894b2881eff263408290eb1b78db64afdc3c471ea/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334303325323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C403%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,725+ Commits made on Github</p>
+<p>🏆 4,739+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 17 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>24 hrs 9 mins</td>
+<td>24 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.91%</td>
+<td>52.08%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>14 hrs 39 mins</td>
+<td>15 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.11%</td>
+<td>33.46%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 26 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.16%</td>
+<td>3.05%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>1 hr 11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.63%</td>
+<td>2.54%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.23%</td>
+<td>2.16%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>44 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.64%</td>
+<td>1.58%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>33 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.22%</td>
+<td>1.18%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>29 hrs 15 mins</td>
+<td>30 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.09%</td>
+<td>65.34%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>14 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.12%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.0%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.79%</td>
+<td>3.66%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,9 +166,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>45 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>45 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.62%</td>
+</tr> 
+ <tr>
+<td>Linux</td>
+<td>1 hr 35 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.38%</td>
 </tr>
 </tbody></table>
 </details>
@@ -183,9 +189,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>45 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>45 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>96.62%</td>
+</tr> 
+ <tr>
+<td>archpc</td>
+<td>1 hr 35 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.38%</td>
 </tr>
 </tbody></table>
 </details>
@@ -255,14 +267,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What biscuit does a short person like?</strong></p>
-<p><em>» Shortbread. </em></p>
+<p><strong>What did the grape do when he got stepped on?</strong></p>
+<p><em>» He let out a little wine.</em></p>
 <hr>
-<p><strong>I'm reading a book about anti-gravity...</strong></p>
-<p><em>» It's impossible to put down</em></p>
+<p><strong>Which is faster, Hot or cold?</strong></p>
+<p><em>» Hot, because you can catch a cold</em></p>
 <hr>
-<p><strong>What's the difference between a guitar and a fish?</strong></p>
-<p><em>» You can tune a guitar but you can't "tuna"fish!</em></p>
+<p><strong>Why didn't the skeleton go for prom?</strong></p>
+<p><em>» Because it had nobody.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +283,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Lawn darts are illegal in Canada.</p>
+<p>💡 There is a town in Newfoundland, Canada called Dildo.</p>
 <hr>
-<p>💡 Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</p>
+<p>💡 If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</p>
+<p>💡 Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +297,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Life is what we make it, always has been, always will be."</em> - Grandma Moses</p>
+  <p><em>"You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face."</em> - Roronoa Zoro</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you just submit yourself to fate, then that’s the end of it."</em> - Keiichi Maebara</p>
+  <p><em>"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It does not matter how slowly you go as long as you do not stop."</em> - Confucius</p>
+  <p><em>"A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."</em> - Jiraiya</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +319,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>September 11, 2025</td>
-<td>19:23:07 IST</td>
+<td>Friday</td>
+<td>September 12, 2025</td>
+<td>19:23:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>September 12, 2025</td>
-<td>19:20:05 IST</td>
+<td>Saturday</td>
+<td>September 13, 2025</td>
+<td>19:20:00 IST</td>
 </tr>
 </tbody>
 </table>
