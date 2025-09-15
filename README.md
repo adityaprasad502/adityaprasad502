@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ecae0e522cad90f288e101bec8ae1f6ac5cb0fc2eba9e74a5123b7c5f03702f7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334303825323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C408%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,759+ Commits made on Github</p>
-<p>📦 85.8 MiB Used in GitHub's Storage</p>
+<p>🏆 4,761+ Commits made on Github</p>
+<p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>25 hrs 10 mins</td>
+<td>24 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.26%</td>
+<td>47.78%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>16 hrs 36 mins</td>
+<td>16 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.81%</td>
+<td>31.88%</td>
+</tr> 
+ <tr>
+<td>Dart</td>
+<td>3 hrs 26 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.61%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 56 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.95%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>1 hr 11 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.44%</td>
+<td>3.72%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.08%</td>
+<td>1.95%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>54 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.75%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
-<td>44 mins</td>
+<td>42 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.52%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>33 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.14%</td>
+<td>1.35%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>31 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>63.93%</td>
+<td>31 hrs 56 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.24%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 29 mins</td>
+<td>17 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.54%</td>
+<td>34.5%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.52%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.32%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>29 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.01%</td>
+<td>0.95%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>47 hrs 31 mins</td>
+<td>50 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.75%</td>
+<td>96.94%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr 35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.25%</td>
+<td>3.06%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>47 hrs 31 mins</td>
+<td>50 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.75%</td>
+<td>96.94%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>1 hr 35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.25%</td>
+<td>3.06%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's brown and sticky?</strong></p>
-<p><em>» A stick.</em></p>
+<p><strong>How do you comfort a designer?</strong></p>
+<p><em>» You give them some space... between the elements.</em></p>
 <hr>
-<p><strong>Why did Dracula lie in the wrong coffin?</strong></p>
-<p><em>» He made a grave mistake.</em></p>
+<p><strong>Where do hamburgers go to dance?</strong></p>
+<p><em>» The meat-ball.</em></p>
 <hr>
-<p><strong>Why was the JavaScript developer sad?</strong></p>
-<p><em>» Because they didn't Node how to Express themself!</em></p>
+<p><strong>How do you make the number one disappear?</strong></p>
+<p><em>» Add the letter G and it’s “gone”!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Coca-Cola was originally green.</p>
+<p>💡 The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.</p>
 <hr>
-<p>💡 The dot over the letter `i` is called a tittle.  </p>
+<p>💡 Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
 <hr>
-<p>💡 Most dust particles in your house are made from dead skin.</p>
+<p>💡 400-quarter pounders can be made from 1 cow.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When you lose sight of your path, listen for the destination in your heart."</em> - Allen Walker</p>
+  <p><em>"Whether you think you can or you think you can’t, you’re right."</em> - Henry Ford</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least"</em> - Levi Ackerman</p>
+  <p><em>"Sometimes it’s necessary to do unnecessary things."</em> - Kanade Jinguuji</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"I am not a product of my circumstances. I am a product of my decisions."</em> - Stephen Covey</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>September 15, 2025</td>
-<td>04:59:22 IST</td>
+<td>Tuesday</td>
+<td>September 16, 2025</td>
+<td>04:59:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>September 16, 2025</td>
-<td>04:55:20 IST</td>
+<td>Wednesday</td>
+<td>September 17, 2025</td>
+<td>04:55:05 IST</td>
 </tr>
 </tbody>
 </table>
