@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ecae0e522cad90f288e101bec8ae1f6ac5cb0fc2eba9e74a5123b7c5f03702f7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334303825323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C408%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9ddc5a8ba79d1d85d700124a755f718373bb068da74851cdef942df8ca076da2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334313325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C413%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,761+ Commits made on Github</p>
+<p>🏆 4,769+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>24 hrs 55 mins</td>
+<td>29 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.78%</td>
+<td>51.16%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>16 hrs 37 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.88%</td>
+<td>17 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.99%</td>
 </tr> 
  <tr>
 <td>Dart</td>
-<td>3 hrs 26 mins</td>
+<td>3 hrs 29 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.61%</td>
+<td>6.15%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 56 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.72%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.42%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 1 min</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.95%</td>
+<td>1.8%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>54 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.75%</td>
+<td>1.61%</td>
 </tr> 
  <tr>
 <td>Gradle</td>
 <td>42 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.35%</td>
+<td>1.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>31 hrs 56 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.24%</td>
+<td>33 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.19%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>17 hrs 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.5%</td>
+<td>21 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.89%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.32%</td>
+<td>3.05%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>29 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.95%</td>
+<td>0.87%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>50 hrs 34 mins</td>
+<td>55 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.94%</td>
+<td>97.19%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr 35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.06%</td>
+<td>2.81%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>50 hrs 34 mins</td>
+<td>55 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.94%</td>
+<td>97.19%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>1 hr 35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.06%</td>
+<td>2.81%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,16 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How do you comfort a designer?</strong></p>
-<p><em>» You give them some space... between the elements.</em></p>
+<p><strong>What do vegetarian zombies eat?</strong></p>
+<p><em>» Grrrrrainnnnnssss.</em></p>
 <hr>
-<p><strong>Where do hamburgers go to dance?</strong></p>
-<p><em>» The meat-ball.</em></p>
+<p>Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</p>
 <hr>
-<p><strong>How do you make the number one disappear?</strong></p>
-<p><em>» Add the letter G and it’s “gone”!</em></p>
+<p>Your mama's so FAT she can't save files bigger than 4GB.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +291,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.</p>
+<p>💡 The most common street name in the U.S. is Second Street.</p>
 <hr>
-<p>💡 Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
+<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
 <hr>
-<p>💡 400-quarter pounders can be made from 1 cow.</p>
+<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +305,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Whether you think you can or you think you can’t, you’re right."</em> - Henry Ford</p>
+  <p><em>"When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life."</em> - John Lennon</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Sometimes it’s necessary to do unnecessary things."</em> - Kanade Jinguuji</p>
+  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I am not a product of my circumstances. I am a product of my decisions."</em> - Stephen Covey</p>
+  <p><em>"Being weak is nothing to be ashamed of… Staying weak is !!"</em> - Fuegoleon Vermillion</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +327,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 16, 2025</td>
-<td>04:59:09 IST</td>
+<td>Wednesday</td>
+<td>September 17, 2025</td>
+<td>04:56:48 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 17, 2025</td>
-<td>04:55:05 IST</td>
+<td>Thursday</td>
+<td>September 18, 2025</td>
+<td>04:55:45 IST</td>
 </tr>
 </tbody>
 </table>
