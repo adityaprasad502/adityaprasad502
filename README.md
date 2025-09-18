@@ -25,7 +25,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9ddc5a8ba79d1d85d700124a755f718373bb068da74851cdef942df8ca076da2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334313325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C413%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5fadce15ded81333f16fda7d7fdeb67323b801b3a8e6330f8bbd19fb62c3cbba/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343136253230687273253230332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C416%20hrs%203%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
 <p>🏆 4,769+ Commits made on Github</p>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - September 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>6 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.73%</td>
+<td>4 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.5%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>5 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.11%</td>
+<td>3.12%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>59 commits</td>
+<td>60 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.65%</td>
+<td>37.5%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>91 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.52%</td>
+<td>56.88%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>161 commits in September 2025</b></td>
+<td colspan="2"><b>160 commits in September 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,43 +84,43 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>29 hrs 1 min</td>
+<td>29 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.16%</td>
+<td>50.04%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>17 hrs 1 min</td>
+<td>17 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.99%</td>
+<td>29.77%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.15%</td>
+<td>5.93%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 56 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.42%</td>
+<td>2 hrs 36 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.43%</td>
 </tr> 
  <tr>
 <td>Bash</td>
-<td>1 hr 1 min</td>
+<td>1 hr 2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>1.78%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>54 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.61%</td>
+<td>1.55%</td>
 </tr> 
  <tr>
-<td>Gradle</td>
-<td>42 mins</td>
+<td>Markdown</td>
+<td>43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.24%</td>
 </tr>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>33 hrs 1 min</td>
+<td>33 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.19%</td>
+<td>57.67%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>21 hrs 30 mins</td>
+<td>21 hrs 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.89%</td>
+<td>36.63%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.05%</td>
+<td>2.94%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>29 mins</td>
+<td>1 hr 37 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.87%</td>
+<td>2.76%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>55 hrs 9 mins</td>
+<td>56 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.19%</td>
+<td>95.76%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>1 hr 35 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.81%</td>
+<td>2 hrs 29 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>55 hrs 9 mins</td>
+<td>56 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>97.19%</td>
+<td>95.76%</td>
 </tr> 
  <tr>
 <td>archpc</td>
-<td>1 hr 35 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.81%</td>
+<td>2 hrs 29 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,16 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do vegetarian zombies eat?</strong></p>
-<p><em>» Grrrrrainnnnnssss.</em></p>
+<p><strong>Why did the programmer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p>Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</p>
+<p><strong>Why do pumpkins sit on people’s porches?</strong></p>
+<p><em>» They have no hands to knock on the door.</em></p>
 <hr>
-<p>Your mama's so FAT she can't save files bigger than 4GB.</p>
+<p><strong>Why couldn't the lifeguard save the hippie?</strong></p>
+<p><em>» He was too far out, man.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,11 +289,11 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The most common street name in the U.S. is Second Street.</p>
+<p>💡 A dime has 118 ridges around the edge.</p>
 <hr>
-<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
+<p>💡 Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</p>
 <hr>
-<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
+<p>💡 The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -305,15 +303,15 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life."</em> - John Lennon</p>
+  <p><em>"I am not a product of my circumstances. I am a product of my decisions."</em> - Stephen Covey</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
+  <p><em>"Life s a bore if you don t challenge yourself"</em> - Yuu Nishinoya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being weak is nothing to be ashamed of… Staying weak is !!"</em> - Fuegoleon Vermillion</p>
+  <p><em>"If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!"</em> - Haruhi Fujioka</p>
 </blockquote>
 </details>
 <p>
@@ -327,15 +325,15 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>September 17, 2025</td>
-<td>04:56:48 IST</td>
+<td>Thursday</td>
+<td>September 18, 2025</td>
+<td>08:08:24 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>September 18, 2025</td>
-<td>04:55:45 IST</td>
+<td>Friday</td>
+<td>September 19, 2025</td>
+<td>08:05:20 IST</td>
 </tr>
 </tbody>
 </table>
