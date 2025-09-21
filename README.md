@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6e8bd569b62996d35c745b5941c38d02a807255c71d63b55f3dfe2f84d2bf373/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d312532433431392532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C419%20hrs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,775+ Commits made on Github</p>
+<p>🏆 4,783+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -57,15 +57,15 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>60 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.5%</td>
+<td>53 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.12%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>91 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.88%</td>
+<td>98 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.25%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>29 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.29%</td>
+<td>27 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.71%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>17 hrs 58 mins</td>
+<td>17 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.79%</td>
+<td>29.34%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 34 mins</td>
+<td>3 hrs 53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.92%</td>
+<td>6.53%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.79%</td>
+<td>5.85%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>1 hr 13 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.04%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.76%</td>
+<td>1.78%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.28%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>43 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.21%</td>
+<td>1.29%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>33 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.13%</td>
+<td>32 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>54.69%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>22 hrs 29 mins</td>
+<td>23 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.28%</td>
+<td>38.64%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 14 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.72%</td>
+<td>3.77%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.87%</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>56 hrs 23 mins</td>
+<td>55 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.5%</td>
+<td>93.43%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>3 hrs 55 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
+<td>6.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>56 hrs 23 mins</td>
+<td>55 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.5%</td>
+<td>93.43%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>3 hrs 55 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
+<td>6.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What cheese can never be yours?</strong></p>
-<p><em>» Nacho cheese.</em></p>
+<p><strong>How does a penguin build its house?</strong></p>
+<p><em>» Igloos it together!</em></p>
 <hr>
-<p><strong>Arguing with a woman is like reading a software's license agreement.</strong></p>
-<p><em>» In the end you ignore everything and click "I agree".</em></p>
+<p><strong>What does the mermaid wear to math class?</strong></p>
+<p><em>» Algae-bra.</em></p>
 <hr>
-<p><strong>Do I enjoy making courthouse puns?</strong></p>
-<p><em>» Guilty</em></p>
+<p><strong>Why do choirs keep buckets handy?</strong></p>
+<p><em>» So they can carry their tune</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Right-handed people live, on average; nine years longer than left handed people.</p>
+<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
 <hr>
-<p>💡 Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
+<p>💡 WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through "the whole 9 yards", hence the term.</p>
 <hr>
-<p>💡 It is illegal to eat oranges while bathing in California.</p>
+<p>💡 Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
+  <p><em>"We become what we think about."</em> - Earl Nightingale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You miss 100% of the shots you don’t take."</em> - Wayne Gretzky</p>
+  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I attribute my success to this: I never gave or took any excuse."</em> - Florence Nightingale</p>
+  <p><em>"Life is not a game of luck. If you wanna win, work hard."</em> - Sora</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>September 20, 2025</td>
-<td>08:04:36 IST</td>
+<td>Sunday</td>
+<td>September 21, 2025</td>
+<td>08:18:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>September 21, 2025</td>
-<td>08:00:35 IST</td>
+<td>Monday</td>
+<td>September 22, 2025</td>
+<td>08:15:10 IST</td>
 </tr>
 </tbody>
 </table>
