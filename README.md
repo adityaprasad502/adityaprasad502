@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6e8bd569b62996d35c745b5941c38d02a807255c71d63b55f3dfe2f84d2bf373/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d312532433431392532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C419%20hrs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4e619924e6f0e3e273cf07166a053370c4a527afcf3bcba23f4a4d917c79f4ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,783+ Commits made on Github</p>
+<p>🏆 4,785+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>27 hrs 51 mins</td>
+<td>25 hrs 15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.71%</td>
+<td>46.13%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>17 hrs 29 mins</td>
+<td>15 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.34%</td>
+<td>28.78%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 53 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.53%</td>
+<td>4 hrs 8 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.56%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.85%</td>
+<td>6.37%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.04%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>1 hr 3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.78%</td>
+<td>2.23%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>46 mins</td>
+<td>45 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.29%</td>
+<td>1.4%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>43 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.33%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>32 hrs 36 mins</td>
+<td>29 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.69%</td>
+<td>53.08%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>23 hrs 2 mins</td>
+<td>21 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.64%</td>
+<td>39.38%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>2 hrs 14 mins</td>
+<td>2 hrs 23 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.77%</td>
+<td>4.38%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
+<td>3.16%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>55 hrs 43 mins</td>
+<td>50 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.43%</td>
+<td>92.85%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>3 hrs 55 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.57%</td>
+<td>7.15%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>55 hrs 43 mins</td>
+<td>50 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.43%</td>
+<td>92.85%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>3 hrs 55 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.57%</td>
+<td>7.15%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How does a penguin build its house?</strong></p>
-<p><em>» Igloos it together!</em></p>
+<p><strong>Why did the programmer go to art school?</strong></p>
+<p><em>» He wanted to learn how to code outside the box.</em></p>
 <hr>
-<p><strong>What does the mermaid wear to math class?</strong></p>
-<p><em>» Algae-bra.</em></p>
+<p><strong>Did you hear about the claustrophobic astronaut?</strong></p>
+<p><em>» He just needed a little space.</em></p>
 <hr>
-<p><strong>Why do choirs keep buckets handy?</strong></p>
-<p><em>» So they can carry their tune</em></p>
+<p><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></p>
+<p><em>» I said, "Oh yeah... Just you wait."</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
+<p>💡 %60 of all people using the Internet, use it for pornography.</p>
 <hr>
-<p>💡 WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through "the whole 9 yards", hence the term.</p>
+<p>💡 There are more psychoanalysts per capita in Buenos Aires than any other place in the world.</p>
 <hr>
-<p>💡 Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</p>
+<p>💡 Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"We become what we think about."</em> - Earl Nightingale</p>
+  <p><em>"Thinking you’re no-good and worthless is the worst thing you can do"</em> - Nobito</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
+  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is not a game of luck. If you wanna win, work hard."</em> - Sora</p>
+  <p><em>"It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it."</em> - Might Guy</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>September 21, 2025</td>
-<td>08:18:14 IST</td>
+<td>Monday</td>
+<td>September 22, 2025</td>
+<td>08:17:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>September 22, 2025</td>
-<td>08:15:10 IST</td>
+<td>Tuesday</td>
+<td>September 23, 2025</td>
+<td>08:15:55 IST</td>
 </tr>
 </tbody>
 </table>
