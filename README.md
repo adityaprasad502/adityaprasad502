@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4e619924e6f0e3e273cf07166a053370c4a527afcf3bcba23f4a4d917c79f4ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,785+ Commits made on Github</p>
+<p>🏆 4,786+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>25 hrs 15 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.13%</td>
+<td>21 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.59%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>15 hrs 45 mins</td>
+<td>15 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.78%</td>
+<td>30.05%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 8 mins</td>
+<td>5 hrs 4 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.56%</td>
+<td>10.01%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.37%</td>
+<td>6.88%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 13 mins</td>
+<td>1 hr 28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.23%</td>
-</tr> 
- <tr>
-<td>Groovy</td>
-<td>45 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>2.9%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.33%</td>
+<td>1.43%</td>
+</tr> 
+ <tr>
+<td>Groovy</td>
+<td>28 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.94%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>29 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.08%</td>
+<td>25 hrs 15 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.81%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>21 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.38%</td>
+<td>20 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.05%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>2 hrs 23 mins</td>
+<td>3 hrs 24 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.38%</td>
+<td>6.73%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.16%</td>
+<td>3.41%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>50 hrs 50 mins</td>
+<td>46 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.85%</td>
+<td>92.27%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>3 hrs 55 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.15%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.73%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>50 hrs 50 mins</td>
+<td>46 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.85%</td>
+<td>92.27%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>3 hrs 55 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.15%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.73%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why did the programmer go to art school?</strong></p>
-<p><em>» He wanted to learn how to code outside the box.</em></p>
+<p><strong>Which side of the chicken has more feathers?</strong></p>
+<p><em>» The outside.</em></p>
 <hr>
-<p><strong>Did you hear about the claustrophobic astronaut?</strong></p>
-<p><em>» He just needed a little space.</em></p>
+<p><strong>Why did the banana go see a doctor?</strong></p>
+<p><em>» Because it wasn't peeling well.</em></p>
 <hr>
-<p><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></p>
-<p><em>» I said, "Oh yeah... Just you wait."</em></p>
+<p><strong>Knock-knock.</strong></p>
+<p><em>» A race condition. Who is there?</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 %60 of all people using the Internet, use it for pornography.</p>
+<p>💡 Illinois has the highest number of personalized license plates than any other state.</p>
 <hr>
-<p>💡 There are more psychoanalysts per capita in Buenos Aires than any other place in the world.</p>
+<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
 <hr>
-<p>💡 Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
+<p>💡 Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Thinking you’re no-good and worthless is the worst thing you can do"</em> - Nobito</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
+  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
 </blockquote>
 <hr>
 <blockquote>
   <p><em>"It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it."</em> - Might Guy</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Winning isn’t everything, but wanting to win is."</em> - Vince Lombardi</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>September 22, 2025</td>
-<td>08:17:57 IST</td>
+<td>Tuesday</td>
+<td>September 23, 2025</td>
+<td>08:08:15 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>September 23, 2025</td>
-<td>08:15:55 IST</td>
+<td>Wednesday</td>
+<td>September 24, 2025</td>
+<td>08:05:15 IST</td>
 </tr>
 </tbody>
 </table>
