@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4e619924e6f0e3e273cf07166a053370c4a527afcf3bcba23f4a4d917c79f4ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6065725157485889c6503697259b1f2bc12b0d8eb87294076399d153a0774742/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,786+ Commits made on Github</p>
+<p>🏆 4,787+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>21 hrs 35 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.59%</td>
+<td>19 hrs 45 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>15 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.05%</td>
+<td>10 hrs 19 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.51%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>5 hrs 4 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.01%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.57%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.88%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.95%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
+<td>1 hr 38 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.73%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.43%</td>
+<td>1.66%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
-<td>28 mins</td>
+<td>27 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.94%</td>
+<td>1.05%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>25 hrs 15 mins</td>
+<td>21 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.81%</td>
+<td>49.13%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>20 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.05%</td>
+<td>17 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.15%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 24 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.73%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.77%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.41%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.94%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>46 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.27%</td>
+<td>39 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.7%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>3 hrs 55 mins</td>
+<td>4 hrs 4 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.73%</td>
+<td>9.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>46 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.27%</td>
+<td>39 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.7%</td>
 </tr> 
  <tr>
 <td>archpc</td>
-<td>3 hrs 55 mins</td>
+<td>4 hrs 4 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.73%</td>
+<td>9.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Which side of the chicken has more feathers?</strong></p>
-<p><em>» The outside.</em></p>
+<p>Today, my son asked "Can I have a book mark?" and I burst into tears.
+11 years old and he still doesn't know my name is Brian.</p>
 <hr>
-<p><strong>Why did the banana go see a doctor?</strong></p>
-<p><em>» Because it wasn't peeling well.</em></p>
+<p><strong>Did you hear about the crime in the parking garage?</strong></p>
+<p><em>» It was wrong on so many levels.</em></p>
 <hr>
-<p><strong>Knock-knock.</strong></p>
-<p><em>» A race condition. Who is there?</em></p>
+<p><strong>What's the best thing about elevator jokes?</strong></p>
+<p><em>» They work on so many levels.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Illinois has the highest number of personalized license plates than any other state.</p>
+<p>💡 The name of all continents in the world end with the same letter that they start with.</p>
 <hr>
-<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
+<p>💡 PEZ candy even comes in a Coffee flavor.</p>
 <hr>
-<p>💡 Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</p>
+<p>💡 In Vermont, the ratio of cows to people is 10:1</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
+  <p><em>"Remember no one can make you feel inferior without your consent."</em> - Eleanor Roosevelt</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it."</em> - Might Guy</p>
+  <p><em>"Protecting someone means giving them a place to belong. Giving them a place where they can be happy."</em> - Princess Lenessia</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Winning isn’t everything, but wanting to win is."</em> - Vince Lombardi</p>
+  <p><em>"The future belongs to those who believe in the beauty of their dreams."</em> - Eleanor Roosevelt</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 23, 2025</td>
-<td>08:08:15 IST</td>
+<td>Wednesday</td>
+<td>September 24, 2025</td>
+<td>08:10:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 24, 2025</td>
-<td>08:05:15 IST</td>
+<td>Thursday</td>
+<td>September 25, 2025</td>
+<td>08:10:10 IST</td>
 </tr>
 </tbody>
 </table>
