@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6065725157485889c6503697259b1f2bc12b0d8eb87294076399d153a0774742/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,787+ Commits made on Github</p>
+<p>🏆 4,788+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>19 hrs 45 mins</td>
+<td>16 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.0%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>10 hrs 19 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.51%</td>
+<td>47.21%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>5 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.57%</td>
+<td>14.29%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>4 hrs 57 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.98%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.95%</td>
+<td>9.82%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 38 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.73%</td>
+<td>4.61%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>43 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.66%</td>
+<td>2.05%</td>
 </tr> 
  <tr>
 <td>Groovy</td>
 <td>27 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.05%</td>
+<td>1.29%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,28 +136,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>21 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.13%</td>
+<td>VS Code</td>
+<td>15 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.62%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>17 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.15%</td>
+<td>Android Studio</td>
+<td>14 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.9%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 24 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.77%</td>
+<td>9.61%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.94%</td>
+<td>4.87%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>39 hrs 48 mins</td>
+<td>31 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.7%</td>
+<td>88.5%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 4 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.3%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>39 hrs 48 mins</td>
+<td>31 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.7%</td>
+<td>88.5%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 4 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.3%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>Today, my son asked "Can I have a book mark?" and I burst into tears.
-11 years old and he still doesn't know my name is Brian.</p>
+<p><strong>How do you fix a damaged jack-o-lantern?</strong></p>
+<p><em>» You use a pumpkin patch.</em></p>
 <hr>
-<p><strong>Did you hear about the crime in the parking garage?</strong></p>
-<p><em>» It was wrong on so many levels.</em></p>
+<p>The generation of random numbers is too important to be left to chance.</p>
 <hr>
-<p><strong>What's the best thing about elevator jokes?</strong></p>
-<p><em>» They work on so many levels.</em></p>
+<p><strong>Why did the math book look sad?</strong></p>
+<p><em>» Because it had too many problems.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The name of all continents in the world end with the same letter that they start with.</p>
+<p>💡 A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.</p>
 <hr>
-<p>💡 PEZ candy even comes in a Coffee flavor.</p>
+<p>💡 The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.</p>
 <hr>
-<p>💡 In Vermont, the ratio of cows to people is 10:1</p>
+<p>💡 Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +302,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Remember no one can make you feel inferior without your consent."</em> - Eleanor Roosevelt</p>
+  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Protecting someone means giving them a place to belong. Giving them a place where they can be happy."</em> - Princess Lenessia</p>
+  <p><em>"If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough."</em> - Oprah Winfrey</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The future belongs to those who believe in the beauty of their dreams."</em> - Eleanor Roosevelt</p>
+  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>September 24, 2025</td>
-<td>08:10:10 IST</td>
+<td>Thursday</td>
+<td>September 25, 2025</td>
+<td>08:12:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>September 25, 2025</td>
-<td>08:10:10 IST</td>
+<td>Friday</td>
+<td>September 26, 2025</td>
+<td>08:10:05 IST</td>
 </tr>
 </tbody>
 </table>
