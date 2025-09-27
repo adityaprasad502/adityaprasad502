@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,789+ Commits made on Github</p>
+<p>🏆 4,790+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>16 hrs 45 mins</td>
+<td>16 hrs 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.18%</td>
+<td>47.52%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 55 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.15%</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 33 mins</td>
+<td>4 hrs 35 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.09%</td>
+<td>13.33%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.03%</td>
+<td>10.14%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 37 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.69%</td>
+<td>4.75%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
+<td>1.51%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.46%</td>
+<td>1.48%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.45%</td>
+<td>15 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.02%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>14 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.76%</td>
+<td>42.22%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 24 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.81%</td>
+<td>9.92%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
-<td>1 hr 43 mins</td>
+<td>1 hr 19 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.98%</td>
+<td>3.84%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>30 hrs 41 mins</td>
+<td>30 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.26%</td>
+<td>88.13%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.74%</td>
+<td>11.87%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>30 hrs 41 mins</td>
+<td>30 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.26%</td>
+<td>88.13%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.74%</td>
+<td>11.87%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>My girlfriend left me because I have a fetish for touching pasta.</strong></p>
-<p><em>» I'm feeling cannelloni now. :'(</em></p>
+<p><strong>What does a turkey dress up as for Halloween?</strong></p>
+<p><em>» A gobblin'!</em></p>
 <hr>
-<p><strong>Which side of the chicken has more feathers?</strong></p>
-<p><em>» The outside.</em></p>
+<p><strong>What did the dog say to the two trees?</strong></p>
+<p><em>» Bark bark.</em></p>
 <hr>
-<p><strong>What did the Zen Buddist say to the hotdog vendor?</strong></p>
-<p><em>» Make me one with everything.</em></p>
+<p><strong>What did the late tomato say to the early tomato?</strong></p>
+<p><em>» I’ll ketch up</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Bob Dylan's real name is Robert Zimmerman.</p>
+<p>💡 Dogs and cats consume over $11 billion worth of pet food a year</p>
 <hr>
-<p>💡 The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.</p>
+<p>💡 The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</p>
 <hr>
-<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
+<p>💡 US gold coins used to say “In Gold We Trust”.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper."</em> - Himura Kenshin</p>
+  <p><em>"You should never give up on life, no matter how you feel. No matter how badly you want to give up."</em> - Canaan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
+  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily."</em> - Zig Ziglar</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"As Long As We Continue To Fight We Are Not Defeated"</em> - Miche Zacharius</p>
+  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>September 26, 2025</td>
-<td>08:10:45 IST</td>
+<td>Saturday</td>
+<td>September 27, 2025</td>
+<td>08:04:28 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>September 27, 2025</td>
-<td>08:10:45 IST</td>
+<td>Sunday</td>
+<td>September 28, 2025</td>
+<td>08:00:25 IST</td>
 </tr>
 </tbody>
 </table>
