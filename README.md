@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,790+ Commits made on Github</p>
+<p>🏆 4,791+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>16 hrs 20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.52%</td>
+<td>15 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.42%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 55 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.3%</td>
+<td>14.87%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 hrs 35 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.33%</td>
+<td>13.86%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.14%</td>
+<td>10.55%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 37 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.75%</td>
+<td>4.93%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.51%</td>
+<td>1.58%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.48%</td>
+<td>1.54%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,25 +139,19 @@ fun main() {
 <td>VS Code</td>
 <td>15 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.02%</td>
+<td>45.78%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>14 hrs 31 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.22%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.91%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 24 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.92%</td>
-</tr> 
- <tr>
-<td>IntelliJ IDEA</td>
-<td>1 hr 19 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.84%</td>
+<td>10.31%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +166,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>30 hrs 19 mins</td>
+<td>28 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.13%</td>
+<td>87.66%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.87%</td>
+<td>12.34%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +189,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>30 hrs 19 mins</td>
+<td>28 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>88.13%</td>
+<td>87.66%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.87%</td>
+<td>12.34%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +267,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What does a turkey dress up as for Halloween?</strong></p>
-<p><em>» A gobblin'!</em></p>
+<p><strong>What's blue and not very heavy?</strong></p>
+<p><em>»  Light blue.</em></p>
 <hr>
-<p><strong>What did the dog say to the two trees?</strong></p>
-<p><em>» Bark bark.</em></p>
+<p><strong>What has ears but cannot hear?</strong></p>
+<p><em>» A field of corn.</em></p>
 <hr>
-<p><strong>What did the late tomato say to the early tomato?</strong></p>
-<p><em>» I’ll ketch up</em></p>
+<p><strong>What's the difference between a baby and a pile of sand?</strong></p>
+<p><em>» You can't pick a pile of sand up with a pitchfork.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +283,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Dogs and cats consume over $11 billion worth of pet food a year</p>
+<p>💡 In medieval France, unfaithful wives were made to chase a chicken through town naked.</p>
 <hr>
-<p>💡 The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</p>
+<p>💡 The average human brain has about 100 billion nerve cells.</p>
 <hr>
-<p>💡 US gold coins used to say “In Gold We Trust”.</p>
+<p>💡 Shakespeare spelled his OWN name several different ways.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +297,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You should never give up on life, no matter how you feel. No matter how badly you want to give up."</em> - Canaan</p>
+  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily."</em> - Zig Ziglar</p>
+  <p><em>"Happiness is not something readymade.  It comes from your own actions."</em> - Dalai Lama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
+  <p><em>"The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful."</em> - Roy Mustang</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +319,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>September 27, 2025</td>
-<td>08:04:28 IST</td>
+<td>Sunday</td>
+<td>September 28, 2025</td>
+<td>08:18:26 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>September 28, 2025</td>
-<td>08:00:25 IST</td>
+<td>Monday</td>
+<td>September 29, 2025</td>
+<td>08:15:25 IST</td>
 </tr>
 </tbody>
 </table>
