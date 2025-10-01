@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,793+ Commits made on Github</p>
+<p>🏆 4,794+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -42,35 +42,7 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - September 2025</th></tr> 
- <tr>
-<td>🌞 Morning</td>
-<td>4 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
-</tr> 
- <tr>
-<td>🌆 Daytime</td>
-<td>5 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.12%</td>
-</tr> 
- <tr>
-<td>🌃 Evening</td>
-<td>53 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.12%</td>
-</tr> 
- <tr>
-<td>🌙 Night</td>
-<td>98 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.25%</td>
-</tr>
-<tr>
-<td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>160 commits in September 2025</b></td>
-</tr>
+<tbody><tr><th colspan="4">📅 No commits found in October 2025</th></tr>
 </tbody></table>
 </details>
 <p>
@@ -267,14 +239,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a deaf gynecologist?</strong></p>
-<p><em>» A lip reader.</em></p>
+<p>Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.</p>
 <hr>
-<p><strong>What do you call two barracuda fish?</strong></p>
-<p><em>» A Pairacuda!</em></p>
+<p><strong>What do you call a fat psychic?</strong></p>
+<p><em>» A four-chin teller.</em></p>
 <hr>
-<p><strong>Why did the fireman wear red, white, and blue suspenders?</strong></p>
-<p><em>» To hold his pants up.</em></p>
+<p><strong>Whats the Grinchs least favorite band?</strong></p>
+<p><em>» The Who.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,11 +254,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
+<p>💡 The average chocolate bar has 8 insects' legs in it.</p>
 <hr>
-<p>💡 Humans and dolphins are the only species that have sex for pleasure.</p>
+<p>💡 The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.</p>
 <hr>
-<p>💡 On average, Americans eat 18 acres of pizza everyday.</p>
+<p>💡 Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -297,15 +268,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"I am not a product of my circumstances. I am a product of my decisions."</em> - Stephen Covey</p>
+  <p><em>"If you re gonna hit it hit it until it breaks"</em> - Tooru Oikawa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
+  <p><em>"Whatever you lose, you’ll find it again. But what you throw away you’ll never get back."</em> - Himura Kenshin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The future belongs to those who believe in the beauty of their dreams."</em> - Eleanor Roosevelt</p>
+  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +290,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 30, 2025</td>
-<td>08:08:36 IST</td>
+<td>Wednesday</td>
+<td>October 01, 2025</td>
+<td>08:21:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>October 01, 2025</td>
-<td>08:05:35 IST</td>
+<td>Thursday</td>
+<td>October 02, 2025</td>
+<td>08:20:40 IST</td>
 </tr>
 </tbody>
 </table>
