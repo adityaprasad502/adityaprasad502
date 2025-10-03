@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,795+ Commits made on Github</p>
+<p>🏆 4,796+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -58,31 +58,31 @@ fun main() {
 <td>Kotlin</td>
 <td>15 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.42%</td>
+<td>45.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 55 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.87%</td>
+<td>14.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 35 mins</td>
+<td>4 hrs 31 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.86%</td>
+<td>13.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.55%</td>
+<td>10.57%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 37 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.93%</td>
+<td>4.94%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -109,21 +109,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 8 mins</td>
+<td>15 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.78%</td>
+<td>45.68%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>14 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.91%</td>
+<td>43.99%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 24 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.31%</td>
+<td>10.33%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,15 +138,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>28 hrs 59 mins</td>
+<td>28 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.66%</td>
+<td>87.64%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.34%</td>
+<td>12.36%</td>
 </tr>
 </tbody></table>
 </details>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>28 hrs 59 mins</td>
+<td>28 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.66%</td>
+<td>87.64%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 4 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.34%</td>
+<td>12.36%</td>
 </tr>
 </tbody></table>
 </details>
@@ -186,43 +186,43 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.88%</td>
+<td>45.45%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.62%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.15%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.62%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.15%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.38%</td>
+<td>9.09%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.12%</td>
+<td>3.03%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.12%</td>
+<td>3.03%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.12%</td>
+<td>3.03%</td>
 </tr>
 </tbody></table>
 </details>
@@ -239,14 +239,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How many seconds are in a year?</strong></p>
-<p><em>» 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc</em></p>
+<p><strong>What's the worst thing about ancient history class?</strong></p>
+<p><em>» The teachers tend to Babylon.</em></p>
 <hr>
-<p><strong>Did you hear about the Mexican train killer?</strong></p>
-<p><em>» He had loco motives</em></p>
+<p><strong>Why did the developer go broke?</strong></p>
+<p><em>» They kept spending all their cache.</em></p>
 <hr>
-<p><strong>Why did the burglar hang his mugshot on the wall?</strong></p>
-<p><em>» To prove that he was framed!</em></p>
+<p><strong>What do you call a duck that gets all A's?</strong></p>
+<p><em>» A wise quacker.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -255,11 +255,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 There are 1,792 steps in the Eiffel Tower</p>
+<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</p>
 <hr>
-<p>💡 Venus is the only planet that rotates clockwise.</p>
+<p>💡 A snail can sleep for three years.</p>
 <hr>
-<p>💡 This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
+<p>💡 If a rooster can`t fully extend its neck, it can`t crow.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -269,15 +269,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can die anytime, but living takes true courage."</em> - Kenshin Himura</p>
+  <p><em>"This World Is Cruel And It s Also Very Beautiful"</em> - Mikasa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."</em> - Leonardo da Vinci</p>
+  <p><em>"Don’t give up, there’s no shame in falling down! True shame is to not stand up again!"</em> - Shintaro Midorima</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced."</em> - Vincent Van Gogh</p>
+  <p><em>"There are no regrets. If one can be proud of one’s life, one should not wish for another chance."</em> - Saber</p>
 </blockquote>
 </details>
 <p>
@@ -291,15 +291,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 02, 2025</td>
-<td>08:07:22 IST</td>
+<td>Friday</td>
+<td>October 03, 2025</td>
+<td>08:06:27 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>October 03, 2025</td>
-<td>08:05:20 IST</td>
+<td>Saturday</td>
+<td>October 04, 2025</td>
+<td>08:05:25 IST</td>
 </tr>
 </tbody>
 </table>
