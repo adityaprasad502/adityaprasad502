@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,796+ Commits made on Github</p>
+<p>🏆 4,797+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -56,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>15 hrs 1 min</td>
+<td>15 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.5%</td>
+<td>45.36%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>4 hrs 55 mins</td>
+<td>5 hrs 5 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.9%</td>
+<td>15.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 31 mins</td>
+<td>4 hrs 39 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.7%</td>
+<td>13.89%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.57%</td>
+<td>10.41%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 37 mins</td>
+<td>1 hr 38 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.94%</td>
+<td>4.92%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.58%</td>
+<td>1.55%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.54%</td>
+<td>1.52%</td>
 </tr>
 </tbody></table>
 </details>
@@ -109,19 +109,19 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 5 mins</td>
+<td>15 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.68%</td>
+<td>45.29%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs 31 mins</td>
+<td>14 hrs 52 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.99%</td>
+<td>44.38%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>3 hrs 24 mins</td>
+<td>3 hrs 27 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>10.33%</td>
 </tr>
@@ -138,15 +138,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>28 hrs 56 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.64%</td>
+<td>29 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>86.86%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>4 hrs 4 mins</td>
+<td>4 hrs 24 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.36%</td>
+<td>13.14%</td>
 </tr>
 </tbody></table>
 </details>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>28 hrs 56 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>87.64%</td>
+<td>29 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>86.86%</td>
 </tr> 
  <tr>
 <td>archpc</td>
-<td>4 hrs 4 mins</td>
+<td>4 hrs 24 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.36%</td>
+<td>13.14%</td>
 </tr>
 </tbody></table>
 </details>
@@ -239,14 +239,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's the worst thing about ancient history class?</strong></p>
-<p><em>» The teachers tend to Babylon.</em></p>
+<p><strong>What is a witch's favorite subject in school?</strong></p>
+<p><em>» Spelling!</em></p>
 <hr>
-<p><strong>Why did the developer go broke?</strong></p>
-<p><em>» They kept spending all their cache.</em></p>
+<p>My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.</p>
 <hr>
-<p><strong>What do you call a duck that gets all A's?</strong></p>
-<p><em>» A wise quacker.</em></p>
+<p><strong>Why did the Clydesdale give the pony a glass of water?</strong></p>
+<p><em>» Because he was a little horse</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -255,11 +255,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</p>
+<p>💡 It has been estimated that humans use only 10% of their brain.</p>
 <hr>
-<p>💡 A snail can sleep for three years.</p>
+<p>💡 The HyperMart outside of Garland Texas has 58 check-outs.</p>
 <hr>
-<p>💡 If a rooster can`t fully extend its neck, it can`t crow.</p>
+<p>💡 Rubber bands last longer when refrigerated.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -269,15 +269,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"This World Is Cruel And It s Also Very Beautiful"</em> - Mikasa</p>
+  <p><em>"Strive not to be a success, but rather to be of value."</em> - Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t give up, there’s no shame in falling down! True shame is to not stand up again!"</em> - Shintaro Midorima</p>
+  <p><em>"Being the best decoy ever is as cool as being the ace"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are no regrets. If one can be proud of one’s life, one should not wish for another chance."</em> - Saber</p>
+  <p><em>"To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have."</em> - Matsumoto Rangiku</p>
 </blockquote>
 </details>
 <p>
@@ -291,15 +291,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 03, 2025</td>
-<td>08:06:27 IST</td>
+<td>Saturday</td>
+<td>October 04, 2025</td>
+<td>08:02:16 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 04, 2025</td>
-<td>08:05:25 IST</td>
+<td>Sunday</td>
+<td>October 05, 2025</td>
+<td>08:00:15 IST</td>
 </tr>
 </tbody>
 </table>
