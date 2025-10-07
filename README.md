@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,799+ Commits made on Github</p>
+<p>🏆 4,800+ Commits made on Github</p>
 <p>📦 85.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -56,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>14 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.98%</td>
+<td>10 hrs 53 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.24%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>5 hrs 4 mins</td>
+<td>4 hrs 44 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.84%</td>
+<td>17.54%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>4 hrs 13 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.19%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.62%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.89%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.9%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.04%</td>
+<td>5.97%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.62%</td>
+<td>1.92%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.59%</td>
+<td>1.88%</td>
 </tr>
 </tbody></table>
 </details>
@@ -109,21 +109,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>14 hrs 28 mins</td>
+<td>12 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.17%</td>
+<td>45.02%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.02%</td>
+<td>11 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.18%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 27 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.81%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,15 +138,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>27 hrs 38 mins</td>
+<td>22 hrs 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.26%</td>
+<td>83.73%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 24 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.74%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.27%</td>
 </tr>
 </tbody></table>
 </details>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>27 hrs 38 mins</td>
+<td>22 hrs 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.26%</td>
+<td>83.73%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 24 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.74%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.27%</td>
 </tr>
 </tbody></table>
 </details>
@@ -239,14 +239,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Did you hear about the two silk worms in a race?</strong></p>
-<p><em>» It ended in a tie.</em></p>
+<p>My parents raised me as an only child, which really annoyed my younger brother.</p>
 <hr>
-<p>My wife is really mad at the fact that I have no sense of direction.
-So I packed up my stuff and right.</p>
+<p><strong>What kind of shoes does a thief wear?</strong></p>
+<p><em>» Sneakers</em></p>
 <hr>
-<p><strong>What did Michael Jackson name his denim store?</strong></p>
-<p><em>» Billy Jeans!</em></p>
+<p><strong>I started a new business making yachts in my attic this year...</strong></p>
+<p><em>» The sails are going through the roof.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -255,11 +254,11 @@ So I packed up my stuff and right.</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Each month, there is at least one report of UFOs from each province of Canada.</p>
+<p>💡 In medieval France, unfaithful wives were made to chase a chicken through town naked.</p>
 <hr>
-<p>💡 14% of all facts and statistics are made up and 27% of people know that fact.</p>
+<p>💡 The average human brain has about 100 billion nerve cells.</p>
 <hr>
-<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
+<p>💡 Coca-Cola was originally green.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -269,15 +268,15 @@ So I packed up my stuff and right.</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Thinking you’re no-good and worthless is the worst thing you can do"</em> - Nobito</p>
+  <p><em>"Everything has beauty, but not everyone can see."</em> - Confucius</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."</em> - Erma Bombeck</p>
+  <p><em>"We become what we think about."</em> - Earl Nightingale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you!"</em> - Son Goku</p>
+  <p><em>"Everything you’ve ever wanted is on the other side of fear."</em> - George Addair</p>
 </blockquote>
 </details>
 <p>
@@ -291,15 +290,15 @@ So I packed up my stuff and right.</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 06, 2025</td>
-<td>08:11:57 IST</td>
+<td>Tuesday</td>
+<td>October 07, 2025</td>
+<td>08:08:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 07, 2025</td>
-<td>08:10:55 IST</td>
+<td>Wednesday</td>
+<td>October 08, 2025</td>
+<td>08:05:10 IST</td>
 </tr>
 </tbody>
 </table>
