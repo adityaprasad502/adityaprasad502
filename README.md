@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,800+ Commits made on Github</p>
+<p>🏆 4,801+ Commits made on Github</p>
 <p>📦 85.6 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -56,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>10 hrs 53 mins</td>
+<td>10 hrs 35 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.24%</td>
+<td>40.13%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>4 hrs 44 mins</td>
+<td>4 hrs 38 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.54%</td>
+<td>17.59%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 13 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.62%</td>
+<td>3 hrs 57 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.03%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.9%</td>
+<td>13.23%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.97%</td>
+<td>6.12%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.92%</td>
+<td>1.97%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.88%</td>
+<td>1.93%</td>
 </tr>
 </tbody></table>
 </details>
@@ -109,21 +109,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 10 mins</td>
+<td>11 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.02%</td>
+<td>45.18%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>11 hrs 24 mins</td>
+<td>10 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.18%</td>
+<td>41.69%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 27 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.8%</td>
+<td>13.13%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,15 +138,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>22 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>83.73%</td>
+<td>21 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>83.31%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 24 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.27%</td>
+<td>16.69%</td>
 </tr>
 </tbody></table>
 </details>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>22 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>83.73%</td>
+<td>21 hrs 58 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>83.31%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 24 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.27%</td>
+<td>16.69%</td>
 </tr>
 </tbody></table>
 </details>
@@ -239,13 +239,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>My parents raised me as an only child, which really annoyed my younger brother.</p>
+<p><strong>Why did the web developer walk out of a resturant in disgust?</strong></p>
+<p><em>» The seating was laid out in tables.</em></p>
 <hr>
-<p><strong>What kind of shoes does a thief wear?</strong></p>
-<p><em>» Sneakers</em></p>
+<p><strong>Why did the house go to the doctor?</strong></p>
+<p><em>» It was having window panes.</em></p>
 <hr>
-<p><strong>I started a new business making yachts in my attic this year...</strong></p>
-<p><em>» The sails are going through the roof.</em></p>
+<p><strong>Why doesn't Sasuke play hide and seek?</strong></p>
+<p><em>» Because good luck hiding from the Sharingan!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -254,11 +255,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 In medieval France, unfaithful wives were made to chase a chicken through town naked.</p>
+<p>💡 Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.</p>
 <hr>
-<p>💡 The average human brain has about 100 billion nerve cells.</p>
+<p>💡 The average American looks at eight houses before buying one.</p>
 <hr>
-<p>💡 Coca-Cola was originally green.</p>
+<p>💡 Icelanders consume more Coca-Cola per Capita than any other nation.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -268,15 +269,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Everything has beauty, but not everyone can see."</em> - Confucius</p>
+  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We become what we think about."</em> - Earl Nightingale</p>
+  <p><em>"Life is like a tube of toothpaste. When you’ve used all the toothpaste down to the last squeeze, that’s when you’ve really lived. Live with all your might, and struggle as long as you have life."</em> - Mion Sonozaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Everything you’ve ever wanted is on the other side of fear."</em> - George Addair</p>
+  <p><em>"If you do what you’ve always done, you’ll get what you’ve always gotten."</em> - Tony Robbins</p>
 </blockquote>
 </details>
 <p>
@@ -290,15 +291,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>October 07, 2025</td>
-<td>08:08:10 IST</td>
+<td>Wednesday</td>
+<td>October 08, 2025</td>
+<td>08:08:28 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>October 08, 2025</td>
-<td>08:05:10 IST</td>
+<td>Thursday</td>
+<td>October 09, 2025</td>
+<td>08:05:25 IST</td>
 </tr>
 </tbody>
 </table>
