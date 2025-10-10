@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/253207d3211fae9f460d2b41456613d8cb56dfd860d423952d2bf44732a77e61/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C420%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,802+ Commits made on Github</p>
-<p>📦 85.6 MiB Used in GitHub's Storage</p>
+<p>🏆 4,803+ Commits made on Github</p>
+<p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -56,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>9 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.97%</td>
+<td>7 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.78%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>3 hrs 57 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.52%</td>
+<td>18.16%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 44 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.62%</td>
+<td>17.16%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.54%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.98%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.72%</td>
+<td>7.38%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.16%</td>
+<td>2.38%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>30 mins</td>
+<td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.12%</td>
+<td>2.19%</td>
 </tr>
 </tbody></table>
 </details>
@@ -109,21 +109,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 26 mins</td>
+<td>11 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.65%</td>
+<td>50.79%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>9 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.92%</td>
+<td>7 hrs 17 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.35%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 27 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.43%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.86%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,15 +138,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>19 hrs 35 mins</td>
+<td>17 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.66%</td>
+<td>79.84%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>4 hrs 24 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.34%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.16%</td>
 </tr>
 </tbody></table>
 </details>
@@ -161,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>19 hrs 35 mins</td>
+<td>17 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.66%</td>
+<td>79.84%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>4 hrs 24 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.34%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.16%</td>
 </tr>
 </tbody></table>
 </details>
@@ -239,14 +239,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call 4 Mexicans in quicksand?</strong></p>
-<p><em>» Quatro Sinko.</em></p>
+<p><strong>I got hit in the head by a soda can, but it didn't hurt that much...</strong></p>
+<p><em>» It was a soft drink.</em></p>
 <hr>
-<p><strong>Well...</strong></p>
-<p><em>» That’s a deep subject.</em></p>
+<p><strong>Why do fathers take an extra pair of socks when they go golfing?</strong></p>
+<p><em>» In case they get a hole in one!</em></p>
 <hr>
-<p><strong>What is the leading cause of dry skin?</strong></p>
-<p><em>» Towels</em></p>
+<p><strong>What musical instrument is found in the bathroom?</strong></p>
+<p><em>» A tuba toothpaste.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -255,11 +255,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Deborah Winger did the voice of E.T.</p>
+<p>💡 Elephants are the only animals that can`t jump.</p>
 <hr>
-<p>💡 Elephants only sleep for two hours each day.</p>
+<p>💡 Beethoven dipped his head in cold water before he composed.</p>
 <hr>
-<p>💡 The Great Wall of China is the only man-made structure visible from space.</p>
+<p>💡 A rat can last longer without water than a camel.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -269,15 +269,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Whether you think you can or you think you can’t, you’re right."</em> - Henry Ford</p>
+  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you!"</em> - Son Goku</p>
+  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at."</em> - Jesse Owens</p>
+  <p><em>"Teach thy tongue to say, “I do not know,” and thous shalt progress."</em> - Maimonides</p>
 </blockquote>
 </details>
 <p>
@@ -291,15 +291,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 09, 2025</td>
-<td>08:10:50 IST</td>
+<td>Friday</td>
+<td>October 10, 2025</td>
+<td>08:11:22 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>October 10, 2025</td>
-<td>08:10:50 IST</td>
+<td>Saturday</td>
+<td>October 11, 2025</td>
+<td>08:10:20 IST</td>
 </tr>
 </tbody>
 </table>
