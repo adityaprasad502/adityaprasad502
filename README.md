@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,810+ Commits made on Github</p>
+<p>🏆 4,811+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>6 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.18%</td>
+<td>6 hrs 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.81%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 44 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.13%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 37 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.54%</td>
+<td>3 hrs 46 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.54%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.81%</td>
+<td>18.96%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 27 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.39%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 36 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.23%</td>
+<td>8.76%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>31 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.65%</td>
+<td>2.82%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.69%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,20 +138,26 @@ fun main() {
  <tr>
 <td>VS Code</td>
 <td>9 hrs 31 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.61%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.74%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>6 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.71%</td>
+<td>5 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.24%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 27 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.68%</td>
+<td>18.82%</td>
+</tr> 
+ <tr>
+<td>Pycharm</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.19%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.53%</td>
+<td>15 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.75%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>4 hrs 24 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.47%</td>
+<td>2 hrs 48 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.25%</td>
 </tr>
 </tbody></table>
 </details>
@@ -189,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>15 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.53%</td>
+<td>15 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>84.75%</td>
 </tr> 
  <tr>
 <td>archpc</td>
-<td>4 hrs 24 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.47%</td>
+<td>2 hrs 48 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.25%</td>
 </tr>
 </tbody></table>
 </details>
@@ -267,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>"99.9% of the people are dumb!"</strong></p>
-<p><em>» "Fortunately I belong to the remaining 1%"</em></p>
+<p><strong>Why do bananas have to put on sunscreen before they go to the beach?</strong></p>
+<p><em>» Because they might peel!</em></p>
 <hr>
-<p><strong>What lies at the bottom of the ocean and twitches?</strong></p>
-<p><em>» A nervous wreck.</em></p>
+<p><strong>What do birds give out on Halloween?</strong></p>
+<p><em>» Tweets.</em></p>
 <hr>
-<p><strong>Why do birds fly south for the winter?</strong></p>
-<p><em>» Because it's too far to walk.</em></p>
+<p><strong>A DHCP packet walks into a bar and asks for a beer.</strong></p>
+<p><em>» Bartender says, "here, but I’ll need that back in an hour!"</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 A crocodiles tongue is attached to the roof of its mouth.</p>
+<p>💡 One quarter of the bones in your body, are in your feet!</p>
 <hr>
-<p>💡 A cat has 32 muscles in each ear.</p>
+<p>💡 In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</p>
 <hr>
-<p>💡 James Bond`s car had three different license plates in Goldfinger</p>
+<p>💡 Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -297,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Your time is limited, so don’t waste it living someone else’s life."</em> - Steve Jobs</p>
+  <p><em>"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you."</em> - Jesus</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
+  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward."</em> - Sebastian Michaelis</p>
+  <p><em>"When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey."</em> - Hinata Miyake</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 11, 2025</td>
-<td>08:04:42 IST</td>
+<td>Sunday</td>
+<td>October 12, 2025</td>
+<td>08:12:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 12, 2025</td>
-<td>08:00:40 IST</td>
+<td>Monday</td>
+<td>October 13, 2025</td>
+<td>08:10:50 IST</td>
 </tr>
 </tbody>
 </table>
