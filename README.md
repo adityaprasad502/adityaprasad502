@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,811+ Commits made on Github</p>
+<p>🏆 4,812+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -86,19 +86,19 @@ fun main() {
 <td>Kotlin</td>
 <td>6 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.81%</td>
+<td>32.83%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>3 hrs 46 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.54%</td>
+<td>20.51%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>3 hrs 29 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.96%</td>
+<td>18.97%</td>
 </tr> 
  <tr>
 <td>XML</td>
@@ -110,7 +110,7 @@ fun main() {
 <td>Text</td>
 <td>1 hr 36 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.76%</td>
+<td>8.77%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -139,19 +139,19 @@ fun main() {
 <td>VS Code</td>
 <td>9 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.74%</td>
+<td>51.77%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>5 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.24%</td>
+<td>29.26%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 27 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.82%</td>
+<td>18.79%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
@@ -273,14 +273,17 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do bananas have to put on sunscreen before they go to the beach?</strong></p>
-<p><em>» Because they might peel!</em></p>
+<p><strong>Knock knock. 
+ Who's there? 
+ Cows go. 
+ Cows go who?</strong></p>
+<p><em>» No, cows go moo.</em></p>
 <hr>
-<p><strong>What do birds give out on Halloween?</strong></p>
-<p><em>» Tweets.</em></p>
+<p><strong>Did you hear that the police have a warrant out on a midget psychic ripping people off?</strong></p>
+<p><em>» It reads "Small medium at large."</em></p>
 <hr>
-<p><strong>A DHCP packet walks into a bar and asks for a beer.</strong></p>
-<p><em>» Bartender says, "here, but I’ll need that back in an hour!"</em></p>
+<p><strong>What did the router say to the doctor?</strong></p>
+<p><em>» It hurts when IP.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +292,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 One quarter of the bones in your body, are in your feet!</p>
+<p>💡 Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.</p>
 <hr>
-<p>💡 In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</p>
+<p>💡 The longest recorded flight of a chicken is thirteen seconds.</p>
 <hr>
-<p>💡 Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.</p>
+<p>💡 The strongest muscle (Relative to size) in the body is the tongue.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +306,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you."</em> - Jesus</p>
+  <p><em>"If the wind will not serve, take to the oars."</em> - Latin Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
+  <p><em>"Hatred and Sorrow are power. They are yours to control. All you have to do is to turn them into strength and use that strength to move forward."</em> - Sebastian Michaelis</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey."</em> - Hinata Miyake</p>
+  <p><em>"Fools who don’t respect the past are likely to repeat it."</em> - Nico Robin</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +328,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 12, 2025</td>
-<td>08:12:51 IST</td>
+<td>Monday</td>
+<td>October 13, 2025</td>
+<td>08:19:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 13, 2025</td>
-<td>08:10:50 IST</td>
+<td>Tuesday</td>
+<td>October 14, 2025</td>
+<td>08:15:40 IST</td>
 </tr>
 </tbody>
 </table>
