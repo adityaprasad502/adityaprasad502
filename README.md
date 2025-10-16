@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,816+ Commits made on Github</p>
+<p>🏆 4,819+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -46,20 +46,20 @@ fun main() {
  <tr>
 <td>🌞 Morning</td>
 <td>5 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.5%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>1 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>3 commits</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>2 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.0%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
@@ -69,7 +69,7 @@ fun main() {
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>8 commits in October 2025</b></td>
+<td colspan="2"><b>10 commits in October 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.13%</td>
-</tr> 
- <tr>
-<td>Dart</td>
-<td>3 hrs 29 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.06%</td>
+<td>5 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.34%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>3 hrs 16 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.79%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.37%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 40 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.15%</td>
+<td>1 hr 39 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.86%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 36 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.73%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.48%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>31 mins</td>
+<td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.14%</td>
+<td>3.08%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.76%</td>
+<td>0.98%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>6 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.88%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.45%</td>
+<td>6 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.91%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 52 mins</td>
+<td>3 hrs 44 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.46%</td>
+<td>28.9%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 57 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.88%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.92%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.21%</td>
+<td>0.27%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>83.07%</td>
+<td>10 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>78.29%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>2 hrs 48 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.93%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.71%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>13 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>83.07%</td>
+<td>10 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>78.29%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>2 hrs 48 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.93%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.71%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's brown and sticky?</strong></p>
-<p><em>» A stick.</em></p>
+<p><strong>Where do rabbits go after they get married?</strong></p>
+<p><em>» On a bunny-moon.</em></p>
 <hr>
-<p><strong>What does a pirate pay for his corn?</strong></p>
-<p><em>» A buccaneer!</em></p>
+<p><strong>Why did the banana go see a doctor?</strong></p>
+<p><em>» Because it wasn't peeling well.</em></p>
 <hr>
-<p><strong>"99.9% of the people are dumb!"</strong></p>
-<p><em>» "Fortunately I belong to the remaining 1%"</em></p>
+<p><strong>What cheese can never be yours?</strong></p>
+<p><em>» Nacho cheese.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
+<p>💡 Hair is made from the same substance as fingernails.</p>
 <hr>
-<p>💡 Sweden has the least number of murders annually.</p>
+<p>💡 Honey is the only food which does not spoil.</p>
 <hr>
-<p>💡 The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.</p>
+<p>💡 Maine is the only state whose name is just one syllable.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"There are no regrets. If one can be proud of one’s life, one should not wish for another chance."</em> - Saber</p>
+  <p><em>"A dropout will beat a genius through hard work."</em> - Rock Lee</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
+  <p><em>"It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight"</em> - Eren</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin"</em> - Kenny Ackerman</p>
+  <p><em>"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."</em> - Erma Bombeck</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 15, 2025</td>
-<td>08:15:13 IST</td>
+<td>Thursday</td>
+<td>October 16, 2025</td>
+<td>08:13:39 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 16, 2025</td>
-<td>08:15:10 IST</td>
+<td>Friday</td>
+<td>October 17, 2025</td>
+<td>08:10:35 IST</td>
 </tr>
 </tbody>
 </table>
