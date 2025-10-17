@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,819+ Commits made on Github</p>
+<p>🏆 4,820+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -83,46 +83,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>5 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.34%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>3 hrs 16 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.37%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 39 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.86%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.33%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 36 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.35%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 hr 22 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.4%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 16 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.48%</td>
+<td>15.2%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>23 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.08%</td>
+<td>22 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.42%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.98%</td>
+<td>1.52%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.88%</td>
+<td>1.37%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,28 +136,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
+<td>PyCharm</td>
+<td>2 hrs 57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.53%</td>
+</tr> 
+ <tr>
 <td>VS Code</td>
-<td>6 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.91%</td>
+<td>2 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.2%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.9%</td>
-</tr> 
- <tr>
-<td>PyCharm</td>
-<td>2 hrs 57 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.92%</td>
+<td>2 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.84%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.27%</td>
+<td>0.42%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>10 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.29%</td>
+<td>5 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.34%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>2 hrs 48 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.71%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.66%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>10 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.29%</td>
+<td>5 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.34%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>2 hrs 48 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.71%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.66%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,17 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Where do rabbits go after they get married?</strong></p>
-<p><em>» On a bunny-moon.</em></p>
+<p><strong>Can February march?</strong></p>
+<p><em>» No, but April may.</em></p>
 <hr>
-<p><strong>Why did the banana go see a doctor?</strong></p>
-<p><em>» Because it wasn't peeling well.</em></p>
+<p><strong>How do you catch a squirrel?</strong></p>
+<p><em>» Climb a tree and act like a nut!</em></p>
 <hr>
-<p><strong>What cheese can never be yours?</strong></p>
-<p><em>» Nacho cheese.</em></p>
+<p><strong>Knock knock. 
+ Who's there? 
+ Hatch. 
+ Hatch who?</strong></p>
+<p><em>» Bless you!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +292,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Hair is made from the same substance as fingernails.</p>
+<p>💡 The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.</p>
 <hr>
-<p>💡 Honey is the only food which does not spoil.</p>
+<p>💡 400-quarter pounders can be made from 1 cow.</p>
 <hr>
-<p>💡 Maine is the only state whose name is just one syllable.</p>
+<p>💡 In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +306,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"A dropout will beat a genius through hard work."</em> - Rock Lee</p>
+  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It Doesn t Matter How Strong The Opposition Is It Doesn t Matter How Fearsome The World Is It Doesn t Matter How Cruel The World Is Fight"</em> - Eren</p>
+  <p><em>"There are some flowers you only see when you take detours"</em> - Tanaka Saeko</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me."</em> - Erma Bombeck</p>
+  <p><em>"Every child is an artist.  The problem is how to remain an artist once he grows up."</em> - Pablo Picasso</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +328,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 16, 2025</td>
-<td>08:13:39 IST</td>
+<td>Friday</td>
+<td>October 17, 2025</td>
+<td>08:12:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>October 17, 2025</td>
-<td>08:10:35 IST</td>
+<td>Saturday</td>
+<td>October 18, 2025</td>
+<td>08:10:00 IST</td>
 </tr>
 </tbody>
 </table>
