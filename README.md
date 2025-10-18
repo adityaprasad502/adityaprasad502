@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,820+ Commits made on Github</p>
+<p>🏆 4,821+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.33%</td>
+<td>2 hrs 36 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.93%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 36 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.35%</td>
+<td>1 hr 34 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.59%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 22 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.4%</td>
+<td>48 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.62%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 16 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.2%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>22 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.42%</td>
+<td>36 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.23%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.52%</td>
+<td>2.13%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.37%</td>
+<td>1.92%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.79%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,28 +136,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
-<td>PyCharm</td>
-<td>2 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.53%</td>
+<td>VS Code</td>
+<td>2 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.42%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>2 hrs 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.2%</td>
+<td>PyCharm</td>
+<td>1 hr 49 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.8%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.84%</td>
+<td>1 hr 26 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.18%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.42%</td>
+<td>0.59%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>5 hrs 31 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.34%</td>
+<td>4 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.26%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>2 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.66%</td>
+<td>1 hr 35 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.74%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>5 hrs 31 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.34%</td>
+<td>4 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>73.26%</td>
 </tr> 
  <tr>
 <td>archpc</td>
-<td>2 hrs 48 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.66%</td>
+<td>1 hr 35 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.74%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,17 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Can February march?</strong></p>
-<p><em>» No, but April may.</em></p>
+<p><strong>What does a perverted frog say?</strong></p>
+<p><em>» Rubbit.</em></p>
 <hr>
-<p><strong>How do you catch a squirrel?</strong></p>
-<p><em>» Climb a tree and act like a nut!</em></p>
+<p><strong>What do you call corn that joins the army?</strong></p>
+<p><em>» Kernel.</em></p>
 <hr>
-<p><strong>Knock knock. 
- Who's there? 
- Hatch. 
- Hatch who?</strong></p>
-<p><em>» Bless you!</em></p>
+<p><strong>Ever wondered why bees hum?</strong></p>
+<p><em>» It's because they don't know the words.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -292,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.</p>
+<p>💡 The human heart creates enough pressure to squirt blood 30ft.</p>
 <hr>
-<p>💡 400-quarter pounders can be made from 1 cow.</p>
+<p>💡 Butterflies taste with their feet.</p>
 <hr>
-<p>💡 In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</p>
+<p>💡 The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -306,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
+  <p><em>"Definiteness of purpose is the starting point of all achievement."</em> - W. Clement Stone</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are some flowers you only see when you take detours"</em> - Tanaka Saeko</p>
+  <p><em>"If you don’t share someone’s pain, you can never understand them."</em> - Nagato</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every child is an artist.  The problem is how to remain an artist once he grows up."</em> - Pablo Picasso</p>
+  <p><em>"You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way."</em> - Junichirou Kagami</p>
 </blockquote>
 </details>
 <p>
@@ -328,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 17, 2025</td>
-<td>08:12:03 IST</td>
+<td>Saturday</td>
+<td>October 18, 2025</td>
+<td>08:05:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 18, 2025</td>
-<td>08:10:00 IST</td>
+<td>Sunday</td>
+<td>October 19, 2025</td>
+<td>08:05:05 IST</td>
 </tr>
 </tbody>
 </table>
