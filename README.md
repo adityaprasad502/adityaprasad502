@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,821+ Commits made on Github</p>
+<p>🏆 4,822+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.93%</td>
+<td>2 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.76%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 34 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.59%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.18%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>48 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.62%</td>
+<td>15.47%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>36 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.23%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>7 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.13%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.61%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.92%</td>
+<td>1.93%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>2 mins</td>
+<td>Other</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.79%</td>
+<td>1.51%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.28%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.42%</td>
-</tr> 
- <tr>
-<td>PyCharm</td>
-<td>1 hr 49 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.8%</td>
+<td>2 hrs 33 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.94%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 26 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.18%</td>
+<td>27.45%</td>
+</tr> 
+ <tr>
+<td>PyCharm</td>
+<td>1 hr 11 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.94%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.59%</td>
+<td>0.67%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.26%</td>
+<td>3 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.65%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr 35 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.74%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.35%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>4 hrs 20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.26%</td>
+<td>3 hrs 38 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.65%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>1 hr 35 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.74%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.35%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,14 +273,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What does a perverted frog say?</strong></p>
-<p><em>» Rubbit.</em></p>
+<p><strong>Did you watch the new comic book movie?</strong></p>
+<p><em>» It was very graphic!</em></p>
 <hr>
-<p><strong>What do you call corn that joins the army?</strong></p>
-<p><em>» Kernel.</em></p>
+<p><strong>What's the object-oriented way to become wealthy?</strong></p>
+<p><em>» Inheritance.</em></p>
 <hr>
-<p><strong>Ever wondered why bees hum?</strong></p>
-<p><em>» It's because they don't know the words.</em></p>
+<p>I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The human heart creates enough pressure to squirt blood 30ft.</p>
+<p>💡 Hong Kong holds the most Rolls Royce’s per capita.</p>
 <hr>
-<p>💡 Butterflies taste with their feet.</p>
+<p>💡 The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</p>
 <hr>
-<p>💡 The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.</p>
+<p>💡 Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +302,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Definiteness of purpose is the starting point of all achievement."</em> - W. Clement Stone</p>
+  <p><em>"Your time is limited, so don’t waste it living someone else’s life."</em> - Steve Jobs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you don’t share someone’s pain, you can never understand them."</em> - Nagato</p>
+  <p><em>"If the wind will not serve, take to the oars."</em> - Latin Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way."</em> - Junichirou Kagami</p>
+  <p><em>"Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife."</em> - Paine</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 18, 2025</td>
-<td>08:05:09 IST</td>
+<td>Sunday</td>
+<td>October 19, 2025</td>
+<td>08:24:56 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 19, 2025</td>
-<td>08:05:05 IST</td>
+<td>Monday</td>
+<td>October 20, 2025</td>
+<td>08:20:55 IST</td>
 </tr>
 </tbody>
 </table>
