@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,823+ Commits made on Github</p>
+<p>🏆 4,824+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.05%</td>
+<td>1 hr 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.6%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>25 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.02%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>24 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.24%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.95%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.03%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.65%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.44%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.45%</td>
+<td>0.65%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
+<td>0.19%</td>
+</tr> 
+ <tr>
+<td>GitIgnore file</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.12%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,28 +136,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
-<td>VS Code</td>
-<td>1 hr 40 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.28%</td>
-</tr> 
- <tr>
 <td>PyCharm</td>
 <td>1 hr 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.95%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.72%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>36 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.09%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>25 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.71%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.63%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.06%</td>
+<td>1.55%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 10 mins</td>
+<td>2 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>95.06%</td>
+<td>92.75%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.94%</td>
+<td>7.25%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>3 hrs 10 mins</td>
+<td>2 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>95.06%</td>
+<td>92.75%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.94%</td>
+<td>7.25%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,13 +273,16 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Did you hear about the crime in the parking garage?</strong></p>
-<p><em>» It was wrong on so many levels.</em></p>
+<p>How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.</p>
 <hr>
-<p>I'd tell you a joke about NAT but I would have to translate.</p>
+<p>I was going to tell a dead baby joke. But I decided to abort.</p>
 <hr>
-<p><strong>So I made a graph of all my past relationships.</strong></p>
-<p><em>» It has an ex axis and a why axis.</em></p>
+<p><strong>Why does a chicken coop only have two doors?</strong></p>
+<p><em>» Because if it had four doors it would be a chicken sedan.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -288,11 +291,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.</p>
+<p>💡 On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.</p>
 <hr>
-<p>💡 The longest recorded flight  of a chicken is 13 seconds</p>
+<p>💡 No piece of square dry paper can be folded in half more than 7 times</p>
 <hr>
-<p>💡 A “2 by 4" is really 1 1/2 by 3 1/2.</p>
+<p>💡 US Dollar bills are made out of cotton and linen.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -302,15 +305,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
+  <p><em>"It doesn’t do any good to pretend you can’t see what’s going on."</em> - Yuuya Mochizuki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
+  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The greatest glory in living lies not in never falling, but in rising every time we fall."</em> - Nelson Mandela</p>
+  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
 </blockquote>
 </details>
 <p>
@@ -324,15 +327,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 20, 2025</td>
-<td>08:24:09 IST</td>
+<td>Tuesday</td>
+<td>October 21, 2025</td>
+<td>08:15:54 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 21, 2025</td>
-<td>08:20:05 IST</td>
+<td>Wednesday</td>
+<td>October 22, 2025</td>
+<td>08:15:50 IST</td>
 </tr>
 </tbody>
 </table>
