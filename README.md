@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,824+ Commits made on Github</p>
+<p>🏆 4,825+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 18 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.6%</td>
+<td>1 hr 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.35%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>25 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.02%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.82%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>24 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.95%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.59%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.44%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.75%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.19%</td>
+<td>0.22%</td>
 </tr> 
  <tr>
 <td>GitIgnore file</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.12%</td>
+<td>0.13%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>PyCharm</td>
-<td>1 hr 11 mins</td>
+<td>1 hr 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.72%</td>
+<td>52.84%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>36 mins</td>
+<td>28 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.09%</td>
+<td>24.01%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>25 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.63%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.38%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.55%</td>
+<td>1.78%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,15 +172,15 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>2 hrs 6 mins</td>
+<td>1 hr 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.75%</td>
+<td>91.69%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.25%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.31%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,15 +195,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>2 hrs 6 mins</td>
+<td>1 hr 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.75%</td>
+<td>91.69%</td>
 </tr> 
  <tr>
 <td>archpc</td>
 <td>9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.25%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.31%</td>
 </tr>
 </tbody></table>
 </details>
@@ -273,16 +273,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.</p>
+<p><strong>Why did the man run around his bed?</strong></p>
+<p><em>» Because he was trying to catch up on his sleep!</em></p>
 <hr>
-<p>I was going to tell a dead baby joke. But I decided to abort.</p>
+<p><strong>What do you call a cheap circumcision?</strong></p>
+<p><em>» A rip off.</em></p>
 <hr>
-<p><strong>Why does a chicken coop only have two doors?</strong></p>
-<p><em>» Because if it had four doors it would be a chicken sedan.</em></p>
+<p><strong>Why do Java programmers wear glasses?</strong></p>
+<p><em>» Because they don't C#.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,11 +289,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.</p>
+<p>💡 Giraffes have no vocal cords.</p>
 <hr>
-<p>💡 No piece of square dry paper can be folded in half more than 7 times</p>
+<p>💡 Owls are one of the only birds who can see the color blue!</p>
 <hr>
-<p>💡 US Dollar bills are made out of cotton and linen.</p>
+<p>💡 Almonds are members of the peach family.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -305,15 +303,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"It doesn’t do any good to pretend you can’t see what’s going on."</em> - Yuuya Mochizuki</p>
+  <p><em>"You can die anytime, but living takes true courage."</em> - Kenshin Himura</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
+  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
+  <p><em>"Simplicity is the easiest path to true beauty."</em> - Seishuu Handa</p>
 </blockquote>
 </details>
 <p>
@@ -327,15 +325,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>October 21, 2025</td>
-<td>08:15:54 IST</td>
+<td>Wednesday</td>
+<td>October 22, 2025</td>
+<td>08:20:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>October 22, 2025</td>
-<td>08:15:50 IST</td>
+<td>Thursday</td>
+<td>October 23, 2025</td>
+<td>08:20:00 IST</td>
 </tr>
 </tbody>
 </table>
