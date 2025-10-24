@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7e19dd804afaab061bd91dc4cf28c141add6d18e275aa28d8c92bfccef75945e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,826+ Commits made on Github</p>
+<p>🏆 4,827+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -85,44 +85,38 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.99%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>9 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.8%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.04%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>6 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.37%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.09%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>3 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.42%</td>
+<td>10.77%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.97%</td>
+<td>2.51%</td>
 </tr> 
  <tr>
 <td>GitIgnore file</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.35%</td>
+<td>0.45%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.11%</td>
+<td>0.14%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,20 +132,20 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.06%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>71.69%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>17 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.27%</td>
+<td>7 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.34%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>2 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.67%</td>
+<td>5.97%</td>
 </tr>
 </tbody></table>
 </details>
@@ -167,14 +161,8 @@ fun main() {
  <tr>
 <td>Windows</td>
 <td>35 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.2%</td>
-</tr> 
- <tr>
-<td>Linux</td>
-<td>9 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.8%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -190,14 +178,8 @@ fun main() {
  <tr>
 <td>Pu94X</td>
 <td>35 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.2%</td>
-</tr> 
- <tr>
-<td>archpc</td>
-<td>9 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.8%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -267,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do scuba divers fall backwards into the water?</strong></p>
-<p><em>» Because if they fell forwards they’d still be in the boat.</em></p>
+<p><strong>Why are pirates called pirates?</strong></p>
+<p><em>» Because they arrr!</em></p>
 <hr>
-<p><strong>What do you get hanging from Apple trees?</strong></p>
-<p><em>» Sore arms.</em></p>
+<p><strong>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</strong></p>
+<p><em>» She still isn't talking to me.</em></p>
 <hr>
-<p><strong>While I was sleeping my friends decided to write math equations on me.</strong></p>
-<p><em>» You should have seen the expression on my face when I woke up.</em></p>
+<p><strong>What time is it?</strong></p>
+<p><em>» I don't know... it keeps changing.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.</p>
+<p>💡 All polar bears are left-handed.</p>
 <hr>
-<p>💡 Fish that live more than 800 meters below the ocean surface don't have eyes.</p>
+<p>💡 In New York State, it is illegal to but any alcohol on Sundays before noon.</p>
 <hr>
-<p>💡 The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.</p>
+<p>💡 There are about 450 types of cheese in the world. 240 come from France.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -297,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Life is not measured by the number of breaths we take, but by the moments that take our breath away."</em> - Maya Angelou</p>
+  <p><em>"You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground."</em> - Unknown</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is what we make it, always has been, always will be."</em> - Grandma Moses</p>
+  <p><em>"It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings."</em> - Ann Landers</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You should never give up on life, no matter how you feel. No matter how badly you want to give up."</em> - Canaan</p>
+  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>October 23, 2025</td>
-<td>08:14:17 IST</td>
+<td>Friday</td>
+<td>October 24, 2025</td>
+<td>08:10:31 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>October 24, 2025</td>
-<td>08:10:15 IST</td>
+<td>Saturday</td>
+<td>October 25, 2025</td>
+<td>08:10:30 IST</td>
 </tr>
 </tbody>
 </table>
