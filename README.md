@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d06916c84c0f99613abd5eca9ad3fa79f2321ff403a1a4f422a0528006c9c710/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,828+ Commits made on Github</p>
+<p>🏆 4,829+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -86,25 +86,25 @@ fun main() {
 <td>Kotlin</td>
 <td>24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.04%</td>
+<td>69.11%</td>
 </tr> 
  <tr>
-<td>HTML</td>
+<td>Text</td>
 <td>6 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.09%</td>
+<td>17.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>3 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.77%</td>
+<td>10.78%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.51%</td>
+<td>2.52%</td>
 </tr> 
  <tr>
 <td>GitIgnore file</td>
@@ -133,19 +133,19 @@ fun main() {
 <td>Android Studio</td>
 <td>25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.69%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>7 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.34%</td>
+<td>71.77%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
-<td>2 mins</td>
+<td>8 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.98%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>1 min</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.97%</td>
+<td>5.26%</td>
 </tr>
 </tbody></table>
 </details>
@@ -249,14 +249,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did the left eye say to the right eye?</strong></p>
-<p><em>» Between us, something smells!</em></p>
+<p><strong>Why don't scientists trust atoms?</strong></p>
+<p><em>» Because they make up everything.</em></p>
 <hr>
-<p><strong>Why do bees have sticky hair?</strong></p>
-<p><em>» Because they use honey combs!</em></p>
+<p><strong>What did the judge say to the dentist?</strong></p>
+<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
 <hr>
-<p><strong>How good are you at Power Point?</strong></p>
-<p><em>» I Excel at it.</em></p>
+<p>Your momma is so fat, you need to switch to NTFS to store a picture of her.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +264,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The volume of the earth's moon is the same as the volume of the Pacific Ocean. </p>
+<p>💡 Prince Charles is an avid collecter of toilet seats.</p>
 <hr>
-<p>💡 80% of burglaries are committed by people aged 13-21.</p>
+<p>💡 If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
 <hr>
-<p>💡 70% of all boats sold are used for fishing.</p>
+<p>💡 It takes more calories to eat a piece of celery than the celery has in it to begin with.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +278,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"An excellent leader must be passionate because it’s their duty to keep everyone moving forward."</em> - Nico Yazawa</p>
+  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"All we can do is live until the day we die. Control what we can…and fly free."</em> - Deneil Young</p>
+  <p><em>"It’s just pathetic to give up on something before you even give it a shot."</em> - Reiko Mikami</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."</em> - Booker T. Washington</p>
+  <p><em>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."</em> - Leonardo da Vinci</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +300,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 25, 2025</td>
-<td>08:12:01 IST</td>
+<td>Sunday</td>
+<td>October 26, 2025</td>
+<td>08:20:00 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 26, 2025</td>
-<td>08:10:00 IST</td>
+<td>Monday</td>
+<td>October 27, 2025</td>
+<td>08:20:00 IST</td>
 </tr>
 </tbody>
 </table>
