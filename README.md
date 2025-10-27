@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d06916c84c0f99613abd5eca9ad3fa79f2321ff403a1a4f422a0528006c9c710/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,829+ Commits made on Github</p>
+<p>🏆 4,830+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -85,32 +85,32 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.11%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>72.95%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.0%</td>
+<td>17.95%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>3 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.78%</td>
+<td>1 min</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.83%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.52%</td>
+<td>2.66%</td>
 </tr> 
  <tr>
 <td>GitIgnore file</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.45%</td>
+<td>0.48%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
@@ -132,20 +132,14 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.77%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>75.75%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>8 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.98%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.26%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.25%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +154,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>35 mins</td>
+<td>33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +171,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>35 mins</td>
+<td>33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,13 +243,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why don't scientists trust atoms?</strong></p>
-<p><em>» Because they make up everything.</em></p>
+<p><strong>What's the difference between a guitar and a fish?</strong></p>
+<p><em>» You can tune a guitar but you can't "tuna"fish!</em></p>
 <hr>
-<p><strong>What did the judge say to the dentist?</strong></p>
-<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
+<p><strong>If you see a robbery at an Apple Store...</strong></p>
+<p><em>» Does that make you an iWitness?</em></p>
 <hr>
-<p>Your momma is so fat, you need to switch to NTFS to store a picture of her.</p>
+<p><strong>What do you do when you see a space man?</strong></p>
+<p><em>» Park your car, man.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -264,11 +259,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Prince Charles is an avid collecter of toilet seats.</p>
+<p>💡 Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</p>
 <hr>
-<p>💡 If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
+<p>💡 Canada is the only country not to win a gold medal in the summer Olympic games while hosting.</p>
 <hr>
-<p>💡 It takes more calories to eat a piece of celery than the celery has in it to begin with.</p>
+<p>💡 The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -278,15 +273,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
+  <p><em>"Do you need a reason to not want to lose"</em> - Shoyo Hinata</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It’s just pathetic to give up on something before you even give it a shot."</em> - Reiko Mikami</p>
+  <p><em>"Definiteness of purpose is the starting point of all achievement."</em> - W. Clement Stone</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."</em> - Leonardo da Vinci</p>
+  <p><em>"To act is not necessarily compassion. True compassion sometimes comes from inaction."</em> - Hinata Miyake</p>
 </blockquote>
 </details>
 <p>
@@ -300,15 +295,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 26, 2025</td>
-<td>08:20:00 IST</td>
+<td>Monday</td>
+<td>October 27, 2025</td>
+<td>08:28:22 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 27, 2025</td>
-<td>08:20:00 IST</td>
+<td>Tuesday</td>
+<td>October 28, 2025</td>
+<td>08:25:20 IST</td>
 </tr>
 </tbody>
 </table>
