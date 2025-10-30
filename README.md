@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d06916c84c0f99613abd5eca9ad3fa79f2321ff403a1a4f422a0528006c9c710/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,832+ Commits made on Github</p>
+<p>🏆 4,833+ Commits made on Github</p>
 <p>📦 85.7 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -243,14 +243,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Hey, wanna hear a joke?</strong></p>
-<p><em>» Parsing HTML with regex.</em></p>
+<p><strong>What did the fish say when it swam into a wall?</strong></p>
+<p><em>» Damn!</em></p>
 <hr>
-<p><strong>What's SAITAMA favorite nose?</strong></p>
-<p><em>» GENOS</em></p>
+<p><strong>Why don't programmers like nature?</strong></p>
+<p><em>» It has too many bugs.</em></p>
 <hr>
-<p><strong>Why did the cookie cry?</strong></p>
-<p><em>» Because his mother was a wafer so long</em></p>
+<p><strong>How do hens stay fit?</strong></p>
+<p><em>» They always egg-cercise!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -259,11 +259,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</p>
+<p>💡 In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</p>
 <hr>
-<p>💡 Proportional to their size, cats have the largest eyes of all mammals.</p>
+<p>💡 Honeybees have a type of hair on their eyes!</p>
 <hr>
-<p>💡 On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.</p>
+<p>💡 Lithuania has the highest suicide rate in the world.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -273,15 +273,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about."</em> - Jet Black</p>
+  <p><em>"If you can’t do something, then don’t. Focus on what you can do."</em> - Shiroe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end."</em> - Aristotle</p>
+  <p><em>"Hard work is worthless for those that don’t believe in themselves."</em> - Naruto Uzumaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end."</em> - Clare</p>
+  <p><em>"The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful."</em> - Roy Mustang</p>
 </blockquote>
 </details>
 <p>
@@ -295,15 +295,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 29, 2025</td>
-<td>08:24:37 IST</td>
+<td>Thursday</td>
+<td>October 30, 2025</td>
+<td>08:21:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 30, 2025</td>
-<td>08:20:35 IST</td>
+<td>Friday</td>
+<td>October 31, 2025</td>
+<td>08:20:10 IST</td>
 </tr>
 </tbody>
 </table>
