@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d06916c84c0f99613abd5eca9ad3fa79f2321ff403a1a4f422a0528006c9c710/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323125323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C421%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/902b3ba1baf91b76bbf6b163950213f85182455e35440550063ff9183302e60b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343232253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C422%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,844+ Commits made on Github</p>
+<p>🏆 4,845+ Commits made on Github</p>
 <p>📦 85.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -55,40 +55,10 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>72.95%</td>
-</tr> 
- <tr>
 <td>Text</td>
 <td>6 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.95%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>1 min</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.83%</td>
-</tr> 
- <tr>
-<td>Properties</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.66%</td>
-</tr> 
- <tr>
-<td>GitIgnore file</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.48%</td>
-</tr> 
- <tr>
-<td>Batchfile</td>
-<td>0 secs</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.14%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -102,16 +72,10 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>75.75%</td>
-</tr> 
- <tr>
 <td>Pycharm</td>
-<td>8 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.25%</td>
+<td>6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -126,7 +90,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>33 mins</td>
+<td>6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -143,7 +107,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>33 mins</td>
+<td>6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -215,14 +179,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How come a man driving a train got struck by lightning?</strong></p>
-<p><em>» He was a good conductor.</em></p>
+<p><strong>What do you get when you cross a snowman with a vampire?</strong></p>
+<p><em>» Frostbite.</em></p>
 <hr>
-<p><strong>Did you hear about the chameleon who couldn't change color?</strong></p>
-<p><em>» They had a reptile dysfunction.</em></p>
+<p><strong>What’s the advantage of living in Switzerland?</strong></p>
+<p><em>» Well, the flag is a big plus.</em></p>
 <hr>
-<p><strong>I told my psychiatrist I got suicidal tendencies.</strong></p>
-<p><em>» He said from now on I have to pay in advance.</em></p>
+<p><strong>['hip', 'hip']</strong></p>
+<p><em>» (hip hip array)</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -231,11 +195,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 A crocodile cannot stick its tongue out.</p>
+<p>💡 The ZIP in “ZIP code” means Zoning Improvement Plan.</p>
 <hr>
-<p>💡 There are 293 ways to make change for a dollar.</p>
+<p>💡 Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
 <hr>
-<p>💡 In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</p>
+<p>💡 400-quarter pounders can be made from 1 cow.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -245,15 +209,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Life comes at a cost. Wouldn’t it be arrogant to die before you’ve repaid that debt?"</em> - Yuuji Kazami</p>
+  <p><em>"You can’t use up creativity.  The more you use, the more you have."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whatever you do, enjoy it to the fullest. That is the secret of life."</em> - Rider</p>
+  <p><em>"When I let go of what I am, I become what I might be."</em> - Lao Tzu</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Too many of us are not living our dreams because we are living our fears."</em> - Les Brown</p>
+  <p><em>"You can die anytime, but living takes true courage."</em> - Kenshin Himura</p>
 </blockquote>
 </details>
 <p>
@@ -267,15 +231,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 10, 2025</td>
-<td>08:27:35 IST</td>
+<td>Tuesday</td>
+<td>November 11, 2025</td>
+<td>08:22:32 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 11, 2025</td>
-<td>08:25:35 IST</td>
+<td>Wednesday</td>
+<td>November 12, 2025</td>
+<td>08:20:30 IST</td>
 </tr>
 </tbody>
 </table>
