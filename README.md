@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/902b3ba1baf91b76bbf6b163950213f85182455e35440550063ff9183302e60b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343232253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C422%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,845+ Commits made on Github</p>
+<p>🏆 4,846+ Commits made on Github</p>
 <p>📦 85.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -55,10 +55,28 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
+<td>Kotlin</td>
+<td>50 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>89.04%</td>
+</tr> 
+ <tr>
 <td>Text</td>
 <td>6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.65%</td>
+</tr> 
+ <tr>
+<td>Java Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.29%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -72,10 +90,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
+<td>Android Studio</td>
+<td>50 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>89.35%</td>
+</tr> 
+ <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.65%</td>
 </tr>
 </tbody></table>
 </details>
@@ -90,7 +114,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 mins</td>
+<td>56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -107,7 +131,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>6 mins</td>
+<td>56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -179,14 +203,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you get when you cross a snowman with a vampire?</strong></p>
-<p><em>» Frostbite.</em></p>
+<p><strong>How do the trees get on the internet?</strong></p>
+<p><em>» They log on.</em></p>
 <hr>
-<p><strong>What’s the advantage of living in Switzerland?</strong></p>
-<p><em>» Well, the flag is a big plus.</em></p>
+<p><strong>What did the duck say when he bought lipstick?</strong></p>
+<p><em>» Put it on my bill</em></p>
 <hr>
-<p><strong>['hip', 'hip']</strong></p>
-<p><em>» (hip hip array)</em></p>
+<p><strong>What musical instrument is found in the bathroom?</strong></p>
+<p><em>» A tuba toothpaste.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -195,11 +219,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The ZIP in “ZIP code” means Zoning Improvement Plan.</p>
+<p>💡 Starfish have no brains.</p>
 <hr>
-<p>💡 Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
+<p>💡 `Obsession` is the most popular boat name.</p>
 <hr>
-<p>💡 400-quarter pounders can be made from 1 cow.</p>
+<p>💡 "Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -209,15 +233,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can’t use up creativity.  The more you use, the more you have."</em> - Maya Angelou</p>
+  <p><em>"Success is not final, failure is not fatal: It is the courage to continue that counts."</em> - Winston Churchill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I let go of what I am, I become what I might be."</em> - Lao Tzu</p>
+  <p><em>"A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."</em> - Jiraiya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can die anytime, but living takes true courage."</em> - Kenshin Himura</p>
+  <p><em>"Everything you’ve ever wanted is on the other side of fear."</em> - George Addair</p>
 </blockquote>
 </details>
 <p>
@@ -231,14 +255,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>November 11, 2025</td>
-<td>08:22:32 IST</td>
+<td>Wednesday</td>
+<td>November 12, 2025</td>
+<td>08:21:31 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>November 12, 2025</td>
+<td>Thursday</td>
+<td>November 13, 2025</td>
 <td>08:20:30 IST</td>
 </tr>
 </tbody>
