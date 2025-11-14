@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/902b3ba1baf91b76bbf6b163950213f85182455e35440550063ff9183302e60b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343232253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C422%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8dc380b80f7e58fdface6bc3e28a3d2bfa04db3661f8fa599d2ac04ac4229033/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343232253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C422%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,847+ Commits made on Github</p>
+<p>🏆 4,848+ Commits made on Github</p>
 <p>📦 85.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -203,14 +203,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why do ducks make great detectives?</strong></p>
-<p><em>» They always quack the case.</em></p>
+<p><strong>What kind of dinosaur loves to sleep?</strong></p>
+<p><em>» A stega-snore-us.</em></p>
 <hr>
-<p><strong>What does tofu and a dildo have in common?</strong></p>
-<p><em>» They're both meat substitutes.</em></p>
+<p><strong>What did the ocean say to the shore?</strong></p>
+<p><em>» Nothing, it just waved.</em></p>
 <hr>
-<p><strong>What is the hardest part about sky diving?</strong></p>
-<p><em>» The ground.</em></p>
+<p><strong>Why can't you use "Beef stew"as a password?</strong></p>
+<p><em>» Because it's not stroganoff.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -219,11 +219,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Lightning strikes the earth about 8 million times a day.</p>
+<p>💡 The name Jeep comes from “GP”, the army abbreviation for General Purpose.</p>
 <hr>
-<p>💡 There are 1,575 steps from the ground floor to the top of the Empire State building.</p>
+<p>💡 Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</p>
 <hr>
-<p>💡 On average, people fear spiders more than they do death.</p>
+<p>💡 Ketchup was sold in the 1830s as medicine.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -233,15 +233,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The ticket to the future is always open."</em> - Vash The Stampede</p>
+  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you really want to be strong… Stop caring about what your surrounding thinks of you!"</em> - Saitama</p>
+  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Build your own dreams, or someone else will hire you to build theirs."</em> - Farrah Gray</p>
+  <p><em>"As Long As We Continue To Fight We Are Not Defeated"</em> - Miche Zacharius</p>
 </blockquote>
 </details>
 <p>
@@ -255,15 +255,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>November 13, 2025</td>
-<td>08:24:02 IST</td>
+<td>Friday</td>
+<td>November 14, 2025</td>
+<td>08:22:17 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>November 14, 2025</td>
-<td>08:20:00 IST</td>
+<td>Saturday</td>
+<td>November 15, 2025</td>
+<td>08:20:15 IST</td>
 </tr>
 </tbody>
 </table>
