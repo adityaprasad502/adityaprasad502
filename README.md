@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8dc380b80f7e58fdface6bc3e28a3d2bfa04db3661f8fa599d2ac04ac4229033/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343232253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C422%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8f59b6a13ee10e217eff5aecf1ce5bab346d5e546dba9c77714185ed2b8500d3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323425323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C424%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,848+ Commits made on Github</p>
+<p>🏆 4,856+ Commits made on Github</p>
 <p>📦 85.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -42,7 +42,35 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in November 2025</th></tr>
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - November 2025</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>7 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>7 commits in November 2025</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -203,14 +231,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What kind of dinosaur loves to sleep?</strong></p>
-<p><em>» A stega-snore-us.</em></p>
+<p><strong>I'm reading a book about anti-gravity...</strong></p>
+<p><em>» It's impossible to put down</em></p>
 <hr>
-<p><strong>What did the ocean say to the shore?</strong></p>
-<p><em>» Nothing, it just waved.</em></p>
+<p><strong>What do you call a group of killer whales playing instruments?</strong></p>
+<p><em>» An Orca-stra.</em></p>
 <hr>
-<p><strong>Why can't you use "Beef stew"as a password?</strong></p>
-<p><em>» Because it's not stroganoff.</em></p>
+<p><strong>To understand what recursion is...</strong></p>
+<p><em>» You must first understand what recursion is</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -221,9 +249,9 @@ fun main() {
 <summary><b>Random Facts for Today</b></summary><br>
 <p>💡 The name Jeep comes from “GP”, the army abbreviation for General Purpose.</p>
 <hr>
-<p>💡 Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</p>
+<p>💡 Some lions mate over 50 times a day.</p>
 <hr>
-<p>💡 Ketchup was sold in the 1830s as medicine.</p>
+<p>💡 A dime has 118 ridges around the edge.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -233,15 +261,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
+  <p><em>"The last ones standing are the victors Only the strongest If you want to be the last one standing become strong"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
+  <p><em>"Go confidently in the direction of your dreams.  Live the life you have imagined."</em> - Henry David Thoreau</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"As Long As We Continue To Fight We Are Not Defeated"</em> - Miche Zacharius</p>
+  <p><em>"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."</em> - Plato</p>
 </blockquote>
 </details>
 <p>
@@ -255,15 +283,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 14, 2025</td>
-<td>08:22:17 IST</td>
+<td>Saturday</td>
+<td>November 15, 2025</td>
+<td>08:15:57 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 15, 2025</td>
-<td>08:20:15 IST</td>
+<td>Sunday</td>
+<td>November 16, 2025</td>
+<td>08:15:55 IST</td>
 </tr>
 </tbody>
 </table>
