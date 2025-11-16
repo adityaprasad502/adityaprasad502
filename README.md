@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8f59b6a13ee10e217eff5aecf1ce5bab346d5e546dba9c77714185ed2b8500d3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323425323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C424%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/b32616e5a854816f58ad1a61811870baf2dde92b5be45e54bc89f3019d12f9f3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323725323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C427%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,856+ Commits made on Github</p>
+<p>🏆 4,873+ Commits made on Github</p>
 <p>📦 85.8 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -57,19 +57,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>2 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.7%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>7 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>21 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>91.3%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>7 commits in November 2025</b></td>
+<td colspan="2"><b>23 commits in November 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,27 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>89.04%</td>
+<td>2 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.79%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>1 hr 19 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.55%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.65%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.78%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>3 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.4%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.3%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.08%</td>
 </tr> 
  <tr>
-<td>Properties</td>
+<td>JSON</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.02%</td>
+<td>0.06%</td>
 </tr>
 </tbody></table>
 </details>
@@ -119,15 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>89.35%</td>
+<td>2 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.68%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>1 hr 19 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.55%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.65%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.78%</td>
 </tr>
 </tbody></table>
 </details>
@@ -142,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>56 mins</td>
+<td>3 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -159,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>56 mins</td>
+<td>3 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -231,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>I'm reading a book about anti-gravity...</strong></p>
-<p><em>» It's impossible to put down</em></p>
+<p><strong>What do you call a cow with no legs?</strong></p>
+<p><em>» Ground beef!</em></p>
 <hr>
-<p><strong>What do you call a group of killer whales playing instruments?</strong></p>
-<p><em>» An Orca-stra.</em></p>
+<p><strong>What do you call a cow on a trampoline?</strong></p>
+<p><em>» A milk shake!</em></p>
 <hr>
-<p><strong>To understand what recursion is...</strong></p>
-<p><em>» You must first understand what recursion is</em></p>
+<p><strong>How do you check if a webpage is HTML5?</strong></p>
+<p><em>» Try it out on Internet Explorer</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -247,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The name Jeep comes from “GP”, the army abbreviation for General Purpose.</p>
+<p>💡 A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.</p>
 <hr>
-<p>💡 Some lions mate over 50 times a day.</p>
+<p>💡 Bats always turn left when exiting a cave</p>
 <hr>
-<p>💡 A dime has 118 ridges around the edge.</p>
+<p>💡 "Dreamt" is the only English word that ends in the letters "mt."</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -261,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The last ones standing are the victors Only the strongest If you want to be the last one standing become strong"</em> - Tobio Kageyama</p>
+  <p><em>"A place where someone still thinks about you is a place you can call home."</em> - Jiraiya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Go confidently in the direction of your dreams.  Live the life you have imagined."</em> - Henry David Thoreau</p>
+  <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."</em> - Plato</p>
+  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -283,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 15, 2025</td>
-<td>08:15:57 IST</td>
+<td>Sunday</td>
+<td>November 16, 2025</td>
+<td>08:27:16 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 16, 2025</td>
-<td>08:15:55 IST</td>
+<td>Monday</td>
+<td>November 17, 2025</td>
+<td>08:25:15 IST</td>
 </tr>
 </tbody>
 </table>
