@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/b32616e5a854816f58ad1a61811870baf2dde92b5be45e54bc89f3019d12f9f3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334323725323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C427%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4091395300f4b754aacf812ecb57c0651e66a8c9fc696464d16e56aec6353add/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334333425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C434%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,873+ Commits made on Github</p>
-<p>📦 85.8 MiB Used in GitHub's Storage</p>
+<p>🏆 4,909+ Commits made on Github</p>
+<p>📦 85.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -42,34 +42,34 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - November 2025</th></tr> 
+<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤 - November 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>5 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.62%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>25 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.1%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>2 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.7%</td>
+<td>7 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.07%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>21 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.3%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.21%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>23 commits in November 2025</b></td>
+<td colspan="2"><b>58 commits in November 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 5 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.79%</td>
+<td>3 hrs 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.38%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.55%</td>
+<td>1 hr 55 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.14%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>21 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.67%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.78%</td>
+<td>1.57%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>3 mins</td>
+<td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.3%</td>
+<td>1.14%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.08%</td>
+<td>0.04%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.06%</td>
+<td>0.03%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.68%</td>
+<td>3 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.29%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 19 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.55%</td>
+<td>2 hrs 37 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.14%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.78%</td>
+<td>1.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>3 hrs 37 mins</td>
+<td>6 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>3 hrs 37 mins</td>
+<td>6 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a cow with no legs?</strong></p>
-<p><em>» Ground beef!</em></p>
+<p><strong>How good are you at Power Point?</strong></p>
+<p><em>» I Excel at it.</em></p>
 <hr>
-<p><strong>What do you call a cow on a trampoline?</strong></p>
-<p><em>» A milk shake!</em></p>
+<p><strong>Why do programmers wear glasses?</strong></p>
+<p><em>» Because they need to C#</em></p>
 <hr>
-<p><strong>How do you check if a webpage is HTML5?</strong></p>
-<p><em>» Try it out on Internet Explorer</em></p>
+<p><strong>What do you call a suspicious looking laptop?</strong></p>
+<p><em>» Asus</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.</p>
+<p>💡 The ant always falls over on its right side when intoxicated.</p>
 <hr>
-<p>💡 Bats always turn left when exiting a cave</p>
+<p>💡 If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</p>
 <hr>
-<p>💡 "Dreamt" is the only English word that ends in the letters "mt."</p>
+<p>💡 About 14% of injecting drug users are HIV positive.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"A place where someone still thinks about you is a place you can call home."</em> - Jiraiya</p>
+  <p><em>"The only limit to our realization of tomorrow will be our doubts of today."</em> - Franklin D. Roosevelt</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings."</em> - Ann Landers</p>
 </blockquote>
 <hr>
 <blockquote>
   <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>November 16, 2025</td>
-<td>08:27:16 IST</td>
+<td>Monday</td>
+<td>November 17, 2025</td>
+<td>08:24:30 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>November 17, 2025</td>
-<td>08:25:15 IST</td>
+<td>Tuesday</td>
+<td>November 18, 2025</td>
+<td>08:20:30 IST</td>
 </tr>
 </tbody>
 </table>
