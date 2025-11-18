@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4091395300f4b754aacf812ecb57c0651e66a8c9fc696464d16e56aec6353add/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334333425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C434%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ac9f164128dadf87d750d6a0963b7d76ab70a2b64b548e8045357079fc54aad0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334333425323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C434%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,909+ Commits made on Github</p>
+<p>🏆 4,910+ Commits made on Github</p>
 <p>📦 85.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>3 hrs 55 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.38%</td>
+<td>9 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>71.16%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 55 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.14%</td>
+<td>2 hrs 40 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.48%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>21 mins</td>
+<td>41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.67%</td>
+<td>5.35%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>15 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.92%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.57%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>4 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.14%</td>
+<td>0.84%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.04%</td>
+<td>0.13%</td>
 </tr> 
  <tr>
-<td>JSON</td>
+<td>Gradle Kotlin DSL</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.03%</td>
+<td>0.09%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>3 hrs 39 mins</td>
+<td>7 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.29%</td>
+<td>57.3%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 37 mins</td>
+<td>5 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.14%</td>
+<td>41.93%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.57%</td>
+<td>0.77%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>6 hrs 23 mins</td>
+<td>13 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>6 hrs 23 mins</td>
+<td>13 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,19 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How good are you at Power Point?</strong></p>
-<p><em>» I Excel at it.</em></p>
+<p>The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?</p>
+<hr>
+<p><strong>Why did the rooster cross the road?</strong></p>
+<p><em>» He heard that the chickens at KFC were pretty hot.</em></p>
 <hr>
 <p><strong>Why do programmers wear glasses?</strong></p>
 <p><em>» Because they need to C#</em></p>
-<hr>
-<p><strong>What do you call a suspicious looking laptop?</strong></p>
-<p><em>» Asus</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The ant always falls over on its right side when intoxicated.</p>
+<p>💡 A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</p>
 <hr>
-<p>💡 If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</p>
+<p>💡 “Lassie” was played by a group of male dogs; the main one was named Pal.</p>
 <hr>
-<p>💡 About 14% of injecting drug users are HIV positive.</p>
+<p>💡 An average human scalp has 100,000 hairs.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +290,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The only limit to our realization of tomorrow will be our doubts of today."</em> - Franklin D. Roosevelt</p>
+  <p><em>"There’s no shame in falling down! True shame is to not stand up again!"</em> - Shintar Midorima</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings."</em> - Ann Landers</p>
+  <p><em>"Definiteness of purpose is the starting point of all achievement."</em> - W. Clement Stone</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
+  <p><em>"To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have."</em> - Matsumoto Rangiku</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +312,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 17, 2025</td>
-<td>08:24:30 IST</td>
+<td>Tuesday</td>
+<td>November 18, 2025</td>
+<td>08:20:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 18, 2025</td>
-<td>08:20:30 IST</td>
+<td>Wednesday</td>
+<td>November 19, 2025</td>
+<td>08:20:55 IST</td>
 </tr>
 </tbody>
 </table>
