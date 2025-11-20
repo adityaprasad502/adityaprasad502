@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/a01b421e17985be0779058a62e554f30df5374b6d7d49cede379db1b1e97d2a6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334333825323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C438%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/128ef9fc9c20a23e3670ce0118b4d0b7d9714c0bf2f72840a2fccd3cd357cf2a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343525323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C445%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,935+ Commits made on Github</p>
-<p>📦 86.0 MiB Used in GitHub's Storage</p>
+<p>🏆 4,980+ Commits made on Github</p>
+<p>📦 86.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -47,29 +47,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>5 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.1%</td>
+<td>4.72%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>25 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.49%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.58%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>7 commits</td>
+<td>9 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.54%</td>
+<td>8.49%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>45 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.88%</td>
+<td>67 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>63.21%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>82 commits in November 2025</b></td>
+<td colspan="2"><b>106 commits in November 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,39 +84,39 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>9 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>71.31%</td>
+<td>10 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>72.74%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 40 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.37%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.35%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.33%</td>
+<td>5.06%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.91%</td>
+<td>1.81%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.84%</td>
+<td>0.8%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
 <td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.13%</td>
+<td>0.12%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 33 mins</td>
+<td>8 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.52%</td>
+<td>58.62%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 28 mins</td>
+<td>5 hrs 37 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.71%</td>
+<td>40.65%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.76%</td>
+<td>0.73%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>13 hrs 8 mins</td>
+<td>13 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>13 hrs 8 mins</td>
+<td>13 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,13 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>I'd tell you a joke about NAT but I would have to translate.</p>
+<p>"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."</p>
 <hr>
-<p><strong>What is a vampire's favorite fruit?</strong></p>
-<p><em>» A blood orange.</em></p>
+<p>"We messed up the keming again guys."</p>
 <hr>
-<p><strong>So I made a graph of all my past relationships.</strong></p>
-<p><em>» It has an ex axis and a why axis.</em></p>
+<p><strong>Arguing with a woman is like reading a software's license agreement.</strong></p>
+<p><em>» In the end you ignore everything and click "I agree".</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -270,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.</p>
+<p>💡 Hawaii is the only coffee producing state.</p>
 <hr>
-<p>💡 Blondes have more hair than dark-haired people do.</p>
+<p>💡 There are over 58 million dogs in the US</p>
 <hr>
-<p>💡 Humans and dolphins are the only species that have sex for pleasure.</p>
+<p>💡 The San Francisco Cable cars are the only mobile National Monuments.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -284,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The greatest glory in living lies not in never falling, but in rising every time we fall."</em> - Nelson Mandela</p>
+  <p><em>"I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you!"</em> - Son Goku</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Religion, ideology, resources, land, spite, love or just because… No matter how pathetic the reason, it’s enough to start a war. War will never cease to exist… reasons can be thought up after the fact… Human nature pursues strife."</em> - Paine</p>
+  <p><em>"Certain things catch your eye, but pursue only those that capture the heart."</em> -  Ancient Indian Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If You Win You Live If You Lose You Die If You Don t Fight You Can t Win"</em> - Eren</p>
+  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -306,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 19, 2025</td>
-<td>08:21:16 IST</td>
+<td>Thursday</td>
+<td>November 20, 2025</td>
+<td>08:19:24 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 20, 2025</td>
-<td>08:20:15 IST</td>
+<td>Friday</td>
+<td>November 21, 2025</td>
+<td>08:15:20 IST</td>
 </tr>
 </tbody>
 </table>
