@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/951a97261dbb73e61e226a532d3475a9734d03fa2bad2fd08d116fcb099b7244/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343725323068727325323032312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C447%20hrs%2021%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/aebfb93485e11fdfad9ce84f006417e31d73c7a800b820244968a0d8d64b72f6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343825323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C448%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,987+ Commits made on Github</p>
-<p>📦 86.2 MiB Used in GitHub's Storage</p>
+<p>🏆 4,989+ Commits made on Github</p>
+<p>📦 86.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -45,9 +45,9 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - November 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>1 commits</td>
+<td>0 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.93%</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
@@ -63,9 +63,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>70 commits</td>
+<td>71 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>65.42%</td>
+<td>66.36%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>15 hrs 58 mins</td>
+<td>20 hrs 38 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>76.85%</td>
+<td>78.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.57%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.37%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 5 mins</td>
+<td>1 hr 21 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.29%</td>
+<td>5.21%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>18 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.46%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.54%</td>
+<td>1.16%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
-<td>2 mins</td>
+<td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.18%</td>
+<td>0.68%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>10 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.65%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
-<td>0 secs</td>
+<td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.08%</td>
+<td>0.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>10 hrs 24 mins</td>
+<td>13 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.06%</td>
+<td>50.51%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>10 hrs 16 mins</td>
+<td>12 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.46%</td>
+<td>49.1%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.48%</td>
+<td>0.38%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>20 hrs 46 mins</td>
+<td>26 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>20 hrs 46 mins</td>
+<td>26 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why didn’t the orange win the race?</strong></p>
-<p><em>» It ran out of juice.</em></p>
+<p><strong>Did you watch the new comic book movie?</strong></p>
+<p><em>» It was very graphic!</em></p>
 <hr>
-<p><strong>The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.</strong></p>
-<p><em>» Thank you very much, sir.</em></p>
+<p><strong>If you mix a melon and collie, what do you get?</strong></p>
+<p><em>» The Melancholy of Haruhi Suzumiya!</em></p>
 <hr>
-<p><strong>What's the worst part about being a cross-eyed teacher?</strong></p>
-<p><em>» They can't control their pupils.</em></p>
+<p><strong>Why do Java programmers hate communism?</strong></p>
+<p><em>» They don't want to live in a classless society.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Julius Caesar’s autograph is worth about $2,000,000.</p>
+<p>💡 Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.</p>
 <hr>
-<p>💡 All polar bears are left-handed.</p>
+<p>💡 The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.</p>
 <hr>
-<p>💡 Every acre of American crops harvested contains 100 pounds of insects.</p>
+<p>💡 The human body is comprised of 80% water.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
+  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
+  <p><em>"Vision is not what your eyes see, but an image that your brain comprehends."</em> - Touko Aozaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I would rather die of passion than of boredom."</em> - Vincent van Gogh</p>
+  <p><em>"Success usually comes to those who are too busy to be looking for it."</em> - Henry David Thoreau</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 21, 2025</td>
-<td>08:20:04 IST</td>
+<td>Saturday</td>
+<td>November 22, 2025</td>
+<td>08:13:58 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 22, 2025</td>
-<td>08:20:00 IST</td>
+<td>Sunday</td>
+<td>November 23, 2025</td>
+<td>08:10:55 IST</td>
 </tr>
 </tbody>
 </table>
