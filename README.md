@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/aebfb93485e11fdfad9ce84f006417e31d73c7a800b820244968a0d8d64b72f6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343825323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C448%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,989+ Commits made on Github</p>
+<p>🏆 4,990+ Commits made on Github</p>
 <p>📦 86.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>20 hrs 38 mins</td>
+<td>21 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>78.9%</td>
+<td>79.16%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.37%</td>
+<td>11.96%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 21 mins</td>
+<td>1 hr 22 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.21%</td>
+<td>5.08%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>18 mins</td>
+<td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.16%</td>
+<td>1.29%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>14 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.86%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.68%</td>
-</tr> 
- <tr>
-<td>TOML</td>
-<td>10 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.65%</td>
+<td>0.66%</td>
 </tr> 
  <tr>
 <td>Java Properties</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.57%</td>
+<td>0.55%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,22 +136,22 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
+<td>Android Studio</td>
+<td>13 hrs 44 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.8%</td>
+</tr> 
+ <tr>
 <td>VS Code</td>
 <td>13 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.51%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>12 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.1%</td>
+<td>48.83%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.38%</td>
+<td>0.37%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>26 hrs 9 mins</td>
+<td>27 hrs 3 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>26 hrs 9 mins</td>
+<td>27 hrs 3 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Did you watch the new comic book movie?</strong></p>
-<p><em>» It was very graphic!</em></p>
+<p><strong>Knock-knock.</strong></p>
+<p><em>» A race condition. Who is there?</em></p>
 <hr>
-<p><strong>If you mix a melon and collie, what do you get?</strong></p>
-<p><em>» The Melancholy of Haruhi Suzumiya!</em></p>
+<p><strong>Why are “Dad Jokes” so good?</strong></p>
+<p><em>» Because the punchline is apparent.</em></p>
 <hr>
-<p><strong>Why do Java programmers hate communism?</strong></p>
-<p><em>» They don't want to live in a classless society.</em></p>
+<p><strong>I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’</strong></p>
+<p><em>» I couldn’t turn it down.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.</p>
+<p>💡 Sex burns 360 calories per hour.</p>
 <hr>
-<p>💡 The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.</p>
+<p>💡 A jellyfish is 95% water.</p>
 <hr>
-<p>💡 The human body is comprised of 80% water.</p>
+<p>💡 Cats have over 100 vocal sounds; dogs only have 10.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
+  <p><em>"The question isn’t who is going to let me; it’s who is going to stop me."</em> - Ayn Rand</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Vision is not what your eyes see, but an image that your brain comprehends."</em> - Touko Aozaki</p>
+  <p><em>"Life is not measured by the number of breaths we take, but by the moments that take our breath away."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success usually comes to those who are too busy to be looking for it."</em> - Henry David Thoreau</p>
+  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 22, 2025</td>
-<td>08:13:58 IST</td>
+<td>Sunday</td>
+<td>November 23, 2025</td>
+<td>08:36:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 23, 2025</td>
-<td>08:10:55 IST</td>
+<td>Monday</td>
+<td>November 24, 2025</td>
+<td>08:35:05 IST</td>
 </tr>
 </tbody>
 </table>
