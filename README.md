@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/aebfb93485e11fdfad9ce84f006417e31d73c7a800b820244968a0d8d64b72f6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343825323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C448%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c2ae4d4eec9e722fdca691506f1c5ef6b3e00ac823d685d515a7d3bb172420b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343825323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C448%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,991+ Commits made on Github</p>
-<p>📦 86.1 MiB Used in GitHub's Storage</p>
+<p>🏆 4,992+ Commits made on Github</p>
+<p>📦 86.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -86,19 +86,19 @@ fun main() {
 <td>Kotlin</td>
 <td>21 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.16%</td>
+<td>79.45%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.96%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 22 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.08%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
 <td>Java</td>
@@ -110,7 +110,7 @@ fun main() {
 <td>TOML</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.86%</td>
+<td>0.87%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
@@ -139,19 +139,13 @@ fun main() {
 <td>Android Studio</td>
 <td>13 hrs 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.8%</td>
+<td>50.99%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>13 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.83%</td>
-</tr> 
- <tr>
-<td>Pycharm</td>
-<td>6 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.37%</td>
+<td>49.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>27 hrs 3 mins</td>
+<td>26 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>27 hrs 3 mins</td>
+<td>26 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,15 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you get when you cross a bee and a sheep?</strong></p>
-<p><em>» A bah-humbug.</em></p>
+<p><strong>Where does batman go to the bathroom?</strong></p>
+<p><em>» The batroom.</em></p>
 <hr>
-<p><strong>Why does Beyonce sing "to the left, to the left"?</strong></p>
-<p><em>» Because women don't have rights.</em></p>
+<p><strong>How do you generate a random string?</strong></p>
+<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
 <hr>
-<p><strong>Went to the doctors for a prostate exam.
-During the exam he said it's not unusual to become aroused or even ejaculate.</strong></p>
-<p><em>» But still, I wish he hadn't.</em></p>
+<p><strong>What is this movie about?</strong></p>
+<p><em>» It is about 2 hours long.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -272,11 +265,11 @@ During the exam he said it's not unusual to become aroused or even ejaculate.</s
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.</p>
+<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 <hr>
-<p>💡 Broccoli and cauliflower are the only vegetables that are flowers.</p>
+<p>💡 The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</p>
 <hr>
-<p>💡 Every person, including identical twins, has a unique eye &amp; tongue print along with their finger print.</p>
+<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -286,15 +279,15 @@ During the exam he said it's not unusual to become aroused or even ejaculate.</s
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey."</em> - Hinata Miyake</p>
+  <p><em>"Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it."</em> - Yato</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The greatest glory in living lies not in never falling, but in rising every time we fall."</em> - Nelson Mandela</p>
+  <p><em>"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it."</em> - Johann Wolfgang von Goethe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life."</em> - John Lennon</p>
+  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
 </blockquote>
 </details>
 <p>
@@ -308,15 +301,15 @@ During the exam he said it's not unusual to become aroused or even ejaculate.</s
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>November 24, 2025</td>
-<td>08:31:42 IST</td>
+<td>Tuesday</td>
+<td>November 25, 2025</td>
+<td>08:24:04 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>November 25, 2025</td>
-<td>08:30:40 IST</td>
+<td>Wednesday</td>
+<td>November 26, 2025</td>
+<td>08:20:00 IST</td>
 </tr>
 </tbody>
 </table>
