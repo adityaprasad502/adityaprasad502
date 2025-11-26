@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c2ae4d4eec9e722fdca691506f1c5ef6b3e00ac823d685d515a7d3bb172420b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343825323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C448%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,992+ Commits made on Github</p>
+<p>🏆 4,993+ Commits made on Github</p>
 <p>📦 86.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -249,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Where does batman go to the bathroom?</strong></p>
-<p><em>» The batroom.</em></p>
+<p><strong>What’s E.T. short for?</strong></p>
+<p><em>» He’s only got little legs.</em></p>
 <hr>
-<p><strong>How do you generate a random string?</strong></p>
-<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
+<p><strong>Why don't programmers like nature?</strong></p>
+<p><em>» There's too many bugs.</em></p>
 <hr>
-<p><strong>What is this movie about?</strong></p>
-<p><em>» It is about 2 hours long.</em></p>
+<p><strong>What creature is smarter than a talking parrot?</strong></p>
+<p><em>» A spelling bee.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
+<p>💡 More people are killed annually by donkeys than airplane crashes.</p>
 <hr>
-<p>💡 The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.</p>
+<p>💡 Blueberry Jelly Bellies were created especially for Ronald Reagan.</p>
 <hr>
-<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
+<p>💡 Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Life and death are like light and shadow. They’re both always there. But people don’t like thinking about death, so subconsciously, they always look away from it."</em> - Yato</p>
+  <p><em>"The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful."</em> - Roy Mustang</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it."</em> - Johann Wolfgang von Goethe</p>
+  <p><em>"When I let go of what I am, I become what I might be."</em> - Lao Tzu</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
+  <p><em>"An excellent leader must be passionate because it’s their duty to keep everyone moving forward."</em> - Nico Yazawa</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>November 25, 2025</td>
-<td>08:24:04 IST</td>
+<td>Wednesday</td>
+<td>November 26, 2025</td>
+<td>08:23:52 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>November 26, 2025</td>
-<td>08:20:00 IST</td>
+<td>Thursday</td>
+<td>November 27, 2025</td>
+<td>08:20:50 IST</td>
 </tr>
 </tbody>
 </table>
