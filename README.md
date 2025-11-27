@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c2ae4d4eec9e722fdca691506f1c5ef6b3e00ac823d685d515a7d3bb172420b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334343825323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C448%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/101dc61c0f6634389403435704547b3f4ec3d548c6c79babb238686afe4cedb8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334353725323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C457%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 4,993+ Commits made on Github</p>
-<p>📦 86.0 MiB Used in GitHub's Storage</p>
+<p>🏆 5,032+ Commits made on Github</p>
+<p>📦 86.2 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - November 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>0 commits</td>
+<td>2 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1.85%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>25 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.36%</td>
+<td>14 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.96%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>11 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.28%</td>
+<td>20 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.52%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>71 commits</td>
+<td>72 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.36%</td>
+<td>66.67%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>107 commits in November 2025</b></td>
+<td colspan="2"><b>108 commits in November 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -249,14 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What’s E.T. short for?</strong></p>
-<p><em>» He’s only got little legs.</em></p>
+<p><strong>How do you organize a space party?</strong></p>
+<p><em>» You planet!</em></p>
 <hr>
-<p><strong>Why don't programmers like nature?</strong></p>
-<p><em>» There's too many bugs.</em></p>
+<p><strong>What cheese can never be yours?</strong></p>
+<p><em>» Nacho cheese.</em></p>
 <hr>
-<p><strong>What creature is smarter than a talking parrot?</strong></p>
-<p><em>» A spelling bee.</em></p>
+<p><strong>3 SQL statements walk into a NoSQL bar. Soon, they walk out</strong></p>
+<p><em>» They couldn't find a table.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 More people are killed annually by donkeys than airplane crashes.</p>
+<p>💡 Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.</p>
 <hr>
-<p>💡 Blueberry Jelly Bellies were created especially for Ronald Reagan.</p>
+<p>💡 An ant always falls over on its right side when intoxicated.</p>
 <hr>
-<p>💡 Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
+<p>💡 The volume of the earth's moon is the same as the volume of the Pacific Ocean. </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"The world’s not perfect, but it’s there for us trying the best it can. That’s what makes it so damn beautiful."</em> - Roy Mustang</p>
+  <p><em>"If the wind will not serve, take to the oars."</em> - Latin Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I let go of what I am, I become what I might be."</em> - Lao Tzu</p>
+  <p><em>"No matter how hard or impossible it is, never lose sight of your goal."</em> - Monkey D Luffy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"An excellent leader must be passionate because it’s their duty to keep everyone moving forward."</em> - Nico Yazawa</p>
+  <p><em>"I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you!"</em> - Son Goku</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>November 26, 2025</td>
-<td>08:23:52 IST</td>
+<td>Thursday</td>
+<td>November 27, 2025</td>
+<td>08:21:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>November 27, 2025</td>
-<td>08:20:50 IST</td>
+<td>Friday</td>
+<td>November 28, 2025</td>
+<td>08:20:00 IST</td>
 </tr>
 </tbody>
 </table>
