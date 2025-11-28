@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/101dc61c0f6634389403435704547b3f4ec3d548c6c79babb238686afe4cedb8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334353725323068727325323035362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C457%20hrs%2056%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5ef54bd82d76014eb38abce9cdfb885956d5d19343855b514ac50c48df7a59a9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334353925323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C459%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,032+ Commits made on Github</p>
-<p>📦 86.2 MiB Used in GitHub's Storage</p>
+<p>🏆 5,035+ Commits made on Github</p>
+<p>📦 86.3 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -45,15 +45,15 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - November 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>2 commits</td>
+<td>3 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.85%</td>
+<td>2.78%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>14 commits</td>
+<td>15 commits</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.96%</td>
+<td>13.89%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -63,9 +63,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>72 commits</td>
+<td>70 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.67%</td>
+<td>64.81%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>21 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.45%</td>
+<td>28 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>81.44%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.27%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 22 mins</td>
+<td>1 hr 48 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>5.2%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>24 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.15%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>20 mins</td>
+<td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.29%</td>
+<td>1.11%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>14 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.87%</td>
+<td>0.67%</td>
 </tr> 
  <tr>
 <td>Gradle Kotlin DSL</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.66%</td>
-</tr> 
- <tr>
-<td>Java Properties</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.55%</td>
+<td>0.51%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,15 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>13 hrs 44 mins</td>
+<td>17 hrs 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.99%</td>
+<td>50.84%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.01%</td>
+<td>16 hrs 27 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.19%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>41 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.97%</td>
 </tr>
 </tbody></table>
 </details>
@@ -160,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>26 hrs 57 mins</td>
+<td>34 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -177,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>26 hrs 57 mins</td>
+<td>34 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -249,14 +255,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>How do you organize a space party?</strong></p>
-<p><em>» You planet!</em></p>
+<p><strong>Did you hear about the scientist who was lab partners with a pot of boiling water?</strong></p>
+<p><em>» He had a very esteemed colleague.</em></p>
 <hr>
-<p><strong>What cheese can never be yours?</strong></p>
-<p><em>» Nacho cheese.</em></p>
+<p><strong>Which side of the chicken has more feathers?</strong></p>
+<p><em>» The outside.</em></p>
 <hr>
-<p><strong>3 SQL statements walk into a NoSQL bar. Soon, they walk out</strong></p>
-<p><em>» They couldn't find a table.</em></p>
+<p>Never date a baker. They're too kneady.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -265,11 +270,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year.</p>
+<p>💡 Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
 <hr>
-<p>💡 An ant always falls over on its right side when intoxicated.</p>
+<p>💡 1 in every 4 Americans has appeared someway or another on television.</p>
 <hr>
-<p>💡 The volume of the earth's moon is the same as the volume of the Pacific Ocean. </p>
+<p>💡 Al Capone`s business card said he was a used furniture dealer.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,15 +284,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If the wind will not serve, take to the oars."</em> - Latin Proverb</p>
+  <p><em>"Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living."</em> - Erza Scarlet</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"No matter how hard or impossible it is, never lose sight of your goal."</em> - Monkey D Luffy</p>
+  <p><em>"A person who never made a mistake never tried anything new."</em> -  Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I am the hope of the universe. I am the answer to all living things that cry out for peace. I am the protector of the innocent. I am the light in the darkness. I am the truth. Ally to good! Nightmare to you!"</em> - Son Goku</p>
+  <p><em>"If you begin to regret, you’ll dull your future decisions and let others make your choices for you. All that’s left for you then is to die. Nobody can foretell the outcome. Each decision you make holds meaning only by affecting your next decision."</em> - Erwin Smith</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +306,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>November 27, 2025</td>
-<td>08:21:03 IST</td>
+<td>Friday</td>
+<td>November 28, 2025</td>
+<td>08:20:32 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>November 28, 2025</td>
-<td>08:20:00 IST</td>
+<td>Saturday</td>
+<td>November 29, 2025</td>
+<td>08:20:30 IST</td>
 </tr>
 </tbody>
 </table>
