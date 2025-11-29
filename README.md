@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5ef54bd82d76014eb38abce9cdfb885956d5d19343855b514ac50c48df7a59a9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334353925323068727325323034332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C459%20hrs%2043%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ec9103ca5471b6bda1c386969ed01140ffd51592a78c03b9343c369984437046/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334363125323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C461%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,035+ Commits made on Github</p>
-<p>📦 86.3 MiB Used in GitHub's Storage</p>
+<p>🏆 5,040+ Commits made on Github</p>
+<p>📦 86.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -84,37 +84,37 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>28 hrs 24 mins</td>
+<td>31 hrs 17 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.44%</td>
+<td>81.42%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.27%</td>
+<td>8.42%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 48 mins</td>
+<td>2 hrs 27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>6.38%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>24 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.15%</td>
+<td>1.05%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.11%</td>
+<td>1.01%</td>
 </tr> 
  <tr>
 <td>TOML</td>
-<td>14 mins</td>
+<td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.67%</td>
 </tr> 
@@ -122,7 +122,7 @@ fun main() {
 <td>Gradle Kotlin DSL</td>
 <td>10 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.51%</td>
+<td>0.46%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>17 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.84%</td>
+<td>21 hrs 16 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.36%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>16 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.19%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.85%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>41 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.97%</td>
+<td>1.79%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>34 hrs 53 mins</td>
+<td>38 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>34 hrs 53 mins</td>
+<td>38 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,13 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Did you hear about the scientist who was lab partners with a pot of boiling water?</strong></p>
-<p><em>» He had a very esteemed colleague.</em></p>
+<p><strong>I dropped a pear in my car this morning.</strong></p>
+<p><em>» You should drop another one, then you would have a pair.</em></p>
 <hr>
-<p><strong>Which side of the chicken has more feathers?</strong></p>
-<p><em>» The outside.</em></p>
+<p><strong>What do birds give out on Halloween?</strong></p>
+<p><em>» Tweets.</em></p>
 <hr>
-<p>Never date a baker. They're too kneady.</p>
+<p><strong>Why don't programmers like nature?</strong></p>
+<p><em>» It has too many bugs.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -270,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
+<p>💡 It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</p>
 <hr>
-<p>💡 1 in every 4 Americans has appeared someway or another on television.</p>
+<p>💡 The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
 <hr>
-<p>💡 Al Capone`s business card said he was a used furniture dealer.</p>
+<p>💡 There are about 2 chickens for every human in the world.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -284,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living."</em> - Erza Scarlet</p>
+  <p><em>"It does not matter how slowly you go as long as you do not stop."</em> - Confucius</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A person who never made a mistake never tried anything new."</em> -  Albert Einstein</p>
+  <p><em>"If you wanna make people dream, you’ve gotta start by believing in that dream yourself!"</em> - Seiya Kanie</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you begin to regret, you’ll dull your future decisions and let others make your choices for you. All that’s left for you then is to die. Nobody can foretell the outcome. Each decision you make holds meaning only by affecting your next decision."</em> - Erwin Smith</p>
+  <p><em>"The greatest glory in living lies not in never falling, but in rising every time we fall."</em> - Nelson Mandela</p>
 </blockquote>
 </details>
 <p>
@@ -306,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 28, 2025</td>
-<td>08:20:32 IST</td>
+<td>Saturday</td>
+<td>November 29, 2025</td>
+<td>08:19:39 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 29, 2025</td>
-<td>08:20:30 IST</td>
+<td>Sunday</td>
+<td>November 30, 2025</td>
+<td>08:15:35 IST</td>
 </tr>
 </tbody>
 </table>
