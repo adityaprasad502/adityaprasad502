@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ec9103ca5471b6bda1c386969ed01140ffd51592a78c03b9343c369984437046/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334363125323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C461%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/87175e19d31186cc427330b0b5036a9323c0eef904cb1cf5066e53dff3786b54/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334363325323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C463%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,040+ Commits made on Github</p>
+<p>🏆 5,041+ Commits made on Github</p>
 <p>📦 86.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,31 +84,37 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>31 hrs 17 mins</td>
+<td>31 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.42%</td>
+<td>79.89%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.42%</td>
+<td>8.15%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.38%</td>
+<td>6.17%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>40 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.72%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>24 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.03%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>24 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.05%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.01%</td>
 </tr> 
@@ -116,13 +122,7 @@ fun main() {
 <td>TOML</td>
 <td>15 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.67%</td>
-</tr> 
- <tr>
-<td>Gradle Kotlin DSL</td>
-<td>10 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.46%</td>
+<td>0.65%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>21 hrs 16 mins</td>
+<td>21 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.36%</td>
+<td>54.72%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>16 hrs 27 mins</td>
+<td>16 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.85%</td>
+<td>42.76%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>41 mins</td>
+<td>1 hr</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.79%</td>
+<td>2.52%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>38 hrs 25 mins</td>
+<td>39 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>38 hrs 25 mins</td>
+<td>39 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -258,11 +258,11 @@ fun main() {
 <p><strong>I dropped a pear in my car this morning.</strong></p>
 <p><em>» You should drop another one, then you would have a pair.</em></p>
 <hr>
-<p><strong>What do birds give out on Halloween?</strong></p>
-<p><em>» Tweets.</em></p>
+<p><strong>Why did the developer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>Why don't programmers like nature?</strong></p>
-<p><em>» It has too many bugs.</em></p>
+<p><strong>How many programmers does it take to screw in a light bulb?</strong></p>
+<p><em>» None. It's a hardware problem.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</p>
+<p>💡 Some worms will eat themselves if they can't find any food!</p>
 <hr>
-<p>💡 The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
+<p>💡 Between 25% and 33% of the population sneeze when exposed to light.</p>
 <hr>
-<p>💡 There are about 2 chickens for every human in the world.</p>
+<p>💡 The average child recognizes over 200 company logos by the time he enters first grade.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
+  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
+</blockquote>
+<hr>
+<blockquote>
   <p><em>"It does not matter how slowly you go as long as you do not stop."</em> - Confucius</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you wanna make people dream, you’ve gotta start by believing in that dream yourself!"</em> - Seiya Kanie</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"The greatest glory in living lies not in never falling, but in rising every time we fall."</em> - Nelson Mandela</p>
+  <p><em>"You can’t win a game by doing nothing. And if someone else wins it for you then you haven’t accomplished anything. Life is the same way."</em> - Junichirou Kagami</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 29, 2025</td>
-<td>08:19:39 IST</td>
+<td>Sunday</td>
+<td>November 30, 2025</td>
+<td>08:35:16 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 30, 2025</td>
-<td>08:15:35 IST</td>
+<td>Monday</td>
+<td>December 01, 2025</td>
+<td>08:35:15 IST</td>
 </tr>
 </tbody>
 </table>
