@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8739632d6a6d3e01d406db1182038341cf3b5bcfb2f0a9f398fe91065a232650/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334363825323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C468%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,046+ Commits made on Github</p>
+<p>🏆 5,047+ Commits made on Github</p>
 <p>📦 86.2 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -56,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>31 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>75.5%</td>
+<td>32 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>68.72%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 14 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.7%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.8%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>3 hrs 7 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.57%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.83%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 hr 36 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.83%</td>
+<td>5.17%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>1 hr 19 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.16%</td>
-</tr> 
- <tr>
-<td>Java</td>
-<td>24 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.97%</td>
+<td>2 hrs 6 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.43%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>24 mins</td>
+<td>1 hr 37 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.96%</td>
+<td>3.42%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>35 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -109,21 +109,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>21 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.71%</td>
+<td>23 hrs 7 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.62%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>17 hrs 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.99%</td>
+<td>18 hrs 46 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.49%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>3 hrs 3 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.3%</td>
+<td>5 hrs 39 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,7 +138,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>42 hrs 1 min</td>
+<td>47 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -155,7 +155,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>42 hrs 1 min</td>
+<td>47 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -227,14 +227,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's the best thing about a Boolean?</strong></p>
-<p><em>» Even if you're wrong, you're only off by a bit.</em></p>
+<p><strong>Did you hear about the bread factory burning down?</strong></p>
+<p><em>» They say the business is toast.</em></p>
 <hr>
-<p><strong>Don't look at the eclipse through a colander.</strong></p>
-<p><em>» You'll strain your eyes.</em></p>
+<p><strong>What’s the difference between an African elephant and an Indian elephant?</strong></p>
+<p><em>» About 5000 miles.</em></p>
 <hr>
-<p><strong>Want to hear a joke about construction?</strong></p>
-<p><em>» Nah, I'm still working on it.</em></p>
+<p><strong>What is this movie about?</strong></p>
+<p><em>» It is about 2 hours long.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -243,11 +243,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Over 1000 birds a year die from smashing into windows!</p>
+<p>💡 A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.</p>
 <hr>
-<p>💡 The Great Wall of China is the only man-made structure visible from space.</p>
+<p>💡 Butte County, South Dakota is the geographical center of the U.S.</p>
 <hr>
-<p>💡 Coca-Cola was originally green.</p>
+<p>💡 The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -257,15 +257,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Do exactly as you like. That is the true meaning of pleasure. Pleasure leads to joy and joy leads to happiness."</em> - Gilgamesh</p>
+  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is like a tube of toothpaste. When you’ve used all the toothpaste down to the last squeeze, that’s when you’ve really lived. Live with all your might, and struggle as long as you have life."</em> - Mion Sonozaki</p>
+  <p><em>"Whatever you do, enjoy it to the fullest. That is the secret of life."</em> - Rider</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A person grows up when he’s able to overcome hardships. Protection is important, but there are some things that a person must learn on his own."</em> - Jiraiya</p>
+  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
 </blockquote>
 </details>
 <p>
@@ -279,15 +279,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 01, 2025</td>
-<td>08:49:14 IST</td>
+<td>Tuesday</td>
+<td>December 02, 2025</td>
+<td>08:26:45 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 02, 2025</td>
-<td>08:45:10 IST</td>
+<td>Wednesday</td>
+<td>December 03, 2025</td>
+<td>08:25:45 IST</td>
 </tr>
 </tbody>
 </table>
