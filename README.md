@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8739632d6a6d3e01d406db1182038341cf3b5bcfb2f0a9f398fe91065a232650/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334363825323068727325323035322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C468%20hrs%2052%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/54bc5293d4d937fa30cac1c1ce5ff97c0d00444a86a2c045b03bb94d6d850c9a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,047+ Commits made on Github</p>
-<p>📦 86.2 MiB Used in GitHub's Storage</p>
+<p>🏆 5,060+ Commits made on Github</p>
+<p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -42,7 +42,35 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in December 2025</th></tr>
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - December 2025</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>6 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>6 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>12 commits in December 2025</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -227,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Did you hear about the bread factory burning down?</strong></p>
-<p><em>» They say the business is toast.</em></p>
+<p><strong>Is the pool safe for diving?</strong></p>
+<p><em>» It deep ends.</em></p>
 <hr>
-<p><strong>What’s the difference between an African elephant and an Indian elephant?</strong></p>
-<p><em>» About 5000 miles.</em></p>
+<p><strong>The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.</strong></p>
+<p><em>» Thank you very much, sir.</em></p>
 <hr>
-<p><strong>What is this movie about?</strong></p>
-<p><em>» It is about 2 hours long.</em></p>
+<p><strong>How does a train eat?</strong></p>
+<p><em>» It goes chew, chew</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -243,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.</p>
+<p>💡 Wyoming was the first state to give women the right to vote in 1869.</p>
 <hr>
-<p>💡 Butte County, South Dakota is the geographical center of the U.S.</p>
+<p>💡 98% of all murders and rapes are by a close family member or friend of the victim.</p>
 <hr>
-<p>💡 The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.</p>
+<p>💡 The past-tense of the English word “dare” is “durst”</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -257,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
+  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Whatever you do, enjoy it to the fullest. That is the secret of life."</em> - Rider</p>
+  <p><em>"The last ones standing are the victors Only the strongest If you want to be the last one standing become strong"</em> - Tobio Kageyama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Our lives begin to end the day we become silent about things that matter."</em> - Martin Luther King Jr.</p>
+  <p><em>"Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about."</em> - Jet Black</p>
 </blockquote>
 </details>
 <p>
@@ -279,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 02, 2025</td>
-<td>08:26:45 IST</td>
+<td>Wednesday</td>
+<td>December 03, 2025</td>
+<td>08:25:34 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 03, 2025</td>
-<td>08:25:45 IST</td>
+<td>Thursday</td>
+<td>December 04, 2025</td>
+<td>08:25:30 IST</td>
 </tr>
 </tbody>
 </table>
