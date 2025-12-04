@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/54bc5293d4d937fa30cac1c1ce5ff97c0d00444a86a2c045b03bb94d6d850c9a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2b6543bcfcf835a5d15d8613a39e33b947f15ac29ea675aeb1bfdb0b565a8b6c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,060+ Commits made on Github</p>
+<p>🏆 5,061+ Commits made on Github</p>
 <p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>32 hrs 41 mins</td>
+<td>34 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.72%</td>
+<td>68.33%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>3 hrs 14 mins</td>
+<td>3 hrs 34 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.8%</td>
+<td>7.11%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 7 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.57%</td>
+<td>6.21%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 27 mins</td>
+<td>2 hrs 46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.17%</td>
+<td>5.51%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>2 hrs 6 mins</td>
+<td>2 hrs 9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.43%</td>
+<td>4.28%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 37 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.42%</td>
+<td>1 hr 47 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.56%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.24%</td>
+<td>1.18%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>23 hrs 7 mins</td>
+<td>25 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.62%</td>
+<td>50.36%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>18 hrs 46 mins</td>
+<td>19 hrs 20 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.49%</td>
+<td>38.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 39 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.9%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.24%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>47 hrs 33 mins</td>
+<td>50 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>47 hrs 33 mins</td>
+<td>50 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,16 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Is the pool safe for diving?</strong></p>
-<p><em>» It deep ends.</em></p>
+<p><strong>My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.
+Every day I have to tell this poor man that his wife died 20 years ago.
+I could have moved to another house or even ignore his question.</strong></p>
+<p><em>» But the look of joy in his eyes whenever I answer him is worth the world.</em></p>
 <hr>
-<p><strong>The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.</strong></p>
-<p><em>» Thank you very much, sir.</em></p>
+<p><strong>Why does Beyonce sing "to the left, to the left"?</strong></p>
+<p><em>» Because women don't have rights.</em></p>
 <hr>
-<p><strong>How does a train eat?</strong></p>
-<p><em>» It goes chew, chew</em></p>
+<p><strong>What are bits?</strong></p>
+<p><em>» Tiny things left when you drop your computer down the stairs.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -271,11 +273,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Wyoming was the first state to give women the right to vote in 1869.</p>
+<p>💡 The Black Widow spider eats her mate during or after sex.</p>
 <hr>
-<p>💡 98% of all murders and rapes are by a close family member or friend of the victim.</p>
+<p>💡 When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</p>
 <hr>
-<p>💡 The past-tense of the English word “dare” is “durst”</p>
+<p>💡 Of all the words in the English language, the word 'set' has the most definitions!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,15 +287,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The last ones standing are the victors Only the strongest If you want to be the last one standing become strong"</em> - Tobio Kageyama</p>
+  <p><em>"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."</em> - Bob Dylan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Everything has a beginning and an end. Life is just a cycle of starts and stops. There are ends we don’t desire, but they’re inevitable, we have to face them. It’s what being human is all about."</em> - Jet Black</p>
+  <p><em>"Don’t give up, there’s no shame in falling down! True shame is to not stand up again!"</em> - Shintaro Midorima</p>
 </blockquote>
 </details>
 <p>
@@ -307,14 +309,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 03, 2025</td>
-<td>08:25:34 IST</td>
+<td>Thursday</td>
+<td>December 04, 2025</td>
+<td>08:27:31 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 04, 2025</td>
+<td>Friday</td>
+<td>December 05, 2025</td>
 <td>08:25:30 IST</td>
 </tr>
 </tbody>
