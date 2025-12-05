@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2b6543bcfcf835a5d15d8613a39e33b947f15ac29ea675aeb1bfdb0b565a8b6c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,061+ Commits made on Github</p>
+<p>🏆 5,062+ Commits made on Github</p>
 <p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -85,44 +85,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>34 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.33%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.22%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>3 hrs 34 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.11%</td>
+<td>4 hrs 41 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.03%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 7 mins</td>
+<td>3 hrs 25 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.21%</td>
+<td>6.58%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.51%</td>
+<td>5.34%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>2 hrs 9 mins</td>
+<td>2 hrs 10 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.28%</td>
+<td>4.17%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 47 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.56%</td>
+<td>1 hr 48 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.47%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.18%</td>
+<td>1.14%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,19 +139,19 @@ fun main() {
 <td>Android Studio</td>
 <td>25 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.36%</td>
+<td>48.8%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>19 hrs 20 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.4%</td>
+<td>20 hrs 56 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.31%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 39 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.24%</td>
+<td>10.89%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>50 hrs 21 mins</td>
+<td>51 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>50 hrs 21 mins</td>
+<td>51 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,16 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.
-Every day I have to tell this poor man that his wife died 20 years ago.
-I could have moved to another house or even ignore his question.</strong></p>
-<p><em>» But the look of joy in his eyes whenever I answer him is worth the world.</em></p>
+<p><strong>How does a train eat?</strong></p>
+<p><em>» It choo-choos its food!</em></p>
 <hr>
-<p><strong>Why does Beyonce sing "to the left, to the left"?</strong></p>
-<p><em>» Because women don't have rights.</em></p>
+<p><strong>Where was the Declaration of Independence signed?</strong></p>
+<p><em>» At the bottom! </em></p>
 <hr>
-<p><strong>What are bits?</strong></p>
-<p><em>» Tiny things left when you drop your computer down the stairs.</em></p>
+<p><strong>What do you call a fashionable lawn statue with an excellent sense of rhythmn?</strong></p>
+<p><em>» A metro-gnome</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -273,11 +271,11 @@ I could have moved to another house or even ignore his question.</strong></p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The Black Widow spider eats her mate during or after sex.</p>
+<p>💡 Average number of days a West German goes without washing his underwear: 7</p>
 <hr>
-<p>💡 When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</p>
+<p>💡 There is an average of 61,000 people airborne over the US at any given moment.</p>
 <hr>
-<p>💡 Of all the words in the English language, the word 'set' has the most definitions!</p>
+<p>💡 80% of burglaries are committed by people aged 13-21.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -287,15 +285,15 @@ I could have moved to another house or even ignore his question.</strong></p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
+  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."</em> - Bob Dylan</p>
+  <p><em>"Life is 10% what happens to me and 90% of how I react to it."</em> - Charles Swindoll</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t give up, there’s no shame in falling down! True shame is to not stand up again!"</em> - Shintaro Midorima</p>
+  <p><em>"People become stronger because they have memories they can’t forget."</em> - Tsunade</p>
 </blockquote>
 </details>
 <p>
@@ -309,15 +307,15 @@ I could have moved to another house or even ignore his question.</strong></p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 04, 2025</td>
-<td>08:27:31 IST</td>
+<td>Friday</td>
+<td>December 05, 2025</td>
+<td>08:27:24 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 05, 2025</td>
-<td>08:25:30 IST</td>
+<td>Saturday</td>
+<td>December 06, 2025</td>
+<td>08:25:20 IST</td>
 </tr>
 </tbody>
 </table>
