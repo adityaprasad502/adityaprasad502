@@ -25,17 +25,17 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2b6543bcfcf835a5d15d8613a39e33b947f15ac29ea675aeb1bfdb0b565a8b6c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/2b6543bcfcf835a5d15d8613a39e33b947f15ac29ea675aeb1bfdb0b565a8b6c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,063+ Commits made on Github</p>
+<p>🏆 5,082+ Commits made on Github</p>
 <p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
 <div class="markdown-heading"><h2 align="center" class="heading-element">📊 I Spend My Time On 📊</h2><a id="user-content--i-spend-my-time-on-" class="anchor" aria-label="Permalink: 📊 I Spend My Time On 📊" href="#-i-spend-my-time-on-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -58,23 +58,23 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>6 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>6 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>24 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>12 commits in December 2025</b></td>
+<td colspan="2"><b>30 commits in December 2025</b></td>
 </tr>
 </tbody></table>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -127,7 +127,7 @@ fun main() {
 </tbody></table>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -156,7 +156,7 @@ fun main() {
 </tbody></table>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -173,7 +173,7 @@ fun main() {
 </tbody></table>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -190,7 +190,7 @@ fun main() {
 </tbody></table>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -243,61 +243,60 @@ fun main() {
 </tbody></table>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <div class="markdown-heading"><h2 align="center" class="heading-element">🎈 Fun Mode 🎈</h2><a id="user-content--fun-mode-" class="anchor" aria-label="Permalink: 🎈 Fun Mode 🎈" href="#-fun-mode-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why did the kid throw the watch out the window?</strong></p>
-<p><em>» So time would fly.</em></p>
+<p><strong>There are 10 types of people in this world...</strong></p>
+<p><em>» Those who understand binary and those who don't</em></p>
 <hr>
-<p><strong>How did you make your friend rage?</strong></p>
-<p><em>» I implemented a greek question mark in his JavaScript code.</em></p>
+<p>I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</p>
 <hr>
-<p><strong>What do you call an Argentinian with a rubber toe?</strong></p>
-<p><em>» Roberto</em></p>
+<p><strong>My first high-school football game was a lot like my first time having sex.</strong></p>
+<p><em>» I was bloody and sore at the end, but at least my dad came.</em></p>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The king of hearts is the only king without a mustache.</p>
+<p>💡 California has issued 6 drivers licenses to people named "Jesus Christ."</p>
 <hr>
-<p>💡 Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.</p>
+<p>💡 About 55% of all movies are rated R.</p>
 <hr>
-<p>💡 In The Empire Strikes Back there is a potato hidden in the asteroid field</p>
+<p>💡 The strongest muscle (Relative to size) in the body is the tongue.</p>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
+  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily."</em> - Zig Ziglar</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You should never give up on life, no matter how you feel. No matter how badly you want to give up."</em> - Canaan</p>
+  <p><em>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</em> - Juuzou Suzuya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Believe you can and you’re halfway there."</em> - Theodore Roosevelt</p>
+  <p><em>"If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity"</em> - Armin Arlert</p>
 </blockquote>
 </details>
 <p>
-    <a href="https://a.devh.in" rel="nofollow">
+    <a href="https://adityaprasad.eu.org" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -307,15 +306,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 06, 2025</td>
-<td>08:18:28 IST</td>
+<td>Sunday</td>
+<td>December 07, 2025</td>
+<td>01:06:31 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 07, 2025</td>
-<td>08:15:25 IST</td>
+<td>Monday</td>
+<td>December 08, 2025</td>
+<td>01:05:30 IST</td>
 </tr>
 </tbody>
 </table>
