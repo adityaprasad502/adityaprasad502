@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/2b6543bcfcf835a5d15d8613a39e33b947f15ac29ea675aeb1bfdb0b565a8b6c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373325323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C473%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8698844e4fd11a5b34d1a5b56bb8045973e27f353781646f8319f0aa5fb164d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373525323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C475%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,082+ Commits made on Github</p>
+<p>🏆 5,085+ Commits made on Github</p>
 <p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -58,18 +58,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>6 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.75%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>24 commits</td>
+<td>26 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>80.0%</td>
+<td>81.25%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>30 commits in December 2025</b></td>
+<td colspan="2"><b>32 commits in December 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>34 hrs 24 mins</td>
+<td>34 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.22%</td>
+<td>64.56%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 hrs 41 mins</td>
+<td>4 hrs 53 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.03%</td>
+<td>9.14%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 25 mins</td>
+<td>3 hrs 32 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.58%</td>
+<td>6.61%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.34%</td>
+<td>5.18%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>2 hrs 10 mins</td>
+<td>2 hrs 26 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.17%</td>
+<td>4.57%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 48 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.47%</td>
+<td>2 hrs 5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.89%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>35 mins</td>
+<td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.14%</td>
+<td>1.46%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>25 hrs 21 mins</td>
+<td>25 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.8%</td>
+<td>48.28%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>20 hrs 56 mins</td>
+<td>22 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.31%</td>
+<td>41.15%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 39 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.89%</td>
+<td>10.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>51 hrs 58 mins</td>
+<td>53 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>51 hrs 58 mins</td>
+<td>53 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,13 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>There are 10 types of people in this world...</strong></p>
-<p><em>» Those who understand binary and those who don't</em></p>
+<p><strong>Why was the river rich?</strong></p>
+<p><em>» Because it had two banks.</em></p>
 <hr>
-<p>I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</p>
+<p><strong>How do you get two whales in a car?</strong></p>
+<p><em>» Start in England and drive West.</em></p>
 <hr>
-<p><strong>My first high-school football game was a lot like my first time having sex.</strong></p>
-<p><em>» I was bloody and sore at the end, but at least my dad came.</em></p>
+<p><strong>Why do C# and Java developers keep breaking their keyboards?</strong></p>
+<p><em>» Because they use a strongly typed language.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -270,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 California has issued 6 drivers licenses to people named "Jesus Christ."</p>
+<p>💡 Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</p>
 <hr>
-<p>💡 About 55% of all movies are rated R.</p>
+<p>💡 Starfish have no brains.</p>
 <hr>
-<p>💡 The strongest muscle (Relative to size) in the body is the tongue.</p>
+<p>💡 The “spot” on the 7-Up logo comes from its inventor who had red eyes. He was an albino.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -284,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily."</em> - Zig Ziglar</p>
+  <p><em>"Hard work is worthless for those that don’t believe in themselves."</em> - Naruto Uzumaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</em> - Juuzou Suzuya</p>
+  <p><em>"The moment you think of giving up, think of the reason why you held on so long."</em> - Natsu Dragneel</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If There Are Humans Who Can Bring About Change They re Those Who Are Capable Of Abandoning Everything People Who When Required To Surpass Even Monsters Are Capable Of Tossing Aside Their Very Humanity"</em> - Armin Arlert</p>
+  <p><em>"In order to succeed, your desire for success should be greater than your fear of failure."</em> - Bill Cosby</p>
 </blockquote>
 </details>
 <p>
@@ -308,13 +309,13 @@ fun main() {
 <td>Last Refresh</td>
 <td>Sunday</td>
 <td>December 07, 2025</td>
-<td>01:06:31 IST</td>
+<td>08:35:46 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Monday</td>
 <td>December 08, 2025</td>
-<td>01:05:30 IST</td>
+<td>08:35:45 IST</td>
 </tr>
 </tbody>
 </table>
