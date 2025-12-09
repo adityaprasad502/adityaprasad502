@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8698844e4fd11a5b34d1a5b56bb8045973e27f353781646f8319f0aa5fb164d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373525323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C475%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,086+ Commits made on Github</p>
+<p>🏆 5,087+ Commits made on Github</p>
 <p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -86,43 +86,43 @@ fun main() {
 <td>Kotlin</td>
 <td>34 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.56%</td>
+<td>64.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 53 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.14%</td>
+<td>9.07%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 32 mins</td>
+<td>3 hrs 40 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.61%</td>
+<td>6.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 46 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.18%</td>
+<td>5.14%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>2 hrs 26 mins</td>
+<td>2 hrs 27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.57%</td>
+<td>4.55%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 5 mins</td>
+<td>2 hrs 9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.89%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.46%</td>
+<td>1.45%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>25 hrs 51 mins</td>
+<td>25 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.28%</td>
+<td>48.02%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>22 hrs 2 mins</td>
+<td>22 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.15%</td>
+<td>41.49%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 39 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.57%</td>
+<td>10.49%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>53 hrs 33 mins</td>
+<td>53 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>53 hrs 33 mins</td>
+<td>53 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,13 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
+<p><strong>What did the big flower say to the littler flower?</strong></p>
+<p><em>» Hi, bud!</em></p>
+<hr>
 <p><strong>What does a perverted frog say?</strong></p>
 <p><em>» Rubbit.</em></p>
 <hr>
-<p><strong>What do you call a group of 8 Hobbits?</strong></p>
-<p><em>» A Hobbyte.</em></p>
-<hr>
-<p>// This line doesn't actually do anything, but the code stops working when I delete it.</p>
+<p><strong>Why did the barber win the race?</strong></p>
+<p><em>» He took a short cut.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -270,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The only capital letter in the Roman alphabet with exactly one end point is P. </p>
+<p>💡 Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</p>
 <hr>
-<p>💡 Fish that live more than 800 meters below the ocean surface don't have eyes.</p>
+<p>💡 The word "set" has more definitions than any other word in the English language.</p>
 <hr>
-<p>💡 Sugar was first added to chewing gum in 1869 by a dentist, William Semple.</p>
+<p>💡 What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -284,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"In the middle of every difficulty lies opportunity."</em> - Albert Einstein</p>
+  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</em> - Juuzou Suzuya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference."</em> - Robert Frost</p>
+  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
 </blockquote>
 </details>
 <p>
@@ -306,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 08, 2025</td>
-<td>08:29:37 IST</td>
+<td>Tuesday</td>
+<td>December 09, 2025</td>
+<td>08:27:11 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 09, 2025</td>
-<td>08:25:35 IST</td>
+<td>Wednesday</td>
+<td>December 10, 2025</td>
+<td>08:25:10 IST</td>
 </tr>
 </tbody>
 </table>
