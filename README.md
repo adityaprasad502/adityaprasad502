@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8698844e4fd11a5b34d1a5b56bb8045973e27f353781646f8319f0aa5fb164d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373525323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C475%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,087+ Commits made on Github</p>
+<p>🏆 5,088+ Commits made on Github</p>
 <p>📦 86.9 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -255,14 +255,15 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did the big flower say to the littler flower?</strong></p>
-<p><em>» Hi, bud!</em></p>
+<p>Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...</p>
 <hr>
-<p><strong>What does a perverted frog say?</strong></p>
-<p><em>» Rubbit.</em></p>
+<p><strong>Why did the scarecrow win an award?</strong></p>
+<p><em>» Because he was outstanding in his field.</em></p>
 <hr>
-<p><strong>Why did the barber win the race?</strong></p>
-<p><em>» He took a short cut.</em></p>
+<p><strong>Why can't your nose be 12 inches long?</strong></p>
+<p><em>» Because then it'd be a foot!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +272,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</p>
+<p>💡 Winston Churchill was born in a ladies` room during a dance.</p>
 <hr>
-<p>💡 The word "set" has more definitions than any other word in the English language.</p>
+<p>💡 The skeleton of Jeremy Bentham is present at all important meetings of the University of London</p>
 <hr>
-<p>💡 What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.</p>
+<p>💡 "You" is the second most spoken English word</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +286,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
+  <p><em>"Whether you think you can or you think you can’t, you’re right."</em> - Henry Ford</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Why should I apologize for being a monster? Has anyone ever apologized for turning me into one?"</em> - Juuzou Suzuya</p>
+  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
+  <p><em>"Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!"</em> - Don Quixote Doflamingo</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +308,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 09, 2025</td>
-<td>08:27:11 IST</td>
+<td>Wednesday</td>
+<td>December 10, 2025</td>
+<td>08:30:32 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 10, 2025</td>
-<td>08:25:10 IST</td>
+<td>Thursday</td>
+<td>December 11, 2025</td>
+<td>08:30:30 IST</td>
 </tr>
 </tbody>
 </table>
