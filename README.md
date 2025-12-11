@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8698844e4fd11a5b34d1a5b56bb8045973e27f353781646f8319f0aa5fb164d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373525323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C475%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,088+ Commits made on Github</p>
-<p>📦 86.9 MiB Used in GitHub's Storage</p>
+<p>🏆 5,089+ Commits made on Github</p>
+<p>📦 87.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -255,15 +255,17 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing...</p>
+<p><strong>Why are pirates called pirates?</strong></p>
+<p><em>» Because they arrr!</em></p>
 <hr>
-<p><strong>Why did the scarecrow win an award?</strong></p>
-<p><em>» Because he was outstanding in his field.</em></p>
+<p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
+<p><em>» Chess nuts boasting in an open foyer.</em></p>
 <hr>
-<p><strong>Why can't your nose be 12 inches long?</strong></p>
-<p><em>» Because then it'd be a foot!</em></p>
+<p><strong>Knock knock. 
+ Who's there? 
+ Cows go. 
+ Cows go who?</strong></p>
+<p><em>» No, cows go moo.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -272,11 +274,11 @@ When it's bad, it's better than nothing...</p>
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Winston Churchill was born in a ladies` room during a dance.</p>
+<p>💡 The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</p>
 <hr>
-<p>💡 The skeleton of Jeremy Bentham is present at all important meetings of the University of London</p>
+<p>💡 There is a city called Rome on every continent.</p>
 <hr>
-<p>💡 "You" is the second most spoken English word</p>
+<p>💡 Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -286,15 +288,15 @@ When it's bad, it's better than nothing...</p>
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Whether you think you can or you think you can’t, you’re right."</em> - Henry Ford</p>
+  <p><em>"Everything has beauty, but not everyone can see."</em> - Confucius</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
+  <p><em>"The moment you think of giving up, think of the reason why you held on so long."</em> - Natsu Dragneel</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!"</em> - Don Quixote Doflamingo</p>
+  <p><em>"Certain things catch your eye, but pursue only those that capture the heart."</em> -  Ancient Indian Proverb</p>
 </blockquote>
 </details>
 <p>
@@ -308,15 +310,15 @@ When it's bad, it's better than nothing...</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 10, 2025</td>
-<td>08:30:32 IST</td>
+<td>Thursday</td>
+<td>December 11, 2025</td>
+<td>08:32:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 11, 2025</td>
-<td>08:30:30 IST</td>
+<td>Friday</td>
+<td>December 12, 2025</td>
+<td>08:30:50 IST</td>
 </tr>
 </tbody>
 </table>
