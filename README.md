@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8698844e4fd11a5b34d1a5b56bb8045973e27f353781646f8319f0aa5fb164d2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373525323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C475%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,089+ Commits made on Github</p>
+<p>🏆 5,090+ Commits made on Github</p>
 <p>📦 87.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>34 hrs 34 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.1%</td>
+<td>30 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.93%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 hrs 53 mins</td>
+<td>3 hrs 14 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.07%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>3 hrs 40 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.8%</td>
+<td>8.59%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 46 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.14%</td>
-</tr> 
- <tr>
-<td>JSON</td>
 <td>2 hrs 27 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.55%</td>
+<td>6.55%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 9 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>24 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.07%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>46 mins</td>
+<td>Java</td>
+<td>23 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.45%</td>
+<td>1.03%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>15 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.68%</td>
+</tr> 
+ <tr>
+<td>Gradle Kotlin DSL</td>
+<td>10 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.47%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,22 +136,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
-<td>Android Studio</td>
-<td>25 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.02%</td>
-</tr> 
- <tr>
 <td>VS Code</td>
-<td>22 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.49%</td>
+<td>10 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.31%</td>
 </tr> 
  <tr>
-<td>Antigravity</td>
-<td>5 hrs 39 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.49%</td>
+<td>Android Studio</td>
+<td>9 hrs 29 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.69%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +160,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>53 hrs 56 mins</td>
+<td>19 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +177,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>53 hrs 56 mins</td>
+<td>19 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,17 +249,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why are pirates called pirates?</strong></p>
-<p><em>» Because they arrr!</em></p>
+<p><strong>What do you call cheese by itself?</strong></p>
+<p><em>» Provolone.</em></p>
 <hr>
 <p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
 <p><em>» Chess nuts boasting in an open foyer.</em></p>
 <hr>
-<p><strong>Knock knock. 
- Who's there? 
- Cows go. 
- Cows go who?</strong></p>
-<p><em>» No, cows go moo.</em></p>
+<p><strong>What is a vampire's favorite fruit?</strong></p>
+<p><em>» A blood orange.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -274,11 +265,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</p>
+<p>💡 There are more than 40,000 characters in the Chinese script.</p>
 <hr>
-<p>💡 There is a city called Rome on every continent.</p>
+<p>💡 Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
 <hr>
-<p>💡 Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</p>
+<p>💡 No word in the English language rhymes with month, orange, silver and purple.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -288,15 +279,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Everything has beauty, but not everyone can see."</em> - Confucius</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"The moment you think of giving up, think of the reason why you held on so long."</em> - Natsu Dragneel</p>
-</blockquote>
-<hr>
-<blockquote>
   <p><em>"Certain things catch your eye, but pursue only those that capture the heart."</em> -  Ancient Indian Proverb</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high."</em> - Hinata Miyake</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Do you need a reason to not want to lose"</em> - Shoyo Hinata</p>
 </blockquote>
 </details>
 <p>
@@ -310,15 +301,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 11, 2025</td>
-<td>08:32:53 IST</td>
+<td>Friday</td>
+<td>December 12, 2025</td>
+<td>08:31:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 12, 2025</td>
-<td>08:30:50 IST</td>
+<td>Saturday</td>
+<td>December 13, 2025</td>
+<td>08:30:05 IST</td>
 </tr>
 </tbody>
 </table>
