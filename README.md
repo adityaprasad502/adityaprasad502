@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/e34bbc2e78a16032bce594a23ba7bc26c7a9b20c66ca0e157f697332c5041a0e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373525323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C475%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/0a104245538dc1b7112793c813bddd60d3a7682d3594e17f0ae3c00b3b2948bf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373725323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C477%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,091+ Commits made on Github</p>
+<p>🏆 5,104+ Commits made on Github</p>
 <p>📦 87.0 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -57,19 +57,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>6 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.75%</td>
+<td>9 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.45%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>26 commits</td>
+<td>35 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.25%</td>
+<td>79.55%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>32 commits in December 2025</b></td>
+<td colspan="2"><b>44 commits in December 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -201,17 +201,17 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.45%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.15%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.42%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
+<td>x repos</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.18%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>15.15%</td>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did the big flower say to the littler flower?</strong></p>
-<p><em>» Hi, bud!</em></p>
+<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
+<p><em>» Inu-Washa</em></p>
 <hr>
-<p><strong>Why did the tree go to the dentist?</strong></p>
-<p><em>» It needed a root canal.</em></p>
+<p><strong>How do you get a baby alien to sleep?</strong></p>
+<p><em>»  You rocket.</em></p>
 <hr>
-<p><strong>What do prisoners use to call each other?</strong></p>
-<p><em>» Cell phones.</em></p>
+<p><strong>What kind of dog lives in a particle accelerator?</strong></p>
+<p><em>» A Fermilabrador Retriever.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 40,000 Americans are injured by toilets each year.</p>
+<p>💡 Because metal was scarce, the Oscars given out during World War II were made of wood.</p>
 <hr>
-<p>💡 The first streetlights in America were installed in Philadelphia around 1757.</p>
+<p>💡 US Dollar bills are made out of cotton and linen.</p>
 <hr>
-<p>💡 Cats’ urine glows under a black light.</p>
+<p>💡 In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"It is at the moment of death that humanity has value."</em> - Archer</p>
+  <p><em>"Hard work is worthless for those that don’t believe in themselves."</em> - Naruto Uzumaki</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 13, 2025</td>
-<td>08:23:19 IST</td>
+<td>Sunday</td>
+<td>December 14, 2025</td>
+<td>04:04:26 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 14, 2025</td>
-<td>08:20:15 IST</td>
+<td>Monday</td>
+<td>December 15, 2025</td>
+<td>04:00:25 IST</td>
 </tr>
 </tbody>
 </table>
