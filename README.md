@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/0a104245538dc1b7112793c813bddd60d3a7682d3594e17f0ae3c00b3b2948bf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334373725323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C477%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/30c1502c7b8ebc53849cfd11343912a30aa1ebaeb585d9a621108372b2b12078/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383325323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C483%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,104+ Commits made on Github</p>
-<p>📦 87.0 MiB Used in GitHub's Storage</p>
+<p>🏆 5,129+ Commits made on Github</p>
+<p>📦 87.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -45,31 +45,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - December 2025</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>3 commits</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.41%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>6 commits</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.82%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>9 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.45%</td>
+<td>24 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.29%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>35 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>79.55%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.47%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>44 commits in December 2025</b></td>
+<td colspan="2"><b>68 commits in December 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,43 +84,43 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>33 hrs 46 mins</td>
+<td>34 hrs 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>63.4%</td>
+<td>62.04%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 hrs 54 mins</td>
+<td>5 hrs 12 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.22%</td>
+<td>9.32%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 40 mins</td>
+<td>3 hrs 42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.89%</td>
+<td>6.63%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 47 mins</td>
+<td>3 hrs 32 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.24%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>2 hrs 29 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.67%</td>
+<td>6.35%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 12 mins</td>
+<td>2 hrs 34 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.15%</td>
+<td>4.62%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>2 hrs 30 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.48%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>46 mins</td>
+<td>49 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.47%</td>
 </tr>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>25 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.14%</td>
+<td>26 hrs 45 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.89%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>22 hrs 25 mins</td>
+<td>23 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.11%</td>
+<td>41.57%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>5 hrs 43 mins</td>
+<td>5 hrs 53 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.75%</td>
+<td>10.53%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>53 hrs 16 mins</td>
+<td>55 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>53 hrs 16 mins</td>
+<td>55 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
-<p><em>» Inu-Washa</em></p>
+<p><strong>Why did the girl smear peanut butter on the road?</strong></p>
+<p><em>» To go with the traffic jam.</em></p>
 <hr>
-<p><strong>How do you get a baby alien to sleep?</strong></p>
-<p><em>»  You rocket.</em></p>
+<p><strong>why do python programmers wear glasses?</strong></p>
+<p><em>» Because they can't C.</em></p>
 <hr>
-<p><strong>What kind of dog lives in a particle accelerator?</strong></p>
-<p><em>» A Fermilabrador Retriever.</em></p>
+<p><strong>Misa- I would never dream of a world without Ligt!</strong></p>
+<p><em>» L: Yes, that would be dark.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Because metal was scarce, the Oscars given out during World War II were made of wood.</p>
+<p>💡 Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
 <hr>
-<p>💡 US Dollar bills are made out of cotton and linen.</p>
+<p>💡 A horse can look forward with one eye and back with the other.</p>
 <hr>
-<p>💡 In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.</p>
+<p>💡 The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Hard work is worthless for those that don’t believe in themselves."</em> - Naruto Uzumaki</p>
+  <p><em>"Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"</em> - Izuku Midoriya</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People’s lives don’t end when they die, it ends when they lose faith."</em> - Itachi Uchiha</p>
+  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Do not think about other things, there is only one thing you can do. So master that one thing. Do not forget. What you must imagine is always that you, yourself, are the strongest. You do not need outside enemies. For you, the one you have to fight is none other than your own image."</em> - Archer</p>
+  <p><em>"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."</em> - Aristotle</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>December 14, 2025</td>
-<td>04:04:26 IST</td>
+<td>Monday</td>
+<td>December 15, 2025</td>
+<td>04:04:10 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>December 15, 2025</td>
-<td>04:00:25 IST</td>
+<td>Tuesday</td>
+<td>December 16, 2025</td>
+<td>04:00:10 IST</td>
 </tr>
 </tbody>
 </table>
