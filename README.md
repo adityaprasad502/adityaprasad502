@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/30c1502c7b8ebc53849cfd11343912a30aa1ebaeb585d9a621108372b2b12078/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383325323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C483%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,129+ Commits made on Github</p>
+<p>🏆 5,130+ Commits made on Github</p>
 <p>📦 87.1 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>34 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.04%</td>
+<td>37 hrs 26 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>63.92%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>4 hrs 30 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.68%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>5 hrs 12 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.32%</td>
+<td>4 hrs 2 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.91%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.63%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 32 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.35%</td>
+<td>6.32%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 34 mins</td>
+<td>2 hrs 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.62%</td>
+<td>4.45%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 hrs 30 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.48%</td>
+<td>4.29%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>49 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.47%</td>
+<td>1.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>26 hrs 45 mins</td>
+<td>29 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.89%</td>
+<td>49.54%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>23 hrs 13 mins</td>
+<td>23 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.57%</td>
+<td>40.41%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 53 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.53%</td>
+<td>10.05%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>55 hrs 51 mins</td>
+<td>58 hrs 35 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>55 hrs 51 mins</td>
+<td>58 hrs 35 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why did the girl smear peanut butter on the road?</strong></p>
-<p><em>» To go with the traffic jam.</em></p>
+<p><strong>What is the hardest part about sky diving?</strong></p>
+<p><em>» The ground.</em></p>
 <hr>
-<p><strong>why do python programmers wear glasses?</strong></p>
-<p><em>» Because they can't C.</em></p>
+<p><strong>"99.9% of the people are dumb!"</strong></p>
+<p><em>» "Fortunately I belong to the remaining 1%"</em></p>
 <hr>
-<p><strong>Misa- I would never dream of a world without Ligt!</strong></p>
-<p><em>» L: Yes, that would be dark.</em></p>
+<p><strong>Why is seven bigger than nine?</strong></p>
+<p><em>» Because seven ate nine.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
+<p>💡 Emus and kangaroos can't walk backwards.</p>
 <hr>
-<p>💡 A horse can look forward with one eye and back with the other.</p>
+<p>💡 Because metal was scarce, the Oscars given out during World War II were made of wood.</p>
 <hr>
-<p>💡 The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</p>
+<p>💡 More Monopoly money is printed in a year, than real money throughout the world.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Sometimes I do feel like I’m a failure. Like there’s no hope for me. But even so, I’m not gonna give up. Ever!"</em> - Izuku Midoriya</p>
+  <p><em>"If you keep on hiding your true feelings, who is going to be happy? If you are sad, you should say it out loud!"</em> - Haruhi Fujioka</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you can’t do something, then don’t. Focus on what you can."</em> - Shiroe</p>
+  <p><em>"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference."</em> - Robert Frost</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There is only one way to avoid criticism: do nothing, say nothing, and be nothing."</em> - Aristotle</p>
+  <p><em>"Life is 10% what happens to me and 90% of how I react to it."</em> - Charles Swindoll</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 15, 2025</td>
-<td>04:04:10 IST</td>
+<td>Tuesday</td>
+<td>December 16, 2025</td>
+<td>04:07:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 16, 2025</td>
-<td>04:00:10 IST</td>
+<td>Wednesday</td>
+<td>December 17, 2025</td>
+<td>04:05:05 IST</td>
 </tr>
 </tbody>
 </table>
