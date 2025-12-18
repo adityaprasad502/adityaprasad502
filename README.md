@@ -28,8 +28,8 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/30c1502c7b8ebc53849cfd11343912a30aa1ebaeb585d9a621108372b2b12078/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383325323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C483%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,132+ Commits made on Github</p>
-<p>📦 87.1 MiB Used in GitHub's Storage</p>
+<p>🏆 5,156+ Commits made on Github</p>
+<p>📦 87.2 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -84,39 +84,39 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>30 hrs 13 mins</td>
+<td>30 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.55%</td>
+<td>61.48%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 49 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.8%</td>
+<td>7.82%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.54%</td>
+<td>7.56%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.49%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.31%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 hrs 30 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.12%</td>
+<td>5.13%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>23 hrs 41 mins</td>
+<td>23 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.26%</td>
+<td>48.17%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>19 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.75%</td>
+<td>39.82%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 53 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.99%</td>
+<td>12.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>49 hrs 6 mins</td>
+<td>49 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>49 hrs 6 mins</td>
+<td>49 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -201,44 +201,44 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>xx repos</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.42%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.12%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.18%</td>
+<td>17.65%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.15%</td>
+<td>14.71%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.12%</td>
+<td>11.76%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.03%</td>
+<td>2.94%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.03%</td>
+<td>2.94%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.03%</td>
+<td>2.94%</td>
 </tr>
 </tbody></table>
 </details>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why did the coffee file a police report?</strong></p>
-<p><em>» It got mugged!</em></p>
+<p><strong>What is a pokemon fan's favorite place in France?</strong></p>
+<p><em>» PARAS</em></p>
 <hr>
-<p><strong>What kind of car did Whitney Houston drive?</strong></p>
-<p><em>» A Hyundaiiiiiiiiiiii</em></p>
+<p><strong>If you see a robbery at an Apple Store...</strong></p>
+<p><em>» Does that make you an iWitness?</em></p>
 <hr>
-<p><strong>What kind of tree fits in your hand?</strong></p>
-<p><em>» A palm tree!</em></p>
+<p><strong>What does a turkey dress up as for Halloween?</strong></p>
+<p><em>» A gobblin'!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The only capital letter in the Roman alphabet with exactly one end point is P. </p>
+<p>💡 `Obsession` is the most popular boat name.</p>
 <hr>
-<p>💡 Human thighbones are stronger than concrete.</p>
+<p>💡 Oak trees do not produce acorns until they are fifty years of age or older.</p>
 <hr>
-<p>💡 If you keep a goldfish in the dark room, it will eventually turn white.</p>
+<p>💡 There are more than 40,000 characters in the Chinese script.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"It’s more important to master the cards you’re holding than to complain about the ones your opponent was dealt."</em> - Grimsley</p>
+  <p><em>"Everything you’ve ever wanted is on the other side of fear."</em> - George Addair</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The greatest glory in living lies not in never falling, but in rising every time we fall."</em> - Nelson Mandela</p>
+  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being weak means that there is room to grow"</em> - Ittetsu Takeda</p>
+  <p><em>"Reject common sense to make the impossible possible."</em> - Simon</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 18, 2025</td>
-<td>04:07:21 IST</td>
+<td>Friday</td>
+<td>December 19, 2025</td>
+<td>04:06:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 19, 2025</td>
-<td>04:05:20 IST</td>
+<td>Saturday</td>
+<td>December 20, 2025</td>
+<td>04:05:40 IST</td>
 </tr>
 </tbody>
 </table>
