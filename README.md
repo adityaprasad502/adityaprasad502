@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/30c1502c7b8ebc53849cfd11343912a30aa1ebaeb585d9a621108372b2b12078/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383325323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C483%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,156+ Commits made on Github</p>
+<p>🏆 5,157+ Commits made on Github</p>
 <p>📦 87.2 MiB Used in GitHub's Storage</p>
 <p>📜 5 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>30 hrs 8 mins</td>
+<td>29 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.48%</td>
+<td>60.93%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 49 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.82%</td>
+<td>7.93%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.56%</td>
+<td>7.66%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.5%</td>
+<td>5.58%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.31%</td>
+<td>5.39%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 hrs 30 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.13%</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>49 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.67%</td>
+<td>1.69%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>23 hrs 36 mins</td>
+<td>23 hrs 3 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.17%</td>
+<td>47.72%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>19 hrs 31 mins</td>
+<td>19 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.82%</td>
+<td>40.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 53 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.01%</td>
+<td>12.18%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>49 hrs</td>
+<td>48 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>49 hrs</td>
+<td>48 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What is a pokemon fan's favorite place in France?</strong></p>
-<p><em>» PARAS</em></p>
+<p><strong>What do you call a monkey in a mine field?</strong></p>
+<p><em>» A babooooom!</em></p>
 <hr>
-<p><strong>If you see a robbery at an Apple Store...</strong></p>
-<p><em>» Does that make you an iWitness?</em></p>
+<p><strong>Where do rabbits go after they get married?</strong></p>
+<p><em>» On a bunny-moon.</em></p>
 <hr>
-<p><strong>What does a turkey dress up as for Halloween?</strong></p>
-<p><em>» A gobblin'!</em></p>
+<p><strong>Did you hear about the crime in the parking garage?</strong></p>
+<p><em>» It was wrong on so many levels.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 `Obsession` is the most popular boat name.</p>
+<p>💡 Porcupines can float in water.</p>
 <hr>
-<p>💡 Oak trees do not produce acorns until they are fifty years of age or older.</p>
+<p>💡 For every 230 cars that are made, 1 will be stolen.</p>
 <hr>
-<p>💡 There are more than 40,000 characters in the Chinese script.</p>
+<p>💡 Of all the words in the English language, the word 'set' has the most definitions!</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Everything you’ve ever wanted is on the other side of fear."</em> - George Addair</p>
+  <p><em>"Remember that not getting what you want is sometimes a wonderful stroke of luck."</em> - Dalai Lama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Fall seven times and stand up eight."</em> - Japanese Proverb</p>
+  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Reject common sense to make the impossible possible."</em> - Simon</p>
+  <p><em>"Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder."</em> - Gildarts Clive</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 19, 2025</td>
-<td>04:06:40 IST</td>
+<td>Saturday</td>
+<td>December 20, 2025</td>
+<td>04:06:25 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 20, 2025</td>
-<td>04:05:40 IST</td>
+<td>Sunday</td>
+<td>December 21, 2025</td>
+<td>04:05:25 IST</td>
 </tr>
 </tbody>
 </table>
