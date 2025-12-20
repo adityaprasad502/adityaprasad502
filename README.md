@@ -28,9 +28,9 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/30c1502c7b8ebc53849cfd11343912a30aa1ebaeb585d9a621108372b2b12078/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383325323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C483%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,157+ Commits made on Github</p>
+<p>🏆 5,166+ Commits made on Github</p>
 <p>📦 87.2 MiB Used in GitHub's Storage</p>
-<p>📜 5 Public Repositories</p>
+<p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
 <div class="markdown-heading"><h2 align="center" class="heading-element">📊 I Spend My Time On 📊</h2><a id="user-content--i-spend-my-time-on-" class="anchor" aria-label="Permalink: 📊 I Spend My Time On 📊" href="#-i-spend-my-time-on-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>29 hrs 26 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.93%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 49 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.93%</td>
+<td>23 hrs 32 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.88%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.66%</td>
+<td>8.95%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>2 hrs 41 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.58%</td>
+<td>XML</td>
+<td>3 hrs 25 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.29%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.39%</td>
+<td>6.29%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 hrs 30 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>6.08%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 hrs 8 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.16%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>49 mins</td>
+<td>48 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.69%</td>
+<td>1.97%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>23 hrs 3 mins</td>
+<td>20 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.72%</td>
+<td>50.49%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>19 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.1%</td>
+<td>14 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.28%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 53 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.18%</td>
+<td>14.23%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>48 hrs 19 mins</td>
+<td>41 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>48 hrs 19 mins</td>
+<td>41 hrs 22 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -202,43 +202,43 @@ fun main() {
 <td>Python</td>
 <td>xx repos</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.12%</td>
+<td>45.71%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>x repos</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.65%</td>
+<td>17.14%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>x repos</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.71%</td>
+<td>14.29%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>x repos</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.76%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.43%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.94%</td>
+<td>2.86%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.94%</td>
+<td>2.86%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>x repos</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.94%</td>
+<td>2.86%</td>
 </tr>
 </tbody></table>
 </details>
@@ -255,14 +255,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call a monkey in a mine field?</strong></p>
-<p><em>» A babooooom!</em></p>
+<p><strong>How can you tell a vampire has a cold?</strong></p>
+<p><em>» They start coffin.</em></p>
 <hr>
-<p><strong>Where do rabbits go after they get married?</strong></p>
-<p><em>» On a bunny-moon.</em></p>
+<p><strong>Ever wondered why bees hum?</strong></p>
+<p><em>» It's because they don't know the words.</em></p>
 <hr>
-<p><strong>Did you hear about the crime in the parking garage?</strong></p>
-<p><em>» It was wrong on so many levels.</em></p>
+<p><strong>Why do wizards clean their teeth three times a day?</strong></p>
+<p><em>» To prevent bat breath!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Porcupines can float in water.</p>
+<p>💡 It is illegal to hunt camels in the state of Arizona.</p>
 <hr>
-<p>💡 For every 230 cars that are made, 1 will be stolen.</p>
+<p>💡 About 14% of injecting drug users are HIV positive.</p>
 <hr>
-<p>💡 Of all the words in the English language, the word 'set' has the most definitions!</p>
+<p>💡 Coca-Cola was originally green.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +285,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Remember that not getting what you want is sometimes a wonderful stroke of luck."</em> - Dalai Lama</p>
+  <p><em>"People who can’t throw something important away, can never hope to change anything."</em> - Armin Arlelt</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
+  <p><em>"You miss 100% of the shots you don’t take."</em> - Wayne Gretzky</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder."</em> - Gildarts Clive</p>
+  <p><em>"If you can’t find a reason to fight, then you shouldn’t be fighting."</em> - Akame</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 20, 2025</td>
-<td>04:06:25 IST</td>
+<td>Sunday</td>
+<td>December 21, 2025</td>
+<td>04:03:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 21, 2025</td>
-<td>04:05:25 IST</td>
+<td>Monday</td>
+<td>December 22, 2025</td>
+<td>04:00:45 IST</td>
 </tr>
 </tbody>
 </table>
