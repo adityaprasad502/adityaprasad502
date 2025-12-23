@@ -25,11 +25,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/73a2ba8f81248a4b292c0e52304fcbae847844a3107447a842cb09ac964cf54f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383325323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C483%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/0bdc85536e64c36e0d4f441bfdff93e41042e27d33ce3bb87be4abbb7c9d100d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383625323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C486%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,169+ Commits made on Github</p>
-<p>📦 87.2 MiB Used in GitHub's Storage</p>
+<p>🏆 5,173+ Commits made on Github</p>
+<p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -47,29 +47,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>3 commits</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.41%</td>
+<td>4.23%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>6 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.82%</td>
+<td>8.45%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>24 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.29%</td>
+<td>33.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>35 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.47%</td>
+<td>38 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.52%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>68 commits in December 2025</b></td>
+<td colspan="2"><b>71 commits in December 2025</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -85,38 +85,38 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>18 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.53%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.42%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.55%</td>
+<td>10.53%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 9 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.0%</td>
+<td>8.98%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 36 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.42%</td>
+<td>2 hrs 40 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.62%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>2 hrs 30 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.17%</td>
+<td>7.15%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 8 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.09%</td>
+<td>6.07%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -139,19 +139,19 @@ fun main() {
 <td>Android Studio</td>
 <td>17 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.64%</td>
+<td>49.53%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 47 mins</td>
+<td>11 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.58%</td>
+<td>33.73%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>5 hrs 53 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.78%</td>
+<td>16.74%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>35 hrs 5 mins</td>
+<td>35 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>35 hrs 5 mins</td>
+<td>35 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -255,14 +255,16 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call cheese by itself?</strong></p>
-<p><em>» Provolone.</em></p>
+<p><strong>Knock knock. 
+ Who's there? 
+ A broken pencil. 
+ A broken pencil who?</strong></p>
+<p><em>» Never mind. It's pointless.</em></p>
 <hr>
-<p><strong>Why did the web developer walk out of a resturant in disgust?</strong></p>
-<p><em>» The seating was laid out in tables.</em></p>
+<p>I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.</p>
 <hr>
-<p><strong>Why do mathematicians hate the U.S.?</strong></p>
-<p><em>» Because it's indivisible.</em></p>
+<p><strong>Did you hear about the new restaurant on the moon?</strong></p>
+<p><em>» The food is great, but there’s just no atmosphere.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -271,11 +273,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 In medieval France, unfaithful wives were made to chase a chicken through town naked.</p>
+<p>💡 The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</p>
 <hr>
-<p>💡 The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</p>
+<p>💡 3.9% of all women do not wear underwear.</p>
 <hr>
-<p>💡 The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.</p>
+<p>💡 If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -285,15 +287,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Your time is limited, so don’t waste it living someone else’s life."</em> - Steve Jobs</p>
+  <p><em>"Success is not final, failure is not fatal: It is the courage to continue that counts."</em> - Winston Churchill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Education costs money.  But then so does ignorance."</em> - Sir Claus Moser</p>
+  <p><em>"The person who says it cannot be done should not interrupt the person who is doing it."</em> - Chinese Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Go confidently in the direction of your dreams.  Live the life you have imagined."</em> - Henry David Thoreau</p>
+  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
 </blockquote>
 </details>
 <p>
@@ -307,15 +309,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>December 23, 2025</td>
-<td>04:06:45 IST</td>
+<td>Wednesday</td>
+<td>December 24, 2025</td>
+<td>04:05:40 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>December 24, 2025</td>
-<td>04:05:45 IST</td>
+<td>Thursday</td>
+<td>December 25, 2025</td>
+<td>04:05:40 IST</td>
 </tr>
 </tbody>
 </table>
