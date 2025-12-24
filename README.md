@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/0bdc85536e64c36e0d4f441bfdff93e41042e27d33ce3bb87be4abbb7c9d100d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383625323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C486%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/f43b99144742e1001699d60b73a71e3b2acb903d4e006ef9e80d6f3a402de4b4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C487%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,173+ Commits made on Github</p>
+<p>🏆 5,174+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -85,44 +85,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>18 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.42%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.73%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.53%</td>
+<td>9.59%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>3 hrs 15 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.43%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 9 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.98%</td>
+<td>8.16%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 hrs 58 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.67%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 40 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.62%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>2 hrs 30 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.15%</td>
+<td>6.93%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>2 hrs 8 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.07%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>48 mins</td>
+<td>Blade Template</td>
+<td>59 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.32%</td>
+<td>2.56%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,20 +138,20 @@ fun main() {
  <tr>
 <td>Android Studio</td>
 <td>17 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.53%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.01%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.73%</td>
+<td>14 hrs 59 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.76%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>5 hrs 53 mins</td>
+<td>6 hrs 16 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.74%</td>
+<td>16.23%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>35 hrs 10 mins</td>
+<td>38 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,9 +183,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>35 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>36 hrs 31 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>94.37%</td>
+</tr> 
+ <tr>
+<td>CITPC1142</td>
+<td>2 hrs 10 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.63%</td>
 </tr>
 </tbody></table>
 </details>
@@ -255,16 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Knock knock. 
- Who's there? 
- A broken pencil. 
- A broken pencil who?</strong></p>
-<p><em>» Never mind. It's pointless.</em></p>
+<p><strong>What do you call an Argentinian with a rubber toe?</strong></p>
+<p><em>» Roberto</em></p>
 <hr>
-<p>I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.</p>
+<p><strong>What do you call a careful wolf?</strong></p>
+<p><em>» Aware wolf.</em></p>
 <hr>
-<p><strong>Did you hear about the new restaurant on the moon?</strong></p>
-<p><em>» The food is great, but there’s just no atmosphere.</em></p>
+<p><strong>How do you generate a random string?</strong></p>
+<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -273,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The three most recognized Western names in China are Jesus Christ, Richard Nixon, &amp; Elvis Presley.</p>
+<p>💡 Spain leads the world in cork production</p>
 <hr>
-<p>💡 3.9% of all women do not wear underwear.</p>
+<p>💡 CBS` "60 Minutes" is the only TV show without a theme song/music.</p>
 <hr>
-<p>💡 If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
+<p>💡 When you sneeze, all your bodily functions stop even your heart.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -287,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Success is not final, failure is not fatal: It is the courage to continue that counts."</em> - Winston Churchill</p>
+  <p><em>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</em> - Albert Schweitzer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The person who says it cannot be done should not interrupt the person who is doing it."</em> - Chinese Proverb</p>
+  <p><em>"Reject common sense to make the impossible possible."</em> - Simon</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
+  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
 </blockquote>
 </details>
 <p>
@@ -309,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 24, 2025</td>
-<td>04:05:40 IST</td>
+<td>Thursday</td>
+<td>December 25, 2025</td>
+<td>04:06:09 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>December 25, 2025</td>
-<td>04:05:40 IST</td>
+<td>Friday</td>
+<td>December 26, 2025</td>
+<td>04:05:05 IST</td>
 </tr>
 </tbody>
 </table>
