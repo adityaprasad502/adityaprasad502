@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/f43b99144742e1001699d60b73a71e3b2acb903d4e006ef9e80d6f3a402de4b4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383725323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C487%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/2893b7c929971ce60bc69532f26c21b822227d5dde6e8b0e78b2af2291b41691/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383725323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C487%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,174+ Commits made on Github</p>
+<p>🏆 5,175+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -86,43 +86,43 @@ fun main() {
 <td>Kotlin</td>
 <td>18 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.73%</td>
+<td>46.1%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.59%</td>
+<td>9.46%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>3 hrs 15 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.43%</td>
+<td>8.31%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 9 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.16%</td>
+<td>8.05%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.67%</td>
+<td>7.57%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 40 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.93%</td>
+<td>6.84%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>59 mins</td>
+<td>1 hr 12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.56%</td>
+<td>3.08%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,19 +139,19 @@ fun main() {
 <td>Android Studio</td>
 <td>17 hrs 25 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.01%</td>
+<td>44.41%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>14 hrs 59 mins</td>
+<td>15 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.76%</td>
+<td>39.02%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>6 hrs 16 mins</td>
+<td>6 hrs 29 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.23%</td>
+<td>16.57%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>38 hrs 41 mins</td>
+<td>39 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,15 +183,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>36 hrs 31 mins</td>
+<td>36 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>94.37%</td>
+<td>93.1%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>2 hrs 10 mins</td>
+<td>2 hrs 42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.63%</td>
+<td>6.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,14 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What do you call an Argentinian with a rubber toe?</strong></p>
-<p><em>» Roberto</em></p>
+<p><strong>What kind of dog lives in a particle accelerator?</strong></p>
+<p><em>» A Fermilabrador Retriever.</em></p>
 <hr>
-<p><strong>What do you call a careful wolf?</strong></p>
-<p><em>» Aware wolf.</em></p>
+<p><strong>How do Rednecks celebrate Halloween?</strong></p>
+<p><em>» Pump kin!</em></p>
 <hr>
-<p><strong>How do you generate a random string?</strong></p>
-<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
+<p><strong>How many optometrists does it take to change a light bulb?</strong></p>
+<p><em>» 1 or 2? 1... or 2?</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -277,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Spain leads the world in cork production</p>
+<p>💡 Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</p>
 <hr>
-<p>💡 CBS` "60 Minutes" is the only TV show without a theme song/music.</p>
+<p>💡 A spider has transparent blood.</p>
 <hr>
-<p>💡 When you sneeze, all your bodily functions stop even your heart.</p>
+<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -291,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</em> - Albert Schweitzer</p>
+  <p><em>"To act is not necessarily compassion. True compassion sometimes comes from inaction."</em> - Hinata Miyake</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Reject common sense to make the impossible possible."</em> - Simon</p>
+  <p><em>"Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high."</em> - Hinata Miyake</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Nothing is impossible, the word itself says, “I’m possible!”"</em> - –Audrey Hepburn</p>
+  <p><em>"Winning isn’t everything, but wanting to win is."</em> - Vince Lombardi</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>December 25, 2025</td>
-<td>04:06:09 IST</td>
+<td>Friday</td>
+<td>December 26, 2025</td>
+<td>04:06:14 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>December 26, 2025</td>
-<td>04:05:05 IST</td>
+<td>Saturday</td>
+<td>December 27, 2025</td>
+<td>04:05:10 IST</td>
 </tr>
 </tbody>
 </table>
