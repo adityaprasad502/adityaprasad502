@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/2893b7c929971ce60bc69532f26c21b822227d5dde6e8b0e78b2af2291b41691/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334383725323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C487%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,175+ Commits made on Github</p>
+<p>🏆 5,176+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>18 hrs 4 mins</td>
+<td>18 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.1%</td>
+<td>46.3%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.46%</td>
+<td>9.44%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>3 hrs 15 mins</td>
+<td>3 hrs 13 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.31%</td>
+<td>8.22%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 9 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.05%</td>
+<td>8.03%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.57%</td>
+<td>7.55%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 40 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.84%</td>
+<td>6.82%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 12 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.08%</td>
+<td>3.07%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,21 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>17 hrs 25 mins</td>
+<td>17 hrs 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.41%</td>
+<td>44.61%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 18 mins</td>
+<td>15 hrs 16 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.02%</td>
+<td>38.86%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>6 hrs 29 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.57%</td>
+<td>16.53%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +166,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>39 hrs 13 mins</td>
+<td>39 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,15 +183,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>36 hrs 30 mins</td>
+<td>36 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.1%</td>
+<td>93.12%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>2 hrs 42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>6.88%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,14 +261,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What kind of dog lives in a particle accelerator?</strong></p>
-<p><em>» A Fermilabrador Retriever.</em></p>
+<p><strong>Why did the Romanian stop reading?</strong></p>
+<p><em>» They wanted to give the Bucharest.</em></p>
 <hr>
-<p><strong>How do Rednecks celebrate Halloween?</strong></p>
-<p><em>» Pump kin!</em></p>
+<p><strong>What do you call an eagle who can play the piano?</strong></p>
+<p><em>» Talonted!</em></p>
 <hr>
-<p><strong>How many optometrists does it take to change a light bulb?</strong></p>
-<p><em>» 1 or 2? 1... or 2?</em></p>
+<p><strong>I just got fired from my job at the keyboard factory.</strong></p>
+<p><em>» They told me I wasn't putting in enough shifts.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -277,11 +277,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</p>
+<p>💡 An Olympic gold medal must contain 92.5 percent silver</p>
 <hr>
-<p>💡 A spider has transparent blood.</p>
+<p>💡 Sex burns 360 calories per hour.</p>
 <hr>
-<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p>💡 During the chariot scene in "Ben Hur," a small red car can be seen in the distance.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -291,15 +291,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"To act is not necessarily compassion. True compassion sometimes comes from inaction."</em> - Hinata Miyake</p>
+  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high."</em> - Hinata Miyake</p>
+  <p><em>"Remember that not getting what you want is sometimes a wonderful stroke of luck."</em> - Dalai Lama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Winning isn’t everything, but wanting to win is."</em> - Vince Lombardi</p>
+  <p><em>"If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough."</em> - Oprah Winfrey</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +313,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>December 26, 2025</td>
-<td>04:06:14 IST</td>
+<td>Saturday</td>
+<td>December 27, 2025</td>
+<td>04:06:27 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>December 27, 2025</td>
-<td>04:05:10 IST</td>
+<td>Sunday</td>
+<td>December 28, 2025</td>
+<td>04:05:25 IST</td>
 </tr>
 </tbody>
 </table>
