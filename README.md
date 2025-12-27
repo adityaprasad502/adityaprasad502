@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,176+ Commits made on Github</p>
+<p>🏆 5,177+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>18 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.3%</td>
+<td>11 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 42 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.44%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.65%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>3 hrs 13 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.22%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 9 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.03%</td>
+<td>10.15%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.55%</td>
+<td>9.32%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 43 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.53%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>2 hrs 40 mins</td>
+<td>2 hrs 16 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.82%</td>
+<td>7.16%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 12 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.07%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.79%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,21 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>Android Studio</td>
-<td>17 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.61%</td>
+<td>13 hrs 33 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.54%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 16 mins</td>
+<td>12 hrs 1 min</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.86%</td>
+<td>37.75%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>6 hrs 29 mins</td>
+<td>5 hrs 48 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.53%</td>
+<td>18.24%</td>
+</tr> 
+ <tr>
+<td>IntelliJ IDEA</td>
+<td>28 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.47%</td>
 </tr>
 </tbody></table>
 </details>
@@ -166,7 +172,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>39 hrs 18 mins</td>
+<td>31 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -183,15 +189,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>36 hrs 36 mins</td>
+<td>29 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>93.12%</td>
+<td>91.51%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>2 hrs 42 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.88%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.49%</td>
 </tr>
 </tbody></table>
 </details>
@@ -261,14 +267,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why did the Romanian stop reading?</strong></p>
-<p><em>» They wanted to give the Bucharest.</em></p>
+<p><strong>Why did the programmer go broke?</strong></p>
+<p><em>» He used up all his cache</em></p>
 <hr>
-<p><strong>What do you call an eagle who can play the piano?</strong></p>
-<p><em>» Talonted!</em></p>
+<p><strong>Why did the Clydesdale give the pony a glass of water?</strong></p>
+<p><em>» Because he was a little horse!</em></p>
 <hr>
-<p><strong>I just got fired from my job at the keyboard factory.</strong></p>
-<p><em>» They told me I wasn't putting in enough shifts.</em></p>
+<p><strong>What do Saiyans wear to Beach?</strong></p>
+<p><em>» Titanic.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -277,11 +283,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 An Olympic gold medal must contain 92.5 percent silver</p>
+<p>💡 The praying mantis is the only insect that can turn its head</p>
 <hr>
-<p>💡 Sex burns 360 calories per hour.</p>
+<p>💡 One quarter of the bones in your body, are in your feet!</p>
 <hr>
-<p>💡 During the chariot scene in "Ben Hur," a small red car can be seen in the distance.</p>
+<p>💡 There were 240 pedestrian fatalities in New York City in 1994.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -291,15 +297,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!"</em> - Natsu Dragneel</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Remember that not getting what you want is sometimes a wonderful stroke of luck."</em> - Dalai Lama</p>
+  <p><em>"If the wind will not serve, take to the oars."</em> - Latin Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough."</em> - Oprah Winfrey</p>
+  <p><em>"You take your life in your own hands, and what happens? A terrible thing, no one to blame."</em> - Erica Jong</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +319,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>December 27, 2025</td>
-<td>04:06:27 IST</td>
+<td>Sunday</td>
+<td>December 28, 2025</td>
+<td>04:05:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>December 28, 2025</td>
-<td>04:05:25 IST</td>
+<td>Monday</td>
+<td>December 29, 2025</td>
+<td>04:05:00 IST</td>
 </tr>
 </tbody>
 </table>
