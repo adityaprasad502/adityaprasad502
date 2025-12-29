@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,178+ Commits made on Github</p>
+<p>🏆 5,179+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -84,45 +84,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>8 hrs 47 mins</td>
+<td>8 hrs 21 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.02%</td>
+<td>30.89%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 42 mins</td>
+<td>3 hrs 33 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.1%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>3 hrs 13 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.41%</td>
+<td>13.18%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.48%</td>
+<td>10.98%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>2 hrs 33 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.44%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>2 hrs 16 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.05%</td>
+<td>8.43%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.35%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 12 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.26%</td>
+<td>4.46%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +137,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 1 min</td>
+<td>11 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.47%</td>
+<td>42.58%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>10 hrs</td>
+<td>9 hrs 33 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.36%</td>
+<td>35.35%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>5 hrs 48 mins</td>
+<td>5 hrs 29 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.52%</td>
+<td>20.33%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.66%</td>
+<td>1.73%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,7 +172,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>28 hrs 19 mins</td>
+<td>27 hrs 2 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -189,15 +189,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>25 hrs 36 mins</td>
+<td>24 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>90.45%</td>
+<td>89.99%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>2 hrs 42 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.55%</td>
+<td>10.01%</td>
 </tr>
 </tbody></table>
 </details>
@@ -267,14 +267,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What does a pirate pay for his corn?</strong></p>
-<p><em>» A buccaneer!</em></p>
+<p><strong>I was gonna tell you a joke about UDP...</strong></p>
+<p><em>» ...but you might not get it.</em></p>
 <hr>
-<p><strong>Why did the belt go to prison?</strong></p>
-<p><em>» He held up a pair of pants!</em></p>
+<p><strong>What do you call a Titan who can't swim?</strong></p>
+<p><em>» Titanic.</em></p>
 <hr>
-<p><strong>Where did you learn to make ice cream?</strong></p>
-<p><em>» Sunday school.</em></p>
+<p><strong>When is a door not a door?</strong></p>
+<p><em>» When it's ajar.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -283,11 +283,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 John Adams, Thomas Jefferson, and James Monroe died on July 4th.</p>
+<p>💡 Rubber bands last longer when refrigerated.  </p>
 <hr>
-<p>💡 In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.</p>
+<p>💡 166,875,000,000 pieces of mail are delivered each year in the US</p>
 <hr>
-<p>💡 Alabama was the first state to recognize Christmas as an official holiday.</p>
+<p>💡 A man's beard grows fastest when he anticipates sex.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -297,15 +297,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Whatever you do, enjoy it to the fullest. That is the secret of life."</em> - Rider</p>
+  <p><em>"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living."</em> - Erza Scarlet</p>
+  <p><em>"Do what you can, where you are, with what you have."</em> - Teddy Roosevelt</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The greatest pleasure in life is doing what people say you cannot do."</em> - Walter Bagehot</p>
+  <p><em>"I would rather die of passion than of boredom."</em> - Vincent van Gogh</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +319,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>December 29, 2025</td>
-<td>04:06:38 IST</td>
+<td>Tuesday</td>
+<td>December 30, 2025</td>
+<td>04:06:03 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>December 30, 2025</td>
-<td>04:05:35 IST</td>
+<td>Wednesday</td>
+<td>December 31, 2025</td>
+<td>04:05:00 IST</td>
 </tr>
 </tbody>
 </table>
