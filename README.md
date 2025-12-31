@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,180+ Commits made on Github</p>
+<p>🏆 5,181+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -42,35 +42,7 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - December 2025</th></tr> 
- <tr>
-<td>🌞 Morning</td>
-<td>3 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.23%</td>
-</tr> 
- <tr>
-<td>🌆 Daytime</td>
-<td>6 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.45%</td>
-</tr> 
- <tr>
-<td>🌃 Evening</td>
-<td>24 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.8%</td>
-</tr> 
- <tr>
-<td>🌙 Night</td>
-<td>38 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.52%</td>
-</tr>
-<tr>
-<td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>71 commits in December 2025</b></td>
-</tr>
+<tbody><tr><th colspan="4">📅 No commits found in January 2026</th></tr>
 </tbody></table>
 </details>
 <p>
@@ -84,45 +56,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>8 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.77%</td>
+<td>7 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.51%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>2 hrs 16 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.22%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 hrs 5 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.49%</td>
+<td>15.47%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 4 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.41%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>1 hr 54 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.71%</td>
+<td>10.81%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 12 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.88%</td>
+<td>6.29%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>1 hr 11 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.22%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>1 hr 7 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.87%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 3 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.49%</td>
 </tr>
 </tbody></table>
 </details>
@@ -137,27 +109,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>11 hrs 16 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.57%</td>
+<td>9 hrs 42 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.63%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>9 hrs 33 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.65%</td>
+<td>8 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.56%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>3 hrs 25 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.88%</td>
+<td>50 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.37%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>2.44%</td>
 </tr>
 </tbody></table>
 </details>
@@ -172,7 +144,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>24 hrs 43 mins</td>
+<td>19 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -189,15 +161,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>22 hrs 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>89.06%</td>
+<td>16 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>85.89%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>2 hrs 42 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.94%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.11%</td>
 </tr>
 </tbody></table>
 </details>
@@ -267,14 +239,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>So I made a graph of all my past relationships.</strong></p>
-<p><em>» It has an ex axis and a why axis.</em></p>
+<p><strong>Why there is no sign of life on mars?</strong></p>
+<p><em>» SAITAMA has been to mars before That’s why there's no sign of life</em></p>
 <hr>
-<p><strong>What did the cell say when his sister cell stepped on his foot?</strong></p>
-<p><em>» Mitosis.</em></p>
+<p><strong>What do you do when you see a space man?</strong></p>
+<p><em>» Park your car, man.</em></p>
 <hr>
-<p><strong>How do you make a tissue dance?</strong></p>
-<p><em>» Put a little boogie in it!</em></p>
+<p><strong>What's the best time to go to the dentist?</strong></p>
+<p><em>» Tooth hurty.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -283,11 +255,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.</p>
+<p>💡 Baby robins eat 14 feet of earthworms every day</p>
 <hr>
-<p>💡 In Iceland, a Big Mac costs $5.50.</p>
+<p>💡 1 in 8 Americans has worked at a McDonalds restaurant.</p>
 <hr>
-<p>💡 Chameleons can move their eyes in two directions at the same time.</p>
+<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -297,15 +269,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You can’t always hold on to the things that are important. By letting them go we gain something else."</em> - Kunio Yaobi</p>
+  <p><em>"Today might be the chance to grasp the chance to let your talent bloom"</em> - Tooru Oikawa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If the wind will not serve, take to the oars."</em> - Latin Proverb</p>
+  <p><em>"You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane"</em> - Hange Zoë</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You may be disappointed if you fail, but you are doomed if you don’t try."</em> - Beverly Sills</p>
+  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +291,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>December 31, 2025</td>
-<td>04:06:14 IST</td>
+<td>Thursday</td>
+<td>January 01, 2026</td>
+<td>04:06:47 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 01, 2026</td>
-<td>04:05:10 IST</td>
+<td>Friday</td>
+<td>January 02, 2026</td>
+<td>04:05:45 IST</td>
 </tr>
 </tbody>
 </table>
