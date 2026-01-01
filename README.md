@@ -38,7 +38,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,181+ Commits made on Github</p>
+<p>🏆 5,184+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -52,7 +52,35 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in January 2026</th></tr>
+<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤 - January 2026</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>2 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>2 commits in January 2026</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -249,14 +277,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why there is no sign of life on mars?</strong></p>
-<p><em>» SAITAMA has been to mars before That’s why there's no sign of life</em></p>
+<p>I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.</p>
 <hr>
-<p><strong>What do you do when you see a space man?</strong></p>
-<p><em>» Park your car, man.</em></p>
+<p><strong>Why can't bicycles stand on their own?</strong></p>
+<p><em>» They are two tired</em></p>
 <hr>
-<p><strong>What's the best time to go to the dentist?</strong></p>
-<p><em>» Tooth hurty.</em></p>
+<p><strong>What do you call a Titan who can't swim?</strong></p>
+<p><em>» Titanic.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -265,11 +292,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Baby robins eat 14 feet of earthworms every day</p>
+<p>💡 Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.</p>
 <hr>
-<p>💡 1 in 8 Americans has worked at a McDonalds restaurant.</p>
+<p>💡 The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </p>
 <hr>
-<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p>💡 Most lipstick contains fish scales!</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,15 +306,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Today might be the chance to grasp the chance to let your talent bloom"</em> - Tooru Oikawa</p>
+  <p><em>"If You Win You Live If You Lose You Die If You Don t Fight You Can t Win"</em> - Eren</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You Understand Don t You One Day Or Another Everyone You Care About Eventually Dies It s Something We Simply Can t Accept It s A Realization That Could Drive You Insane"</em> - Hange Zoë</p>
+  <p><em>"We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!"</em> - Natsu Dragneel</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
+  <p><em>"People who can’t throw something important away, can never hope to change anything."</em> - Armin Arlelt</p>
 </blockquote>
 </details>
 <p>
@@ -301,15 +328,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 01, 2026</td>
-<td>04:06:47 IST</td>
+<td>Friday</td>
+<td>January 02, 2026</td>
+<td>04:06:32 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 02, 2026</td>
-<td>04:05:45 IST</td>
+<td>Saturday</td>
+<td>January 03, 2026</td>
+<td>04:05:30 IST</td>
 </tr>
 </tbody>
 </table>
