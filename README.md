@@ -1,27 +1,36 @@
 <h1 align='center'>
-	<a href="https://a.devh.in" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="36px" width="36px"> </a> Howdy < Peepers />! 
-	<a href="https://a.devh.in" rel="nofollow"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px" width="36px"> </a>
+	<a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" height="36" width="36"> </a> Howdy < Peepers />! 
+	<a href="https://adityaprasad.eu.org" rel="nofollow"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQwYzNnbTk3cXFoZzJpb3VjMmxkejJqdTM0dHU1NjBlcGl1ejQ5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" height="36" width="36"> </a>
 	<br>
 </h1>
 
 ```kt
-// try this on a Kotlin IDE, IntelliJ IDEA? (avoid online compiler)
+// try this on a Kotlin IDE, IntelliJ IDEA? (avoid online compiler && notebooks)
 fun main() {
-  val l = listOf(65, 68, 73, 84, 89, 65, 32, 80, 82, 65, 83, 65, 68, 32, 83)
-  while (true) {
-    for (i in 0..13) {
-      println("--".repeat(i) + l[i].toChar())
-      Thread.sleep(94)
+	val l = listOf(65, 68, 73, 84, 89, 65, 32, 80, 82, 65, 83, 65, 68, 83)
+
+    val pu94x = sequence {
+        while (true) {
+            yieldAll(l.indices)
+            yieldAll(l.lastIndex - 1 downTo 1)
+        }
     }
-    for (i in 14 downTo 1) {
-      println("--".repeat(i) + l[i].toChar())
-      Thread.sleep(94)
+
+    pu94x.forEach { i ->
+        println("xo | ".repeat(i) + l[i].toChar())
+        Thread.sleep(94)
     }
-  }
 }
 ```
 
-<h2 align='center'> :octocat: Github Stats :electron: </h2>
+<h1 align='center'> 
+	<a href="https://adityaprasad.eu.org" rel="nofollow"> 
+		<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWdzbHJ3c2xiN2RreDVvMXZlNTB1NWRzbHk3d2podHhiYTZ2NnI2cSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/KzJkzjggfGN5Py6nkT/giphy.gif" height="32" width="32"> </a>
+	Github Stats
+	<a href="https://adityaprasad.eu.org" rel="nofollow"> 
+		<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmc2ltOW42ZXdwcHVrOXk1YWdrcGdnOWh1OWFlb3NqZm4yZ2ljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="32" width="32"> </a>
+</h1>
+
 
 
   <!--START_SECTION:waka-->
@@ -310,7 +319,7 @@ fun main() {
 
 
 <p>
-	<a href="https://a.devh.in" rel="nofollow">
+	<a href="https://adityaprasad.eu.org" rel="nofollow">
 		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 	</a>
 </p>
@@ -324,12 +333,12 @@ fun main() {
 	</p>
 </details>
 <p>
-	<a href="https://a.devh.in" rel="nofollow">
+	<a href="https://adityaprasad.eu.org" rel="nofollow">
 		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width:100%;">
 	</a>
 </p>
-<p align="center"> Copyright © 2020 - 2025 <br>
+<p align="center"> Copyright © 2020 - 2026 <br>
 	<br>
-	<a href="https://a.devh.in"><img alt="Hits" src="https://da.gd/track0"/>
+	<a href="https://adityaprasad.eu.org"><img alt="Hits" src="https://da.gd/track0"/>
 	</a>
 </p>
