@@ -38,7 +38,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,184+ Commits made on Github</p>
+<p>🏆 5,185+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -94,45 +94,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>7 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.51%</td>
+<td>5 hrs 39 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.54%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 58 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.47%</td>
+<td>2 hrs 37 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 4 mins</td>
+<td>1 hr 45 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.81%</td>
+<td>10.73%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 12 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.29%</td>
+<td>7.37%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>1 hr 11 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.22%</td>
+<td>7.28%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>1 hr 7 mins</td>
+<td>1 hr 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.87%</td>
+<td>6.59%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 3 mins</td>
+<td>53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.49%</td>
+<td>5.42%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.63%</td>
+<td>9 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.86%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.56%</td>
+<td>5 hrs 55 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.16%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>50 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.37%</td>
+<td>5.12%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.44%</td>
+<td>2.86%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>19 hrs 10 mins</td>
+<td>16 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>16 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>85.89%</td>
+<td>13 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>83.49%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>2 hrs 42 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.11%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.51%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,13 +277,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>I don't know where I stand on abortion. I like killing babies, but I don't like giving women a choice.</p>
+<p><strong>What happens when you anger a brain surgeon?</strong></p>
+<p><em>» They will give you a piece of your mind.</em></p>
 <hr>
-<p><strong>Why can't bicycles stand on their own?</strong></p>
-<p><em>» They are two tired</em></p>
+<p><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></p>
+<p><em>» Because 7 8 9 A?</em></p>
 <hr>
-<p><strong>What do you call a Titan who can't swim?</strong></p>
-<p><em>» Titanic.</em></p>
+<p><strong>What time did the man go to the dentist?</strong></p>
+<p><em>» Tooth hurt-y.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -292,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.</p>
+<p>💡 It`s possible to lead a cow upstairs but not downstairs.</p>
 <hr>
-<p>💡 The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </p>
+<p>💡 Children grow faster in the springtime.</p>
 <hr>
-<p>💡 Most lipstick contains fish scales!</p>
+<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -306,15 +307,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If You Win You Live If You Lose You Die If You Don t Fight You Can t Win"</em> - Eren</p>
+  <p><em>"If you re gonna hit it hit it until it breaks"</em> - Tooru Oikawa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!"</em> - Natsu Dragneel</p>
+  <p><em>"You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper."</em> - Himura Kenshin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People who can’t throw something important away, can never hope to change anything."</em> - Armin Arlelt</p>
+  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
 </blockquote>
 </details>
 <p>
@@ -328,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 02, 2026</td>
-<td>04:06:32 IST</td>
+<td>Saturday</td>
+<td>January 03, 2026</td>
+<td>04:07:23 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 03, 2026</td>
-<td>04:05:30 IST</td>
+<td>Sunday</td>
+<td>January 04, 2026</td>
+<td>04:05:20 IST</td>
 </tr>
 </tbody>
 </table>
