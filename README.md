@@ -35,10 +35,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/878e41b68d9e9dedd51654ef52ecc737cc91cb5137d4e4dec2262d9406eb7544/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243343838253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C488%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,185+ Commits made on Github</p>
+<p>🏆 5,186+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -94,45 +94,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 39 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.54%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>2 hrs 37 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.0%</td>
+<td>5 hrs 40 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 45 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.84%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>1 hr 29 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.73%</td>
+<td>10.06%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>1 hr 12 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.37%</td>
+<td>1 hr 15 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.49%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>1 hr 11 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.28%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.04%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>1 hr 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.59%</td>
+<td>7.19%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>53 mins</td>
+<td>54 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.42%</td>
+<td>6.09%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.86%</td>
+<td>7 hrs 33 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.94%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>5 hrs 55 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.16%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.9%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>50 mins</td>
+<td>53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.12%</td>
+<td>6.01%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.86%</td>
+<td>3.16%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>16 hrs 23 mins</td>
+<td>14 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>13 hrs 40 mins</td>
+<td>12 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>83.49%</td>
+<td>81.42%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>2 hrs 42 mins</td>
+<td>2 hrs 45 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.51%</td>
+<td>18.58%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,14 +277,13 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What happens when you anger a brain surgeon?</strong></p>
-<p><em>» They will give you a piece of your mind.</em></p>
+<p>I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</p>
 <hr>
-<p><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></p>
-<p><em>» Because 7 8 9 A?</em></p>
+<p><strong>Did you know you should always take an extra pair of pants golfing?</strong></p>
+<p><em>» Just in case you get a hole in one.</em></p>
 <hr>
-<p><strong>What time did the man go to the dentist?</strong></p>
-<p><em>» Tooth hurt-y.</em></p>
+<p><strong>What did the ocean say to the beach?</strong></p>
+<p><em>» Thanks for all the sediment.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,11 +292,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 It`s possible to lead a cow upstairs but not downstairs.</p>
+<p>💡 The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</p>
 <hr>
-<p>💡 Children grow faster in the springtime.</p>
+<p>💡 It's against the law to burp, or sneeze in a church in Nebraska, USA.</p>
 <hr>
-<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
+<p>💡 There are 41,806 different spoken languages in the world today.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -307,15 +306,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you re gonna hit it hit it until it breaks"</em> - Tooru Oikawa</p>
+  <p><em>"Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart."</em> - Mavis Vermillion</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You’ll only realize that you truly love someone if they already caused you enormous pain. Your enemies can never hurt you the way your loved ones can. It’s the people close to your heart that can give you the most piercing wound. Love is a double-edged sword, it can heal the wound faster or it can sink the blade even deeper."</em> - Himura Kenshin</p>
+  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +328,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 03, 2026</td>
-<td>04:07:23 IST</td>
+<td>Sunday</td>
+<td>January 04, 2026</td>
+<td>04:05:55 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 04, 2026</td>
-<td>04:05:20 IST</td>
+<td>Monday</td>
+<td>January 05, 2026</td>
+<td>04:05:55 IST</td>
 </tr>
 </tbody>
 </table>
