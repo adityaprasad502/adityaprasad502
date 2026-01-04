@@ -35,10 +35,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/c28eb28aa9f7b16134ac8be4719c4b07e985d4d749519844c0a558e00652dd27/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334393025323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C490%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,186+ Commits made on Github</p>
+<p>🏆 5,187+ Commits made on Github</p>
 <p>📦 87.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -277,13 +277,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p>I went to the zoo the other day. There was only a dog in it - it was a shihtzu.</p>
+<p><strong>What happens when you anger a brain surgeon?</strong></p>
+<p><em>» They will give you a piece of your mind.</em></p>
 <hr>
-<p><strong>Did you know you should always take an extra pair of pants golfing?</strong></p>
-<p><em>» Just in case you get a hole in one.</em></p>
+<p><strong>How did the programmer die in the shower?</strong></p>
+<p><em>» He read the shampoo bottle instructions: Lather. Rinse. Repeat.</em></p>
 <hr>
-<p><strong>What did the ocean say to the beach?</strong></p>
-<p><em>» Thanks for all the sediment.</em></p>
+<p><strong>What did the fish say when it swam into a wall?</strong></p>
+<p><em>» Damn!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -292,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</p>
+<p>💡 A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.</p>
 <hr>
-<p>💡 It's against the law to burp, or sneeze in a church in Nebraska, USA.</p>
+<p>💡 $283,200 is the absolute highest amount of money you can win on Jeopardy.</p>
 <hr>
-<p>💡 There are 41,806 different spoken languages in the world today.</p>
+<p>💡 In France, a five year old child can buy an alcoholic drink in a bar</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -306,15 +307,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart."</em> - Mavis Vermillion</p>
+  <p><em>"If you want your children to turn out well, spend twice as much time with them, and half as much money."</em> - Abigail Van Buren</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you give up, that’s when the game ends."</em> - Mitsuyoshi Anzai</p>
+  <p><em>"Don’t give up, there’s no shame in falling down! True shame is to not stand up again!"</em> - Shintaro Midorima</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
+  <p><em>"Challenges are what make life interesting and overcoming them is what makes life meaningful."</em> - Joshua J. Marine</p>
 </blockquote>
 </details>
 <p>
@@ -328,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 04, 2026</td>
-<td>04:05:55 IST</td>
+<td>Monday</td>
+<td>January 05, 2026</td>
+<td>04:06:43 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 05, 2026</td>
-<td>04:05:55 IST</td>
+<td>Tuesday</td>
+<td>January 06, 2026</td>
+<td>04:05:40 IST</td>
 </tr>
 </tbody>
 </table>
