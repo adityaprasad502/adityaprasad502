@@ -35,11 +35,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/535f39b58a6a95dfdb4871f78fe67e014aca97af0a626ef8779313c2ab6d1a20/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334393325323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C493%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/45df728847ccfae114b31a8e6f213146f310aeba0efc622302d8b303ef4f118d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334393525323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C495%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,196+ Commits made on Github</p>
-<p>📦 87.2 MiB Used in GitHub's Storage</p>
+<p>🏆 5,201+ Commits made on Github</p>
+<p>📦 86.1 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -52,34 +52,34 @@ fun main() {
 <details>
 <summary><b>My Commit Stats</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤 - January 2026</th></tr> 
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - January 2026</th></tr> 
  <tr>
 <td>🌞 Morning</td>
 <td>1 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.11%</td>
+<td>7.69%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>4 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.44%</td>
+<td>5 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.46%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>1 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.11%</td>
+<td>7.69%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>3 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.33%</td>
+<td>6 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.15%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>9 commits in January 2026</b></td>
+<td colspan="2"><b>13 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,44 +95,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>5 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.34%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.46%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 12 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.94%</td>
+<td>3 hrs</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 45 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.92%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.0%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 15 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.54%</td>
+<td>7.89%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>1 hr 11 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.09%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.47%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>54 mins</td>
+<td>1 hr 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.15%</td>
+<td>6.77%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>37 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.26%</td>
+<td>Python</td>
+<td>32 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.41%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.97%</td>
+<td>9 hrs 14 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.82%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.81%</td>
+<td>5 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.67%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.05%</td>
+<td>5.58%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.18%</td>
+<td>2.93%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>14 hrs 44 mins</td>
+<td>15 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>Pu94X</td>
-<td>10 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>71.2%</td>
+<td>10 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>63.28%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>4 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.8%</td>
+<td>5 hrs 52 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.72%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,14 +277,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Hey, dad, did you get a haircut?</strong></p>
-<p><em>» No, I got them all cut.</em></p>
+<p><strong>Why are fish so smart?</strong></p>
+<p><em>» Because they live in schools!</em></p>
 <hr>
-<p><strong>What’s E.T. short for?</strong></p>
-<p><em>» He’s only got little legs.</em></p>
+<p><strong>Why can't your nose be 12 inches long?</strong></p>
+<p><em>» Because then it would be a foot.</em></p>
 <hr>
-<p><strong>What did the spaghetti say to the other spaghetti?</strong></p>
-<p><em>» Pasta la vista, baby!</em></p>
+<p><strong>What did the fish say when it swam into the wall?</strong></p>
+<p><em>» Dam.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Thirty-five percent of the people who use personal ads for dating are already married.</p>
+<p>💡 Arabic numerals are not really Arabic; they were created in India.</p>
 <hr>
-<p>💡 There are approximately 100 million acts of sexual intercourse each day.</p>
+<p>💡 It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
 <hr>
-<p>💡 The US has more personal computers than the next 7 countries combined.</p>
+<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -307,15 +307,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"You should never give up on life, no matter how you feel. No matter how badly you want to give up."</em> - Canaan</p>
+  <p><em>"A truly rich man is one whose children run into his arms when his hands are empty."</em> - Unknown</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The best time to plant a tree was 20 years ago. The second best time is now."</em> - Chinese Proverb</p>
+  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t beg for things. Do it yourself, or else you won’t get anything."</em> - Renton Thurston</p>
+  <p><em>"All we can do is live until the day we die. Control what we can…and fly free."</em> - Deneil Young</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 07, 2026</td>
-<td>04:09:05 IST</td>
+<td>Thursday</td>
+<td>January 08, 2026</td>
+<td>04:08:02 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 08, 2026</td>
-<td>04:05:05 IST</td>
+<td>Friday</td>
+<td>January 09, 2026</td>
+<td>04:05:00 IST</td>
 </tr>
 </tbody>
 </table>
