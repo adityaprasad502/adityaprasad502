@@ -35,11 +35,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/45df728847ccfae114b31a8e6f213146f310aeba0efc622302d8b303ef4f118d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334393525323068727325323033362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C495%20hrs%2036%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8b9e0e03660dbfe2e1f26f567e98ddbc389e7a493ddf1f80ced3b78abaa156d3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324334393925323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C499%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,201+ Commits made on Github</p>
-<p>📦 86.1 MiB Used in GitHub's Storage</p>
+<p>🏆 5,216+ Commits made on Github</p>
+<p>📦 86.4 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - January 2026</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>1 commits</td>
+<td>2 commits</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>7.69%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>5 commits</td>
+<td>6 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.08%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>10 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>38.46%</td>
 </tr> 
  <tr>
-<td>🌃 Evening</td>
-<td>1 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.69%</td>
-</tr> 
- <tr>
 <td>🌙 Night</td>
-<td>6 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.15%</td>
+<td>8 commits</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.77%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>13 commits in January 2026</b></td>
+<td colspan="2"><b>26 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,44 +95,44 @@ fun main() {
  <tr>
 <td>Kotlin</td>
 <td>5 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.46%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.07%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>3 hrs</td>
+<td>4 hrs 28 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.36%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>3 hrs 28 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.8%</td>
+<td>15.85%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 45 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.0%</td>
+<td>8.0%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.98%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 15 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.89%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.74%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>1 hr 11 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.47%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>1 hr 4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.77%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>32 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.41%</td>
+<td>5.43%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>9 hrs 14 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.82%</td>
+<td>15 hrs 13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>69.31%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>5 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.67%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.49%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>53 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.58%</td>
+<td>4.06%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.93%</td>
+<td>2.13%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>15 hrs 58 mins</td>
+<td>21 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -198,16 +198,16 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
-<td>Pu94X</td>
-<td>10 hrs 6 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>63.28%</td>
+<td>CITPC1142</td>
+<td>11 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.97%</td>
 </tr> 
  <tr>
-<td>CITPC1142</td>
-<td>5 hrs 52 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.72%</td>
+<td>Pu94X</td>
+<td>10 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.03%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,14 +277,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why are fish so smart?</strong></p>
-<p><em>» Because they live in schools!</em></p>
+<p><strong>Why don't eggs tell jokes?</strong></p>
+<p><em>» They'd crack each other up!</em></p>
 <hr>
-<p><strong>Why can't your nose be 12 inches long?</strong></p>
-<p><em>» Because then it would be a foot.</em></p>
+<p><strong>What do you call a bee that can't make up its mind?</strong></p>
+<p><em>» A maybe.</em></p>
 <hr>
-<p><strong>What did the fish say when it swam into the wall?</strong></p>
-<p><em>» Dam.</em></p>
+<p><strong>Did you hear about the Viking who was reincarnated?</strong></p>
+<p><em>» He was Bjorn again</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Arabic numerals are not really Arabic; they were created in India.</p>
+<p>💡 Canada is the only country not to win a gold medal in the summer Olympic games while hosting.</p>
 <hr>
-<p>💡 It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
+<p>💡 Bulgarians are known to be the biggest yogurt eaters in the world.</p>
 <hr>
-<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
+<p>💡 The first female guest host of "Saturday Night Live" was Candace Bergen.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -307,15 +307,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"A truly rich man is one whose children run into his arms when his hands are empty."</em> - Unknown</p>
+  <p><em>"Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart."</em> - Mavis Vermillion</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don’t need them and their selfish ideas."</em> - Alibaba Saluja</p>
+  <p><em>"The only person you are destined to become is the person you decide to be."</em> - Ralph Waldo Emerson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"All we can do is live until the day we die. Control what we can…and fly free."</em> - Deneil Young</p>
+  <p><em>"If you just submit yourself to fate, then that’s the end of it."</em> - Keiichi Maebara</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 08, 2026</td>
-<td>04:08:02 IST</td>
+<td>Friday</td>
+<td>January 09, 2026</td>
+<td>10:01:53 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 09, 2026</td>
-<td>04:05:00 IST</td>
+<td>Saturday</td>
+<td>January 10, 2026</td>
+<td>10:00:50 IST</td>
 </tr>
 </tbody>
 </table>
