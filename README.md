@@ -35,10 +35,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/f8b722cbe575b323148b2cf27e82de63b397768c5ea6bd742ab527c18584ba5b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335303025323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C500%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/fba5c80d939ba6a72e96cd53fc4d2e75bc1ba313db70aa0ea70f975cf21be6ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335303125323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C501%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,216+ Commits made on Github</p>
+<p>🏆 5,218+ Commits made on Github</p>
 <p>📦 86.3 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -96,41 +96,41 @@ fun main() {
 <td>Kotlin</td>
 <td>5 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.07%</td>
+<td>23.71%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 hrs 28 mins</td>
+<td>4 hrs 43 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.36%</td>
+<td>20.32%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>3 hrs 28 mins</td>
+<td>3 hrs 48 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.85%</td>
+<td>16.42%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 45 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>7.57%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>1 hr 23 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.97%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.98%</td>
+<td>5.65%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 15 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.74%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>1 hr 11 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>5.43%</td>
 </tr>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 13 mins</td>
+<td>16 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>69.31%</td>
+<td>69.65%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>5 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.49%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.17%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>53 mins</td>
+<td>1 hr 11 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.06%</td>
+<td>5.17%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.13%</td>
+<td>2.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>21 hrs 58 mins</td>
+<td>23 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>CITPC1142</td>
-<td>11 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.97%</td>
+<td>13 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>56.46%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>10 hrs 6 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.03%</td>
+<td>43.54%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,13 +277,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What's the best part about TCP jokes?</strong></p>
-<p><em>» I get to keep telling them until you get them.</em></p>
+<p><strong>Did you know crocodiles could grow up to 15 feet?</strong></p>
+<p><em>» But most just have 4.</em></p>
 <hr>
-<p>Never date a baker. They're too kneady.</p>
+<p><strong>Why did the Python data scientist get arrested at customs?</strong></p>
+<p><em>» She was caught trying to import pandas!</em></p>
 <hr>
-<p><strong>Why did the belt go to prison?</strong></p>
-<p><em>» He held up a pair of pants!</em></p>
+<p><strong>What did the ocean say to the shore?</strong></p>
+<p><em>» Nothing, it just waved.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -292,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 If you went out into space, you would explode before you suffocated because there`s no air pressure.</p>
+<p>💡 Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
 <hr>
-<p>💡 40% of McDonald’s profits come from the sales of Happy Meals.</p>
+<p>💡 If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.</p>
+<p>💡 Owls are the only birds that can see the color blue.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -306,15 +307,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Today might be the chance to grasp the chance to let your talent bloom"</em> - Tooru Oikawa</p>
+  <p><em>"Sometimes it’s necessary to do unnecessary things."</em> - Kanade Jinguuji</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Moving on doesn’t mean you forget about things. It just means you have to accept what’s happened and continue living."</em> - Erza Scarlet</p>
+  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is not a game of luck. If you wanna win, work hard."</em> - Sora</p>
+  <p><em>"Life is 10% what happens to me and 90% of how I react to it."</em> - Charles Swindoll</p>
 </blockquote>
 </details>
 <p>
@@ -328,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 10, 2026</td>
-<td>04:08:10 IST</td>
+<td>Sunday</td>
+<td>January 11, 2026</td>
+<td>04:06:16 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 11, 2026</td>
-<td>04:05:10 IST</td>
+<td>Monday</td>
+<td>January 12, 2026</td>
+<td>04:05:15 IST</td>
 </tr>
 </tbody>
 </table>
