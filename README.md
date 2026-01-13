@@ -35,11 +35,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/1234515030ea830c3a7b908c9d7070dd7972b15e7571a16672d4eafa36952276/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243353033253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C503%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/17dd196d4b952d54959042b3545a6799b70669f8adc4b002f86a2feaee354850/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335303725323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C507%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,220+ Commits made on Github</p>
-<p>📦 86.3 MiB Used in GitHub's Storage</p>
+<p>🏆 5,248+ Commits made on Github</p>
+<p>📦 86.8 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -56,30 +56,30 @@ fun main() {
  <tr>
 <td>🌞 Morning</td>
 <td>3 commits</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.11%</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.56%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>6 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.22%</td>
+<td>7 commits</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.96%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>10 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.04%</td>
+<td>27 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>8 commits</td>
+<td>17 commits</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.63%</td>
+<td>31.48%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>27 commits in January 2026</b></td>
+<td colspan="2"><b>54 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -94,45 +94,45 @@ fun main() {
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
 <td>Kotlin</td>
-<td>5 hrs 30 mins</td>
+<td>4 hrs 36 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.2%</td>
+<td>19.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 hrs 43 mins</td>
+<td>4 hrs 27 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.07%</td>
+<td>19.22%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 26 mins</td>
+<td>4 hrs 9 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.88%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 45 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.09%</td>
+<td>17.94%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>1 hr 45 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.06%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 17 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.23%</td>
+<td>2 hrs 17 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.91%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 15 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.08%</td>
+<td>5.44%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 8 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.91%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>1 hr 8 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>17 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.68%</td>
+<td>17 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>76.37%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 22 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.69%</td>
+<td>3 hrs 44 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.15%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 25 mins</td>
+<td>1 hr 15 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.73%</td>
+<td>5.45%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.89%</td>
+<td>2.02%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>24 hrs 48 mins</td>
+<td>23 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>CITPC1142</td>
-<td>14 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.5%</td>
+<td>15 hrs 43 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.89%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>10 hrs 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.5%</td>
+<td>7 hrs 26 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.11%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,14 +277,16 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What did the judge say to the dentist?</strong></p>
-<p><em>» Do you swear to pull the tooth, the whole tooth and nothing but the tooth?</em></p>
+<p><strong>Why did the worker get fired from the orange juice factory?</strong></p>
+<p><em>» Lack of concentration.</em></p>
 <hr>
-<p><strong>What's brown and sticky?</strong></p>
-<p><em>» A stick.</em></p>
+<p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
+<p><em>» Chess nuts boasting in an open foyer.</em></p>
 <hr>
-<p><strong>Why did the cookie go to the doctor?</strong></p>
-<p><em>»  Because it was feeling crumbly.</em></p>
+<p><strong>Mickey Mouse and Minnie Mouse are in the divorce court.
+"Mickey", the judge says, "I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me."</strong></p>
+<p><em>» "I didn't say she was insane", exclaims Mickey.
+"I said she was fucking Goofy."</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,11 +295,7 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 It`s possible to lead a cow upstairs but not downstairs.</p>
-<hr>
-<p>💡 More Monopoly money is printed in a year, than real money throughout the world.</p>
-<hr>
-<p>💡 Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.</p>
+<p><em>Could not fetch random facts at this time.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -307,15 +305,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"Thinking you’re no-good and worthless is the worst thing you can do"</em> - Nobito</p>
+  <p><em>"If you want your children to turn out well, spend twice as much time with them, and half as much money."</em> - Abigail Van Buren</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you."</em> - Jesus</p>
+  <p><em>"Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin"</em> - Kenny Ackerman</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I let go of what I am, I become what I might be."</em> - Lao Tzu</p>
+  <p><em>"There are some flowers you only see when you take detours"</em> - Tanaka Saeko</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +327,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>January 13, 2026</td>
-<td>04:05:25 IST</td>
+<td>Wednesday</td>
+<td>January 14, 2026</td>
+<td>04:10:51 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>January 14, 2026</td>
-<td>04:05:25 IST</td>
+<td>Thursday</td>
+<td>January 15, 2026</td>
+<td>04:10:50 IST</td>
 </tr>
 </tbody>
 </table>
