@@ -35,11 +35,11 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/17dd196d4b952d54959042b3545a6799b70669f8adc4b002f86a2feaee354850/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335303725323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C507%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/0453f1aedf3145872a07350a2db96eb92da68ec982687ad9b5518c5f116e50a9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335303825323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C508%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,248+ Commits made on Github</p>
-<p>📦 86.8 MiB Used in GitHub's Storage</p>
+<p>🏆 5,266+ Commits made on Github</p>
+<p>📦 86.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
 </blockquote>
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉 - January 2026</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>3 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.56%</td>
+<td>12 commits</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.9%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>7 commits</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.96%</td>
+<td>15 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.13%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>27 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.03%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>17 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.48%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.94%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>54 commits in January 2026</b></td>
+<td colspan="2"><b>71 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,46 +93,46 @@ fun main() {
 <table>
 <tbody><tr><th colspan="4">💬 Programming Languages (30d) 🧑‍💻</th></tr> 
  <tr>
-<td>Kotlin</td>
-<td>4 hrs 36 mins</td>
+<td>Python</td>
+<td>4 hrs 30 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.9%</td>
+<td>20.47%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>4 hrs 27 mins</td>
+<td>4 hrs 17 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.22%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>4 hrs 9 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.94%</td>
+<td>19.49%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>2 hrs 17 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.91%</td>
+<td>3 hrs 10 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.42%</td>
+</tr> 
+ <tr>
+<td>Dart</td>
+<td>1 hr 37 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.39%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>1 hr 15 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.44%</td>
+<td>5.73%</td>
 </tr> 
  <tr>
-<td>CSS</td>
-<td>1 hr 8 mins</td>
+<td>Bash</td>
+<td>1 hr 10 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.91%</td>
+<td>5.35%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>1 hr 8 mins</td>
+<td>1 hr 7 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.9%</td>
+<td>5.09%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>17 hrs 41 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>76.37%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>3 hrs 44 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.15%</td>
+<td>16 hrs 22 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>74.42%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 15 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.45%</td>
+<td>5 hrs 2 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.9%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.02%</td>
+<td>2.13%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>7 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.55%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>23 hrs 10 mins</td>
+<td>21 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>CITPC1142</td>
-<td>15 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.89%</td>
+<td>19 hrs 57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
+<td>90.73%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>7 hrs 26 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.11%</td>
+<td>2 hrs 2 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.27%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,16 +277,14 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>Why did the worker get fired from the orange juice factory?</strong></p>
-<p><em>» Lack of concentration.</em></p>
+<p><strong>I couldn't get a reservation at the library...</strong></p>
+<p><em>» They were fully booked.</em></p>
 <hr>
-<p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
-<p><em>» Chess nuts boasting in an open foyer.</em></p>
+<p><strong>What did one ocean say to the other ocean?</strong></p>
+<p><em>» Nothing, they just waved.</em></p>
 <hr>
-<p><strong>Mickey Mouse and Minnie Mouse are in the divorce court.
-"Mickey", the judge says, "I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me."</strong></p>
-<p><em>» "I didn't say she was insane", exclaims Mickey.
-"I said she was fucking Goofy."</em></p>
+<p><strong>A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"</strong></p>
+<p><em>» Pop,goes the weasel.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -295,7 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p><em>Could not fetch random facts at this time.</em></p>
+<p>💡 Mount Olympus Mons on Mars is three times the size of Mount Everest.</p>
+<hr>
+<p>💡 Rubber bands last longer when refrigerated.</p>
+<hr>
+<p>💡 "Go." is the shortest complete sentence in the English language.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -305,15 +307,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If you want your children to turn out well, spend twice as much time with them, and half as much money."</em> - Abigail Van Buren</p>
+  <p><em>"I would rather die of passion than of boredom."</em> - Vincent van Gogh</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Everyone Had To Be Drunk On Somethin To Keep Pushing On Everyone Was A Slave To Somethin"</em> - Kenny Ackerman</p>
+  <p><em>"Definiteness of purpose is the starting point of all achievement."</em> - W. Clement Stone</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are some flowers you only see when you take detours"</em> - Tanaka Saeko</p>
+  <p><em>"The only limit to our realization of tomorrow will be our doubts of today."</em> - Franklin D. Roosevelt</p>
 </blockquote>
 </details>
 <p>
@@ -327,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 14, 2026</td>
-<td>04:10:51 IST</td>
+<td>Thursday</td>
+<td>January 15, 2026</td>
+<td>04:10:33 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 15, 2026</td>
-<td>04:10:50 IST</td>
+<td>Friday</td>
+<td>January 16, 2026</td>
+<td>04:10:30 IST</td>
 </tr>
 </tbody>
 </table>
