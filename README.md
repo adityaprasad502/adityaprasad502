@@ -35,10 +35,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/d65f2ada4c8f11e67a77531e5ed1652cf8700da344b011b1687f7d0bc46465ab/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335313025323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C510%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/f7c004a47074baec99c14cd6ad01713968fdd4ecd5ed8f234497b2fe87cea014/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335313225323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C512%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>🐱 My GitHub Data</strong></p>
 <blockquote>
-<p>🏆 5,267+ Commits made on Github</p>
+<p>🏆 5,268+ Commits made on Github</p>
 <p>📦 86.6 MiB Used in GitHub's Storage</p>
 <p>📜 6 Public Repositories</p>
 <p>🔑 18 Private Repositories</p>
@@ -95,44 +95,44 @@ fun main() {
  <tr>
 <td>Python</td>
 <td>4 hrs 40 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.97%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.73%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>4 hrs 40 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.72%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 17 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.32%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>3 hrs 10 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.56%</td>
+<td>17.2%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>1 hr 41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.21%</td>
+<td>6.77%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 28 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.28%</td>
+<td>5.89%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 19 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.65%</td>
+<td>5.3%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>1 hr 15 mins</td>
+<td>1 hr 18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.39%</td>
+<td>5.23%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,27 +147,27 @@ fun main() {
 <tbody><tr><th colspan="4">🔥 Code Editors (30d) 🔥</th></tr> 
  <tr>
 <td>VS Code</td>
-<td>16 hrs 35 mins</td>
+<td>16 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.95%</td>
+<td>67.56%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>6 hrs 12 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.53%</td>
+<td>7 hrs 29 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.07%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.0%</td>
+<td>1.88%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.52%</td>
+<td>0.48%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <tbody><tr><th colspan="4">💻 Operating Systems (30d) 🖥️</th></tr> 
  <tr>
 <td>Windows</td>
-<td>23 hrs 23 mins</td>
+<td>24 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -199,15 +199,15 @@ fun main() {
 <tbody><tr><th colspan="4">🖥️ Dev Machines (30d) 🖥️</th></tr> 
  <tr>
 <td>CITPC1142</td>
-<td>21 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒</td>
-<td>91.29%</td>
+<td>22 hrs 53 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>91.82%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>2 hrs 2 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.71%</td>
+<td>8.18%</td>
 </tr>
 </tbody></table>
 </details>
@@ -277,14 +277,15 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Jokes for Today</b></summary><br>
-<p><strong>What is the difference between ignorance and apathy?</strong></p>
-<p><em>» I don't know and I don't care.</em></p>
+<p><strong>Have you heard of the band 1023MB?</strong></p>
+<p><em>» They haven't got a gig yet.</em></p>
 <hr>
-<p><strong>What animal is always at a game of cricket?</strong></p>
-<p><em>» A bat.</em></p>
+<p><strong>Why did the programmer go to art school?</strong></p>
+<p><em>» He wanted to learn how to code outside the box.</em></p>
 <hr>
-<p><strong>Why shouldn't you visit an expensive wig shop?</strong></p>
-<p><em>» It's too high a price "toupee."</em></p>
+<p>I have these weird muscle spasms in my gluteus maximus.
+I figured out from my doctor that everything was alright:
+He said "Weird flex, butt okay."</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,11 +294,11 @@ fun main() {
 </p>
 <details>
 <summary><b>Random Facts for Today</b></summary><br>
-<p>💡 Over 1000 birds a year die from smashing into windows!</p>
+<p>💡 There are more than 40,000 characters in the Chinese script.</p>
 <hr>
-<p>💡 A horse can look forward with one eye and back with the other.</p>
+<p>💡 The town of Calma, Chile in the Atacama Desert has never had rain.</p>
 <hr>
-<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p>💡 A man named Charles Osborne had the hiccups for 69 years!</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -307,15 +308,15 @@ fun main() {
 <details>
 <summary><b>Random Quotes for Today</b></summary><br>
 <blockquote>
-  <p><em>"If they adjust to me I have to adjust in turn Whoever stops adjusting won t be able to continue forward"</em> - Tobio Kageyama</p>
+  <p><em>"I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed."</em> - Michael Jordan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I refuse to let my fear control me anymore."</em> - Maka Albarn</p>
+  <p><em>"Eighty percent of success is showing up."</em> - Woody Allen</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Go confidently in the direction of your dreams.  Live the life you have imagined."</em> - Henry David Thoreau</p>
+  <p><em>"I didn’t fail the test. I just found 100 ways to do it wrong."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -329,14 +330,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 16, 2026</td>
-<td>04:09:08 IST</td>
+<td>Saturday</td>
+<td>January 17, 2026</td>
+<td>04:08:08 IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 17, 2026</td>
+<td>Sunday</td>
+<td>January 18, 2026</td>
 <td>04:05:05 IST</td>
 </tr>
 </tbody>
