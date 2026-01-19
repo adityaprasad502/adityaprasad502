@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/17be4df5d625450cf84113137d7b97ee49ff1c76ff469d99dfbd0e0f8f9f54a1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d312532433532382532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C528%20hrs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/f13806a62e904dd21b256edc181f00fda361caecda3852ce92d9860fe4b91c5b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335323925323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C529%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,303+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,315+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>71.83 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>71.85 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,367h 39m</strong> (74,610 Streams)</p>
+<p>🎧 Spotify: <strong>4,370h 12m</strong> (74,653 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -46,31 +46,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>24 commits</td>
+<td>27 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.87%</td>
+<td>21.26%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>26 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.61%</td>
+<td>34 commits</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.77%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>41 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.65%</td>
+<td>42 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.07%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>24 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.87%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.9%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>115 commits in January 2026</b></td>
+<td colspan="2"><b>127 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -208,27 +208,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>521.94 KiB</td>
+<td>523.35 KiB</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.72%</td>
+<td>31.78%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>427.12 KiB</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.96%</td>
+<td>25.94%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.28 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.91%</td>
+<td>14.89%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>179.18 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.89%</td>
+<td>10.88%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
@@ -263,14 +263,17 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What happens when you anger a brain surgeon?</strong></p>
-<p><em>» They will give you a piece of your mind.</em></p>
+<p><strong>Why did the programmer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>Want to hear a joke about a piece of paper?</strong></p>
-<p><em>» Never mind...it's tearable</em></p>
+<p>Two C strings walk into a bar.
+The bartender asks "What can I get ya?"
+The first string says "I'll have a gin and tonic."
+The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
+The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</p>
 <hr>
-<p><strong>I WRITE MY JOKES IN CAPITALS.</strong></p>
-<p><em>» THIS ONE WAS WRITTEN IN PARIS.</em></p>
+<p><strong>Why should you never talk to pi?</strong></p>
+<p><em>» Because it will go on forever.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The average person falls asleep in seven minutes.</p>
+<p>💡 A chameleon's tongue is twice the length of its body.</p>
 <hr>
-<p>💡 Arizona was the last of the 48 adjoining continental states to enter the Union.</p>
+<p>💡 Ninety percent of all species that have become extinct have been birds.</p>
 <hr>
-<p>💡 Starfish haven`t got brains.</p>
+<p>💡 More people are allergic to cow's milk than any other food.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"When you lose sight of your path, listen for the destination in your heart."</em> - Allen Walker</p>
+  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It does not matter how slowly you go as long as you do not stop."</em> - Confucius</p>
+  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We can’t help everyone, but everyone can help someone."</em> - Ronald Reagan</p>
+  <p><em>"We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!"</em> - Natsu Dragneel</p>
 </blockquote>
 </details>
 <p>
@@ -317,13 +320,13 @@ fun main() {
 <td>Last Refresh</td>
 <td>Tuesday</td>
 <td>January 20, 2026</td>
-<td> 10:43 AM IST</td>
+<td> 04:09 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Wednesday</td>
 <td>January 21, 2026</td>
-<td>~10:40 AM IST</td>
+<td>~04:05 AM IST</td>
 </tr>
 </tbody>
 </table>
