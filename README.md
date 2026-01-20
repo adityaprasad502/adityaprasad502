@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/f13806a62e904dd21b256edc181f00fda361caecda3852ce92d9860fe4b91c5b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335323925323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C529%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/91f374dd42a31f0dd76d1108c828031c045c611429d816ad0cd34d1063a8f473/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333025323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C530%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,315+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,638+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>71.85 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,370h 12m</strong> (74,653 Streams)</p>
+<p>🎧 Spotify: <strong>4,373h 21m</strong> (74,705 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -263,17 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the programmer quit his job?</strong></p>
-<p><em>» Because he didn't get arrays.</em></p>
+<p><strong>How do you comfort a JavaScript bug?</strong></p>
+<p><em>» You console it!</em></p>
 <hr>
-<p>Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</p>
+<p><strong>What is a wizard's favorite subject in school?</strong></p>
+<p><em>» Spelling!</em></p>
 <hr>
-<p><strong>Why should you never talk to pi?</strong></p>
-<p><em>» Because it will go on forever.</em></p>
+<p><strong>What's Forrest Gump's password?</strong></p>
+<p><em>» 1Forrest1</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -282,11 +279,11 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A chameleon's tongue is twice the length of its body.</p>
+<p>💡 The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.</p>
 <hr>
-<p>💡 Ninety percent of all species that have become extinct have been birds.</p>
+<p>💡 When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."</p>
 <hr>
-<p>💡 More people are allergic to cow's milk than any other food.</p>
+<p>💡 Ketchup was sold in the 1830s as medicine.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -296,15 +293,15 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
+  <p><em>"You may be disappointed if you fail, but you are doomed if you don’t try."</em> - Beverly Sills</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
+  <p><em>"We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever."</em> - Hitsugaya Toshiro</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We don’t have to know what tomorrow holds! That’s why we can live for everything we’re worth today!"</em> - Natsu Dragneel</p>
+  <p><em>"Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end."</em> - Clare</p>
 </blockquote>
 </details>
 <p>
@@ -318,14 +315,14 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>January 20, 2026</td>
-<td> 04:09 AM IST</td>
+<td>Wednesday</td>
+<td>January 21, 2026</td>
+<td> 04:06 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>January 21, 2026</td>
+<td>Thursday</td>
+<td>January 22, 2026</td>
 <td>~04:05 AM IST</td>
 </tr>
 </tbody>
