@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/91f374dd42a31f0dd76d1108c828031c045c611429d816ad0cd34d1063a8f473/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333025323068727325323032302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C530%20hrs%2020%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/aa8a48184d6dac914bb6253c40620403565bd418681a6c7a5004b4a80b181155/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333125323068727325323033352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C531%20hrs%2035%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,638+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,640+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>71.85 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>71.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,373h 21m</strong> (74,705 Streams)</p>
+<p>🎧 Spotify: <strong>4,376h 2m</strong> (74,753 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -46,31 +46,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>27 commits</td>
+<td>28 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.26%</td>
+<td>21.9%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>34 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.77%</td>
+<td>26.6%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>42 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.07%</td>
+<td>32.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>24 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.9%</td>
+<td>18.8%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>127 commits in January 2026</b></td>
+<td colspan="2"><b>128 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>12 hrs 8 mins</td>
+<td>13 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.95%</td>
+<td>30.77%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>8 hrs 51 mins</td>
+<td>9 hrs 14 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
+<td>20.56%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 17 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.23%</td>
+<td>9.54%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 32 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.44%</td>
+<td>7.87%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>1 hr 45 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.19%</td>
+<td>3.91%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.11%</td>
+<td>3.85%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 31 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.62%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.38%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>31 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.98%</td>
+<td>34 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>76.06%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>9 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.61%</td>
+<td>10 hrs 10 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.63%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.12%</td>
+<td>1.04%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.29%</td>
+<td>0.27%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>41 hrs 56 mins</td>
+<td>44 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>39 hrs 54 mins</td>
+<td>42 hrs 55 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>95.14%</td>
+<td>95.47%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>2 hrs 2 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.86%</td>
+<td>4.53%</td>
 </tr>
 </tbody></table>
 </details>
@@ -208,45 +208,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>523.35 KiB</td>
+<td>523.3 KiB</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.78%</td>
+<td>31.8%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>427.12 KiB</td>
+<td>427.1 KiB</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.94%</td>
+<td>25.9%</td>
 </tr> 
  <tr>
 <td>Dart</td>
-<td>245.28 KiB</td>
+<td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.89%</td>
+<td>14.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>179.18 KiB</td>
+<td>179.2 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.88%</td>
+<td>10.9%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
-<td>124.25 KiB</td>
+<td>124.2 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.55%</td>
+<td>7.5%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>90.39 KiB</td>
+<td>90.4 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.49%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>45.26 KiB</td>
+<td>45.3 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.75%</td>
+<td>2.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>How do you comfort a JavaScript bug?</strong></p>
-<p><em>» You console it!</em></p>
+<p><strong>Why are graveyards so noisy?</strong></p>
+<p><em>» Because of all the coffin.</em></p>
 <hr>
-<p><strong>What is a wizard's favorite subject in school?</strong></p>
-<p><em>» Spelling!</em></p>
+<p><strong>Did you hear about the cheese factory that exploded in France?</strong></p>
+<p><em>» There was nothing left but de Brie.</em></p>
 <hr>
-<p><strong>What's Forrest Gump's password?</strong></p>
-<p><em>» 1Forrest1</em></p>
+<p><strong>What do you call a careful wolf?</strong></p>
+<p><em>» Aware wolf.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.</p>
+<p>💡 A cow gives nearly 200,000 glasses of milk in her lifetime.</p>
 <hr>
-<p>💡 When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."</p>
+<p>💡 Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</p>
 <hr>
-<p>💡 Ketchup was sold in the 1830s as medicine.</p>
+<p>💡 Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"You may be disappointed if you fail, but you are doomed if you don’t try."</em> - Beverly Sills</p>
+  <p><em>"Life shrinks or expands in proportion to one’s courage."</em> - Anais Nin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever."</em> - Hitsugaya Toshiro</p>
+  <p><em>"If you just submit yourself to fate, then that’s the end of it."</em> - Keiichi Maebara</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t be so quick to throw away your life. No matter how disgraceful or embarrassing it may be, you need to keep struggling to find your way out until the very end."</em> - Clare</p>
+  <p><em>"In the middle of every difficulty lies opportunity."</em> - Albert Einstein</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +315,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>January 21, 2026</td>
-<td> 04:06 AM IST</td>
+<td>Thursday</td>
+<td>January 22, 2026</td>
+<td> 04:16 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>January 22, 2026</td>
-<td>~04:05 AM IST</td>
+<td>Friday</td>
+<td>January 23, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
