@@ -25,10 +25,10 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/b8ad0ec8f683b448fa774a6b2151d4047c65b3b62295130067242634d424db83/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333225323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C532%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/aed6885bc772d880db3ab7e0d3ba0260aa4bd6c4d04e2af9be8ada92bdda3fd1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333225323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C532%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,644+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,645+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
@@ -81,50 +81,9 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Python</td>
-<td>14 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.5%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>8 hrs 44 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.1%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>3 hrs 32 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>3 hrs 27 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.9%</td>
-</tr> 
- <tr>
-<td>Dart</td>
-<td>1 hr 45 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>1 hr 43 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
-</tr> 
- <tr>
-<td>Blade Template</td>
-<td>1 hr 36 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -133,32 +92,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>VS Code</td>
-<td>32 hrs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.5%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>10 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.2%</td>
-</tr> 
- <tr>
-<td>IntelliJ IDEA</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.1%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>7 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.3%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -167,14 +103,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Windows</td>
-<td>43 hrs 33 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,20 +114,9 @@ fun main() {
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>CITPC1142</td>
-<td>42 hrs 58 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.7%</td>
-</tr> 
- <tr>
-<td>Pu94X</td>
-<td>35 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -263,14 +183,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do birds give out on Halloween?</strong></p>
-<p><em>» Tweets.</em></p>
+<p><strong>What kind of music do welders like?</strong></p>
+<p><em>» Heavy metal.</em></p>
 <hr>
-<p><strong>What musical instrument is found in the bathroom?</strong></p>
-<p><em>» A tuba toothpaste.</em></p>
+<p><strong>Two peanuts were walking.</strong></p>
+<p><em>» One was assaulted.</em></p>
 <hr>
-<p><strong>Why do bees have sticky hair?</strong></p>
-<p><em>» Because they use honey combs!</em></p>
+<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
+<p><em>» Inu-Washa</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +199,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The plastic things on the end of shoelaces are called aglets.</p>
+<p>💡 Gary, Indiana is the murder capital of the U.S. - probably the world.</p>
 <hr>
-<p>💡 President John F Kennedy could read 4 newspapers in 20 minutes.</p>
+<p>💡 Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).</p>
 <hr>
-<p>💡 The Great Wall of China is the only man-made structure visible from space.</p>
+<p>💡 The average Japanese household watches more than 10 hours of television a day.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,7 +213,7 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The most common way people give up their power is by thinking they don’t have any."</em> - Alice Walker</p>
+  <p><em>"Strive not to be a success, but rather to be of value."</em> - Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
@@ -301,7 +221,7 @@ fun main() {
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The future belongs to those who believe in the beauty of their dreams."</em> - Eleanor Roosevelt</p>
+  <p><em>"It’s not the years in your life that count. It’s the life in your years."</em> - Abraham Lincoln</p>
 </blockquote>
 </details>
 <p>
@@ -315,14 +235,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 24, 2026</td>
+<td>Sunday</td>
+<td>January 25, 2026</td>
 <td> 04:05 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>January 25, 2026</td>
+<td>Monday</td>
+<td>January 26, 2026</td>
 <td>~04:05 AM IST</td>
 </tr>
 </tbody>
