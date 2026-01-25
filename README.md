@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/aed6885bc772d880db3ab7e0d3ba0260aa4bd6c4d04e2af9be8ada92bdda3fd1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333225323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C532%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,645+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,647+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,378h 54m</strong> (74,804 Streams)</p>
+<p>🎧 Spotify: <strong>4,380h 24m</strong> (74,830 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -48,29 +48,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>29 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.5%</td>
+<td>22.3%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>34 commits</td>
+<td>35 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.4%</td>
+<td>26.9%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>42 commits</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.6%</td>
+<td>32.3%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>24 commits</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.6%</td>
+<td>18.5%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>129 commits in January 2026</b></td>
+<td colspan="2"><b>130 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -81,9 +81,50 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Python</td>
+<td>14 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.1%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>8 hrs 28 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.5%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>3 hrs 32 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.2%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>3 hrs 28 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.0%</td>
+</tr> 
+ <tr>
+<td>Dart</td>
+<td>1 hr 49 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.2%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>1 hr 43 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.0%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 hr 30 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.5%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -92,9 +133,26 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>VS Code</td>
+<td>32 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>74.0%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>10 hrs 48 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.9%</td>
+</tr> 
+ <tr>
+<td>IntelliJ IDEA</td>
+<td>28 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.1%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -103,9 +161,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Windows</td>
+<td>43 hrs 25 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -114,9 +177,20 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>CITPC1142</td>
+<td>42 hrs 57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.9%</td>
+</tr> 
+ <tr>
+<td>Pu94X</td>
+<td>28 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.1%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,14 +257,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What kind of music do welders like?</strong></p>
-<p><em>» Heavy metal.</em></p>
+<p><strong>What do you call a droid that takes the long way around?</strong></p>
+<p><em>» R2 detour.</em></p>
 <hr>
-<p><strong>Two peanuts were walking.</strong></p>
-<p><em>» One was assaulted.</em></p>
+<p><strong>What time is it when the clock strikes 13?</strong></p>
+<p><em>» Time to get a new clock.</em></p>
 <hr>
-<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
-<p><em>» Inu-Washa</em></p>
+<p><strong>What type of music do balloons hate?</strong></p>
+<p><em>» Pop music!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,11 +273,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Gary, Indiana is the murder capital of the U.S. - probably the world.</p>
+<p>💡 Bob Dylan's real name is Robert Zimmerman.</p>
 <hr>
-<p>💡 Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).</p>
+<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 <hr>
-<p>💡 The average Japanese household watches more than 10 hours of television a day.</p>
+<p>💡 There are 336 dimples on a regulation US golf ball. In the UK its 330.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,15 +287,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Strive not to be a success, but rather to be of value."</em> - Albert Einstein</p>
+  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference."</em> - Robert Frost</p>
+  <p><em>"I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person"</em> - Armin Arlert</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It’s not the years in your life that count. It’s the life in your years."</em> - Abraham Lincoln</p>
+  <p><em>"You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground."</em> - Unknown</p>
 </blockquote>
 </details>
 <p>
@@ -235,14 +309,14 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>January 25, 2026</td>
-<td> 04:05 AM IST</td>
+<td>Monday</td>
+<td>January 26, 2026</td>
+<td> 04:06 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>January 26, 2026</td>
+<td>Tuesday</td>
+<td>January 27, 2026</td>
 <td>~04:05 AM IST</td>
 </tr>
 </tbody>
