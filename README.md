@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/aed6885bc772d880db3ab7e0d3ba0260aa4bd6c4d04e2af9be8ada92bdda3fd1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333225323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C532%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,647+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,648+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
@@ -86,13 +86,13 @@ fun main() {
 <td>Python</td>
 <td>14 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.1%</td>
+<td>33.5%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>8 hrs 28 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.5%</td>
+<td>19.7%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -104,7 +104,7 @@ fun main() {
 <td>JavaScript</td>
 <td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>8.1%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -138,19 +138,13 @@ fun main() {
 <td>VS Code</td>
 <td>32 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.0%</td>
+<td>74.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>10 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.9%</td>
-</tr> 
- <tr>
-<td>IntelliJ IDEA</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.1%</td>
+<td>25.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -164,7 +158,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>43 hrs 25 mins</td>
+<td>42 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -181,14 +175,8 @@ fun main() {
  <tbody><tr>
 <td>CITPC1142</td>
 <td>42 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.9%</td>
-</tr> 
- <tr>
-<td>Pu94X</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.1%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -257,14 +245,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a droid that takes the long way around?</strong></p>
-<p><em>» R2 detour.</em></p>
+<p><strong>What did the digital clock say to the grandfather clock?</strong></p>
+<p><em>» Look, no hands!</em></p>
 <hr>
-<p><strong>What time is it when the clock strikes 13?</strong></p>
-<p><em>» Time to get a new clock.</em></p>
+<p><strong>Why are pirates called pirates?</strong></p>
+<p><em>» Because they arrr!</em></p>
 <hr>
-<p><strong>What type of music do balloons hate?</strong></p>
-<p><em>» Pop music!</em></p>
+<p><strong>What do you call a kid with no arms and an eyepatch?</strong></p>
+<p><em>» Names.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -273,11 +261,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Bob Dylan's real name is Robert Zimmerman.</p>
+<p>💡 In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.</p>
 <hr>
-<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
+<p>💡 In England, the Speaker of the House is not allowed to speak.</p>
 <hr>
-<p>💡 There are 336 dimples on a regulation US golf ball. In the UK its 330.</p>
+<p>💡 In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -287,15 +275,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
+  <p><em>"Success is not final, failure is not fatal: It is the courage to continue that counts."</em> - Winston Churchill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I Don t Like The Terms Good Person or Bad Person It Is Impossible To Be Entirely Good To Everyone To Some You Are A Good Person While To Others You Are A Bad Person"</em> - Armin Arlert</p>
+  <p><em>"Remember that not getting what you want is sometimes a wonderful stroke of luck."</em> - Dalai Lama</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground."</em> - Unknown</p>
+  <p><em>"Vision is not what your eyes see, but an image that your brain comprehends."</em> - Touko Aozaki</p>
 </blockquote>
 </details>
 <p>
@@ -309,15 +297,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>January 26, 2026</td>
-<td> 04:06 AM IST</td>
+<td>Tuesday</td>
+<td>January 27, 2026</td>
+<td> 04:10 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>January 27, 2026</td>
-<td>~04:05 AM IST</td>
+<td>Wednesday</td>
+<td>January 28, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
