@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/5297d608991e2fe7bfaa887de07ae8e64d9d04682cadf5e1e03d9d6d6319a2c4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333325323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C533%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,652+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,653+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,387h 50m</strong> (74,950 Streams)</p>
+<p>🎧 Spotify: <strong>4,390h 55m</strong> (74,999 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -86,25 +86,25 @@ fun main() {
 <td>Python</td>
 <td>14 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.5%</td>
+<td>33.0%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>8 hrs 28 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.7%</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 32 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.2%</td>
+<td>8.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -138,13 +138,25 @@ fun main() {
 <td>VS Code</td>
 <td>32 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>74.8%</td>
+<td>73.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>10 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.2%</td>
+<td>24.8%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>33 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.3%</td>
+</tr> 
+ <tr>
+<td>IntelliJ IDEA</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -158,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>42 hrs 57 mins</td>
+<td>43 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -175,8 +187,14 @@ fun main() {
  <tbody><tr>
 <td>CITPC1142</td>
 <td>42 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
+<td>98.6%</td>
+</tr> 
+ <tr>
+<td>Pu94X</td>
+<td>37 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -190,7 +208,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>523.4 KiB</td>
+<td>523.5 KiB</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>31.8%</td>
 </tr> 
@@ -245,14 +263,17 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What did the traffic light say to the car as it passed?</strong></p>
-<p><em>» Don't look I'm changing!</em></p>
+<p><strong>What type of music do balloons hate?</strong></p>
+<p><em>» Pop music!</em></p>
 <hr>
-<p><strong>What did the fish say when it swam into the wall?</strong></p>
-<p><em>» Dam.</em></p>
+<p><strong>How many programmers does it take to change a lightbulb?</strong></p>
+<p><em>» None that's a hardware problem</em></p>
 <hr>
-<p><strong>Did you hear the joke about the wandering nun?</strong></p>
-<p><em>» She was a roman catholic.</em></p>
+<p>"Knock, knock."
+"Who's there?"
+</p>
+<p>[very long pause]</p>
+<p>"Java."</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -261,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.</p>
+<p>💡 Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.</p>
 <hr>
-<p>💡 In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.</p>
+<p>💡 Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.</p>
 <hr>
-<p>💡 All polar bears are left-handed.</p>
+<p>💡 Americans are responsible for about 1/5 of the world’s garbage annually.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -275,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</em> - Anne Frank</p>
+  <p><em>"If you do what you’ve always done, you’ll get what you’ve always gotten."</em> - Tony Robbins</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To know sorrow is not terrifying. What is terrifying is to know you can’t go back to happiness you could have."</em> - Matsumoto Rangiku</p>
+  <p><em>"When you lose sight of your path, listen for the destination in your heart."</em> - Allen Walker</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People become stronger because they have memories they can’t forget."</em> - Tsunade</p>
+  <p><em>"No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least"</em> - Levi Ackerman</p>
 </blockquote>
 </details>
 <p>
@@ -297,14 +318,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>January 29, 2026</td>
+<td>Friday</td>
+<td>January 30, 2026</td>
 <td> 04:17 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>January 30, 2026</td>
+<td>Saturday</td>
+<td>January 31, 2026</td>
 <td>~04:15 AM IST</td>
 </tr>
 </tbody>
