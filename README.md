@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/5297d608991e2fe7bfaa887de07ae8e64d9d04682cadf5e1e03d9d6d6319a2c4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333325323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C533%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/ff02a2a232ce903c791731209763daf7d40647596853a899db374313fbcd1100/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333425323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C534%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,653+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,663+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>72.1 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>72.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,390h 55m</strong> (74,999 Streams)</p>
+<p>🎧 Spotify: <strong>4,398h 3m</strong> (75,105 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -48,29 +48,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>29 commits</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.0%</td>
+<td>20.6%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>35 commits</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.5%</td>
+<td>24.8%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>44 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.2%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>24 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.2%</td>
+<td>33 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.4%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>132 commits in January 2026</b></td>
+<td colspan="2"><b>141 commits in January 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -208,15 +208,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>523.5 KiB</td>
+<td>524.4 KiB</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>31.8%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>427.1 KiB</td>
+<td>428.3 KiB</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.9%</td>
+<td>26.0%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -263,17 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What type of music do balloons hate?</strong></p>
-<p><em>» Pop music!</em></p>
+<p><strong>What do you call a cow with two legs?</strong></p>
+<p><em>» Lean beef.</em></p>
 <hr>
-<p><strong>How many programmers does it take to change a lightbulb?</strong></p>
-<p><em>» None that's a hardware problem</em></p>
+<p><strong>Who is Santa's favourite singer?</strong></p>
+<p><em>» Elf-is Presley!</em></p>
 <hr>
-<p>"Knock, knock."
-"Who's there?"
-</p>
-<p>[very long pause]</p>
-<p>"Java."</p>
+<p><strong>What do you call a group of disorganized cats?</strong></p>
+<p><em>» A cat-tastrophe.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -282,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.</p>
+<p>💡 If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.</p>
 <hr>
-<p>💡 Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.</p>
+<p>💡 Coconuts kill about 150 people each year. That’s more than sharks.</p>
 <hr>
-<p>💡 Americans are responsible for about 1/5 of the world’s garbage annually.</p>
+<p>💡 Hedenophobic means fear of pleasure.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -296,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you do what you’ve always done, you’ll get what you’ve always gotten."</em> - Tony Robbins</p>
+  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you lose sight of your path, listen for the destination in your heart."</em> - Allen Walker</p>
+  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"No One Knows What The Outcome Will Be So Choose Whatever You ll Regret The Least"</em> - Levi Ackerman</p>
+  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
 </blockquote>
 </details>
 <p>
@@ -318,14 +315,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>January 30, 2026</td>
-<td> 04:17 AM IST</td>
+<td>Saturday</td>
+<td>January 31, 2026</td>
+<td> 04:16 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>January 31, 2026</td>
+<td>Sunday</td>
+<td>February 01, 2026</td>
 <td>~04:15 AM IST</td>
 </tr>
 </tbody>
