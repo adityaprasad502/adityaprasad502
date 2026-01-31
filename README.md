@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/ff02a2a232ce903c791731209763daf7d40647596853a899db374313fbcd1100/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333425323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C534%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/02776774a443ee2d4ec5a375a68cde195fae61ba974cecea91d828733c59691f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333525323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C535%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,663+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,666+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>72.2 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>72.3 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,398h 3m</strong> (75,105 Streams)</p>
+<p>🎧 Spotify: <strong>4,406h 26m</strong> (75,241 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -43,35 +43,7 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
- <tr>
-<td>🌞 Morning</td>
-<td>29 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.6%</td>
-</tr> 
- <tr>
-<td>🌆 Daytime</td>
-<td>35 commits</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.8%</td>
-</tr> 
- <tr>
-<td>🌃 Evening</td>
-<td>44 commits</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.2%</td>
-</tr> 
- <tr>
-<td>🌙 Night</td>
-<td>33 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.4%</td>
-</tr>
-<tr>
-<td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>141 commits in January 2026</b></td>
-</tr>
+<tbody><tr><th colspan="4">📅 No commits found in February 2026</th></tr>
 </tbody></table>
 </details>
 <p>
@@ -86,43 +58,43 @@ fun main() {
 <td>Python</td>
 <td>14 hrs 23 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.0%</td>
+<td>32.2%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>8 hrs 28 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.4%</td>
+<td>18.9%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 32 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
+<td>7.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>7.8%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>1 hr 49 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>3.9%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 30 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.5%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -138,25 +110,25 @@ fun main() {
 <td>VS Code</td>
 <td>32 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>73.8%</td>
+<td>71.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>10 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.8%</td>
+<td>24.2%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>33 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.3%</td>
+<td>1 hr 43 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.9%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.2%</td>
+<td>0.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +142,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>43 hrs 34 mins</td>
+<td>44 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -188,13 +160,13 @@ fun main() {
 <td>CITPC1142</td>
 <td>42 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>98.6%</td>
+<td>96.0%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>37 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1 hr 47 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -208,27 +180,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>524.4 KiB</td>
+<td>527.3 KiB</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.8%</td>
+<td>31.9%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>428.3 KiB</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.0%</td>
+<td>25.9%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.9%</td>
+<td>14.8%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>179.2 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.9%</td>
+<td>10.8%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
@@ -263,14 +235,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a cow with two legs?</strong></p>
-<p><em>» Lean beef.</em></p>
+<p>My parents raised me as an only child, which really annoyed my younger brother.</p>
 <hr>
-<p><strong>Who is Santa's favourite singer?</strong></p>
-<p><em>» Elf-is Presley!</em></p>
+<p>Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."</p>
 <hr>
-<p><strong>What do you call a group of disorganized cats?</strong></p>
-<p><em>» A cat-tastrophe.</em></p>
+<p>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +251,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.</p>
+<p>💡 40% of McDonald’s profits come from the sales of Happy Meals.</p>
 <hr>
-<p>💡 Coconuts kill about 150 people each year. That’s more than sharks.</p>
+<p>💡 Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.</p>
 <hr>
-<p>💡 Hedenophobic means fear of pleasure.</p>
+<p>💡 A crocodiles tongue is attached to the roof of its mouth.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,15 +265,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Don’t be upset because of what you can’t do. Do what you do best, live as carefree and optimistically as you can, because some people aren’t able to do that."</em> - Keima Katsuragi</p>
+  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The only way to do great work is to love what you do."</em> - Steve Jobs</p>
+  <p><em>"When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey."</em> - Hinata Miyake</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Forgetting is like a wound. The wound may heal, but it has already left a scar."</em> - Monkey D Luffy</p>
+  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +287,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>January 31, 2026</td>
-<td> 04:16 AM IST</td>
+<td>Sunday</td>
+<td>February 01, 2026</td>
+<td> 04:11 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>February 01, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Monday</td>
+<td>February 02, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
