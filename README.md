@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/02776774a443ee2d4ec5a375a68cde195fae61ba974cecea91d828733c59691f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333525323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C535%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,666+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,667+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.3 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,406h 26m</strong> (75,241 Streams)</p>
+<p>🎧 Spotify: <strong>4,413h 4m</strong> (75,357 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -56,25 +56,25 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>14 hrs 23 mins</td>
+<td>14 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.2%</td>
+<td>32.4%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>8 hrs 28 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.9%</td>
+<td>18.6%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>3 hrs 33 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 32 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.9%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>7.8%</td>
 </tr> 
@@ -82,19 +82,19 @@ fun main() {
 <td>Dart</td>
 <td>1 hr 49 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Bash</td>
 <td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.4%</td>
+<td>3.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -108,21 +108,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>32 hrs 8 mins</td>
+<td>32 hrs 42 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.8%</td>
+<td>71.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>10 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.2%</td>
+<td>23.7%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 43 mins</td>
+<td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>4.5%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -142,7 +142,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>44 hrs 45 mins</td>
+<td>45 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -159,14 +159,14 @@ fun main() {
  <tbody><tr>
 <td>CITPC1142</td>
 <td>42 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒</td>
-<td>96.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
+<td>94.1%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>1 hr 47 mins</td>
+<td>2 hrs 42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>5.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -235,14 +235,15 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>My parents raised me as an only child, which really annoyed my younger brother.</p>
+<p><strong>Why don't programmers like nature?</strong></p>
+<p><em>» There's too many bugs.</em></p>
 <hr>
-<p>Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."</p>
+<p><strong>Went to the doctors for a prostate exam.
+During the exam he said it's not unusual to become aroused or even ejaculate.</strong></p>
+<p><em>» But still, I wish he hadn't.</em></p>
 <hr>
-<p>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</p>
+<p><strong>The past, the present and the future walk into a bar.</strong></p>
+<p><em>» It was tense.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -251,11 +252,11 @@ The bartender asks, "Can I get you anything?"
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 40% of McDonald’s profits come from the sales of Happy Meals.</p>
+<p>💡 The flea can jump 350 times its body length. It's like a human jumping the length of a football field.</p>
 <hr>
-<p>💡 Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.</p>
+<p>💡 The people of Israel consume more turkeys per capita than any other country.</p>
 <hr>
-<p>💡 A crocodiles tongue is attached to the roof of its mouth.</p>
+<p>💡 Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -265,15 +266,15 @@ The bartender asks, "Can I get you anything?"
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Every journey begins with a single step. We just have to have patience."</em> - Milly Thompson</p>
+  <p><em>"When I let go of what I am, I become what I might be."</em> - Lao Tzu</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you hit the point of no return, that’s the moment it truly becomes a journey. If you can still turn back, it’s not really a journey."</em> - Hinata Miyake</p>
+  <p><em>"An excellent leader must be passionate because it’s their duty to keep everyone moving forward."</em> - Nico Yazawa</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
+  <p><em>"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it."</em> - Johann Wolfgang von Goethe</p>
 </blockquote>
 </details>
 <p>
@@ -287,14 +288,14 @@ The bartender asks, "Can I get you anything?"
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>February 01, 2026</td>
-<td> 04:11 AM IST</td>
+<td>Monday</td>
+<td>February 02, 2026</td>
+<td> 04:14 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>February 02, 2026</td>
+<td>Tuesday</td>
+<td>February 03, 2026</td>
 <td>~04:10 AM IST</td>
 </tr>
 </tbody>
