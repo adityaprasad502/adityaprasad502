@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8c9c1f23ed86691d4c35eef585e95c1948570a942ce07b43d6033b8189e331fe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333525323068727325323032392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C535%20hrs%2029%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/451cdb78c9f6eb8202e2d186ccd3de7cc110bd4902b7e143a8c40e7a1cb9aef1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335333525323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C535%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,668+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,669+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.3 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,417h 28m</strong> (75,429 Streams)</p>
+<p>🎧 Spotify: <strong>4,417h 35m</strong> (75,431 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -62,9 +62,9 @@ fun main() {
 </tr> 
  <tr>
 <td>PHP</td>
-<td>8 hrs 28 mins</td>
+<td>8 hrs 34 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.6%</td>
+<td>18.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -108,15 +108,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>32 hrs 42 mins</td>
+<td>32 hrs 48 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.6%</td>
+<td>71.7%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>10 hrs 48 mins</td>
+<td>10 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.7%</td>
+<td>23.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
@@ -142,7 +142,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>45 hrs 40 mins</td>
+<td>45 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -158,15 +158,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>42 hrs 57 mins</td>
+<td>43 hrs 3 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>94.1%</td>
+<td>94.0%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>2 hrs 42 mins</td>
+<td>2 hrs 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.9%</td>
+<td>6.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -235,14 +235,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Programming is like sex.</strong></p>
-<p><em>» Make one mistake and you end up supporting it for the rest of your life.</em></p>
+<p><strong>What do you call a fake noodle?</strong></p>
+<p><em>» An impasta.</em></p>
 <hr>
-<p><strong>What do you call a kid with no arms and an eyepatch?</strong></p>
-<p><em>» Names.</em></p>
+<p><strong>Say what you want about pedophiles...</strong></p>
+<p><em>» But at least they drive slowly through the school zones.</em></p>
 <hr>
-<p><strong>What did the Zen Buddist say to the hotdog vendor?</strong></p>
-<p><em>» Make me one with everything.</em></p>
+<p><strong>What do you call a pile of kittens?</strong></p>
+<p><em>» A meowntain.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -251,11 +251,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The average person will accidentally eat just under a pound of insects every year.</p>
+<p>💡 Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.</p>
 <hr>
-<p>💡 Rubber bands last longer when refrigerated. </p>
+<p>💡 There are 336 dimples on a regulation US golf ball. In the UK its 330.</p>
 <hr>
-<p>💡 Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.</p>
+<p>💡 Between 25% and 33% of the population sneeze when exposed to light.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -264,17 +264,7 @@ fun main() {
 </p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
-<blockquote>
-  <p><em>"Believe you can and you’re halfway there."</em> - Theodore Roosevelt</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"You can die anytime, but living takes true courage."</em> - Himura Kenshin</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"Sometimes, people are just mean. Don’t fight mean with mean. Hold your head high."</em> - Hinata Miyake</p>
-</blockquote>
+<p><em>Could not fetch random quotes at this time.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -287,15 +277,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>February 04, 2026</td>
-<td> 04:20 AM IST</td>
+<td>Thursday</td>
+<td>February 05, 2026</td>
+<td> 04:17 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>February 05, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Friday</td>
+<td>February 06, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
