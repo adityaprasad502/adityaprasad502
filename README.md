@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/3cddae12360b67ccb1c8070c079281f57fceb04c8341044367d20dcac1addef8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d312532433535322532306872732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C552%20hrs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8624b3077ff5612b48894533d966785ea08801a02acaaacee223f1e8fc43d6d6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243353532253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C552%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,677+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,679+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,437h 38m</strong> (75,737 Streams)</p>
+<p>🎧 Spotify: <strong>4,440h 16m</strong> (75,778 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -58,19 +58,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1 commits</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>4 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>4 commits in February 2026</b></td>
+<td colspan="2"><b>5 commits in February 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>PHP</td>
-<td>15 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.1%</td>
+<td>15 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>12 hrs 13 mins</td>
+<td>12 hrs 17 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.9%</td>
+<td>24.0%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>6 hrs</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.3%</td>
+<td>11.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 36 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.3%</td>
+<td>7.0%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>1 hr 49 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.6%</td>
 </tr> 
  <tr>
-<td>Bash</td>
-<td>1 hr 29 mins</td>
+<td>CSS</td>
+<td>1 hr 34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>3.1%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>1 hr 12 mins</td>
+<td>JavaScript</td>
+<td>1 hr 30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>3.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,19 +136,19 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>34 hrs 46 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>70.9%</td>
+<td>37 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>72.5%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>12 hrs 7 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.7%</td>
+<td>11 hrs 48 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 4 mins</td>
+<td>2 hrs 8 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>4.2%</td>
 </tr> 
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>49 hrs 2 mins</td>
+<td>51 hrs 5 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>45 hrs 22 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒</td>
-<td>92.5%</td>
+<td>44 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
+<td>86.3%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>3 hrs 40 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
+<td>6 hrs 59 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -244,7 +244,7 @@ fun main() {
 </tr> 
  <tr>
 <td>HTML</td>
-<td>45.3 KiB</td>
+<td>45.2 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.7%</td>
 </tr>
@@ -263,12 +263,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>I was going to tell a dead baby joke. But I decided to abort.</p>
+<p>I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"</p>
 <hr>
-<p>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</p>
+<p><strong>What does a woman's pussy and a chainsaw have in common?</strong></p>
+<p><em>» Miss by a few inches and you're in deep shit.</em></p>
 <hr>
-<p><strong>What kind of pants do ghosts wear?</strong></p>
-<p><em>» Boo jeans.</em></p>
+<p><strong>Why does Santa go down the chimney?</strong></p>
+<p><em>» Because it soots him!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -277,11 +278,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Most lipstick contains fish scales.</p>
+<p>💡 Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</p>
 <hr>
-<p>💡 The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.</p>
+<p>💡 Sherlock Holmes NEVER said, "Elementary, my dear Watson."</p>
 <hr>
-<p>💡 Johnny Appleseed planted apples so that people could use apple cider to make alcohol.</p>
+<p>💡 The pancreas produces Insulin.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -303,15 +304,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>February 09, 2026</td>
-<td> 04:18 AM IST</td>
+<td>Tuesday</td>
+<td>February 10, 2026</td>
+<td> 04:28 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>February 10, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Wednesday</td>
+<td>February 11, 2026</td>
+<td>~04:25 AM IST</td>
 </tr>
 </tbody>
 </table>
