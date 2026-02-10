@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/8624b3077ff5612b48894533d966785ea08801a02acaaacee223f1e8fc43d6d6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243353532253230687273253230312532306d696e2d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C552%20hrs%201%20min-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,679+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,680+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,440h 16m</strong> (75,778 Streams)</p>
+<p>🎧 Spotify: <strong>4,442h 22m</strong> (75,813 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -84,15 +84,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>PHP</td>
-<td>15 hrs 30 mins</td>
+<td>15 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>30.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>12 hrs 17 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.0%</td>
+<td>11 hrs 43 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.0%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
@@ -102,9 +102,15 @@ fun main() {
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>3 hrs 36 mins</td>
+<td>3 hrs 35 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.0%</td>
+<td>7.1%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 hrs 5 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -114,15 +120,9 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 34 mins</td>
+<td>1 hr 39 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.1%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 30 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>3.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,15 +136,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>37 hrs 3 mins</td>
+<td>37 hrs 4 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>72.5%</td>
+<td>72.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>11 hrs 48 mins</td>
+<td>11 hrs 38 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.1%</td>
+<td>22.9%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>51 hrs 5 mins</td>
+<td>50 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>44 hrs 5 mins</td>
+<td>43 hrs 15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>86.3%</td>
+<td>84.9%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>6 hrs 59 mins</td>
+<td>7 hrs 40 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.7%</td>
+<td>15.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,13 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"</p>
+<p><strong>What's the difference between a gay guy and a refrigerator?</strong></p>
+<p><em>» A refrigerator doesn't fart when I pull my meat out of it.</em></p>
 <hr>
-<p><strong>What does a woman's pussy and a chainsaw have in common?</strong></p>
-<p><em>» Miss by a few inches and you're in deep shit.</em></p>
+<p><strong>What do you call a cow with no legs?</strong></p>
+<p><em>» Ground beef.</em></p>
 <hr>
-<p><strong>Why does Santa go down the chimney?</strong></p>
-<p><em>» Because it soots him!</em></p>
+<p><strong>What did the 0 say to the 8?</strong></p>
+<p><em>» Nice belt.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -278,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</p>
+<p>💡 There is a city in Norway called "Hell"</p>
 <hr>
-<p>💡 Sherlock Holmes NEVER said, "Elementary, my dear Watson."</p>
+<p>💡 In 1386, a pig in France was executed by public hanging for the murder of a child</p>
 <hr>
-<p>💡 The pancreas produces Insulin.</p>
+<p>💡 On average, Americans eat 18 acres of pizza everyday.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -304,15 +305,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>February 10, 2026</td>
-<td> 04:28 AM IST</td>
+<td>Wednesday</td>
+<td>February 11, 2026</td>
+<td> 04:31 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>February 11, 2026</td>
-<td>~04:25 AM IST</td>
+<td>Thursday</td>
+<td>February 12, 2026</td>
+<td>~04:30 AM IST</td>
 </tr>
 </tbody>
 </table>
