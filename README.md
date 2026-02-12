@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/395b3c011892b996f782843afbcac4533285002821f7822d0184d95e4bf1d4ce/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335353725323068727325323031342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C557%20hrs%2014%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/ae58466d949833f32b63e864e87f5b190371eae99011729b556629d33bd20dcb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363025323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C560%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,708+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,720+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>72.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,448h 28m</strong> (75,917 Streams)</p>
+<p>🎧 Spotify: <strong>4,452h 12m</strong> (75,986 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -52,25 +52,25 @@ fun main() {
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
+<td>1 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>2.3%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>6 commits</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.8%</td>
+<td>16 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.2%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>26 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒</td>
-<td>81.2%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.5%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>32 commits in February 2026</b></td>
+<td colspan="2"><b>43 commits in February 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>PHP</td>
-<td>15 hrs 9 mins</td>
+<td>14 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.2%</td>
+<td>27.8%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>11 hrs 35 mins</td>
+<td>11 hrs 29 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.1%</td>
+<td>21.9%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>6 hrs</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
+<td>11.5%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>3 hrs 49 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.3%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 35 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>6.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 5 mins</td>
+<td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>1 hr 49 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.6%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 39 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
+<td>3.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>36 hrs 21 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>72.6%</td>
+<td>35 hrs 30 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.7%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>11 hrs 31 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.0%</td>
+<td>22.0%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 8 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>5 hrs 22 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.2%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>50 hrs 5 mins</td>
+<td>52 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>42 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒</td>
-<td>84.7%</td>
+<td>41 hrs 27 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>79.0%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>7 hrs 40 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.3%</td>
+<td>11 hrs 1 min</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -214,7 +214,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>472.7 KiB</td>
+<td>472.9 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>27.8%</td>
 </tr> 
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Today, my son asked "Can I have a book mark?" and I burst into tears.
-11 years old and he still doesn't know my name is Brian.</p>
+<p><strong>When I was a kid, I made a really big sandcastle with my grandma.</strong></p>
+<p><em>» Unfortunately, that didn't impress anyone at the cremation...</em></p>
 <hr>
-<p><strong>How many bones are in the human hand?</strong></p>
-<p><em>» A handful of them.</em></p>
+<p><strong>Why did the programmer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>Why do front end developers eat lunch alone?</strong></p>
-<p><em>» Because they don't know how to join tables.</em></p>
+<p><strong>What did Naruto say when he won the lottery?</strong></p>
+<p><em>» Believe it!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The sperm of a mouse is actually longer than the sperm of an elephant.</p>
+<p>💡 Weatherman Willard Scott was the first original Ronald McDonald.</p>
 <hr>
-<p>💡 The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</p>
+<p>💡 The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
 <hr>
-<p>💡 The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
+<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -305,15 +305,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>February 12, 2026</td>
-<td> 04:20 AM IST</td>
+<td>Friday</td>
+<td>February 13, 2026</td>
+<td> 04:19 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>February 13, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Saturday</td>
+<td>February 14, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
