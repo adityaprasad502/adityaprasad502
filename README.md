@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/ae58466d949833f32b63e864e87f5b190371eae99011729b556629d33bd20dcb/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363025323068727325323031302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C560%20hrs%2010%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/c63f9a35d0a12ef8d465edcd22dc144ff6391c3b2846a10e02e3f05bf5764473/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363125323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C561%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,720+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,731+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>72.6 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>73.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,452h 12m</strong> (75,986 Streams)</p>
+<p>🎧 Spotify: <strong>4,455h 58m</strong> (76,046 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -54,23 +54,23 @@ fun main() {
 <td>🌆 Daytime</td>
 <td>1 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>1.9%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>16 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.2%</td>
+<td>17 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.1%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>26 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.5%</td>
+<td>35 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>43 commits in February 2026</b></td>
+<td colspan="2"><b>53 commits in February 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>PHP</td>
-<td>14 hrs 36 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.8%</td>
+<td>13 hrs 43 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>11 hrs 29 mins</td>
+<td>11 hrs 7 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.9%</td>
+<td>21.0%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>7 hrs 16 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.7%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>6 hrs</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.5%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>3 hrs 49 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.3%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.3%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 35 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>6.8%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
-</tr> 
- <tr>
-<td>Dart</td>
-<td>1 hr 49 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.5%</td>
+<td>3.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>35 hrs 30 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>67.7%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>11 hrs 31 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.0%</td>
+<td>35 hrs 35 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>67.2%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 22 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.2%</td>
+<td>9 hrs 38 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.2%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>7 hrs 42 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.5%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>52 hrs 28 mins</td>
+<td>53 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>41 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>79.0%</td>
+<td>37 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>70.2%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>11 hrs 1 min</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.0%</td>
+<td>15 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -210,31 +210,31 @@ fun main() {
 <td>Python</td>
 <td>527.3 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.0%</td>
+<td>30.6%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>472.9 KiB</td>
+<td>491.8 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.8%</td>
+<td>28.6%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.4%</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>182.6 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.7%</td>
+<td>10.6%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.3%</td>
+<td>7.2%</td>
 </tr> 
  <tr>
 <td>CSS</td>
@@ -246,7 +246,7 @@ fun main() {
 <td>HTML</td>
 <td>45.2 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.7%</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>When I was a kid, I made a really big sandcastle with my grandma.</strong></p>
-<p><em>» Unfortunately, that didn't impress anyone at the cremation...</em></p>
+<p><strong>Why are Assembly programmers always soaking wet?</strong></p>
+<p><em>» They work below C-level.</em></p>
 <hr>
-<p><strong>Why did the programmer quit his job?</strong></p>
-<p><em>» Because he didn't get arrays.</em></p>
+<p><strong>Why does Dr. Pepper come in a bottle?</strong></p>
+<p><em>» His wife is dead.</em></p>
 <hr>
-<p><strong>What did Naruto say when he won the lottery?</strong></p>
-<p><em>» Believe it!</em></p>
+<p><strong>Why do choirs keep buckets handy?</strong></p>
+<p><em>» So they can carry their tune</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Weatherman Willard Scott was the first original Ronald McDonald.</p>
+<p>💡 The average person spends 6 months of their life sitting at red lights.</p>
 <hr>
-<p>💡 The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
+<p>💡 Like fingerprints, everyone's tongue print is different!</p>
 <hr>
-<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
+<p>💡 A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -305,15 +305,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>February 13, 2026</td>
-<td> 04:19 AM IST</td>
+<td>Saturday</td>
+<td>February 14, 2026</td>
+<td> 04:23 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>February 14, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Sunday</td>
+<td>February 15, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
