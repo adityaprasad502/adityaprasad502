@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/c63f9a35d0a12ef8d465edcd22dc144ff6391c3b2846a10e02e3f05bf5764473/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363125323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C561%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,733+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,734+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,463h 42m</strong> (76,171 Streams)</p>
+<p>🎧 Spotify: <strong>4,464h 34m</strong> (76,187 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -83,46 +83,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>PHP</td>
-<td>12 hrs 13 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.7%</td>
-</tr> 
- <tr>
 <td>Python</td>
 <td>10 hrs 57 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.2%</td>
+<td>22.3%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>9 hrs 55 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.2%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>8 hrs 8 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.8%</td>
+<td>16.5%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>5 hrs 58 mins</td>
+<td>5 hrs 49 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.6%</td>
+<td>11.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 24 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>6.9%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 54 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>4.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>35 hrs 11 mins</td>
+<td>33 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.2%</td>
+<td>68.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 9 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.6%</td>
+<td>22.7%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>5 hrs 13 mins</td>
+<td>4 hrs 30 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.1%</td>
+<td>9.1%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>51 hrs 38 mins</td>
+<td>49 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>34 hrs 9 mins</td>
+<td>31 hrs 44 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.1%</td>
+<td>64.5%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>17 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.9%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Did you hear about the chameleon who couldn't change color?</strong></p>
-<p><em>» They had a reptile dysfunction.</em></p>
+<p><strong>I'm thinking of setting up a comedy group to help people going through cancer treatment.</strong></p>
+<p><em>» I'll call it "A Sense of Tumor".</em></p>
 <hr>
-<p><strong>What kind of car did Whitney Houston drive?</strong></p>
-<p><em>» A Hyundaiiiiiiiiiiii</em></p>
+<p><strong>What does a turkey dress up as for Halloween?</strong></p>
+<p><em>» A gobblin'!</em></p>
 <hr>
-<p><strong>What did the ocean say to the shore?</strong></p>
-<p><em>» Nothing, it just waved.</em></p>
+<p><strong>Why are fish so smart?</strong></p>
+<p><em>» Because they live in schools!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 28% of Africa is classified as wilderness. In North America, its 38%.</p>
+<p>💡 One in eight million people has progeria, a disease that causes people to grow faster than they age.</p>
 <hr>
-<p>💡 `Stewardesses` is the longest word that is typed with only the left hand.</p>
+<p>💡 Gary, Indiana is the murder capital of the U.S. - probably the world.</p>
 <hr>
-<p>💡 Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</p>
+<p>💡 Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -305,14 +305,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>February 16, 2026</td>
-<td> 04:15 AM IST</td>
+<td>Tuesday</td>
+<td>February 17, 2026</td>
+<td> 04:19 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>February 17, 2026</td>
+<td>Wednesday</td>
+<td>February 18, 2026</td>
 <td>~04:15 AM IST</td>
 </tr>
 </tbody>
