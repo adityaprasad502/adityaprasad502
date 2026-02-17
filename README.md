@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/c63f9a35d0a12ef8d465edcd22dc144ff6391c3b2846a10e02e3f05bf5764473/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363125323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C561%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,734+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,749+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.4 MiB</strong> Used in GitHub Storage</p>
-<p>⚡ LeetCode: <strong>89</strong> Solved (77E • 10M • 2H)</p>
+<p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,464h 34m</strong> (76,187 Streams)</p>
+<p>🎧 Spotify: <strong>4,469h 33m</strong> (76,271 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -54,23 +54,23 @@ fun main() {
 <td>🌆 Daytime</td>
 <td>1 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>1.5%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>17 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.1%</td>
+<td>31 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.3%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>35 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>66.0%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.2%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>53 commits in February 2026</b></td>
+<td colspan="2"><b>67 commits in February 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>10 hrs 57 mins</td>
+<td>9 hrs 20 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.3%</td>
+<td>21.0%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>9 hrs 55 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.2%</td>
+<td>8 hrs 11 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.4%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>8 hrs 8 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.5%</td>
+<td>18.3%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>5 hrs 49 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.8%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>3 hrs 24 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>13.1%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 54 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.9%</td>
+<td>6.5%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>2 hrs 51 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.4%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>33 hrs 30 mins</td>
+<td>30 hrs 28 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.1%</td>
+<td>68.5%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 9 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.7%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>4 hrs 30 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.1%</td>
+<td>2 hrs 49 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.3%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>49 hrs 13 mins</td>
+<td>44 hrs 30 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>31 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>64.5%</td>
+<td>27 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.7%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>17 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.5%</td>
+<td>39.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -208,13 +208,13 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>527.3 KiB</td>
+<td>527.5 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>30.6%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>491.8 KiB</td>
+<td>492.0 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>28.6%</td>
 </tr> 
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>I'm thinking of setting up a comedy group to help people going through cancer treatment.</strong></p>
-<p><em>» I'll call it "A Sense of Tumor".</em></p>
+<p><strong>What is the least spoken language in the world?</strong></p>
+<p><em>» Sign Language</em></p>
 <hr>
-<p><strong>What does a turkey dress up as for Halloween?</strong></p>
-<p><em>» A gobblin'!</em></p>
+<p><strong>Why did the programmer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>Why are fish so smart?</strong></p>
-<p><em>» Because they live in schools!</em></p>
+<p><strong>Why do cows wear bells?</strong></p>
+<p><em>» Because their horns don't work!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 One in eight million people has progeria, a disease that causes people to grow faster than they age.</p>
+<p>💡 Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</p>
 <hr>
-<p>💡 Gary, Indiana is the murder capital of the U.S. - probably the world.</p>
+<p>💡 38% of American men say they love their cars more than women</p>
 <hr>
-<p>💡 Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
+<p>💡 Honeybees have a type of hair on their eyes!</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -305,15 +305,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>February 17, 2026</td>
-<td> 04:19 AM IST</td>
+<td>Wednesday</td>
+<td>February 18, 2026</td>
+<td> 04:21 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>February 18, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Thursday</td>
+<td>February 19, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
