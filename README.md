@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/c63f9a35d0a12ef8d465edcd22dc144ff6391c3b2846a10e02e3f05bf5764473/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363125323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C561%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/28971f682a812985b6000bf2ce084cb918315f0ff792be19961e52df906602c3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243353632253230687273253230342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%204%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,749+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,750+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,469h 33m</strong> (76,271 Streams)</p>
+<p>🎧 Spotify: <strong>4,472h 34m</strong> (76,322 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -83,46 +83,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Python</td>
-<td>9 hrs 20 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.0%</td>
-</tr> 
- <tr>
 <td>PHP</td>
 <td>8 hrs 11 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.4%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.7%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>8 hrs 8 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.5%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>5 hrs 49 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.1%</td>
+<td>15.4%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>4 hrs 47 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 54 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>2 hrs 51 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.4%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
+<td>5.5%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>1 hr 41 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>30 hrs 28 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
-<td>68.5%</td>
+<td>23 hrs 45 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.8%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.1%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.5%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>2 hrs 49 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.3%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.5%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.1%</td>
+<td>0.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>44 hrs 30 mins</td>
+<td>37 hrs 47 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>CITPC1142</td>
-<td>27 hrs 1 min</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.7%</td>
+<td>20 hrs 18 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.7%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>17 hrs 29 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.3%</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>46.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the least spoken language in the world?</strong></p>
-<p><em>» Sign Language</em></p>
+<p>Never date a baker. They're too kneady.</p>
 <hr>
-<p><strong>Why did the programmer quit his job?</strong></p>
-<p><em>» Because he didn't get arrays.</em></p>
+<p><strong>Why did the worker get fired from the orange juice factory?</strong></p>
+<p><em>» Lack of concentration.</em></p>
 <hr>
-<p><strong>Why do cows wear bells?</strong></p>
-<p><em>» Because their horns don't work!</em></p>
+<p>My grandfather says I'm too reliant on technology.
+I called him a hypocrite and unplugged his life support.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +278,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</p>
+<p>💡 The first contraceptive was crocodile dung used by the ancient Egyptians.</p>
 <hr>
-<p>💡 38% of American men say they love their cars more than women</p>
+<p>💡 Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</p>
 <hr>
-<p>💡 Honeybees have a type of hair on their eyes!</p>
+<p>💡 A duck's quack doesn't echo, and no one knows why.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -305,14 +304,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>February 18, 2026</td>
-<td> 04:21 AM IST</td>
+<td>Thursday</td>
+<td>February 19, 2026</td>
+<td> 04:23 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>February 19, 2026</td>
+<td>Friday</td>
+<td>February 20, 2026</td>
 <td>~04:20 AM IST</td>
 </tr>
 </tbody>
