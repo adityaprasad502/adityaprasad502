@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/28971f682a812985b6000bf2ce084cb918315f0ff792be19961e52df906602c3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243353632253230687273253230342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%204%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/1b9881741fc6ea8c603fb94b7a58be78f7c44798867e302b88acea9ffdbf4747/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363225323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,751+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,753+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,476h 5m</strong> (76,376 Streams)</p>
+<p>🎧 Spotify: <strong>4,476h 34m</strong> (76,384 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -60,17 +60,17 @@ fun main() {
 <td>🌃 Evening</td>
 <td>31 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.3%</td>
+<td>45.6%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>35 commits</td>
+<td>36 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.2%</td>
+<td>52.9%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>67 commits in February 2026</b></td>
+<td colspan="2"><b>68 commits in February 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -81,50 +81,9 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Kotlin</td>
-<td>8 hrs 8 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.4%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>8 hrs 1 min</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.1%</td>
-</tr> 
- <tr>
-<td>Blade Template</td>
-<td>5 hrs 49 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.8%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>3 hrs 24 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.8%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 hrs 54 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.4%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>2 hrs 4 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.0%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 39 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -133,32 +92,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>VS Code</td>
-<td>20 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.6%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>11 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.1%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>2 hrs 49 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
-</tr> 
- <tr>
-<td>IntelliJ IDEA</td>
-<td>4 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.2%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -167,14 +103,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Windows</td>
-<td>34 hrs 44 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,20 +114,9 @@ fun main() {
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Pu94X</td>
-<td>17 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.0%</td>
-</tr> 
- <tr>
-<td>CITPC1142</td>
-<td>17 hrs 2 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -210,7 +130,7 @@ fun main() {
 <td>Python</td>
 <td>527.5 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.6%</td>
+<td>30.7%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
@@ -263,14 +183,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do ghosts call their true love?</strong></p>
-<p><em>» Their ghoul-friend</em></p>
+<p><strong>What's brown and sticky?</strong></p>
+<p><em>» A stick.</em></p>
 <hr>
-<p><strong>Why did the melons plan a big wedding?</strong></p>
-<p><em>» Because they cantaloupe!</em></p>
+<p><strong>What do you call a bee that can't make up its mind?</strong></p>
+<p><em>» A maybe.</em></p>
 <hr>
-<p><strong>What did Naruto say when he won the lottery?</strong></p>
-<p><em>» Believe it!</em></p>
+<p><strong>Why didn't the skeleton go for prom?</strong></p>
+<p><em>» Because it had nobody.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +199,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A cockroach will live nine days without its head before it starves to death.</p>
+<p>💡 You are more likely to be killed by a champagne cork than by a poisonous spider.</p>
 <hr>
-<p>💡 Sharkskin has tiny tooth-like scales all over.</p>
+<p>💡 An ant always falls over on its right side when intoxicated.</p>
 <hr>
-<p>💡 About 500 movies are made in the US and 800 in India annually.</p>
+<p>💡 There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -292,7 +212,17 @@ fun main() {
 </p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
-<p><em>Could not fetch random quotes at this time.</em></p>
+<blockquote>
+  <p><em>"Don't cry because it's over, smile because it happened."</em> - Dr. Seuss</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"The two most important days in your life are the day you are born and the day you find out why."</em> - Mark Twain</p>
+</blockquote>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -307,13 +237,13 @@ fun main() {
 <td>Last Refresh</td>
 <td>Friday</td>
 <td>February 20, 2026</td>
-<td> 04:21 AM IST</td>
+<td> 22:47 PM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Saturday</td>
 <td>February 21, 2026</td>
-<td>~04:20 AM IST</td>
+<td>~22:45 PM IST</td>
 </tr>
 </tbody>
 </table>
