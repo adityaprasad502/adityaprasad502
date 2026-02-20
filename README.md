@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/1b9881741fc6ea8c603fb94b7a58be78f7c44798867e302b88acea9ffdbf4747/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363225323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,753+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,754+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,476h 34m</strong> (76,384 Streams)</p>
+<p>🎧 Spotify: <strong>4,479h 28m</strong> (76,432 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -81,9 +81,50 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Kotlin</td>
+<td>8 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.4%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>7 hrs 41 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.9%</td>
+</tr> 
+ <tr>
+<td>Blade Template</td>
+<td>5 hrs 50 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.2%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>2 hrs 54 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.1%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2 hrs 4 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.5%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 59 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.2%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 39 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.2%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -92,9 +133,32 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>VS Code</td>
+<td>18 hrs 20 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.0%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>11 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.8%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>2 hrs 32 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.9%</td>
+</tr> 
+ <tr>
+<td>IntelliJ IDEA</td>
+<td>4 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.2%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -103,9 +167,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Windows</td>
+<td>32 hrs 8 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -114,9 +183,20 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Pu94X</td>
+<td>17 hrs 45 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.2%</td>
+</tr> 
+ <tr>
+<td>CITPC1142</td>
+<td>14 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.8%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -183,14 +263,15 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What's brown and sticky?</strong></p>
-<p><em>» A stick.</em></p>
+<p><strong>How do you find Will Smith in the snow?</strong></p>
+<p><em>»  Look for fresh prints.</em></p>
 <hr>
-<p><strong>What do you call a bee that can't make up its mind?</strong></p>
-<p><em>» A maybe.</em></p>
+<p><strong>How did Harry Potter get down the hill?</strong></p>
+<p><em>» Walking...
+JK, Rolling.</em></p>
 <hr>
-<p><strong>Why didn't the skeleton go for prom?</strong></p>
-<p><em>» Because it had nobody.</em></p>
+<p><strong>I dropped a pear in my car this morning.</strong></p>
+<p><em>» You should drop another one, then you would have a pair.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -199,11 +280,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 You are more likely to be killed by a champagne cork than by a poisonous spider.</p>
+<p>💡 To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</p>
 <hr>
-<p>💡 An ant always falls over on its right side when intoxicated.</p>
+<p>💡 You can`t kill yourself by holding your breath.  </p>
 <hr>
-<p>💡 There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).</p>
+<p>💡 Stephen Hawking was born exactly 300 years after Galileo died.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -213,15 +294,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Don't cry because it's over, smile because it happened."</em> - Dr. Seuss</p>
+  <p><em>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</em> - Carl Bard</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
+  <p><em>"Keep your face to the sunshine and you can never see the shadow."</em> - Helen Keller</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The two most important days in your life are the day you are born and the day you find out why."</em> - Mark Twain</p>
+  <p><em>"Success does not consist in never making mistakes but in never making the same one a second time."</em> - George Bernard Shaw</p>
 </blockquote>
 </details>
 <p>
@@ -235,15 +316,15 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>February 20, 2026</td>
-<td> 22:47 PM IST</td>
+<td>Saturday</td>
+<td>February 21, 2026</td>
+<td> 04:17 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>February 21, 2026</td>
-<td>~22:45 PM IST</td>
+<td>Sunday</td>
+<td>February 22, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
