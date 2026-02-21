@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/1b9881741fc6ea8c603fb94b7a58be78f7c44798867e302b88acea9ffdbf4747/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363225323068727325323032362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%2026%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/62ae29b6e2fc797dca4a0bcb1b5d7082357682fca17991023452d653797a8658/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363225323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,754+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,755+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,479h 28m</strong> (76,432 Streams)</p>
+<p>🎧 Spotify: <strong>4,485h 4m</strong> (76,522 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -86,43 +86,43 @@ fun main() {
 <td>Kotlin</td>
 <td>8 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.4%</td>
+<td>26.4%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>7 hrs 41 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.9%</td>
+<td>24.8%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>5 hrs 50 mins</td>
+<td>5 hrs 2 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.2%</td>
+<td>16.3%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 54 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.1%</td>
+<td>9.4%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
+<td>6.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 59 mins</td>
+<td>1 hr 43 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.2%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 39 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>5.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>18 hrs 20 mins</td>
+<td>18 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.0%</td>
+<td>59.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 11 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.8%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>2 hrs 32 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.9%</td>
+<td>1 hr 18 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.2%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>32 hrs 8 mins</td>
+<td>30 hrs 58 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>17 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.2%</td>
+<td>17 hrs 57 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.9%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>14 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.8%</td>
+<td>13 hrs 1 min</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,15 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>How do you find Will Smith in the snow?</strong></p>
-<p><em>»  Look for fresh prints.</em></p>
+<p><strong>What do you get when you cross a React developer with a mathematician?</strong></p>
+<p><em>» A function component.</em></p>
 <hr>
-<p><strong>How did Harry Potter get down the hill?</strong></p>
-<p><em>» Walking...
-JK, Rolling.</em></p>
+<p><strong>Don't look at the eclipse through a colander.</strong></p>
+<p><em>» You'll strain your eyes.</em></p>
 <hr>
-<p><strong>I dropped a pear in my car this morning.</strong></p>
-<p><em>» You should drop another one, then you would have a pair.</em></p>
+<p><strong>The past, the present and the future walk into a bar.</strong></p>
+<p><em>» It was tense.</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -280,11 +279,11 @@ JK, Rolling.</em></p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</p>
+<p>💡 Gabriel, Michael, and Lucifer are the only angels named in the Bible.</p>
 <hr>
-<p>💡 You can`t kill yourself by holding your breath.  </p>
+<p>💡 US Dollar bills are made out of cotton and linen.</p>
 <hr>
-<p>💡 Stephen Hawking was born exactly 300 years after Galileo died.</p>
+<p>💡 The catfish has the most taste buds of all animals, having over 27,000 of them.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -294,15 +293,15 @@ JK, Rolling.</em></p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</em> - Carl Bard</p>
+  <p><em>"If you always do what interests you, at least one person is pleased."</em> - Katharine Hepburn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Keep your face to the sunshine and you can never see the shadow."</em> - Helen Keller</p>
+  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success does not consist in never making mistakes but in never making the same one a second time."</em> - George Bernard Shaw</p>
+  <p><em>"Do not let what you cannot do interfere with what you can do."</em> - John Wooden</p>
 </blockquote>
 </details>
 <p>
@@ -316,15 +315,15 @@ JK, Rolling.</em></p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>February 21, 2026</td>
-<td> 04:17 AM IST</td>
+<td>Sunday</td>
+<td>February 22, 2026</td>
+<td> 04:12 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>February 22, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Monday</td>
+<td>February 23, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
