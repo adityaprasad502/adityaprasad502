@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/62ae29b6e2fc797dca4a0bcb1b5d7082357682fca17991023452d653797a8658/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363225323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C562%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,755+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,756+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>73.5 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>73.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,485h 4m</strong> (76,522 Streams)</p>
+<p>🎧 Spotify: <strong>4,489h 3m</strong> (76,579 Streams)</p>
 </blockquote>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -86,35 +86,35 @@ fun main() {
 <td>Kotlin</td>
 <td>8 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.4%</td>
+<td>27.1%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>7 hrs 41 mins</td>
+<td>7 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.8%</td>
+<td>24.3%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>5 hrs 2 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.3%</td>
+<td>4 hrs 38 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 54 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.4%</td>
+<td>9.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>6.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 43 mins</td>
+<td>1 hr 41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>5.6%</td>
 </tr> 
@@ -122,7 +122,7 @@ fun main() {
 <td>CSS</td>
 <td>1 hr 39 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.4%</td>
+<td>5.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>18 hrs 24 mins</td>
+<td>17 hrs 34 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.4%</td>
+<td>58.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.1%</td>
+<td>37.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.3%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 58 mins</td>
+<td>30 hrs 9 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>17 hrs 57 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.9%</td>
+<td>18 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.2%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>13 hrs 1 min</td>
+<td>12 hrs</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.1%</td>
+<td>39.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,17 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you get when you cross a React developer with a mathematician?</strong></p>
-<p><em>» A function component.</em></p>
+<p><strong>Knock knock. 
+ Who's there? 
+ Hatch. 
+ Hatch who?</strong></p>
+<p><em>» Bless you!</em></p>
 <hr>
-<p><strong>Don't look at the eclipse through a colander.</strong></p>
-<p><em>» You'll strain your eyes.</em></p>
+<p><strong>Why did the developer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>The past, the present and the future walk into a bar.</strong></p>
-<p><em>» It was tense.</em></p>
+<p><strong>What did the Dorito farmer say to the other Dorito farmer?</strong></p>
+<p><em>» Cool Ranch!</em></p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -279,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Gabriel, Michael, and Lucifer are the only angels named in the Bible.</p>
+<p>💡 Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.</p>
 <hr>
-<p>💡 US Dollar bills are made out of cotton and linen.</p>
+<p>💡 The town of Calma, Chile in the Atacama Desert has never had rain.</p>
 <hr>
-<p>💡 The catfish has the most taste buds of all animals, having over 27,000 of them.</p>
+<p>💡 Honey is the only food which does not spoil.</p>
 </details>
 <p>
     <a href="https://adityaprasad.eu.org" rel="nofollow">
@@ -293,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you always do what interests you, at least one person is pleased."</em> - Katharine Hepburn</p>
+  <p><em>"Success is liking yourself, liking what you do, and liking how you do it."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
+  <p><em>"Trust because you are willing to accept the risk, not because it’s safe or certain."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Do not let what you cannot do interfere with what you can do."</em> - John Wooden</p>
+  <p><em>"The difference between winning and losing is most often not quitting."</em> - Walt Disney</p>
 </blockquote>
 </details>
 <p>
@@ -315,14 +318,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>February 22, 2026</td>
-<td> 04:12 AM IST</td>
+<td>Monday</td>
+<td>February 23, 2026</td>
+<td> 04:14 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>February 23, 2026</td>
+<td>Tuesday</td>
+<td>February 24, 2026</td>
 <td>~04:10 AM IST</td>
 </tr>
 </tbody>
