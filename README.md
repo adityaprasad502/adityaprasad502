@@ -25,18 +25,18 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://camo.githubusercontent.com/4f4dfc2ba5c1625842acfa3cbf49e5e6424d19408db67e80a61871b644da4fc2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363325323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C563%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6405d821c3eda3dfccecdb2508835bdf6647933a37edb96e23bd89057334e4f6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363525323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C565%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,758+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,787+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>73.6 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>73.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,490h 36m</strong> (76,607 Streams)</p>
+<p>🎧 Spotify: <strong>4,494h 43m</strong> (76,673 Streams)</p>
 </blockquote>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -54,28 +54,28 @@ fun main() {
 <td>🌆 Daytime</td>
 <td>1 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>32 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.4%</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>36 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.2%</td>
+<td>64 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
+<td>66.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>69 commits in February 2026</b></td>
+<td colspan="2"><b>97 commits in February 2026</b></td>
 </tr>
 </tbody></table>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -84,50 +84,50 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>8 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.1%</td>
+<td>9 hrs</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.9%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>7 hrs 18 mins</td>
 <td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.3%</td>
+<td>23.5%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
-<td>4 hrs 38 mins</td>
+<td>4 hrs 35 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.4%</td>
+<td>14.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 54 mins</td>
+<td>3 hrs 5 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.7%</td>
+<td>9.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>6.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 41 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>5.4%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 39 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.5%</td>
+<td>5.3%</td>
 </tr>
 </tbody></table>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>17 hrs 34 mins</td>
+<td>17 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.3%</td>
+<td>56.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>11 hrs 11 mins</td>
+<td>12 hrs 14 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.1%</td>
+<td>39.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>4.2%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -161,7 +161,7 @@ fun main() {
 </tbody></table>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -170,14 +170,14 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 9 mins</td>
+<td>31 hrs 8 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -186,20 +186,20 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>18 hrs 9 mins</td>
+<td>19 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.2%</td>
+<td>61.6%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>12 hrs</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.8%</td>
+<td>11 hrs 56 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.4%</td>
 </tr>
 </tbody></table>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -210,23 +210,23 @@ fun main() {
 <td>Python</td>
 <td>527.5 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.7%</td>
+<td>30.6%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>492.1 KiB</td>
+<td>494.9 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.6%</td>
+<td>28.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.3%</td>
+<td>14.2%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>182.6 KiB</td>
+<td>182.5 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>10.6%</td>
 </tr> 
@@ -244,68 +244,68 @@ fun main() {
 </tr> 
  <tr>
 <td>HTML</td>
-<td>45.2 KiB</td>
+<td>45.1 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <div class="markdown-heading"><h2 align="center" class="heading-element">🎈 Fun Bytes 😜</h2><a id="user-content--fun-bytes-" class="anchor" aria-label="Permalink: 🎈 Fun Bytes 😜" href="#-fun-bytes-"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call an old snowman?</strong></p>
-<p><em>» Water.</em></p>
+<p><strong>What is the leading cause of dry skin?</strong></p>
+<p><em>» Towels</em></p>
 <hr>
-<p><strong>What do you call a thieving alligator?</strong></p>
-<p><em>» A crookodile!</em></p>
+<p><strong>I bought some shoes from a drug dealer.</strong></p>
+<p><em>» I don't know what he laced them with, but I was tripping all day!</em></p>
 <hr>
-<p><strong>What's the difference between a little girl and a fridge?</strong></p>
-<p><em>» Fridges don't scream when you put your meat in them.</em></p>
+<p><strong>How do you generate a random string?</strong></p>
+<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 There was once an undersea post office in the Bahamas.</p>
+<p>💡 Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.</p>
 <hr>
-<p>💡 A snail can sleep for 3 years.</p>
+<p>💡 The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.</p>
 <hr>
-<p>💡 In 1986 Congress &amp; President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.</p>
+<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</p>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"We become what we think about most of the time, and that's the strangest secret."</em> - Earl Nightingale</p>
+  <p><em>"The world is wide, and I will not waste my life in friction when it could be turned into momentum."</em> - Frances E. Willard</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"The best revenge is massive success."</em> - Frank Sinatra</p>
 </blockquote>
 <hr>
 <blockquote>
   <p><em>"You can't connect the dots looking forward; you can only connect them looking backward...This approach has never let me down, and it has made all the difference in my life."</em> - Steve Jobs</p>
 </blockquote>
-<hr>
-<blockquote>
-  <p><em>"It’s not whether you get knocked down. It’s whether you get up."</em> - Vince Lombardi</p>
-</blockquote>
 </details>
 <p>
-    <a href="https://adityaprasad.eu.org" rel="nofollow">
+    <a href="https://a.devh.in" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
     </a>
 </p>
@@ -315,27 +315,27 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>February 24, 2026</td>
-<td> 04:31 AM IST</td>
+<td>Wednesday</td>
+<td>February 25, 2026</td>
+<td> 04:23 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>February 25, 2026</td>
-<td>~04:30 AM IST</td>
+<td>Thursday</td>
+<td>February 26, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
 </details>
 <p>
-	<a href="https://adityaprasad.eu.org" rel="nofollow">
+	<a href="https://a.devh.in" rel="nofollow">
 		<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 	</a>
 </p>
 <p align="center">
 <sub>These metrics represent a fraction of my total activity and do not capture work across all tools and environments. <br> Copyright © 2020 - 2026 | Aditya Prasad S</sub> <br><br>
-<a href="https://adityaprasad.eu.org" rel="nofollow"><img alt="Hits" src="https://camo.githubusercontent.com/7edf0c29bf18ff9855bf1cd912410ceacdd695cd5e29de282bf2547982ff981a/68747470733a2f2f64612e67642f747261636b30" width="94" data-canonical-src="https://da.gd/track0" style="max-width: 100%;"></a>
+<a href="https://a.devh.in" rel="nofollow"><img alt="Hits" src="https://camo.githubusercontent.com/7edf0c29bf18ff9855bf1cd912410ceacdd695cd5e29de282bf2547982ff981a/68747470733a2f2f64612e67642f747261636b30" width="94" data-canonical-src="https://da.gd/track0" style="max-width: 100%;"></a>
 </p>
 
 <!--END_SECTION:waka-->
