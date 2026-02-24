@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" height="36" width="36"></a> Howdy &lt; Peepers /&gt;! <a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQwYzNnbTk3cXFoZzJpb3VjMmxkejJqdTM0dHU1NjBlcGl1ejQ5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" height="36" width="36"></a><br>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" height="36" width="36"></a> Howdy &lt; Peepers /&gt;! <a href="https://a.devh.in" rel="nofollow"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQwYzNnbTk3cXFoZzJpb3VjMmxkejJqdTM0dHU1NjBlcGl1ejQ5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.gif" height="36" width="36"></a><br>
 </h1>
 
 ```kt 
@@ -20,7 +20,7 @@ fun main() {
 ``` 
 
 <h1 align='center'>
-  <a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWdzbHJ3c2xiN2RreDVvMXZlNTB1NWRzbHk3d2podHhiYTZ2NnI2cSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/KzJkzjggfGN5Py6nkT/giphy.gif" height="32" width="32"></a> Github Stats <a href="https://adityaprasad.eu.org" rel="nofollow"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmc2ltOW42ZXdwcHVrOXk1YWdrcGdnOWh1OWFlb3NqZm4yZ2ljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="32" width="32"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWdzbHJ3c2xiN2RreDVvMXZlNTB1NWRzbHk3d2podHhiYTZ2NnI2cSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/KzJkzjggfGN5Py6nkT/giphy.gif" height="32" width="32"></a> Github Stats <a href="https://a.devh.in" rel="nofollow"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmc2ltOW42ZXdwcHVrOXk1YWdrcGdnOWh1OWFlb3NqZm4yZ2ljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="32" width="32"></a>
 </h1>
 
 
