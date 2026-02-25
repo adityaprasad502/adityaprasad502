@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6405d821c3eda3dfccecdb2508835bdf6647933a37edb96e23bd89057334e4f6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335363525323068727325323033392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C565%20hrs%2039%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,787+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,788+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>73.5 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>73.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,494h 43m</strong> (76,673 Streams)</p>
+<p>🎧 Spotify: <strong>4,496h 46m</strong> (76,701 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,37 +84,37 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>9 hrs</td>
+<td>9 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.9%</td>
+<td>29.1%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>7 hrs 18 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.5%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.1%</td>
 </tr> 
  <tr>
 <td>Blade Template</td>
 <td>4 hrs 35 mins</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.8%</td>
+<td>14.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 5 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.9%</td>
+<td>9.8%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs 4 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>6.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 41 mins</td>
+<td>1 hr 42 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>5.4%</td>
 </tr> 
@@ -122,7 +122,7 @@ fun main() {
 <td>CSS</td>
 <td>1 hr 39 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,13 +136,13 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>17 hrs 31 mins</td>
+<td>17 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>56.3%</td>
+<td>56.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>12 hrs 14 mins</td>
+<td>12 hrs 26 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>39.3%</td>
 </tr> 
@@ -150,7 +150,7 @@ fun main() {
 <td>Antigravity</td>
 <td>1 hr 18 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>IntelliJ IDEA</td>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>31 hrs 8 mins</td>
+<td>31 hrs 40 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>19 hrs 12 mins</td>
+<td>19 hrs 27 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.6%</td>
+<td>61.4%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>11 hrs 56 mins</td>
+<td>12 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.4%</td>
+<td>38.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the leading cause of dry skin?</strong></p>
-<p><em>» Towels</em></p>
+<p><strong>Misa- I would never dream of a world without Ligt!</strong></p>
+<p><em>» L: Yes, that would be dark.</em></p>
 <hr>
-<p><strong>I bought some shoes from a drug dealer.</strong></p>
-<p><em>» I don't know what he laced them with, but I was tripping all day!</em></p>
+<p><strong>Why do valley girls hang out in odd numbered groups?</strong></p>
+<p><em>» Because they can't even.</em></p>
 <hr>
-<p><strong>How do you generate a random string?</strong></p>
-<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
+<p><strong>What do you call a troublesome Canadian high schooler?</strong></p>
+<p><em>» A poutine.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.</p>
+<p>💡 A shark is the only fish that can blink with both eyes.</p>
 <hr>
-<p>💡 The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.</p>
+<p>💡 Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
 <hr>
-<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</p>
+<p>💡 There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The world is wide, and I will not waste my life in friction when it could be turned into momentum."</em> - Frances E. Willard</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"The best revenge is massive success."</em> - Frank Sinatra</p>
+  <p><em>"If you are not willing to risk the usual you will have to settle for the ordinary."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
   <p><em>"You can't connect the dots looking forward; you can only connect them looking backward...This approach has never let me down, and it has made all the difference in my life."</em> - Steve Jobs</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"I find that when you have a real interest in life and a curious life, that sleep is not the most important thing."</em> - Martha Stewart</p>
 </blockquote>
 </details>
 <p>
@@ -315,14 +315,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>February 25, 2026</td>
-<td> 04:23 AM IST</td>
+<td>Thursday</td>
+<td>February 26, 2026</td>
+<td> 04:22 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>February 26, 2026</td>
+<td>Friday</td>
+<td>February 27, 2026</td>
 <td>~04:20 AM IST</td>
 </tr>
 </tbody>
