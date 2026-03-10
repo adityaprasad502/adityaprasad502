@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8b43f3d62eb14df76f52a2cb80da0b41c106382354bd10e37cf519cb5b95fb3a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335373825323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C578%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4c71d872f904b7c8498d94badf4e343f5f59ca14d8591d2cccecbc0b595a7445/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335383225323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C582%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,811+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,812+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>74.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,528h 20m</strong> (77,186 Streams)</p>
+<p>🎧 Spotify: <strong>4,529h 23m</strong> (77,203 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -85,44 +85,44 @@ fun main() {
  <tbody><tr>
 <td>Kotlin</td>
 <td>8 hrs 56 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.9%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>7 hrs 35 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
-</tr> 
- <tr>
-<td>Blade Template</td>
-<td>4 hrs 34 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.8%</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>4 hrs 19 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
+<td>5 hrs 13 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.3%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>5 hrs 3 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 54 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
+<td>9.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 2 mins</td>
+<td>1 hr 49 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.7%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 37 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.5%</td>
+<td>5.4%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 hr 12 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>19 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.0%</td>
+<td>14 hrs 51 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 53 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.1%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.4%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>2 hrs 47 mins</td>
+<td>2 hrs 53 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.8%</td>
+<td>9.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 49 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>31 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>35 hrs 54 mins</td>
+<td>30 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>22 hrs 4 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.5%</td>
+<td>22 hrs 59 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
+<td>76.2%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>13 hrs 50 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.5%</td>
+<td>7 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,15 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do Santa's little helpers learn at school?</strong></p>
-<p><em>» The elf-abet!
-</em></p>
+<p><strong>What are the strongest days of the week?</strong></p>
+<p><em>» Saturday and Sunday...the rest are weekdays.</em></p>
 <hr>
-<p><strong>Why did Naruto bring a ladder to the bar?</strong></p>
-<p><em>» Because he heard the drinks were on the house!</em></p>
+<p><strong>Hey, wanna hear a joke?</strong></p>
+<p><em>» Parsing HTML with regex.</em></p>
 <hr>
-<p><strong>What do you call crystal clear urine?</strong></p>
-<p><em>» 1080p.</em></p>
+<p><strong>What did the grape do when he got stepped on?</strong></p>
+<p><em>» He let out a little wine.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -280,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Barbie`s measurements, if she were life-size, would be 39-29-33.</p>
+<p>💡 Prince Charles and Prince William never travel on the same airplane in case there is a crash.</p>
 <hr>
-<p>💡 There were always 56 curls in Shirley Temple`s hair.</p>
+<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
 <hr>
-<p>💡 Most American car horns honk in the key of F.</p>
+<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -294,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</em> - Audre Lorde</p>
+  <p><em>"It often requires more courage to dare to do right than to fear to do wrong."</em> - Abraham Lincoln</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
+  <p><em>"We are still masters of our fate. We are still captains of our souls."</em> - Winston Churchill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You may only succeed if you desire succeeding; you may only fail if you do not mind failing."</em> - Philippos</p>
+  <p><em>"To me, business isn't about wearing suits or pleasing stockholders. It's about being true to yourself, your ideas and focusing on the essentials."</em> - Richard Branson</p>
 </blockquote>
 </details>
 <p>
@@ -316,14 +315,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>March 10, 2026</td>
+<td>Wednesday</td>
+<td>March 11, 2026</td>
 <td> 04:17 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>March 11, 2026</td>
+<td>Thursday</td>
+<td>March 12, 2026</td>
 <td>~04:15 AM IST</td>
 </tr>
 </tbody>
