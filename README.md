@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4c71d872f904b7c8498d94badf4e343f5f59ca14d8591d2cccecbc0b595a7445/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335383225323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C582%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c2c2666f5d79c8b56042d2fbfabec147fb242460d4b7267b25f4a36ecc8fa791/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335383225323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C582%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,812+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,813+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>74.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,529h 23m</strong> (77,203 Streams)</p>
+<p>🎧 Spotify: <strong>4,530h 41m</strong> (77,226 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>8 hrs 56 mins</td>
+<td>9 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.6%</td>
+<td>29.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>5 hrs 13 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.3%</td>
+<td>6 hrs 48 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.0%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>5 hrs 3 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.8%</td>
+<td>6 hrs 10 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 54 mins</td>
+<td>2 hrs 58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.7%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>1 hr 49 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.0%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 37 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.4%</td>
+<td>9.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>1 hr 12 mins</td>
+<td>1 hr 3 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>3.5%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>55 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.0%</td>
+</tr> 
+ <tr>
+<td>Blade Template</td>
+<td>49 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>14 hrs 51 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.3%</td>
+<td>14 hrs 6 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>11 hrs 53 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.4%</td>
+<td>12 hrs 11 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.5%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>2 hrs 53 mins</td>
+<td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>11.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>31 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>1 hr 7 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 10 mins</td>
+<td>30 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>22 hrs 59 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>76.2%</td>
+<td>22 hrs 9 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
+<td>71.7%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>7 hrs 10 mins</td>
-<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.8%</td>
+<td>8 hrs 44 mins</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What are the strongest days of the week?</strong></p>
-<p><em>» Saturday and Sunday...the rest are weekdays.</em></p>
+<p><strong>What do you call a computer mouse that swears a lot?</strong></p>
+<p><em>» A cursor!</em></p>
 <hr>
-<p><strong>Hey, wanna hear a joke?</strong></p>
-<p><em>» Parsing HTML with regex.</em></p>
+<p><strong>No matter how kind you are...</strong></p>
+<p><em>» German kids are always Kinder.</em></p>
 <hr>
-<p><strong>What did the grape do when he got stepped on?</strong></p>
-<p><em>» He let out a little wine.</em></p>
+<p><strong>What happened to the man who got behind on payments to his exorcist?</strong></p>
+<p><em>» He got repossessed.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Prince Charles and Prince William never travel on the same airplane in case there is a crash.</p>
+<p>💡 The average American butt is 14.9 inches long.</p>
 <hr>
-<p>💡 Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p>💡 Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.</p>
 <hr>
-<p>💡 The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.</p>
+<p>💡 The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It often requires more courage to dare to do right than to fear to do wrong."</em> - Abraham Lincoln</p>
+  <p><em>"I have not failed. I've just found 10,000 ways that won't work."</em> - Thomas Edison</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We are still masters of our fate. We are still captains of our souls."</em> - Winston Churchill</p>
+  <p><em>"The distance between insanity and genius is measured only by success."</em> - Bruce Feirstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To me, business isn't about wearing suits or pleasing stockholders. It's about being true to yourself, your ideas and focusing on the essentials."</em> - Richard Branson</p>
+  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +315,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>March 11, 2026</td>
-<td> 04:17 AM IST</td>
+<td>Thursday</td>
+<td>March 12, 2026</td>
+<td> 04:12 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>March 12, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Friday</td>
+<td>March 13, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
