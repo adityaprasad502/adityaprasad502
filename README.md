@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c2c2666f5d79c8b56042d2fbfabec147fb242460d4b7267b25f4a36ecc8fa791/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335383225323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C582%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/3de1e67fdcfceefefa0c1392d9a4cab5e134a0268aa9473ec33ec41b0540c5f4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335383225323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C582%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,813+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,814+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>74.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>421</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,530h 41m</strong> (77,226 Streams)</p>
+<p>🎧 Spotify: <strong>4,532h 13m</strong> (77,250 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -86,25 +86,25 @@ fun main() {
 <td>Kotlin</td>
 <td>9 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.7%</td>
+<td>30.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>6 hrs 48 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.0%</td>
+<td>22.5%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>6 hrs 10 mins</td>
+<td>6 hrs 12 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>20.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>2 hrs 58 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>9.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>14 hrs 6 mins</td>
+<td>13 hrs 24 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.6%</td>
+<td>44.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>12 hrs 11 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.5%</td>
+<td>40.3%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 28 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.5%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 7 mins</td>
+<td>1 hr 9 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.6%</td>
+<td>3.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 53 mins</td>
+<td>30 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>22 hrs 9 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.7%</td>
+<td>21 hrs 28 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>71.0%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>8 hrs 44 mins</td>
+<td>8 hrs 45 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.3%</td>
+<td>29.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a computer mouse that swears a lot?</strong></p>
-<p><em>» A cursor!</em></p>
+<p><strong>Why did the cookie cry?</strong></p>
+<p><em>» Because his father was a wafer so long!</em></p>
 <hr>
-<p><strong>No matter how kind you are...</strong></p>
-<p><em>» German kids are always Kinder.</em></p>
+<p><strong>How many optometrists does it take to change a light bulb?</strong></p>
+<p><em>» 1 or 2? 1... or 2?</em></p>
 <hr>
-<p><strong>What happened to the man who got behind on payments to his exorcist?</strong></p>
-<p><em>» He got repossessed.</em></p>
+<p>UDP is better in the COVID era since it avoids unnecessary handshakes.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +278,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The average American butt is 14.9 inches long.</p>
+<p>💡 The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  </p>
 <hr>
-<p>💡 Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.</p>
+<p>💡 Most lipstick contains fish scales.</p>
 <hr>
-<p>💡 The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</p>
+<p>💡 Camel’s have three eyelids.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +292,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"I have not failed. I've just found 10,000 ways that won't work."</em> - Thomas Edison</p>
+  <p><em>"You know you're in love when you can't fall asleep because reality is finally better than your dreams."</em> - Dr. Seuss</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The distance between insanity and genius is measured only by success."</em> - Bruce Feirstein</p>
+  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
+  <p><em>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</em> - Albert Einstein</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +314,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>March 12, 2026</td>
-<td> 04:12 AM IST</td>
+<td>Friday</td>
+<td>March 13, 2026</td>
+<td> 04:15 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>March 13, 2026</td>
-<td>~04:10 AM IST</td>
+<td>Saturday</td>
+<td>March 14, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
