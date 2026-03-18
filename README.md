@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/fa9e6732face0fd1e0595e3be7bae1df5e4a9afe05e0e65ecc1a1d9642b7d988/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335393325323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C593%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/a40eb4facb45bcf8242f795f2d8fae889f7b96a086f0bdbecc183793ee0ef08d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335393525323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C595%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,864+</strong> Commits made on GitHub</p>
-<p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>74.4 MiB</strong> Used in GitHub Storage</p>
+<p>🏆 <strong>4,873+</strong> Commits made on GitHub</p>
+<p>🗃️ <strong>6</strong> Public • <strong>18</strong> Private Repositories</p>
+<p>📦 <strong>74.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 7B)</p>
-<p>🎧 Spotify: <strong>4,543h 40m</strong> (77,438 Streams)</p>
+<p>🎧 Spotify: <strong>4,543h 48m</strong> (77,441 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,39 +84,39 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>8 hrs 37 mins</td>
+<td>9 hrs 16 mins</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.0%</td>
+<td>29.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>6 hrs 48 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.1%</td>
+<td>21.5%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>6 hrs 20 mins</td>
+<td>6 hrs 25 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.5%</td>
+<td>20.3%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>2 hrs 58 mins</td>
+<td>2 hrs 59 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>9.5%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 22 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.5%</td>
+<td>4.4%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.4%</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>13 hrs 27 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.6%</td>
+<td>13 hrs 29 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.7%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>10 hrs 58 mins</td>
+<td>11 hrs 39 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.5%</td>
+<td>36.9%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>11.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>2 hrs 57 mins</td>
+<td>2 hrs 59 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>9.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 51 mins</td>
+<td>31 hrs 36 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>20 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒</td>
-<td>67.1%</td>
+<td>21 hrs 23 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒</td>
+<td>67.7%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>10 hrs 8 mins</td>
+<td>10 hrs 13 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.9%</td>
+<td>32.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -207,46 +207,46 @@ fun main() {
 <summary><b>💽 Repo Distribution (Owned)</b></summary><br>
 <table>
  <tbody><tr>
+<td>Kotlin</td>
+<td>595.7 KiB</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.6%</td>
+</tr> 
+ <tr>
 <td>Python</td>
 <td>531.6 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.3%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>520.7 KiB</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.7%</td>
+<td>29.1%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.0%</td>
+<td>13.4%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>182.5 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.4%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.1%</td>
+<td>6.8%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>92.3 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>45.1 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did Tanjiro bring a broom to the battle?</strong></p>
-<p><em>» To sweep away the demons!</em></p>
+<p><strong>What's Santa's favourite type of music?</strong></p>
+<p><em>» Wrap!</em></p>
 <hr>
-<p><strong>What do you call a fish with no eyes?</strong></p>
-<p><em>» Fsh.</em></p>
+<p><strong>How do hens stay fit?</strong></p>
+<p><em>» They always egg-cercise!</em></p>
 <hr>
-<p><strong>Why did the coffee file a police report?</strong></p>
-<p><em>» It got mugged.</em></p>
+<p><strong>Why are cats so good at video games?</strong></p>
+<p><em>» They have nine lives.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Insects outnumber humans 100,000,000 to one.</p>
+<p>💡 The human feet perspire half a pint of fluid a day</p>
 <hr>
-<p>💡 There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).</p>
+<p>💡 Starfish haven`t got brains.</p>
 <hr>
-<p>💡 Owls are one of the only birds who can see the color blue!</p>
+<p>💡 It's possible to lead a cow upstairs...but not downstairs.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"What seems to us as bitter trials are often blessings in disguise."</em> - Oscar Wilde</p>
+  <p><em>"If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work."</em> - Thomas J. Watson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don't be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
+  <p><em>"It’s not what you look at that matters, it’s what you see."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Work spares us from three evils: boredom, vice, and need."</em> - Voltaire</p>
+  <p><em>"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter."</em> - Francis Chan</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +315,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>March 18, 2026</td>
-<td> 04:22 AM IST</td>
+<td>Thursday</td>
+<td>March 19, 2026</td>
+<td> 04:18 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>March 19, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Friday</td>
+<td>March 20, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
