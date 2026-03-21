@@ -28,7 +28,7 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8c7c9bfb6cbc1bcc16f3191491544ca3d20f7ddb93aab9c7fef34629c1f265c5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324335393825323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C598%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,868+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,869+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>74.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
@@ -84,37 +84,37 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>12 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.4%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>6 hrs 51 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.6%</td>
+<td>13 hrs 21 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.9%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>6 hrs 25 mins</td>
+<td>6 hrs 52 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
+<td>18.9%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>6 hrs 49 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 6 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.8%</td>
+<td>8.6%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>1 hr 22 mins</td>
+<td>1 hr 23 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>3.9%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>1 hr 3 mins</td>
+<td>1 hr 4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>3.0%</td>
 </tr> 
@@ -122,7 +122,7 @@ fun main() {
 <td>HTML</td>
 <td>1 hr 3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>14 hrs 6 mins</td>
+<td>14 hrs 59 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.3%</td>
+<td>41.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>13 hrs 29 mins</td>
+<td>13 hrs 19 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.5%</td>
+<td>36.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>3 hrs 57 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>4 hrs 26 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.3%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.9%</td>
+<td>9.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>35 hrs 1 min</td>
+<td>36 hrs 15 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>21 hrs 23 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.1%</td>
+<td>21 hrs 10 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.4%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>13 hrs 38 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.9%</td>
+<td>15 hrs 5 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a careful wolf?</strong></p>
-<p><em>» Aware wolf.</em></p>
+<p><strong>What's the difference between a little girl and a fridge?</strong></p>
+<p><em>» Fridges don't scream when you put your meat in them.</em></p>
 <hr>
-<p><strong>What animal is always at a game of cricket?</strong></p>
-<p><em>» A bat.</em></p>
+<p><strong>What did the late tomato say to the early tomato?</strong></p>
+<p><em>» I’ll ketch up</em></p>
 <hr>
-<p><strong>What lies at the bottom of the ocean and twitches?</strong></p>
-<p><em>» A nervous wreck.</em></p>
+<p><strong>A ham sandwhich walks into a bar and orders a beer. The bartender says...</strong></p>
+<p><em>» I'm sorry, we don't serve food here</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 More than 50% of the people in the world have never made or received a telephone call.</p>
+<p>💡 If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 When we think of Big Ben in London, we think of the clock. Actually, it's the bell.</p>
+<p>💡 A dime has 118 ridges around the edge. A quarter has 119.</p>
 <hr>
-<p>💡 Camels chew in a figure 8 pattern.</p>
+<p>💡 Women manage the money and pay the bills in  75% of all Americans households.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you're going through hell, keep going."</em> - Winston Churchill</p>
+  <p><em>"Life is short. Don’t tolerate bullsh*t. Don’t wait until it’s too late."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."</em> - Dale Carnegie</p>
+  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"An obstacle is often a stepping stone."</em> - Prescott</p>
+  <p><em>"The only place where success comes before work is in the dictionary."</em> - Vidal Sassoon</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +315,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>March 21, 2026</td>
-<td> 04:18 AM IST</td>
+<td>Sunday</td>
+<td>March 22, 2026</td>
+<td> 04:13 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>March 22, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Monday</td>
+<td>March 23, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
