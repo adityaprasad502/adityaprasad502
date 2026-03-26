@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/612e2e8db9684e3698881f4e9f0f85487321e9337c7e69245c705c866f0000e3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336303225323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C602%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/92251f6568a8d2b40816889425a2ca2eeb56bb332eb854af897d6de57e6340fe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336303625323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C606%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,895+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,913+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>74.6 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,551h 7m</strong> (77,553 Streams)</p>
+<p>🎧 Spotify: <strong>4,557h 11m</strong> (77,654 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -53,24 +53,24 @@ fun main() {
  <tr>
 <td>🌆 Daytime</td>
 <td>3 commits</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>15 commits</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.3%</td>
+<td>31 commits</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.1%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>56 commits</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>75.7%</td>
+<td>57 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.6%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>74 commits in March 2026</b></td>
+<td colspan="2"><b>91 commits in March 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,43 +84,43 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>14 hrs 4 mins</td>
+<td>14 hrs 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.6%</td>
+<td>38.5%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>6 hrs 52 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.9%</td>
+<td>18.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>6 hrs 25 mins</td>
 <td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.6%</td>
+<td>17.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 9 mins</td>
+<td>3 hrs 10 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.7%</td>
+<td>8.4%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 23 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>3.7%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>1 hr 4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
+<td>2.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>52 mins</td>
+<td>53 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.4%</td>
 </tr>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>15 hrs 45 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.3%</td>
+<td>16 hrs 24 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.5%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 45 mins</td>
+<td>12 hrs 49 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.0%</td>
+<td>34.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>4 hrs 26 mins</td>
+<td>5 hrs</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.2%</td>
+<td>13.3%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>3 hrs 28 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>9.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -170,7 +170,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>36 hrs 26 mins</td>
+<td>37 hrs 43 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -186,15 +186,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>21 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.1%</td>
+<td>22 hrs 49 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.5%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>14 hrs 54 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.9%</td>
+<td>39.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -207,26 +207,26 @@ fun main() {
 <summary><b>💽 Repo Distribution (Owned)</b></summary><br>
 <table>
  <tbody><tr>
+<td>Kotlin</td>
+<td>548.3 KiB</td>
+<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.8%</td>
+</tr> 
+ <tr>
 <td>Python</td>
 <td>531.6 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.2%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>530.1 KiB</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.1%</td>
+<td>29.8%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.9%</td>
+<td>13.8%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>182.5 KiB</td>
+<td>186.2 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>10.4%</td>
 </tr> 
@@ -238,15 +238,15 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>92.3 KiB</td>
+<td>90.7 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>45.1 KiB</td>
+<td>44.4 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,13 +263,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What's orange and sounds like a parrot?</strong></p>
-<p><em>» A Carrot.</em></p>
+<p><strong>The average penis has...</strong></p>
+<p><em>» Been in and around my ex-girlfriend's mouth.
+Fuck you, Karen!</em></p>
 <hr>
-<p>My ex had an accident. I told the paramedics the wrong blood type for her. She'll finally experience what rejection is really like.</p>
+<p><strong>Dark humor is like cancer.</strong></p>
+<p><em>» It's funnier when children get it.</em></p>
 <hr>
-<p><strong>How are false teeth like stars?</strong></p>
-<p><em>» They come out at night!</em></p>
+<p>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -278,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</p>
+<p>💡 $283,200 is the absolute highest amount of money you can win on Jeopardy.</p>
 <hr>
-<p>💡 Most dust particles in your house are made from dead skin.</p>
+<p>💡 In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.</p>
 <hr>
-<p>💡 Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</p>
+<p>💡 Al Capone`s business card said he was a used furniture dealer.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -292,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"What you do today can improve all your tomorrows."</em> - Ralph Marston</p>
+  <p><em>"I’ve found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often."</em> - Brian Tracy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I find that the harder I work, the more luck I seem to have."</em> - Thomas Jefferson</p>
+  <p><em>"You must expect great things of yourself before you can do them."</em> - Michael Jordan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Once you choose hope, anything's possible."</em> - Christopher Reeve</p>
+  <p><em>"If you are not willing to risk the usual, you will have to settle for the ordinary."</em> - Jim Rohn</p>
 </blockquote>
 </details>
 <p>
@@ -314,15 +315,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>March 26, 2026</td>
-<td> 04:26 AM IST</td>
+<td>Friday</td>
+<td>March 27, 2026</td>
+<td> 04:20 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>March 27, 2026</td>
-<td>~04:25 AM IST</td>
+<td>Saturday</td>
+<td>March 28, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
