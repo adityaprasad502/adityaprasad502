@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/92251f6568a8d2b40816889425a2ca2eeb56bb332eb854af897d6de57e6340fe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336303625323068727325323034312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C606%20hrs%2041%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/33bead8a016acda645da60a3337a9a57d0e9ce18eb72746d1df3cce3a3b4c4f7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336303825323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C608%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,913+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,919+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.0 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,557h 11m</strong> (77,654 Streams)</p>
+<p>🎧 Spotify: <strong>4,563h 38m</strong> (77,760 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -54,23 +54,23 @@ fun main() {
 <td>🌆 Daytime</td>
 <td>3 commits</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
+<td>3.1%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>31 commits</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.1%</td>
+<td>35 commits</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.5%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>57 commits</td>
+<td>58 commits</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.6%</td>
+<td>60.4%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>91 commits in March 2026</b></td>
+<td colspan="2"><b>96 commits in March 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -81,50 +81,9 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Kotlin</td>
-<td>14 hrs 32 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.5%</td>
-</tr> 
- <tr>
-<td>PHP</td>
-<td>6 hrs 52 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.2%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>6 hrs 25 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.0%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 10 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.4%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>1 hr 23 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>1 hr 4 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>53 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.4%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -133,32 +92,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Android Studio</td>
-<td>16 hrs 24 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.5%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>12 hrs 49 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.0%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>5 hrs</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.3%</td>
-</tr> 
- <tr>
-<td>PyCharm</td>
-<td>3 hrs 28 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.2%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -167,14 +103,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Windows</td>
-<td>37 hrs 43 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -183,20 +114,9 @@ fun main() {
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Pu94X</td>
-<td>22 hrs 49 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.5%</td>
-</tr> 
- <tr>
-<td>CITPC1142</td>
-<td>14 hrs 54 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.5%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -210,43 +130,43 @@ fun main() {
 <td>Kotlin</td>
 <td>548.3 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.8%</td>
+<td>30.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>531.6 KiB</td>
+<td>535.8 KiB</td>
 <td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.8%</td>
+<td>29.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.8%</td>
+<td>13.6%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>186.2 KiB</td>
+<td>179.3 KiB</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.4%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.0%</td>
+<td>6.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>90.7 KiB</td>
+<td>94.1 KiB</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>44.4 KiB</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>63.2 KiB</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -263,14 +183,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>The average penis has...</strong></p>
-<p><em>» Been in and around my ex-girlfriend's mouth.
-Fuck you, Karen!</em></p>
+<p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
+<p><em>» Chess nuts boasting in an open foyer.</em></p>
 <hr>
-<p><strong>Dark humor is like cancer.</strong></p>
-<p><em>» It's funnier when children get it.</em></p>
+<p><strong>99.9% of the people are dumb!</strong></p>
+<p><em>» Fortunately I belong to the remaining 1%</em></p>
 <hr>
-<p>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</p>
+<p><strong>What kind of award did the dentist receive?</strong></p>
+<p><em>» A little plaque.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +199,11 @@ Fuck you, Karen!</em></p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 $283,200 is the absolute highest amount of money you can win on Jeopardy.</p>
+<p>💡 A dime has 118 ridges around the edge.</p>
 <hr>
-<p>💡 In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.</p>
+<p>💡 The cheetah is the only cat that can't retract its claws.</p>
 <hr>
-<p>💡 Al Capone`s business card said he was a used furniture dealer.</p>
+<p>💡 Nearly 80% of all animals on earth have six legs.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +213,15 @@ Fuck you, Karen!</em></p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"I’ve found that luck is quite predictable. If you want more luck, take more chances. Be more active. Show up more often."</em> - Brian Tracy</p>
+  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You must expect great things of yourself before you can do them."</em> - Michael Jordan</p>
+  <p><em>"Being strong means rejoicing in who you are, complete with imperfections"</em> - Margaret Woodhouse</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you are not willing to risk the usual, you will have to settle for the ordinary."</em> - Jim Rohn</p>
+  <p><em>"The road to success and the road to failure are almost exactly the same."</em> - Colin R. Davis</p>
 </blockquote>
 </details>
 <p>
@@ -315,14 +235,14 @@ Fuck you, Karen!</em></p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>March 27, 2026</td>
-<td> 04:20 AM IST</td>
+<td>Saturday</td>
+<td>March 28, 2026</td>
+<td> 04:22 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>March 28, 2026</td>
+<td>Sunday</td>
+<td>March 29, 2026</td>
 <td>~04:20 AM IST</td>
 </tr>
 </tbody>
