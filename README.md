@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/33bead8a016acda645da60a3337a9a57d0e9ce18eb72746d1df3cce3a3b4c4f7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336303825323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C608%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,919+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,920+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>75.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,563h 38m</strong> (77,760 Streams)</p>
+<p>🎧 Spotify: <strong>4,563h 42m</strong> (77,761 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -81,9 +81,50 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Kotlin</td>
+<td>17 hrs 13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.1%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>7 hrs 33 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.0%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>6 hrs 24 mins</td>
+<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.3%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>3 hrs 15 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.8%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>1 hr 21 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.2%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 hr 9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.8%</td>
+</tr> 
+ <tr>
+<td>Blade Template</td>
+<td>1 hr 9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.8%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -92,9 +133,32 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Android Studio</td>
+<td>18 hrs 2 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.0%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>13 hrs 34 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.4%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>6 hrs 50 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.3%</td>
+</tr> 
+ <tr>
+<td>PyCharm</td>
+<td>3 hrs 28 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.3%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -103,9 +167,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Windows</td>
+<td>41 hrs 56 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -114,9 +183,20 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Pu94X</td>
+<td>26 hrs 13 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.5%</td>
+</tr> 
+ <tr>
+<td>CITPC1142</td>
+<td>15 hrs 43 mins</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.5%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -183,14 +263,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
-<p><em>» Chess nuts boasting in an open foyer.</em></p>
+<p><strong>What do you call a deaf gynecologist?</strong></p>
+<p><em>» A lip reader.</em></p>
 <hr>
-<p><strong>99.9% of the people are dumb!</strong></p>
-<p><em>» Fortunately I belong to the remaining 1%</em></p>
+<p><strong>What is the leading cause of dry skin?</strong></p>
+<p><em>» Towels</em></p>
 <hr>
-<p><strong>What kind of award did the dentist receive?</strong></p>
-<p><em>» A little plaque.</em></p>
+<p><strong>What do 9 out of 10 people enjoy?</strong></p>
+<p><em>» Gang rape.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -199,11 +279,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A dime has 118 ridges around the edge.</p>
+<p>💡 %60 of all people using the Internet, use it for pornography.</p>
 <hr>
-<p>💡 The cheetah is the only cat that can't retract its claws.</p>
+<p>💡 Paper was invented early in the second century by Chinese eunuch.</p>
 <hr>
-<p>💡 Nearly 80% of all animals on earth have six legs.</p>
+<p>💡 It takes the stomach an hour to break down cows’ milk.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -213,15 +293,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
+  <p><em>"Leap, and the net will appear."</em> - John Burroughs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being strong means rejoicing in who you are, complete with imperfections"</em> - Margaret Woodhouse</p>
+  <p><em>"Begin to be now what you will be hereafter."</em> - William James</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The road to success and the road to failure are almost exactly the same."</em> - Colin R. Davis</p>
+  <p><em>"Believe with all of your heart that you will do what you were made to do."</em> - Orison Swett Marden</p>
 </blockquote>
 </details>
 <p>
@@ -237,13 +317,13 @@ Didn't Touch PC Last Week
 <td>Last Refresh</td>
 <td>Saturday</td>
 <td>March 28, 2026</td>
-<td> 04:22 AM IST</td>
+<td> 08:02 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Sunday</td>
 <td>March 29, 2026</td>
-<td>~04:20 AM IST</td>
+<td>~08:00 AM IST</td>
 </tr>
 </tbody>
 </table>
