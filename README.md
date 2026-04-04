@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/b5d061d530ab7b728f0c82a260947fe043c27a6165659309346cf73ef07aac08/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336313925323068727325323034362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C619%20hrs%2046%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,974+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,975+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
 <p>📦 <strong>74.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>3,059h 59m</strong> (52,152 Streams)</p>
+<p>🎧 Spotify: <strong>4,583h 59m</strong> (78,080 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>17 hrs 13 mins</td>
-<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.6%</td>
+<td>17 hrs 25 mins</td>
+<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>10 hrs 27 mins</td>
+<td>11 hrs 26 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.6%</td>
+<td>22.0%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>5 hrs 46 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.9%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 16 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.8%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 hrs 31 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>5 hrs 31 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.6%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>2 hrs 28 mins</td>
+<td>4 hrs 30 mins</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.7%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>3 hrs 34 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>6.9%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>2 hrs 43 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,33 +136,33 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>18 hrs 4 mins</td>
+<td>19 hrs 31 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.3%</td>
+<td>37.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>18 hrs 2 mins</td>
+<td>18 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.3%</td>
+<td>36.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>7 hrs 28 mins</td>
-<td>▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.4%</td>
+<td>8 hrs 9 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.7%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>4 hrs 31 mins</td>
+<td>5 hrs 9 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.3%</td>
+<td>9.9%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>0.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>48 hrs 24 mins</td>
+<td>51 hrs 57 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>34 hrs 42 mins</td>
+<td>38 hrs 53 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒</td>
-<td>71.7%</td>
+<td>74.8%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>13 hrs 42 mins</td>
-<td>▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.3%</td>
+<td>13 hrs 3 mins</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,14 +269,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do elves post on Social Media?</strong></p>
-<p><em>» Elf-ies!</em></p>
+<p><strong>The phrase that wouldn't go away</strong></p>
+<p><em>» Senpai..... Noticed Me!</em></p>
 <hr>
-<p><strong>When do doctors get angry?</strong></p>
-<p><em>» When they run out of patients.</em></p>
+<p><strong>How many seconds are in a year?</strong></p>
+<p><em>» 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc</em></p>
 <hr>
-<p><strong>Why did the programmer quit his job?</strong></p>
-<p><em>» Because he didn't get arrays.</em></p>
+<p><strong>What did Jiraiya do after entering a ramen contest?</strong></p>
+<p><em>» He became a noodle sage!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +285,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Mr. Rogers was an ordained minister. </p>
+<p>💡 If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
 <hr>
-<p>💡 The S in Harry S. Truman did not stand for anything.</p>
+<p>💡 King Louis XIX ruled France for 15 minutes.</p>
 <hr>
-<p>💡 The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.</p>
+<p>💡 Cats’ urine glows under a black light.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +299,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The most effective way to do it, is to do it."</em> - Amelia Earhart</p>
+  <p><em>"May you live every day of your life."</em> - Jonathan Swift</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life's too mysterious to take too serious."</em> - Mary Engelbreit</p>
+  <p><em>"The glow of one warm thought is to me worth more than money."</em> - Thomas Jefferson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
+  <p><em>"It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward."</em> - Rocky Balboa, Rocky</p>
 </blockquote>
 </details>
 <p>
@@ -321,15 +321,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>April 04, 2026</td>
-<td> 04:23 AM IST</td>
+<td>Sunday</td>
+<td>April 05, 2026</td>
+<td> 04:19 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>April 05, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Monday</td>
+<td>April 06, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
