@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/46919df2fc794d2fda20361967424f114f08fb033f0a9c4dc2fca547f59b5892/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336323125323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C621%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,978+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,979+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
 <p>📦 <strong>74.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,586h 43m</strong> (78,125 Streams)</p>
+<p>🎧 Spotify: <strong>4,587h 43m</strong> (78,140 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -85,42 +85,42 @@ fun main() {
  <tbody><tr>
 <td>Kotlin</td>
 <td>17 hrs 25 mins</td>
-<td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.7%</td>
+<td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>11 hrs 26 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.8%</td>
+<td>9 hrs 11 mins</td>
+<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.2%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>4 hrs 28 mins</td>
+<td>5 hrs 7 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.9%</td>
+<td>10.7%</td>
 </tr> 
  <tr>
 <td>PHP</td>
 <td>4 hrs 2 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
+<td>8.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 34 mins</td>
-<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.1%</td>
+<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>2 hrs 36 mins</td>
+<td>2 hrs 33 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>5.3%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>1 hr 21 mins</td>
+<td>1 hr 18 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.7%</td>
 </tr>
@@ -138,25 +138,25 @@ fun main() {
 <td>Android Studio</td>
 <td>18 hrs 50 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.5%</td>
+<td>39.3%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>17 hrs 48 mins</td>
+<td>16 hrs 29 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.4%</td>
+<td>34.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>8 hrs 9 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.2%</td>
+<td>9 hrs 21 mins</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.5%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>5 hrs 9 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.3%</td>
+<td>2 hrs 58 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.2%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>50 hrs 14 mins</td>
+<td>47 hrs 56 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>38 hrs 53 mins</td>
+<td>36 hrs 35 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.4%</td>
+<td>76.3%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>11 hrs 20 mins</td>
-<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
+<td>▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,14 +269,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What does a pirate pay for his corn?</strong></p>
-<p><em>» A buccaneer!</em></p>
+<p><strong>Why did the developer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>Why don't some couples go to the gym?</strong></p>
-<p><em>» Because some relationships don't work out.</em></p>
+<p><strong>Can February march?</strong></p>
+<p><em>» No, but April may.</em></p>
 <hr>
-<p><strong>I'm not saying my son is ugly...</strong></p>
-<p><em>» But on Halloween he went to tell the neighbors to turn down their TV and they gave him some candy.</em></p>
+<p>Your momma is so fat, you need to switch to NTFS to store a picture of her.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +284,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. </p>
+<p>💡 Each year there is one ton of cement poured for each man woman and child in the world. </p>
 <hr>
-<p>💡 The name Jeep comes from “GP”, the army abbreviation for General Purpose.</p>
+<p>💡 Humans and dolphins are the only species that have sex for pleasure.</p>
 <hr>
-<p>💡 Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.</p>
+<p>💡 38% of American men say they love their cars more than women</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +298,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Accept responsibly for your life. Know that it is you who will get you where you want to go, no one else."</em> - Les Brown</p>
+  <p><em>"If you do what you’ve always done, you’ll get what you’ve always gotten."</em> - Tony Robbins</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction."</em> - George Lorimer</p>
+  <p><em>"I find that when you have a real interest in life and a curious life, that sleep is not the most important thing."</em> - Martha Stewart</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better."</em> - Jim Rohn</p>
+  <p><em>"The world is full of magical things patiently waiting for our wits to grow sharper."</em> - Bertrand Russell</p>
 </blockquote>
 </details>
 <p>
@@ -321,15 +320,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>April 06, 2026</td>
-<td> 04:21 AM IST</td>
+<td>Tuesday</td>
+<td>April 07, 2026</td>
+<td> 04:26 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>April 07, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Wednesday</td>
+<td>April 08, 2026</td>
+<td>~04:25 AM IST</td>
 </tr>
 </tbody>
 </table>
