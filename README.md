@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/46919df2fc794d2fda20361967424f114f08fb033f0a9c4dc2fca547f59b5892/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336323125323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C621%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,980+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,981+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
 <p>📦 <strong>75.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
-<p>🏅 StackOverflow: <strong>431</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,588h 1m</strong> (78,144 Streams)</p>
+<p>🏅 StackOverflow: <strong>441</strong> Rep (0G • 5S • 8B)</p>
+<p>🎧 Spotify: <strong>4,589h 42m</strong> (78,174 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>17 hrs 25 mins</td>
+<td>17 hrs 10 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.0%</td>
+<td>37.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>9 hrs 8 mins</td>
-<td>▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.4%</td>
+<td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.1%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>5 hrs 7 mins</td>
 <td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.9%</td>
+<td>11.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 34 mins</td>
-<td>▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.6%</td>
+<td>3 hrs 16 mins</td>
+<td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.2%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>3 hrs 21 mins</td>
+<td>2 hrs 59 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.1%</td>
+<td>6.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>2 hrs 31 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 18 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>18 hrs 50 mins</td>
+<td>18 hrs 12 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>40.0%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>15 hrs 43 mins</td>
+<td>14 hrs 46 mins</td>
 <td>▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>32.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>9 hrs 21 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.8%</td>
+<td>20.5%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 56 mins</td>
 <td>▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.3%</td>
+<td>6.5%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>47 hrs 8 mins</td>
+<td>45 hrs 32 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>36 hrs 30 mins</td>
+<td>35 hrs 51 mins</td>
 <td>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒</td>
-<td>77.4%</td>
+<td>78.7%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>10 hrs 38 mins</td>
+<td>9 hrs 41 mins</td>
 <td>▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
+<td>21.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,14 +269,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Finally realized why my plant sits around doing nothing all day...</strong></p>
-<p><em>» He loves his pot.</em></p>
+<p><strong>99.9% of the people are dumb!</strong></p>
+<p><em>» Fortunately I belong to the remaining 1%</em></p>
 <hr>
-<p><strong>Why did the kid throw the watch out the window?</strong></p>
-<p><em>» So time would fly.</em></p>
+<p>ASCII silly question, get a silly ANSI.</p>
 <hr>
-<p><strong>Did you hear about the runner who was criticized?</strong></p>
-<p><em>» He just took it in stride</em></p>
+<p><strong>Why do bees have sticky hair?</strong></p>
+<p><em>» Because they use honey combs!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +284,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Almonds are members of the peach family.</p>
+<p>💡 10,000 Dutch cows pass through the Amsterdam airport each year.</p>
 <hr>
-<p>💡 It takes more calories to eat a piece of celery than the celery has in it to begin with.</p>
+<p>💡 John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.</p>
 <hr>
-<p>💡 The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.</p>
+<p>💡 It’s estimated that at any one time around 0.7% of the world’s population is drunk.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +298,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Just when the caterpillar thought the world was ending, he turned into a butterfly."</em> - Proverb</p>
+  <p><em>"You can do anything, but not everything."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don't be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
+  <p><em>"Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them."</em> - Vaibhav Shah</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Everything you can imagine is real."</em> - Pablo Picasso</p>
+  <p><em>"The distance between insanity and genius is measured only by success."</em> - Bruce Feirstein</p>
 </blockquote>
 </details>
 <p>
@@ -321,15 +320,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>April 08, 2026</td>
-<td> 04:28 AM IST</td>
+<td>Thursday</td>
+<td>April 09, 2026</td>
+<td> 04:30 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>April 09, 2026</td>
-<td>~04:25 AM IST</td>
+<td>Friday</td>
+<td>April 10, 2026</td>
+<td>~04:30 AM IST</td>
 </tr>
 </tbody>
 </table>
