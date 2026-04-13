@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/018ffd3c04b9d858e09832406e2572f4b9230f47d25591b626bac8850caa9db3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363239253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C629%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,993+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,994+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
 <p>📦 <strong>73.3 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>441</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>3,074h 44m</strong> (52,385 Streams)</p>
+<p>🎧 Spotify: <strong>4,606h 57m</strong> (78,436 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,33 +84,33 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>16 hrs 36 mins</td>
+<td>16 hrs 24 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>35.4%</td>
+<td>35.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>8 hrs 59 mins</td>
+<td>9 hrs 1 min</td>
 <td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>19.2%</td>
+<td>19.3%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>5 hrs 50 mins</td>
+<td>5 hrs 52 mins</td>
 <td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>12.5%</td>
+<td>12.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 hrs</td>
 <td>⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>8.5%</td>
+<td>8.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 13 mins</td>
+<td>3 hrs 9 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>6.9%</td>
+<td>6.8%</td>
 </tr> 
  <tr>
 <td>CSS</td>
@@ -119,10 +119,10 @@ fun main() {
 <td>3.4%</td>
 </tr> 
  <tr>
-<td>PHP</td>
-<td>1 hr 20 mins</td>
+<td>Other</td>
+<td>1 hr 17 mins</td>
 <td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>2.9%</td>
+<td>2.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,21 +136,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>17 hrs 35 mins</td>
+<td>17 hrs 19 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>37.5%</td>
+<td>37.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>14 hrs 39 mins</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>31.3%</td>
+<td>14 hrs 48 mins</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>31.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>12 hrs 7 mins</td>
+<td>11 hrs 58 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>25.9%</td>
+<td>25.7%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>46 hrs 54 mins</td>
+<td>46 hrs 38 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>39 hrs 34 mins</td>
+<td>39 hrs 27 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤</td>
-<td>84.4%</td>
+<td>84.6%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>7 hrs 20 mins</td>
-<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>15.6%</td>
+<td>7 hrs 11 mins</td>
+<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>15.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,14 +269,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Do you know what killed the man who had a two ton pumpkin fall on him?</strong></p>
-<p><em>» He was squashed.</em></p>
+<p><strong>I dropped a pear in my car this morning.</strong></p>
+<p><em>» You should drop another one, then you would have a pair.</em></p>
 <hr>
-<p><strong>What time did the man go to the dentist?</strong></p>
-<p><em>» Tooth hurt-y.</em></p>
+<p><strong>What did one necrophiliac tell the other necrophiliac after work?</strong></p>
+<p><em>» "Let's go have a couple of cold ones!"</em></p>
 <hr>
-<p><strong>Why did the house go to the doctor?</strong></p>
-<p><em>» It was having window panes.</em></p>
+<p>I have a joke about trickle down economics, but 99% of you will never get it.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +284,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
+<p>💡 Male bats have the highest rate of homosexuality of any mammal.</p>
 <hr>
-<p>💡 "Rhythm" is the longest English word without a vowel.</p>
+<p>💡 Over 60% of all those who marry get divorced.</p>
 <hr>
-<p>💡 Honey is the only food which does not spoil.</p>
+<p>💡 Our eyes are always the same size from birth, but our nose and ears never stop growing.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +298,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Live as if you were to die tomorrow. Learn as if you were to live forever."</em> - Mahatma Gandhi</p>
+  <p><em>"Failure is another steppingstone to greatness."</em> - Oprah Winfrey</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."</em> - Charles Darwin</p>
+  <p><em>"Just when the caterpillar thought the world was ending, he turned into a butterfly."</em> - Proverb</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It is better to fail in originality than to succeed in imitation."</em> - Herman Melville</p>
+  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
 </blockquote>
 </details>
 <p>
@@ -321,15 +320,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>April 13, 2026</td>
-<td> 04:24 AM IST</td>
+<td>Tuesday</td>
+<td>April 14, 2026</td>
+<td> 04:33 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>April 14, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Wednesday</td>
+<td>April 15, 2026</td>
+<td>~04:30 AM IST</td>
 </tr>
 </tbody>
 </table>
