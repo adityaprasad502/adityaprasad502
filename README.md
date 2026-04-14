@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/018ffd3c04b9d858e09832406e2572f4b9230f47d25591b626bac8850caa9db3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363239253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C629%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/12b76f17470a8e2791b9755e7cf3ebe78ff6a854295abcb458ed36f0bb3dbd6e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336333025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C630%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,994+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,999+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
-<p>📦 <strong>73.3 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>73.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>441</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,606h 57m</strong> (78,436 Streams)</p>
+<p>🎧 Spotify: <strong>4,611h 17m</strong> (78,506 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -43,34 +43,34 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
 <td>4 commits</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>28.6%</td>
+<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>5 commits</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>35.7%</td>
+<td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>26.3%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>2 commits</td>
-<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>14.3%</td>
+<td>7 commits</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>36.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>3 commits</td>
-<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>21.4%</td>
+<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>15.8%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>14 commits in April 2026</b></td>
+<td colspan="2"><b>19 commits in April 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -92,7 +92,7 @@ fun main() {
 <td>Python</td>
 <td>9 hrs 1 min</td>
 <td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>19.3%</td>
+<td>19.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -138,7 +138,7 @@ fun main() {
 <td>Android Studio</td>
 <td>17 hrs 19 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>37.1%</td>
+<td>37.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
@@ -148,9 +148,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>11 hrs 58 mins</td>
+<td>11 hrs 57 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>25.7%</td>
+<td>25.6%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>46 hrs 38 mins</td>
+<td>46 hrs 37 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</td>
 <td>100.0%</td>
 </tr>
@@ -198,7 +198,7 @@ fun main() {
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>7 hrs 11 mins</td>
+<td>7 hrs 9 mins</td>
 <td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
 <td>15.4%</td>
 </tr>
@@ -216,43 +216,43 @@ fun main() {
 <td>Kotlin</td>
 <td>548.3 KiB</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>30.7%</td>
+<td>30.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>515.6 KiB</td>
+<td>520.7 KiB</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>28.9%</td>
+<td>29.0%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>13.8%</td>
+<td>13.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>179.7 KiB</td>
+<td>179.2 KiB</td>
 <td>⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>10.1%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>7.0%</td>
+<td>6.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>95.5 KiB</td>
+<td>101.8 KiB</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>5.4%</td>
+<td>5.7%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>63.3 KiB</td>
+<td>62.2 KiB</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>3.6%</td>
+<td>3.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,13 +269,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>I dropped a pear in my car this morning.</strong></p>
-<p><em>» You should drop another one, then you would have a pair.</em></p>
+<p><strong>I asked my wife if I was the only one she's been with.</strong></p>
+<p><em>» She said, "Yes, the others were at least sevens or eights."</em></p>
 <hr>
-<p><strong>What did one necrophiliac tell the other necrophiliac after work?</strong></p>
-<p><em>» "Let's go have a couple of cold ones!"</em></p>
+<p><strong>Why did the fireman wear red, white, and blue suspenders?</strong></p>
+<p><em>» To hold his pants up.</em></p>
 <hr>
-<p>I have a joke about trickle down economics, but 99% of you will never get it.</p>
+<p><strong>Why does Santa have three gardens?</strong></p>
+<p><em>» So he can 'ho ho ho'!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -284,11 +285,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Male bats have the highest rate of homosexuality of any mammal.</p>
+<p>💡 Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
 <hr>
-<p>💡 Over 60% of all those who marry get divorced.</p>
+<p>💡 Johnny Appleseed planted apples so that people could use apple cider to make alcohol.</p>
 <hr>
-<p>💡 Our eyes are always the same size from birth, but our nose and ears never stop growing.</p>
+<p>💡 In every episode of “Seinfeld” there is a Superman picture or reference somewhere.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -298,15 +299,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Failure is another steppingstone to greatness."</em> - Oprah Winfrey</p>
+  <p><em>"If you are not willing to risk the usual, you will have to settle for the ordinary."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Just when the caterpillar thought the world was ending, he turned into a butterfly."</em> - Proverb</p>
+  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
+  <p><em>"Things do not happen. Things are made to happen."</em> - John F. Kennedy</p>
 </blockquote>
 </details>
 <p>
@@ -320,15 +321,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>April 14, 2026</td>
-<td> 04:33 AM IST</td>
+<td>Wednesday</td>
+<td>April 15, 2026</td>
+<td> 04:35 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>April 15, 2026</td>
-<td>~04:30 AM IST</td>
+<td>Thursday</td>
+<td>April 16, 2026</td>
+<td>~04:35 AM IST</td>
 </tr>
 </tbody>
 </table>
