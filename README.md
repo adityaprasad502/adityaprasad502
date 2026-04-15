@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/12b76f17470a8e2791b9755e7cf3ebe78ff6a854295abcb458ed36f0bb3dbd6e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336333025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C630%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,999+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,001+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
-<p>📦 <strong>73.4 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>73.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>441</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,611h 17m</strong> (78,506 Streams)</p>
+<p>🎧 Spotify: <strong>4,612h 33m</strong> (78,524 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -47,30 +47,30 @@ fun main() {
  <tr>
 <td>🌞 Morning</td>
 <td>4 commits</td>
-<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>21.1%</td>
+<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>19.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>5 commits</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>26.3%</td>
+<td>23.8%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>7 commits</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>36.8%</td>
+<td>9 commits</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>42.9%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>3 commits</td>
-<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>15.8%</td>
+<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>14.3%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>19 commits in April 2026</b></td>
+<td colspan="2"><b>21 commits in April 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>16 hrs 24 mins</td>
+<td>14 hrs 29 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>35.2%</td>
+<td>32.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>9 hrs 1 min</td>
-<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>19.4%</td>
+<td>9 hrs 30 mins</td>
+<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>5 hrs 52 mins</td>
+<td>5 hrs 53 mins</td>
 <td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>12.6%</td>
+<td>13.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>4 hrs</td>
+<td>4 hrs 14 mins</td>
 <td>⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>8.6%</td>
+<td>9.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 9 mins</td>
+<td>2 hrs 38 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>6.8%</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 34 mins</td>
-<td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>3.4%</td>
+<td>1 hr 35 mins</td>
+<td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>3.5%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 17 mins</td>
 <td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>2.8%</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -135,28 +135,28 @@ fun main() {
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Android Studio</td>
-<td>17 hrs 19 mins</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>37.2%</td>
+<td>VS Code</td>
+<td>15 hrs 20 mins</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>34.0%</td>
 </tr> 
  <tr>
-<td>VS Code</td>
-<td>14 hrs 48 mins</td>
+<td>Android Studio</td>
+<td>15 hrs 2 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>31.8%</td>
+<td>33.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>11 hrs 57 mins</td>
+<td>12 hrs 11 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>25.6%</td>
+<td>27.0%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>2 hrs 15 mins</td>
+<td>2 hrs 16 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>4.8%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>46 hrs 37 mins</td>
+<td>45 hrs 7 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>39 hrs 27 mins</td>
+<td>37 hrs 57 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤</td>
-<td>84.6%</td>
+<td>84.1%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
 <td>7 hrs 9 mins</td>
-<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>15.4%</td>
+<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>15.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -220,9 +220,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Python</td>
-<td>520.7 KiB</td>
+<td>521.4 KiB</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>29.0%</td>
+<td>29.1%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -269,14 +269,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>I asked my wife if I was the only one she's been with.</strong></p>
-<p><em>» She said, "Yes, the others were at least sevens or eights."</em></p>
+<p><strong>What's the difference between a hot potato and a flying pig?</strong></p>
+<p><em>» One's a heated yam, the other's a yeeted ham.</em></p>
 <hr>
-<p><strong>Why did the fireman wear red, white, and blue suspenders?</strong></p>
-<p><em>» To hold his pants up.</em></p>
+<p><strong>What did the big flower say to the littler flower?</strong></p>
+<p><em>» Hi, bud!</em></p>
 <hr>
-<p><strong>Why does Santa have three gardens?</strong></p>
-<p><em>» So he can 'ho ho ho'!</em></p>
+<p><strong>Why can't Python finish its breakfast?</strong></p>
+<p><em>» Because it always finds a syntax error in its cereal!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +285,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
+<p>💡 No word in the English language rhymes with month, orange, silver and purple.</p>
 <hr>
-<p>💡 Johnny Appleseed planted apples so that people could use apple cider to make alcohol.</p>
+<p>💡 William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</p>
 <hr>
-<p>💡 In every episode of “Seinfeld” there is a Superman picture or reference somewhere.</p>
+<p>💡 Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +299,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you are not willing to risk the usual, you will have to settle for the ordinary."</em> - Jim Rohn</p>
+  <p><em>"Hope never abandons you, you abandon it"</em> - George Weinberg</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
+  <p><em>"When you cease to dream you cease to live."</em> - Malcolm Forbes</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Things do not happen. Things are made to happen."</em> - John F. Kennedy</p>
+  <p><em>"Keep your eyes on the stars and your feet on the ground."</em> - Theodore Roosevelt</p>
 </blockquote>
 </details>
 <p>
@@ -321,15 +321,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>April 15, 2026</td>
-<td> 04:35 AM IST</td>
+<td>Thursday</td>
+<td>April 16, 2026</td>
+<td> 04:33 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>April 16, 2026</td>
-<td>~04:35 AM IST</td>
+<td>Friday</td>
+<td>April 17, 2026</td>
+<td>~04:30 AM IST</td>
 </tr>
 </tbody>
 </table>
