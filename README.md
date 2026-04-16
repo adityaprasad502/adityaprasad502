@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/12b76f17470a8e2791b9755e7cf3ebe78ff6a854295abcb458ed36f0bb3dbd6e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336333025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C630%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,001+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,002+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
 <p>📦 <strong>73.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
-<p>🏅 StackOverflow: <strong>441</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,612h 33m</strong> (78,524 Streams)</p>
+<p>🏅 StackOverflow: <strong>451</strong> Rep (0G • 5S • 8B)</p>
+<p>🎧 Spotify: <strong>4,612h 55m</strong> (78,530 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>14 hrs 29 mins</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>32.1%</td>
+<td>10 hrs 16 mins</td>
+<td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>27.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>9 hrs 30 mins</td>
-<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>21.1%</td>
+<td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>25.2%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>5 hrs 53 mins</td>
-<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>13.0%</td>
+<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>15.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 hrs 14 mins</td>
 <td>⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>9.4%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 hrs 38 mins</td>
-<td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>5.9%</td>
+<td>11.2%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 35 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>3.5%</td>
+<td>4.2%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>1 hr 17 mins</td>
+<td>JavaScript</td>
+<td>1 hr 16 mins</td>
 <td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>2.9%</td>
+<td>3.4%</td>
+</tr> 
+ <tr>
+<td>PHP</td>
+<td>1 hr 12 mins</td>
+<td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>3.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,33 +136,33 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>15 hrs 20 mins</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>34.0%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>15 hrs 2 mins</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>33.3%</td>
+<td>14 hrs 49 mins</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>39.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>12 hrs 11 mins</td>
+<td>10 hrs 33 mins</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>27.9%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>9 hrs 49 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>27.0%</td>
+<td>26.0%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 16 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>5.1%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>16 mins</td>
 <td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>0.6%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>45 hrs 7 mins</td>
+<td>37 hrs 45 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>37 hrs 57 mins</td>
+<td>31 hrs 48 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤</td>
-<td>84.1%</td>
+<td>84.2%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>7 hrs 9 mins</td>
+<td>5 hrs 57 mins</td>
 <td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>15.9%</td>
+<td>15.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,14 +269,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What's the difference between a hot potato and a flying pig?</strong></p>
-<p><em>» One's a heated yam, the other's a yeeted ham.</em></p>
+<p><strong>My wife left me because I'm too insecure and paranoid.</strong></p>
+<p><em>» Oh wait, never mind. She was just getting the mail.</em></p>
 <hr>
-<p><strong>What did the big flower say to the littler flower?</strong></p>
-<p><em>» Hi, bud!</em></p>
+<p><strong>Why did the ghost go to the bar?</strong></p>
+<p><em>» To get sheet faced.</em></p>
 <hr>
-<p><strong>Why can't Python finish its breakfast?</strong></p>
-<p><em>» Because it always finds a syntax error in its cereal!</em></p>
+<p><strong>What do elves post on Social Media?</strong></p>
+<p><em>» Elf-ies.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +285,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 No word in the English language rhymes with month, orange, silver and purple.</p>
+<p>💡 There were always 56 curls in Shirley Temple`s hair.</p>
 <hr>
-<p>💡 William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</p>
+<p>💡 There are no words in the dictionary that rhyme with orange, purple, silver and month.</p>
 <hr>
-<p>💡 Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest.</p>
+<p>💡 Almonds are members of the peach family.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +299,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Hope never abandons you, you abandon it"</em> - George Weinberg</p>
+  <p><em>"Life is 10% of what happens to me and 90% of how I react to it"</em> - John Maxwell</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When you cease to dream you cease to live."</em> - Malcolm Forbes</p>
+  <p><em>"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."</em> - Aristotle</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Keep your eyes on the stars and your feet on the ground."</em> - Theodore Roosevelt</p>
+  <p><em>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</em> - Albert Einstein</p>
 </blockquote>
 </details>
 <p>
@@ -321,14 +321,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>April 16, 2026</td>
+<td>Friday</td>
+<td>April 17, 2026</td>
 <td> 04:33 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>April 17, 2026</td>
+<td>Saturday</td>
+<td>April 18, 2026</td>
 <td>~04:30 AM IST</td>
 </tr>
 </tbody>
