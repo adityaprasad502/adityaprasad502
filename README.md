@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/12b76f17470a8e2791b9755e7cf3ebe78ff6a854295abcb458ed36f0bb3dbd6e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336333025323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C630%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,002+</strong> Commits made on GitHub</p>
-<p>🗃️ <strong>5</strong> Public • <strong>16</strong> Private Repositories</p>
-<p>📦 <strong>73.6 MiB</strong> Used in GitHub Storage</p>
+<p>🏆 <strong>5,018+</strong> Commits made on GitHub</p>
+<p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
+<p>📦 <strong>73.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>451</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,612h 55m</strong> (78,530 Streams)</p>
+<p>🎧 Spotify: <strong>4,617h 45m</strong> (78,604 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -46,31 +46,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>4 commits</td>
-<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>19.0%</td>
+<td>5 commits</td>
+<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>22.7%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>5 commits</td>
-<td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>23.8%</td>
+<td>⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>22.7%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>9 commits</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>42.9%</td>
+<td>8 commits</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>36.4%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>3 commits</td>
-<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>14.3%</td>
+<td>4 commits</td>
+<td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>18.2%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>21 commits in April 2026</b></td>
+<td colspan="2"><b>22 commits in April 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>10 hrs 16 mins</td>
+<td>9 hrs 37 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>27.2%</td>
+<td>26.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>9 hrs 30 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>25.2%</td>
+<td>25.7%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>5 hrs 53 mins</td>
 <td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>15.6%</td>
+<td>15.9%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 hrs 14 mins</td>
-<td>⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>11.2%</td>
+<td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>11.5%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 35 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>4.2%</td>
+<td>4.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 16 mins</td>
-<td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>3.4%</td>
+<td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>3.5%</td>
 </tr> 
  <tr>
 <td>PHP</td>
-<td>1 hr 12 mins</td>
+<td>1 hr 7 mins</td>
 <td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>3.2%</td>
+<td>3.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,33 +136,33 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>14 hrs 49 mins</td>
-<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>39.3%</td>
+<td>14 hrs 46 mins</td>
+<td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>40.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>10 hrs 33 mins</td>
+<td>10 hrs 27 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>27.9%</td>
+<td>28.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>9 hrs 49 mins</td>
+<td>9 hrs 8 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>26.0%</td>
+<td>24.8%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 16 mins</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>6.0%</td>
+<td>6.2%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>16 mins</td>
 <td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>0.7%</td>
+<td>0.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>37 hrs 45 mins</td>
+<td>36 hrs 56 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</td>
 <td>100.0%</td>
 </tr>
@@ -192,15 +192,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>31 hrs 48 mins</td>
+<td>31 hrs 8 mins</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤</td>
-<td>84.2%</td>
+<td>84.3%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>5 hrs 57 mins</td>
+<td>5 hrs 47 mins</td>
 <td>⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>15.8%</td>
+<td>15.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -216,25 +216,25 @@ fun main() {
 <td>Kotlin</td>
 <td>548.3 KiB</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>30.6%</td>
+<td>30.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>521.4 KiB</td>
+<td>533.7 KiB</td>
 <td>⣿⣿⣿⣿⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>29.1%</td>
+<td>29.5%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>⣿⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>13.7%</td>
+<td>13.6%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>179.2 KiB</td>
+<td>179.3 KiB</td>
 <td>⣿⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>10.0%</td>
+<td>9.9%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
@@ -246,13 +246,13 @@ fun main() {
 <td>CSS</td>
 <td>101.8 KiB</td>
 <td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>5.7%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>62.2 KiB</td>
-<td>⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
-<td>3.5%</td>
+<td>⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤</td>
+<td>3.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -269,14 +269,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>My wife left me because I'm too insecure and paranoid.</strong></p>
-<p><em>» Oh wait, never mind. She was just getting the mail.</em></p>
+<p><strong>Why should you never talk to pi?</strong></p>
+<p><em>» Because it will go on forever.</em></p>
 <hr>
-<p><strong>Why did the ghost go to the bar?</strong></p>
-<p><em>» To get sheet faced.</em></p>
+<p><strong>I just got fired from my job at the keyboard factory.</strong></p>
+<p><em>» They told me I wasn't putting in enough shifts.</em></p>
 <hr>
-<p><strong>What do elves post on Social Media?</strong></p>
-<p><em>» Elf-ies.</em></p>
+<p><strong>Why does a Moon-rock taste better than an Earth-rock?</strong></p>
+<p><em>» Because it's a little meteor.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +285,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 There were always 56 curls in Shirley Temple`s hair.</p>
+<p>💡 One third of all cancers are sun related.</p>
 <hr>
-<p>💡 There are no words in the dictionary that rhyme with orange, purple, silver and month.</p>
+<p>💡 Switzerland is the only country with a square flag.</p>
 <hr>
-<p>💡 Almonds are members of the peach family.</p>
+<p>💡 Sex is biochemically no different from eating large quantities of chocolate.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +299,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Life is 10% of what happens to me and 90% of how I react to it"</em> - John Maxwell</p>
+  <p><em>"The world doesn’t need more noise. Don’t complain. Set an example."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."</em> - Aristotle</p>
+  <p><em>"You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction."</em> - George Lorimer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</em> - Albert Einstein</p>
+  <p><em>"Success is walking from failure to failure with no loss of enthusiasm."</em> - Winston Churchill</p>
 </blockquote>
 </details>
 <p>
@@ -321,14 +321,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>April 17, 2026</td>
-<td> 04:33 AM IST</td>
+<td>Saturday</td>
+<td>April 18, 2026</td>
+<td> 04:31 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>April 18, 2026</td>
+<td>Sunday</td>
+<td>April 19, 2026</td>
 <td>~04:30 AM IST</td>
 </tr>
 </tbody>
