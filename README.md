@@ -28,12 +28,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c4e9c17ba1b0f830e18710d325374f22aa69f68049e0ac942c7d24145c01fec1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336333325323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C633%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,029+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,030+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>451</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,627h 31m</strong> (78,768 Streams)</p>
+<p>🎧 Spotify: <strong>4,629h 44m</strong> (78,803 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -86,23 +86,23 @@ fun main() {
 <td>Python</td>
 <td>10 hrs 17 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.8%</td>
+<td>30.2%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>6 hrs 9 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.4%</td>
+<td>18.1%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>5 hrs 31 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.5%</td>
+<td>16.2%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>4 hrs 14 mins</td>
+<td>4 hrs 19 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>12.7%</td>
 </tr> 
@@ -110,13 +110,13 @@ fun main() {
 <td>CSS</td>
 <td>1 hr 37 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.9%</td>
+<td>4.8%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 17 mins</td>
+<td>1 hr 35 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>4.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>15 hrs 53 mins</td>
+<td>16 hrs 22 mins</td>
 <td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.6%</td>
+<td>48.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>9 hrs 10 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.5%</td>
+<td>9 hrs 20 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>5 hrs 47 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.3%</td>
+<td>17.0%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 16 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.8%</td>
+<td>6.7%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
@@ -176,7 +176,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>33 hrs 25 mins</td>
+<td>34 hrs 3 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -192,7 +192,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>32 hrs 24 mins</td>
+<td>33 hrs 2 mins</td>
 <td>████████████████████████▒</td>
 <td>97.0%</td>
 </tr> 
@@ -269,14 +269,17 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why are ghosts bad liars?</strong></p>
-<p><em>» Because you can see right through them!</em></p>
+<p><strong>Mickey Mouse and Minnie Mouse are in the divorce court.
+"Mickey", the judge says, "I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me."</strong></p>
+<p><em>» "I didn't say she was insane", exclaims Mickey.
+"I said she was fucking Goofy."</em></p>
 <hr>
-<p><strong>How do you generate a random string?</strong></p>
-<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
+<p><strong>The gas Argon walks into a bar.
+The barkeeper says "What would you like to drink?"</strong></p>
+<p><em>» But Argon doesn't react.</em></p>
 <hr>
-<p><strong>What is red and smells like blue paint?</strong></p>
-<p><em>» Red paint!</em></p>
+<p><strong>Why did the tree go to the dentist?</strong></p>
+<p><em>» It needed a root canal.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -285,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 One in every 4 Americans has appeared on television.</p>
+<p>💡 On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.</p>
 <hr>
-<p>💡 Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
+<p>💡 Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.</p>
 <hr>
-<p>💡 Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</p>
+<p>💡 Nepal is the only country that doesn’t have a rectangular flag.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,15 +302,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Be kind to yourself in the face of failures. They really don’t define you."</em> - Zat Rana</p>
+  <p><em>"What you get by achieving your goals is not as important as what you become by achieving your goals."</em> - Zig Ziglar</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Even if you’re on the right track, you’ll get run over if you just sit there."</em> - Will Rogers</p>
+  <p><em>"Good things come to those who wait but greater things come to those who get off their ass and do anything to make it happen."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is 10% of what happens to me and 90% of how I react to it"</em> - John Maxwell</p>
+  <p><em>"Sometimes you can't see yourself clearly until you see yourself through the eyes of others."</em> - Ellen DeGeneres</p>
 </blockquote>
 </details>
 <p>
@@ -321,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>April 21, 2026</td>
-<td> 04:33 AM IST</td>
+<td>Wednesday</td>
+<td>April 22, 2026</td>
+<td> 04:29 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>April 22, 2026</td>
-<td>~04:30 AM IST</td>
+<td>Thursday</td>
+<td>April 23, 2026</td>
+<td>~04:25 AM IST</td>
 </tr>
 </tbody>
 </table>
