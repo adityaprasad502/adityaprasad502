@@ -25,15 +25,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/28df8e7c29f7bf7ab4df5980c6af0dd69f82cff52ac164c6a112c56f7e9ebce0/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336333825323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C638%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d9494e3c578671317a66c2ddebedf70cc6f17559385ea42764857cee4660fc63/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363339253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C639%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>6,875+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>6,896+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>73.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,644h 33m</strong> (79,050 Streams)</p>
+<p>🎧 Spotify: <strong>4,649h 57m</strong> (79,139 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -84,45 +84,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>14 hrs 38 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.3%</td>
+<td>14 hrs 41 mins</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>6 hrs 9 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.1%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>4 hrs 48 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.6%</td>
+<td>17.1%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>4 hrs 19 mins</td>
+<td>4 hrs 18 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.0%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>3 hrs 30 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>9.8%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 37 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>4.5%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 35 mins</td>
+<td>1 hr 31 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>4.2%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>49 mins</td>
+<td>57 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.1%</td>
+<td>2.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -136,27 +136,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>20 hrs 59 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.9%</td>
+<td>21 hrs 8 mins</td>
+<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>58.7%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>9 hrs 20 mins</td>
+<td>8 hrs 42 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.4%</td>
+<td>24.2%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>5 hrs 1 min</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.1%</td>
+<td>3 hrs 19 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.2%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 16 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.0%</td>
+<td>6.3%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
@@ -168,7 +168,7 @@ fun main() {
 <td>Pycharm</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>0.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -182,7 +182,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>38 hrs 12 mins</td>
+<td>36 hrs 1 min</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -198,13 +198,13 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>37 hrs 11 mins</td>
+<td>35 hrs 5 mins</td>
 <td>████████████████████████▒</td>
-<td>97.3%</td>
+<td>97.4%</td>
 </tr> 
  <tr>
 <td>CITPC1142</td>
-<td>1 hr</td>
+<td>56 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.6%</td>
 </tr>
@@ -275,14 +275,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What’s 50 Cent’s name in Zimbabwe?</strong></p>
-<p><em>» 200 Dollars.</em></p>
+<p><strong>What do you call a pig that knows karate?</strong></p>
+<p><em>» A pork chop!</em></p>
 <hr>
-<p><strong>Why does a chicken coop only have two doors?</strong></p>
-<p><em>» Because if it had four doors it would be a chicken sedan.</em></p>
+<p><strong>What do you call a duck that gets all A's?</strong></p>
+<p><em>» A wise quacker.</em></p>
 <hr>
-<p><strong>Two guys walk into a bar . . .</strong></p>
-<p><em>» The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."</em></p>
+<p><strong>Why did the rooster cross the road?</strong></p>
+<p><em>» He heard that the chickens at KFC were pretty hot.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,11 +291,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Andorra, a tiny country between France &amp; Spain, has the longest average lifespan: 83.49 years.</p>
+<p>💡 The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.</p>
 <hr>
-<p>💡 The shortest British monarch was Charles I, who was 4 feet 9 inches.</p>
+<p>💡 The city of Venice stands on about 120 small islands.</p>
 <hr>
-<p>💡 What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.</p>
+<p>💡 The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -305,15 +305,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"You must expect great things of yourself before you can do them."</em> - Michael Jordan</p>
+  <p><em>"I can, therefore I am."</em> - Simone Weil</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Being strong means rejoicing in who you are, complete with imperfections"</em> - Margaret Woodhouse</p>
+  <p><em>"The world is full of magical things patiently waiting for our wits to grow sharper."</em> - Bertrand Russell</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Work spares us from three evils: boredom, vice, and need."</em> - Voltaire</p>
+  <p><em>"Don’t be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
 </blockquote>
 </details>
 <p>
@@ -327,15 +327,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>April 25, 2026</td>
-<td> 03:35 AM IST</td>
+<td>Sunday</td>
+<td>April 26, 2026</td>
+<td> 03:25 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>April 26, 2026</td>
-<td>~03:35 AM IST</td>
+<td>Monday</td>
+<td>April 27, 2026</td>
+<td>~03:25 AM IST</td>
 </tr>
 </tbody>
 </table>
