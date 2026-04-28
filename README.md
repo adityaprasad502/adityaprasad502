@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ec36c4ea9e83e1aabe3d56da53c53db930531c6e07efb59af76097471b77707a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363430253230687273253230382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C640%20hrs%208%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8c389a979a057181d99d8b3dd71e65b939d5a4547dccc61f1dc1d655b2728a48/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336353025323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C650%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>6,968+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>7,252+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.3 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>74.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,658h 25m</strong> (79,285 Streams)</p>
+<p>🎧 Spotify: <strong>4,668h 29m</strong> (79,455 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>7 commits</td>
+<td>8 commits</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
+<td>7.1%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>37 commits</td>
+<td>39 commits</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.6%</td>
+<td>34.8%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>29 commits</td>
+<td>30 commits</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.1%</td>
+<td>26.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>34 commits</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.8%</td>
+<td>35 commits</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.2%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>107 commits in April 2026</b></td>
+<td colspan="2"><b>112 commits in April 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>15 hrs 40 mins</td>
-<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.2%</td>
+<td>22 hrs 40 mins</td>
+<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>59.1%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>6 hrs 8 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.3%</td>
+<td>5 hrs 16 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>3 hrs 28 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.9%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 33 mins</td>
+<td>2 hrs 17 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.9%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 21 mins</td>
+<td>1 hr 30 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>3.9%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 24 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.7%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>57 mins</td>
+<td>1 hr 6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>2.9%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>39 mins</td>
+<td>48 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.0%</td>
+<td>2.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,39 +145,39 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>20 hrs 16 mins</td>
-<td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>63.7%</td>
+<td>23 hrs 10 mins</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>7 hrs 54 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.9%</td>
+<td>11 hrs 32 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.1%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
 <td>2 hrs 16 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.1%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>0.8%</td>
 </tr> 
  <tr>
 <td>Pycharm</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -191,7 +191,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>31 hrs 50 mins</td>
+<td>38 hrs 22 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -207,15 +207,9 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>31 hrs 21 mins</td>
-<td>████████████████████████▒</td>
-<td>98.5%</td>
-</tr> 
- <tr>
-<td>CITPC1142</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
+<td>38 hrs 22 mins</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -229,15 +223,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>572.6 KiB</td>
+<td>577.5 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.0%</td>
+<td>31.2%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>548.3 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.7%</td>
+<td>29.6%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -284,14 +278,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why do scuba divers fall backwards into the water?</strong></p>
-<p><em>» Because if they fell forwards they’d still be in the boat.</em></p>
+<p>Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.</p>
 <hr>
-<p><strong>I'm sure good looking lesbians look at fat lesbians and give them no chance.</strong></p>
-<p><em>» Until they see their fingers.</em></p>
+<p><strong>Why did the programmer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 <hr>
-<p><strong>Did you hear about the guy whose whole left side was cut off?</strong></p>
-<p><em>» He's all right now.</em></p>
+<p>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`</p>
+<p>💡 13% of Americans actually believe that some parts of the moon are made of cheese.</p>
 <hr>
-<p>💡 Virginia Woolf wrote all her books standing.</p>
+<p>💡 The volume of the earth's moon is the same as the volume of the Pacific Ocean. </p>
 <hr>
-<p>💡 Most dust particles in your house are made from dead skin!</p>
+<p>💡 There are 1,792 steps in the Eiffel Tower</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +307,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Do one thing every day that scares you."</em> - Eleanor Roosevelt</p>
+  <p><em>"The most effective way to do it, is to do it."</em> - Amelia Earhart</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You only live once, but if you do it right, once is enough."</em> - Mae West</p>
+  <p><em>"When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</em> - Audre Lorde</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The way I see it, if you want the rainbow, you gotta put up with the rain."</em> - Dolly Parton</p>
+  <p><em>"Keep your face to the sunshine and you can never see the shadow."</em> - Helen Keller</p>
 </blockquote>
 </details>
 <p>
@@ -336,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>April 27, 2026</td>
-<td> 03:26 AM IST</td>
+<td>Wednesday</td>
+<td>April 29, 2026</td>
+<td> 03:44 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>April 28, 2026</td>
-<td>~03:25 AM IST</td>
+<td>Thursday</td>
+<td>April 30, 2026</td>
+<td>~03:40 AM IST</td>
 </tr>
 </tbody>
 </table>
