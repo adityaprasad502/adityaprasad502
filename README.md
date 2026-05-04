@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>74.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,690h 28m</strong> (79,832 Streams)</p>
+<p>🎧 Spotify: <strong>4,691h 17m</strong> (79,845 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>20 hrs</td>
-<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.8%</td>
+<td>19 hrs 1 min</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.5%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>4 hrs 23 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.7%</td>
+<td>2 hrs 21 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>2 hrs 3 mins</td>
+<td>1 hr 51 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.9%</td>
+<td>6.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 21 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>4.5%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 16 mins</td>
+<td>1 hr 11 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>3.9%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>1 hr 7 mins</td>
+<td>56 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.2%</td>
+<td>3.1%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>55 mins</td>
+<td>51 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.7%</td>
+<td>2.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,33 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>20 hrs 30 mins</td>
-<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>59.2%</td>
+<td>18 hrs 36 mins</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>11 hrs 46 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.0%</td>
+<td>10 hrs 55 mins</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.9%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
-<td>1 hr 13 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.6%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>47 mins</td>
+<td>36 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>2.0%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
+<td>1.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -185,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>34 hrs 36 mins</td>
+<td>30 hrs 25 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -201,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>34 hrs 36 mins</td>
+<td>30 hrs 25 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -272,15 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why was the JavaScript developer sad?</strong></p>
-<p><em>» Because they didn't Node how to Express themself!</em></p>
+<p><strong>How many optometrists does it take to change a light bulb?</strong></p>
+<p><em>» 1 or 2? 1... or 2?</em></p>
 <hr>
-<p><strong>Why are mummys scared of vacation?</strong></p>
-<p><em>» They're afraid to unwind.</em></p>
+<p><strong>What do you call a crowd of chess players bragging about their wins in a hotel lobby?</strong></p>
+<p><em>» Chess nuts boasting in an open foyer.</em></p>
 <hr>
-<p><strong>What do Santa's little helpers learn at school?</strong></p>
-<p><em>» The elf-abet!
-</em></p>
+<p><strong>Why was the math book sad?</strong></p>
+<p><em>» It had too many problems.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.</p>
+<p>💡 John Adams, Thomas Jefferson, and James Monroe died on July 4th.</p>
 <hr>
-<p>💡 Human thigh bones are stronger than concrete.</p>
+<p>💡 Bulgarians are known to be the biggest yogurt eaters in the world.</p>
 <hr>
-<p>💡 The average Japanese household watches more than 10 hours of television a day.</p>
+<p>💡 The male seahorse carries the eggs until they hatch instead of the female.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Education costs money. But then so does ignorance."</em> - Sir Claus Moser</p>
+  <p><em>"There is no such thing as fairness, and dwelling on it creates despair."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing and that is why we recommend it daily."</em> - Zig Ziglar</p>
+  <p><em>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</em> - Carl Bard</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Your time is limited, so don’t waste it living someone else’s life."</em> - Steve Jobs</p>
+  <p><em>"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place"</em> - Nora Roberts</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 04, 2026</td>
-<td> 03:34 AM IST</td>
+<td>Tuesday</td>
+<td>May 05, 2026</td>
+<td> 03:47 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 05, 2026</td>
-<td>~03:30 AM IST</td>
+<td>Wednesday</td>
+<td>May 06, 2026</td>
+<td>~03:45 AM IST</td>
 </tr>
 </tbody>
 </table>
