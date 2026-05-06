@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>74.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,693h 38m</strong> (79,884 Streams)</p>
+<p>🎧 Spotify: <strong>4,696h 35m</strong> (79,934 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>19 hrs 1 min</td>
+<td>17 hrs 50 mins</td>
 <td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.5%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>2 hrs 21 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.8%</td>
+<td>62.4%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 51 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.1%</td>
+<td>6.5%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>1 hr 41 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 21 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.5%</td>
+<td>4.7%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 11 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>4.2%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>56 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.1%</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>51 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>3.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>18 hrs 36 mins</td>
-<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.1%</td>
+<td>18 hrs 32 mins</td>
+<td>████████████████▒▒▒▒▒▒▒▒▒</td>
+<td>64.9%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>10 hrs 55 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.9%</td>
-</tr> 
- <tr>
-<td>PyCharm</td>
-<td>36 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.0%</td>
+<td>9 hrs 43 mins</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.0%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.0%</td>
+</tr> 
+ <tr>
+<td>PyCharm</td>
+<td>1 min</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 25 mins</td>
+<td>28 hrs 34 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>30 hrs 25 mins</td>
+<td>28 hrs 34 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What's the object-oriented way to become wealthy?</strong></p>
-<p><em>» Inheritance.</em></p>
+<p><strong>Hey, wanna hear a joke?</strong></p>
+<p><em>» Parsing HTML with regex.</em></p>
 <hr>
-<p><strong>How much does a full metal alchemist boxset cost? </strong></p>
-<p><em>» An Arm and a Leg</em></p>
+<p><strong>Why did the kid cross the playground?</strong></p>
+<p><em>» To get to the other slide.</em></p>
 <hr>
-<p><strong>What's yellow and can't swim?</strong></p>
-<p><em>» A bus full of children.</em></p>
+<p><strong>What do you call a boomerang that won't come back?</strong></p>
+<p><em>» A stick.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</p>
+<p>💡 The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.</p>
 <hr>
-<p>💡 Greenland is the largest island in the world.</p>
+<p>💡 Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</p>
 <hr>
-<p>💡 You're born with 300 bones, but by the time you become an adult, you only have 206.</p>
+<p>💡 The average American works 24,000 hours in their lifetime just to pay their taxes</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Our greatest glory is not in never falling, but in rising every time we fall."</em> - Confucius</p>
+  <p><em>"Courage is grace under pressure."</em> - Ernest Hemingway</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The best revenge is massive success."</em> - Frank Sinatra</p>
+  <p><em>"Success is liking yourself, liking what you do, and liking how you do it."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Though no one can go back and make a brand-new start, anyone can start from now and make a brand-new ending."</em> - Carl Bard</p>
+  <p><em>"Failure is the condiment that gives success its flavor."</em> - Truman Capote</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>May 06, 2026</td>
-<td> 03:46 AM IST</td>
+<td>Thursday</td>
+<td>May 07, 2026</td>
+<td> 03:41 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>May 07, 2026</td>
-<td>~03:45 AM IST</td>
+<td>Friday</td>
+<td>May 08, 2026</td>
+<td>~03:40 AM IST</td>
 </tr>
 </tbody>
 </table>
