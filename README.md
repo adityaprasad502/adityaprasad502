@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>4,707h 51m</strong> (80,127 Streams)</p>
+<p>🎧 Spotify: <strong>5,203h 30m</strong> (88,469 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,13 +95,13 @@ fun main() {
 <td>Python</td>
 <td>17 hrs 50 mins</td>
 <td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.4%</td>
+<td>61.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>1 hr 51 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
+<td>6.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -119,7 +119,7 @@ fun main() {
 <td>CSS</td>
 <td>1 hr 11 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>JSON</td>
@@ -147,19 +147,25 @@ fun main() {
 <td>VS Code</td>
 <td>18 hrs 32 mins</td>
 <td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>64.9%</td>
+<td>64.2%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>9 hrs 43 mins</td>
+<td>9 hrs 46 mins</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.0%</td>
+<td>33.8%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.0%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.9%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
@@ -179,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>28 hrs 34 mins</td>
+<td>28 hrs 53 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +201,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>28 hrs 34 mins</td>
+<td>28 hrs 53 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,15 +272,15 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
+<p><strong>Why did the bicycle fall over?</strong></p>
+<p><em>» Because it was two-tired!</em></p>
+<hr>
 <p>My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
 "Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
 It's now three hours later, police have joined in and she still won't say where she got them.</p>
 <hr>
-<p><strong>What's yellow and can't swim?</strong></p>
-<p><em>» A bus full of children.</em></p>
-<hr>
-<p><strong>Why did the belt go to prison?</strong></p>
-<p><em>» He held up a pair of pants!</em></p>
+<p><strong>Ever wondered why bees hum?</strong></p>
+<p><em>» It's because they don't know the words.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,11 +289,11 @@ It's now three hours later, police have joined in and she still won't say where 
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The thyroid cartilage is more commonly known as the adams apple.</p>
+<p>💡 Lightning strikes the earth about 8 million times a day.</p>
 <hr>
-<p>💡 The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</p>
+<p>💡 15 million blood cells are destroyed in the human body every second.</p>
 <hr>
-<p>💡 A pig`s orgasm lasts for 30 minutes.</p>
+<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -297,15 +303,15 @@ It's now three hours later, police have joined in and she still won't say where 
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Our greatest glory is not in never falling, but in rising every time we fall."</em> - Confucius</p>
+  <p><em>"Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend."</em> - Albert Camus</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body be full of that idea, and just leave every other idea alone. This is the way to success."</em> - Swami Vivekananda</p>
+  <p><em>"Accept responsibly for your life. Know that it is you who will get you where you want to go, no one else."</em> - Les Brown</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work."</em> - Thomas J. Watson</p>
+  <p><em>"You cannot plough a field by turning it over in your mind."</em> - Anonymous</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +325,15 @@ It's now three hours later, police have joined in and she still won't say where 
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 10, 2026</td>
-<td> 03:34 AM IST</td>
+<td>Monday</td>
+<td>May 11, 2026</td>
+<td> 03:37 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 11, 2026</td>
-<td>~03:30 AM IST</td>
+<td>Tuesday</td>
+<td>May 12, 2026</td>
+<td>~03:35 AM IST</td>
 </tr>
 </tbody>
 </table>
