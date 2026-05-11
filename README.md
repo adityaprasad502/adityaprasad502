@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,203h 30m</strong> (88,469 Streams)</p>
+<p>🎧 Spotify: <strong>5,208h 3m</strong> (88,552 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>17 hrs 50 mins</td>
+<td>16 hrs 17 mins</td>
 <td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.8%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 hr 51 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.4%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>1 hr 41 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.9%</td>
+<td>62.5%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 21 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
+<td>5.2%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>1 hr 20 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 11 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>4.6%</td>
 </tr> 
  <tr>
-<td>JSON</td>
-<td>56 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
+<td>Markdown</td>
+<td>1 hr 4 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>51 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>3.3%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>49 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>18 hrs 32 mins</td>
+<td>16 hrs 48 mins</td>
 <td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>64.2%</td>
+<td>64.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>9 hrs 46 mins</td>
+<td>8 hrs 41 mins</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.8%</td>
+<td>33.3%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.0%</td>
+<td>1.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>1.0%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>28 hrs 53 mins</td>
+<td>26 hrs 5 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -201,7 +201,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>28 hrs 53 mins</td>
+<td>26 hrs 5 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -272,15 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the bicycle fall over?</strong></p>
-<p><em>» Because it was two-tired!</em></p>
+<p><strong>What do you call Zenitsu when he doesn’t sleep?</strong></p>
+<p><em>» Thunderstruck!</em></p>
 <hr>
-<p>My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
-"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
-It's now three hours later, police have joined in and she still won't say where she got them.</p>
+<p><strong>Why do programmers always mix up Halloween and Christmas?</strong></p>
+<p><em>» Because Oct 31 == Dec 25</em></p>
 <hr>
-<p><strong>Ever wondered why bees hum?</strong></p>
-<p><em>» It's because they don't know the words.</em></p>
+<p><strong>What time is it?</strong></p>
+<p><em>» I don't know... it keeps changing.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +288,11 @@ It's now three hours later, police have joined in and she still won't say where 
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Lightning strikes the earth about 8 million times a day.</p>
+<p>💡 The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</p>
 <hr>
-<p>💡 15 million blood cells are destroyed in the human body every second.</p>
+<p>💡 In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</p>
 <hr>
-<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
+<p>💡 There were always 56 curls in Shirley Temple`s hair.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +302,15 @@ It's now three hours later, police have joined in and she still won't say where 
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend."</em> - Albert Camus</p>
+  <p><em>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</em> - Carl Bard</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Accept responsibly for your life. Know that it is you who will get you where you want to go, no one else."</em> - Les Brown</p>
+  <p><em>"A goal is a dream with a deadline."</em> - Napoleon Hill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You cannot plough a field by turning it over in your mind."</em> - Anonymous</p>
+  <p><em>"In a gentle way, you can shake the world."</em> - Mahatma Gandhi</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +324,15 @@ It's now three hours later, police have joined in and she still won't say where 
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 11, 2026</td>
-<td> 03:37 AM IST</td>
+<td>Tuesday</td>
+<td>May 12, 2026</td>
+<td> 04:01 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 12, 2026</td>
-<td>~03:35 AM IST</td>
+<td>Wednesday</td>
+<td>May 13, 2026</td>
+<td>~04:00 AM IST</td>
 </tr>
 </tbody>
 </table>
