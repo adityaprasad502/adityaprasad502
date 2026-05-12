@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,208h 3m</strong> (88,552 Streams)</p>
+<p>🎧 Spotify: <strong>5,212h 12m</strong> (88,625 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>16 hrs 17 mins</td>
-<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.5%</td>
+<td>15 hrs 7 mins</td>
+<td>█████████████████▒▒▒▒▒▒▒▒</td>
+<td>70.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 21 mins</td>
+<td>48 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 hr 20 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 11 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.6%</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>1 hr 4 mins</td>
+<td>48 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>51 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>49 mins</td>
+<td>41 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.1%</td>
+<td>3.2%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>34 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.7%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>34 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.7%</td>
+</tr> 
+ <tr>
+<td>YAML</td>
+<td>34 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>16 hrs 48 mins</td>
-<td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>64.4%</td>
+<td>14 hrs 34 mins</td>
+<td>█████████████████▒▒▒▒▒▒▒▒</td>
+<td>67.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>8 hrs 41 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>6 hrs 20 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.5%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.1%</td>
+<td>1.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.0%</td>
+<td>1.2%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>26 hrs 5 mins</td>
+<td>21 hrs 30 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -201,7 +201,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>26 hrs 5 mins</td>
+<td>21 hrs 30 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -272,14 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call Zenitsu when he doesn’t sleep?</strong></p>
-<p><em>» Thunderstruck!</em></p>
+<p><strong>Why is every gender equality officer female?</strong></p>
+<p><em>» Because it's cheaper.</em></p>
 <hr>
-<p><strong>Why do programmers always mix up Halloween and Christmas?</strong></p>
-<p><em>» Because Oct 31 == Dec 25</em></p>
+<p><strong>How did Darth Vader know what Luke was getting for Christmas?</strong></p>
+<p><em>» He felt his presents.</em></p>
 <hr>
-<p><strong>What time is it?</strong></p>
-<p><em>» I don't know... it keeps changing.</em></p>
+<p><strong>What do you call crystal clear urine?</strong></p>
+<p><em>» 1080p.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -288,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</p>
+<p>💡 You can`t kill yourself by holding your breath.  </p>
 <hr>
-<p>💡 In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</p>
+<p>💡 The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
 <hr>
-<p>💡 There were always 56 curls in Shirley Temple`s hair.</p>
+<p>💡 A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -302,15 +302,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</em> - Carl Bard</p>
+  <p><em>"I find that the harder I work, the more luck I seem to have."</em> - Thomas Jefferson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A goal is a dream with a deadline."</em> - Napoleon Hill</p>
+  <p><em>"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In a gentle way, you can shake the world."</em> - Mahatma Gandhi</p>
+  <p><em>"I don't want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well."</em> - Diane Ackerman</p>
 </blockquote>
 </details>
 <p>
@@ -324,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 12, 2026</td>
-<td> 04:01 AM IST</td>
+<td>Wednesday</td>
+<td>May 13, 2026</td>
+<td> 04:08 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 13, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Thursday</td>
+<td>May 14, 2026</td>
+<td>~04:05 AM IST</td>
 </tr>
 </tbody>
 </table>
