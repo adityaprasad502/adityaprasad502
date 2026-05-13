@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/89d3b016d79ef525e14ba8a21f355330360392ac0e004fa2401c7e545301c335/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336353225323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C652%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2634e46fc765d33deac4907dd287510037246933a7ada832808b73e121407607/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336353225323068727325323035352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C652%20hrs%2055%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,656+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,212h 12m</strong> (88,625 Streams)</p>
+<p>🎧 Spotify: <strong>5,217h 13m</strong> (88,712 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,9 +93,9 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>15 hrs 7 mins</td>
+<td>15 hrs 5 mins</td>
 <td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>70.3%</td>
+<td>69.5%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -105,9 +105,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>48 mins</td>
+<td>47 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>3.6%</td>
 </tr> 
  <tr>
 <td>JSON</td>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>14 hrs 34 mins</td>
-<td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>67.8%</td>
+<td>14 hrs 25 mins</td>
+<td>████████████████▒▒▒▒▒▒▒▒▒</td>
+<td>66.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>6 hrs 20 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.5%</td>
+<td>29.2%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>37 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.9%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.4%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>16 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.2%</td>
 </tr> 
  <tr>
 <td>PyCharm</td>
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>21 hrs 30 mins</td>
+<td>21 hrs 43 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -201,7 +201,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>21 hrs 30 mins</td>
+<td>21 hrs 43 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -272,14 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why is every gender equality officer female?</strong></p>
-<p><em>» Because it's cheaper.</em></p>
+<p><strong>Why did the programmer go broke?</strong></p>
+<p><em>» He used up all his cache</em></p>
 <hr>
-<p><strong>How did Darth Vader know what Luke was getting for Christmas?</strong></p>
-<p><em>» He felt his presents.</em></p>
+<p><strong>Want to hear a chimney joke?</strong></p>
+<p><em>» Got stacks of em! First one's on the house</em></p>
 <hr>
-<p><strong>What do you call crystal clear urine?</strong></p>
-<p><em>» 1080p.</em></p>
+<p><strong>Why did the man put his money in the freezer?</strong></p>
+<p><em>» He wanted cold hard cash!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -288,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 You can`t kill yourself by holding your breath.  </p>
+<p>💡 Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).</p>
 <hr>
-<p>💡 The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
+<p>💡 There are 1,575 steps from the ground floor to the top of the Empire State building.</p>
 <hr>
-<p>💡 A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.</p>
+<p>💡 The shortest British monarch was Charles I, who was 4 feet 9 inches.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -302,15 +302,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"I find that the harder I work, the more luck I seem to have."</em> - Thomas Jefferson</p>
+  <p><em>"We are still masters of our fate. We are still captains of our souls."</em> - Winston Churchill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better."</em> - Jim Rohn</p>
+  <p><em>"Defeat is not bitter unless you swallow it."</em> - Joe Clark</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I don't want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well."</em> - Diane Ackerman</p>
+  <p><em>"Only put off until tomorrow what you are willing to die having left undone."</em> - Pablo Picasso</p>
 </blockquote>
 </details>
 <p>
@@ -324,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>May 13, 2026</td>
-<td> 04:08 AM IST</td>
+<td>Thursday</td>
+<td>May 14, 2026</td>
+<td> 04:11 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>May 14, 2026</td>
-<td>~04:05 AM IST</td>
+<td>Friday</td>
+<td>May 15, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
