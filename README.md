@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/43bb5e3e93ecec95f940735be75e99ab5e4b5cccf1deec96a4da8802d3c58d9d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336353525323068727325323033382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C655%20hrs%2038%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9bad360f60307f923ccc1e5b44cb7c1b2e5ec006207a5f07ba54de563c6c5e6a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336363225323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C662%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,684+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,230h 0m</strong> (88,931 Streams)</p>
+<p>🎧 Spotify: <strong>5,234h 46m</strong> (89,008 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>14 hrs 36 mins</td>
-<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>62.7%</td>
+<td>14 hrs 39 mins</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>1 hr 51 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>4 hrs 58 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>1 hr 23 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.0%</td>
+<td>4 hrs 30 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.0%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.4%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>JSON</td>
-<td>41 mins</td>
+<td>42 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>2.3%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>34 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.9%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
-</tr> 
- <tr>
-<td>YAML</td>
-<td>34 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>1.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>13 hrs 41 mins</td>
-<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.7%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>6 hrs 41 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.7%</td>
+<td>13 hrs 46 mins</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.8%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>2 hrs 38 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>8 hrs 53 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.5%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>7 hrs 8 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.7%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.3%</td>
+<td>1.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>23 hrs 18 mins</td>
+<td>30 hrs 5 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>23 hrs 18 mins</td>
+<td>30 hrs 5 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,15 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?</strong></p>
-<p><em>» Because there’s a Shortstop in between!</em></p>
+<p><strong>What do you call a group of disorganized cats?</strong></p>
+<p><em>» A cat-tastrophe.</em></p>
 <hr>
-<p>Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.</p>
+<p><strong>Did you hear the one about the guy with the broken hearing aid?</strong></p>
+<p><em>» Neither did he.</em></p>
 <hr>
-<p><strong>What did the Buffalo say to his little boy when he dropped him off at school?</strong></p>
-<p><em>» Bison.</em></p>
+<p><strong>How do hens stay fit?</strong></p>
+<p><em>» They always egg-cercise!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Greenland is the largest island in the world.</p>
+<p>💡 The male seahorse carries the eggs until they hatch instead of the female.</p>
 <hr>
-<p>💡 Shakespeare spelled his OWN name several different ways.</p>
+<p>💡 Czechs are the biggest consumers of beer per male in the world.</p>
 <hr>
-<p>💡 Months that begin on a Sunday will always have a "Friday the 13th."</p>
+<p>💡 An ostrich’s eye is bigger than its brain.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -297,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter."</em> - Francis Chan</p>
+  <p><em>"If you love what you do and are willing to do what it takes, it's within your reach."</em> - Steve Wozniak</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend."</em> - Albert Camus</p>
+  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success is not final, failure is not fatal: it is the courage to continue that counts."</em> - Winston Churchill</p>
+  <p><em>"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."</em> - Wayne Dyer</p>
 </blockquote>
 </details>
 <p>
@@ -319,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>May 16, 2026</td>
-<td> 03:44 AM IST</td>
+<td>Sunday</td>
+<td>May 17, 2026</td>
+<td> 03:38 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>May 17, 2026</td>
-<td>~03:40 AM IST</td>
+<td>Monday</td>
+<td>May 18, 2026</td>
+<td>~03:35 AM IST</td>
 </tr>
 </tbody>
 </table>
