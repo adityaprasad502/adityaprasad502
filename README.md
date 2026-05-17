@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9bad360f60307f923ccc1e5b44cb7c1b2e5ec006207a5f07ba54de563c6c5e6a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336363225323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C662%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,684+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,686+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>75.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,234h 46m</strong> (89,008 Streams)</p>
+<p>🎧 Spotify: <strong>5,239h 47m</strong> (89,097 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>11 commits</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.6%</td>
+<td>28.9%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>8 commits</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.2%</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>1 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>3 commits</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.9%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>16 commits</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.4%</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.1%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>36 commits in May 2026</b></td>
+<td colspan="2"><b>38 commits in May 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,25 +93,25 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>14 hrs 39 mins</td>
+<td>14 hrs 50 mins</td>
 <td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.7%</td>
+<td>48.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>4 hrs 58 mins</td>
+<td>4 hrs 59 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.5%</td>
+<td>16.2%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>4 hrs 30 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.0%</td>
+<td>4 hrs 53 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.9%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>46 mins</td>
+<td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.6%</td>
 </tr> 
@@ -122,14 +122,14 @@ fun main() {
 <td>2.3%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>34 mins</td>
+<td>Text</td>
+<td>37 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>2.0%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>34 mins</td>
+<td>Docker</td>
+<td>35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.9%</td>
 </tr>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>13 hrs 46 mins</td>
+<td>14 hrs 3 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>45.8%</td>
+<td>45.7%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>8 hrs 53 mins</td>
+<td>9 hrs 17 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.5%</td>
+<td>30.2%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>7 hrs 8 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.7%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.2%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>30 hrs 5 mins</td>
+<td>30 hrs 46 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>30 hrs 5 mins</td>
+<td>30 hrs 46 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -211,9 +211,9 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>580.7 KiB</td>
+<td>581.5 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.8%</td>
+<td>30.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a group of disorganized cats?</strong></p>
-<p><em>» A cat-tastrophe.</em></p>
+<p><strong>Life's like my dick.</strong></p>
+<p><em>» The more children you have, the harder it gets.</em></p>
 <hr>
-<p><strong>Did you hear the one about the guy with the broken hearing aid?</strong></p>
-<p><em>» Neither did he.</em></p>
+<p><strong>What's the best thing about Switzerland?</strong></p>
+<p><em>» I don't know, but the flag is a big plus.</em></p>
 <hr>
-<p><strong>How do hens stay fit?</strong></p>
-<p><em>» They always egg-cercise!</em></p>
+<p><strong>A grocery store cashier asked if I would like my milk in a bag.</strong></p>
+<p><em>» I told her 'No, thanks. The carton works fine.'</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The male seahorse carries the eggs until they hatch instead of the female.</p>
+<p>💡 A jellyfish is 95% water.</p>
 <hr>
-<p>💡 Czechs are the biggest consumers of beer per male in the world.</p>
+<p>💡 The average lifespan of an eyelash is five months.</p>
 <hr>
-<p>💡 An ostrich’s eye is bigger than its brain.</p>
+<p>💡 Average number of days a West German goes without washing his underwear: 7</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you love what you do and are willing to do what it takes, it's within your reach."</em> - Steve Wozniak</p>
+  <p><em>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</em> - Ayn Rand</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
+  <p><em>"A real entrepreneur is somebody who has no safety net underneath them."</em> - Henry Kravis</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."</em> - Wayne Dyer</p>
+  <p><em>"The question isn’t who is going to let me; it’s who is going to stop me."</em> - Ayn Rand</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 17, 2026</td>
-<td> 03:38 AM IST</td>
+<td>Monday</td>
+<td>May 18, 2026</td>
+<td> 03:41 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 18, 2026</td>
-<td>~03:35 AM IST</td>
+<td>Tuesday</td>
+<td>May 19, 2026</td>
+<td>~03:40 AM IST</td>
 </tr>
 </tbody>
 </table>
