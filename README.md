@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/15ba7cb943f56bf3830b8d09662bd31640a84c7124949b72a691cbc4c6d9a466/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336363525323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C665%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,686+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,699+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.0 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
-<p>🏅 StackOverflow: <strong>461</strong> Rep (0G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,239h 47m</strong> (89,097 Streams)</p>
+<p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
+<p>🎧 Spotify: <strong>5,242h 59m</strong> (89,153 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,34 +52,34 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
 <td>11 commits</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.9%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.6%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>8 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.7%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>3 commits</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.9%</td>
+<td>6 commits</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>16 commits</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.1%</td>
+<td>26 commits</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>38 commits in May 2026</b></td>
+<td colspan="2"><b>51 commits in May 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -211,15 +211,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>581.5 KiB</td>
+<td>586.9 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.9%</td>
+<td>31.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>578.4 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.7%</td>
+<td>30.6%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -229,7 +229,7 @@ fun main() {
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>179.3 KiB</td>
+<td>179.9 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>9.5%</td>
 </tr> 
@@ -241,13 +241,13 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>101.8 KiB</td>
+<td>103.8 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.4%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>62.2 KiB</td>
+<td>62.6 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>3.3%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Life's like my dick.</strong></p>
-<p><em>» The more children you have, the harder it gets.</em></p>
+<p><strong>How did the programmer die in the shower?</strong></p>
+<p><em>» He read the shampoo bottle instructions: Lather. Rinse. Repeat.</em></p>
 <hr>
-<p><strong>What's the best thing about Switzerland?</strong></p>
-<p><em>» I don't know, but the flag is a big plus.</em></p>
+<p><strong>Did you hear that David lost his ID in prague?</strong></p>
+<p><em>» Now we just have to call him Dav.</em></p>
 <hr>
-<p><strong>A grocery store cashier asked if I would like my milk in a bag.</strong></p>
-<p><em>» I told her 'No, thanks. The carton works fine.'</em></p>
+<p><strong>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?</strong></p>
+<p><em>» European</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A jellyfish is 95% water.</p>
+<p>💡 There are 1,792 steps in the Eiffel Tower</p>
 <hr>
-<p>💡 The average lifespan of an eyelash is five months.</p>
+<p>💡 "Dreamt" is the only English word that ends in the letters "mt." </p>
 <hr>
-<p>💡 Average number of days a West German goes without washing his underwear: 7</p>
+<p>💡 Right-handed people live, on average; nine years longer than left handed people.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</em> - Ayn Rand</p>
+  <p><em>"There is no such thing as fairness, and dwelling on it creates despair."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A real entrepreneur is somebody who has no safety net underneath them."</em> - Henry Kravis</p>
+  <p><em>"There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed."</em> - Ray Goforth</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The question isn’t who is going to let me; it’s who is going to stop me."</em> - Ayn Rand</p>
+  <p><em>"Strong lives are motivated by dynamic purposes."</em> - Kenneth Hildebrand</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 18, 2026</td>
-<td> 03:41 AM IST</td>
+<td>Tuesday</td>
+<td>May 19, 2026</td>
+<td> 03:46 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 19, 2026</td>
-<td>~03:40 AM IST</td>
+<td>Wednesday</td>
+<td>May 20, 2026</td>
+<td>~03:45 AM IST</td>
 </tr>
 </tbody>
 </table>
