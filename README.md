@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,248h 50m</strong> (89,255 Streams)</p>
+<p>🎧 Spotify: <strong>5,254h 51m</strong> (89,357 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,21 +93,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>14 hrs 15 mins</td>
+<td>14 hrs 2 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.3%</td>
+<td>43.9%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>6 hrs 18 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.6%</td>
+<td>19.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>5 hrs 39 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.6%</td>
+<td>17.7%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>13 hrs 25 mins</td>
+<td>13 hrs 12 mins</td>
 <td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.7%</td>
+<td>41.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>11 hrs 8 mins</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.6%</td>
+<td>34.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>7 hrs 20 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.8%</td>
+<td>22.9%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>32 hrs 12 mins</td>
+<td>31 hrs 59 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>32 hrs 12 mins</td>
+<td>31 hrs 59 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Did you hear about the hungry clock?</strong></p>
-<p><em>» It went back four seconds.</em></p>
+<p><strong>What is the least spoken language in the world?</strong></p>
+<p><em>» Sign language.</em></p>
 <hr>
-<p><strong>What’s Forest Gump’s Facebook password?</strong></p>
-<p><em>» 1forest1</em></p>
+<p><strong>What was a more important invention than the first telephone?</strong></p>
+<p><em>» The second one.</em></p>
 <hr>
-<p><strong>Why didn’t the orange win the race?</strong></p>
-<p><em>» It ran out of juice.</em></p>
+<p><strong>Tokyo Ghoul - You KEN run</strong></p>
+<p><em>» But you can't HIDE</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 "Dreamt" is the only English word that ends in the letters "mt."</p>
+<p>💡 Insects outnumber humans 100,000,000 to one.</p>
 <hr>
-<p>💡 The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.</p>
+<p>💡 The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
 <hr>
-<p>💡 The average American/Canadian will eat about 11.9 pounds of cereal per year!</p>
+<p>💡 Humans use a total of 72 different muscles in speech.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"You can't please everyone, and you can't make everyone like you."</em> - Katie Couric</p>
+  <p><em>"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter."</em> - Francis Chan</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It all starts and ends in the mind. The most crucial skill is how you think."</em> - Zat Rana</p>
+  <p><em>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor...Explore. Dream. Discover."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
+  <p><em>"Just when the caterpillar thought the world was ending, he turned into a butterfly."</em> - Proverb</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>May 20, 2026</td>
-<td> 04:11 AM IST</td>
+<td>Thursday</td>
+<td>May 21, 2026</td>
+<td> 04:16 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>May 21, 2026</td>
-<td>~04:10 AM IST</td>
+<td>Friday</td>
+<td>May 22, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
