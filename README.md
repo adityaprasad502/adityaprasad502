@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2812faf70007a30e6b1f279a78e0edbeac1c332c46fa07c9844b9446f3bc220c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363638253230687273253230332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C668%20hrs%203%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,699+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,254h 51m</strong> (89,357 Streams)</p>
+<p>🎧 Spotify: <strong>5,259h 59m</strong> (89,451 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Python</td>
-<td>14 hrs 2 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.9%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>6 hrs 18 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.7%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>5 hrs 39 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.7%</td>
+<td>13 hrs 50 mins</td>
+<td>██████████████████▒▒▒▒▒▒▒</td>
+<td>75.1%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>47 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>42 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.2%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.3%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>3.2%</td>
+</tr> 
+ <tr>
+<td>YAML</td>
+<td>34 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.1%</td>
+</tr> 
+ <tr>
+<td>Bash</td>
+<td>34 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.1%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>28 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>34 mins</td>
+<td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>VS Code</td>
-<td>13 hrs 12 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.3%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>11 hrs 8 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.8%</td>
+<td>12 hrs 18 mins</td>
+<td>████████████████▒▒▒▒▒▒▒▒▒</td>
+<td>66.8%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>7 hrs 20 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.9%</td>
+<td>5 hrs 49 mins</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.6%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>1.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>31 hrs 59 mins</td>
+<td>18 hrs 25 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>31 hrs 59 mins</td>
+<td>18 hrs 25 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the least spoken language in the world?</strong></p>
-<p><em>» Sign language.</em></p>
+<p><strong>What does a woman's pussy and a chainsaw have in common?</strong></p>
+<p><em>» Miss by a few inches and you're in deep shit.</em></p>
 <hr>
-<p><strong>What was a more important invention than the first telephone?</strong></p>
-<p><em>» The second one.</em></p>
+<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
+<p><em>» Inu-Washa</em></p>
 <hr>
-<p><strong>Tokyo Ghoul - You KEN run</strong></p>
-<p><em>» But you can't HIDE</em></p>
+<p><strong>Why does Superman get invited to dinners?</strong></p>
+<p><em>» Because he is a Supperhero.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Insects outnumber humans 100,000,000 to one.</p>
+<p>💡 Q is the only letter in the alphabet that does not appear in the name of any of the United States!</p>
 <hr>
-<p>💡 The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
+<p>💡 In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark</p>
 <hr>
-<p>💡 Humans use a total of 72 different muscles in speech.</p>
+<p>💡 The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter."</em> - Francis Chan</p>
+  <p><em>"To me, business isn't about wearing suits or pleasing stockholders. It's about being true to yourself, your ideas and focusing on the essentials."</em> - Richard Branson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor...Explore. Dream. Discover."</em> - Mark Twain</p>
+  <p><em>"A dream doesn't become reality through magic; it takes sweat, determination, and hard work."</em> - Colin Powell</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Just when the caterpillar thought the world was ending, he turned into a butterfly."</em> - Proverb</p>
+  <p><em>"To know oneself, one should assert oneself."</em> - Albert Camus</p>
 </blockquote>
 </details>
 <p>
@@ -318,14 +312,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>May 21, 2026</td>
-<td> 04:16 AM IST</td>
+<td>Friday</td>
+<td>May 22, 2026</td>
+<td> 04:15 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>May 22, 2026</td>
+<td>Saturday</td>
+<td>May 23, 2026</td>
 <td>~04:15 AM IST</td>
 </tr>
 </tbody>
