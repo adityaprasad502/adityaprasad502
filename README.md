@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7d8640c23029d6ec6de0d49c7ca5819b61900be5dbe8775ff634af979deebbae/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363638253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C668%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/067b9ec6bedcb26edc404628cd5b8c73d798e7db083c8077ce7135840a07bcc5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336363925323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C669%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,712+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,267h 14m</strong> (89,575 Streams)</p>
+<p>🎧 Spotify: <strong>5,273h 52m</strong> (89,682 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>11 commits</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.2%</td>
+<td>16 commits</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>8 commits</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>16 commits</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>6 commits</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.4%</td>
+<td>7.5%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>39 commits</td>
-<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.9%</td>
+<td>42 commits</td>
+<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.5%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>64 commits in May 2026</b></td>
+<td colspan="2"><b>80 commits in May 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -94,32 +94,32 @@ fun main() {
  <tbody><tr>
 <td>Python</td>
 <td>14 hrs 3 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.8%</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>6 hrs 20 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.2%</td>
+<td>7 hrs 57 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.1%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>5 hrs 39 mins</td>
+<td>5 hrs 40 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.0%</td>
+<td>17.2%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.4%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>35 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>1.8%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -131,7 +131,7 @@ fun main() {
 <td>YAML</td>
 <td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>1.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -144,22 +144,22 @@ fun main() {
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>VS Code</td>
-<td>12 hrs 44 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.6%</td>
+<td>Android Studio</td>
+<td>12 hrs 51 mins</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.8%</td>
 </tr> 
  <tr>
-<td>Android Studio</td>
-<td>11 hrs 10 mins</td>
+<td>VS Code</td>
+<td>12 hrs 45 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.6%</td>
+<td>38.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>7 hrs 10 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.9%</td>
+<td>21.7%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>31 hrs 23 mins</td>
+<td>33 hrs 5 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>31 hrs 23 mins</td>
+<td>33 hrs 5 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -211,45 +211,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>643.1 KiB</td>
+<td>695.7 KiB</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.0%</td>
+<td>34.8%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>578.4 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.7%</td>
+<td>28.9%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.6%</td>
+<td>12.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>179.9 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.2%</td>
+<td>9.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.4%</td>
+<td>6.2%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>103.8 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>62.6 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.2%</td>
+<td>3.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Did you hear about the new restaurant on the moon?</strong></p>
-<p><em>» The food is great, but there’s just no atmosphere.</em></p>
+<p><strong>Why do bees hum?</strong></p>
+<p><em>» Because they don't know the words.</em></p>
 <hr>
-<p><strong>Hey, wanna hear a joke?</strong></p>
-<p><em>» Parsing HTML with regex.</em></p>
+<p><strong>How many tickles does it take to tickle an octopus?</strong></p>
+<p><em>» Ten-tickles!</em></p>
 <hr>
-<p><strong>What kind of music do planets listen to?</strong></p>
-<p><em>» Nep-tunes.</em></p>
+<p><strong>Why did the golfer wear two pairs of pants?</strong></p>
+<p><em>» In case he got a hole in one.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The word "set" has more definitions than any other word in the English language.</p>
+<p>💡 The average American looks at eight houses before buying one.</p>
 <hr>
-<p>💡 A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.</p>
+<p>💡 In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.</p>
 <hr>
-<p>💡 There is a town in Newfoundland, Canada called Dildo.</p>
+<p>💡 John Adams, Thomas Jefferson, and James Monroe died on July 4th.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"As we look ahead into the next century, leaders will be those who empower others."</em> - Bill Gates</p>
+  <p><em>"Nothing great was ever achieved without enthusiasm."</em> - Ralph Waldo Emerson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is short, and it is here to be lived."</em> - Kate Winslet</p>
+  <p><em>"The number one reason people fail in life is because they listen to their friends, family, and neighbors."</em> - Napoleon Hill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The purpose of life isn’t to do or to accomplish. It’s to merely experience."</em> - Zat Rana</p>
+  <p><em>"Sometimes thinking too much can destroy your momentum."</em> - Tom Watson</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>May 23, 2026</td>
-<td> 03:48 AM IST</td>
+<td>Sunday</td>
+<td>May 24, 2026</td>
+<td> 03:41 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>May 24, 2026</td>
-<td>~03:45 AM IST</td>
+<td>Monday</td>
+<td>May 25, 2026</td>
+<td>~03:40 AM IST</td>
 </tr>
 </tbody>
 </table>
