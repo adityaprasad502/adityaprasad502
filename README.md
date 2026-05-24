@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/067b9ec6bedcb26edc404628cd5b8c73d798e7db083c8077ce7135840a07bcc5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336363925323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C669%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e7826cd6083ce27a51e2e33d446415fb2b5824f5090d2ea970c502e8cbea8aa9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363734253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,273h 52m</strong> (89,682 Streams)</p>
+<p>🎧 Spotify: <strong>5,277h 14m</strong> (89,741 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -92,28 +92,28 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Python</td>
-<td>14 hrs 3 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.5%</td>
+<td>Kotlin</td>
+<td>10 hrs 1 min</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.0%</td>
 </tr> 
  <tr>
-<td>Kotlin</td>
-<td>7 hrs 57 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.1%</td>
+<td>Python</td>
+<td>9 hrs 41 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>5 hrs 40 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.2%</td>
+<td>7 hrs 41 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.4%</td>
+<td>2.5%</td>
 </tr> 
  <tr>
 <td>Docker</td>
@@ -122,16 +122,16 @@ fun main() {
 <td>1.8%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>34 mins</td>
+<td>Text</td>
+<td>32 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>1.6%</td>
 </tr> 
  <tr>
-<td>YAML</td>
-<td>34 mins</td>
+<td>Bash</td>
+<td>29 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>1.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>12 hrs 51 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.8%</td>
+<td>16 hrs 19 mins</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.5%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>12 hrs 45 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.6%</td>
+<td>8 hrs 49 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>7 hrs 10 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.7%</td>
-</tr> 
- <tr>
-<td>Unknown Editor</td>
-<td>17 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>22.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>33 hrs 5 mins</td>
+<td>32 hrs 19 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>33 hrs 5 mins</td>
+<td>32 hrs 19 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why do bees hum?</strong></p>
-<p><em>» Because they don't know the words.</em></p>
+<p><strong>What’s E.T. short for?</strong></p>
+<p><em>» He’s only got little legs.</em></p>
 <hr>
-<p><strong>How many tickles does it take to tickle an octopus?</strong></p>
-<p><em>» Ten-tickles!</em></p>
+<p><strong>Why did the picture go to jail?</strong></p>
+<p><em>» Because it was framed.</em></p>
 <hr>
-<p><strong>Why did the golfer wear two pairs of pants?</strong></p>
-<p><em>» In case he got a hole in one.</em></p>
+<p><strong>Hey, dad, did you get a haircut?</strong></p>
+<p><em>» No, I got them all cut.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The average American looks at eight houses before buying one.</p>
+<p>💡 The average person`s left hand does 56% of the typing.</p>
 <hr>
-<p>💡 In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.</p>
+<p>💡 Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.</p>
 <hr>
-<p>💡 John Adams, Thomas Jefferson, and James Monroe died on July 4th.</p>
+<p>💡 Poland is the "stolen car capital of the world".</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Nothing great was ever achieved without enthusiasm."</em> - Ralph Waldo Emerson</p>
+  <p><em>"It took me a long time not to judge myself through someone else's eyes"</em> - Sally Field</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The number one reason people fail in life is because they listen to their friends, family, and neighbors."</em> - Napoleon Hill</p>
+  <p><em>"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like."</em> - Mike Gafka</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Sometimes thinking too much can destroy your momentum."</em> - Tom Watson</p>
+  <p><em>"Strong lives are motivated by dynamic purposes."</em> - Kenneth Hildebrand</p>
 </blockquote>
 </details>
 <p>
@@ -318,14 +312,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 24, 2026</td>
-<td> 03:41 AM IST</td>
+<td>Monday</td>
+<td>May 25, 2026</td>
+<td> 03:44 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>May 25, 2026</td>
+<td>Tuesday</td>
+<td>May 26, 2026</td>
 <td>~03:40 AM IST</td>
 </tr>
 </tbody>
