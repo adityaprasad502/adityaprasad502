@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e7826cd6083ce27a51e2e33d446415fb2b5824f5090d2ea970c502e8cbea8aa9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363734253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ee7ff90fa4f68dff6d0a1e0ee97d99d14cf5a4dec2f2e568d8c8c1b61c7f3958/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,277h 14m</strong> (89,741 Streams)</p>
+<p>🎧 Spotify: <strong>5,280h 54m</strong> (89,804 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,13 +93,13 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>10 hrs 1 min</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.0%</td>
+<td>10 hrs 7 mins</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>31.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>9 hrs 41 mins</td>
+<td>9 hrs 38 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>30.0%</td>
 </tr> 
@@ -107,7 +107,7 @@ fun main() {
 <td>XML</td>
 <td>7 hrs 41 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.8%</td>
+<td>23.9%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
@@ -117,15 +117,15 @@ fun main() {
 </tr> 
  <tr>
 <td>Docker</td>
-<td>35 mins</td>
+<td>33 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>1.7%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>32 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.6%</td>
+<td>1.7%</td>
 </tr> 
  <tr>
 <td>Bash</td>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>16 hrs 19 mins</td>
+<td>16 hrs 24 mins</td>
 <td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>50.5%</td>
+<td>51.0%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 49 mins</td>
+<td>8 hrs 33 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.3%</td>
+<td>26.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>7 hrs 10 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.2%</td>
+<td>22.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>32 hrs 19 mins</td>
+<td>32 hrs 9 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>32 hrs 19 mins</td>
+<td>32 hrs 9 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,14 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What’s E.T. short for?</strong></p>
-<p><em>» He’s only got little legs.</em></p>
+<p>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</p>
 <hr>
-<p><strong>Why did the picture go to jail?</strong></p>
-<p><em>» Because it was framed.</em></p>
+<p>A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."</p>
 <hr>
-<p><strong>Hey, dad, did you get a haircut?</strong></p>
-<p><em>» No, I got them all cut.</em></p>
+<p><strong>A ham sandwhich walks into a bar and orders a beer. The bartender says...</strong></p>
+<p><em>» I'm sorry, we don't serve food here</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The average person`s left hand does 56% of the typing.</p>
+<p>💡 Reindeer like to eat bananas.</p>
 <hr>
-<p>💡 Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.</p>
+<p>💡 The mother of Michael Nesmith of "The Monkees" invented whiteout.</p>
 <hr>
-<p>💡 Poland is the "stolen car capital of the world".</p>
+<p>💡 There are 269 steps to the top of the Leaning Tower of Pisa</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It took me a long time not to judge myself through someone else's eyes"</em> - Sally Field</p>
+  <p><em>"The great thing in this world is not so much where you stand, as in what direction you are moving."</em> - Oliver Wendell Holmes</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like."</em> - Mike Gafka</p>
+  <p><em>"You need to overcome the tug of people against you as you reach for high goals."</em> - George S. Patton</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Strong lives are motivated by dynamic purposes."</em> - Kenneth Hildebrand</p>
+  <p><em>"We become what we think about most of the time, and that's the strangest secret."</em> - Earl Nightingale</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +312,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>May 25, 2026</td>
-<td> 03:44 AM IST</td>
+<td>Tuesday</td>
+<td>May 26, 2026</td>
+<td> 04:01 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>May 26, 2026</td>
-<td>~03:40 AM IST</td>
+<td>Wednesday</td>
+<td>May 27, 2026</td>
+<td>~04:00 AM IST</td>
 </tr>
 </tbody>
 </table>
