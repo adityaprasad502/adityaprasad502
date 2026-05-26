@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,280h 54m</strong> (89,804 Streams)</p>
+<p>🎧 Spotify: <strong>5,288h 8m</strong> (89,924 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,41 +95,41 @@ fun main() {
 <td>Kotlin</td>
 <td>10 hrs 7 mins</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.5%</td>
+<td>32.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>9 hrs 38 mins</td>
+<td>8 hrs 40 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.0%</td>
+<td>27.9%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>7 hrs 41 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.9%</td>
+<td>24.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>Docker</td>
 <td>33 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>1.8%</td>
+</tr> 
+ <tr>
+<td>YAML</td>
+<td>29 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.6%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>32 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
-</tr> 
- <tr>
-<td>Bash</td>
-<td>29 mins</td>
+<td>27 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.5%</td>
 </tr>
@@ -146,20 +146,20 @@ fun main() {
  <tbody><tr>
 <td>Android Studio</td>
 <td>16 hrs 24 mins</td>
-<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.0%</td>
+<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.9%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>8 hrs 33 mins</td>
+<td>7 hrs 57 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.6%</td>
+<td>25.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>7 hrs 10 mins</td>
+<td>6 hrs 41 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.3%</td>
+<td>21.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>32 hrs 9 mins</td>
+<td>31 hrs 3 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>32 hrs 9 mins</td>
+<td>31 hrs 3 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,14 +260,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</p>
+<p>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</p>
 <hr>
-<p>A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."</p>
+<p><strong>What did one wall say to the other wall?</strong></p>
+<p><em>» I'll meet you at the corner!</em></p>
 <hr>
-<p><strong>A ham sandwhich walks into a bar and orders a beer. The bartender says...</strong></p>
-<p><em>» I'm sorry, we don't serve food here</em></p>
+<p><strong>Why was the river rich?</strong></p>
+<p><em>» Because it had two banks.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +275,11 @@ The guy says "In that case, better make it a double."</p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Reindeer like to eat bananas.</p>
+<p>💡 Czechs are the biggest consumers of beer per male in the world.</p>
 <hr>
-<p>💡 The mother of Michael Nesmith of "The Monkees" invented whiteout.</p>
+<p>💡 Americans are responsible for about 1/5 of the world’s garbage annually.</p>
 <hr>
-<p>💡 There are 269 steps to the top of the Leaning Tower of Pisa</p>
+<p>💡 60% of electrocutions occur while talking on the telephone during a thunderstorm.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +289,15 @@ The guy says "In that case, better make it a double."</p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The great thing in this world is not so much where you stand, as in what direction you are moving."</em> - Oliver Wendell Holmes</p>
+  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"You need to overcome the tug of people against you as you reach for high goals."</em> - George S. Patton</p>
+  <p><em>"Don’t be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We become what we think about most of the time, and that's the strangest secret."</em> - Earl Nightingale</p>
+  <p><em>"There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul."</em> - Ella Wheeler Wilcox</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +311,15 @@ The guy says "In that case, better make it a double."</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>May 26, 2026</td>
-<td> 04:01 AM IST</td>
+<td>Wednesday</td>
+<td>May 27, 2026</td>
+<td> 04:12 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>May 27, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Thursday</td>
+<td>May 28, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
