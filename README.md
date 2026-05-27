@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,288h 8m</strong> (89,924 Streams)</p>
+<p>🎧 Spotify: <strong>5,293h 28m</strong> (90,007 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -94,44 +94,44 @@ fun main() {
  <tbody><tr>
 <td>Kotlin</td>
 <td>10 hrs 7 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.6%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>8 hrs 40 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.9%</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>7 hrs 41 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.8%</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.4%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>2 hrs 37 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.1%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
-</tr> 
- <tr>
-<td>Docker</td>
-<td>33 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>29 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.6%</td>
+<td>2.0%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>27 mins</td>
+<td>26 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
+<td>1.9%</td>
+</tr> 
+ <tr>
+<td>Docker</td>
+<td>25 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -146,20 +146,20 @@ fun main() {
  <tbody><tr>
 <td>Android Studio</td>
 <td>16 hrs 24 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.9%</td>
+<td>█████████████████▒▒▒▒▒▒▒▒</td>
+<td>69.0%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>7 hrs 57 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.6%</td>
+<td>4 hrs 45 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>6 hrs 41 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.5%</td>
+<td>2 hrs 35 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>31 hrs 3 mins</td>
+<td>23 hrs 46 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>31 hrs 3 mins</td>
+<td>23 hrs 46 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,13 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</p>
+<p><strong>Who hides in the bakery at Christmas?</strong></p>
+<p><em>» A mince spy!</em></p>
 <hr>
-<p><strong>What did one wall say to the other wall?</strong></p>
-<p><em>» I'll meet you at the corner!</em></p>
+<p><strong>What do you call a cow on a trampoline?</strong></p>
+<p><em>» A milk shake!</em></p>
 <hr>
-<p><strong>Why was the river rich?</strong></p>
-<p><em>» Because it had two banks.</em></p>
+<p><strong>What do you call a fashionable lawn statue with an excellent sense of rhythmn?</strong></p>
+<p><em>» A metro-gnome</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -275,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Czechs are the biggest consumers of beer per male in the world.</p>
+<p>💡 Grapes explode when you put them in the microwave. Go on, try it then</p>
 <hr>
-<p>💡 Americans are responsible for about 1/5 of the world’s garbage annually.</p>
+<p>💡 Venus is the only planet that rotates clockwise.</p>
 <hr>
-<p>💡 60% of electrocutions occur while talking on the telephone during a thunderstorm.</p>
+<p>💡 American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
+  <p><em>"Speak less than you know; have more than you show."</em> - William Shakespeare</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
+  <p><em>"Someone is sitting in the shade today because someone planted a tree a long time ago."</em> - Warren Buffett</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul."</em> - Ella Wheeler Wilcox</p>
+  <p><em>"Opportunities don't happen. You create them."</em> - Chris Grosser</p>
 </blockquote>
 </details>
 <p>
@@ -311,15 +312,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>May 27, 2026</td>
-<td> 04:12 AM IST</td>
+<td>Thursday</td>
+<td>May 28, 2026</td>
+<td> 04:23 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>May 28, 2026</td>
-<td>~04:10 AM IST</td>
+<td>Friday</td>
+<td>May 29, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
