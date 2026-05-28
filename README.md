@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ee7ff90fa4f68dff6d0a1e0ee97d99d14cf5a4dec2f2e568d8c8c1b61c7f3958/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,293h 28m</strong> (90,007 Streams)</p>
+<p>🎧 Spotify: <strong>5,299h 41m</strong> (90,108 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -90,50 +90,9 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Kotlin</td>
-<td>10 hrs 7 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.6%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>7 hrs 41 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>32.4%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>2 hrs 37 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.1%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>47 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
-</tr> 
- <tr>
-<td>YAML</td>
-<td>29 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.0%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>26 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
-</tr> 
- <tr>
-<td>Docker</td>
-<td>25 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -142,26 +101,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Android Studio</td>
-<td>16 hrs 24 mins</td>
-<td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>69.0%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>4 hrs 45 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>2 hrs 35 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.9%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -170,14 +112,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Windows</td>
-<td>23 hrs 46 mins</td>
-<td>█████████████████████████</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -186,14 +123,9 @@ fun main() {
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Pu94X</td>
-<td>23 hrs 46 mins</td>
-<td>█████████████████████████</td>
-<td>100.0%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -260,14 +192,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Who hides in the bakery at Christmas?</strong></p>
-<p><em>» A mince spy!</em></p>
+<p><strong>Jokes about anti-vaxxer parents never get old.</strong></p>
+<p><em>» Just like their kids.</em></p>
 <hr>
-<p><strong>What do you call a cow on a trampoline?</strong></p>
-<p><em>» A milk shake!</em></p>
+<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
+<p><em>» Inu-Washa</em></p>
 <hr>
-<p><strong>What do you call a fashionable lawn statue with an excellent sense of rhythmn?</strong></p>
-<p><em>» A metro-gnome</em></p>
+<p><strong>My wife left me because I'm too insecure and paranoid.</strong></p>
+<p><em>» Oh wait, never mind. She was just getting the mail.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +208,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Grapes explode when you put them in the microwave. Go on, try it then</p>
+<p>💡 A dime has 118 ridges around the edge. A quarter has 119.</p>
 <hr>
-<p>💡 Venus is the only planet that rotates clockwise.</p>
+<p>💡 If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</p>
+<p>💡 The people of France eat more cheese than any other country in the world.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +222,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Speak less than you know; have more than you show."</em> - William Shakespeare</p>
+  <p><em>"To live a creative life, we must lose our fear of being wrong."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Someone is sitting in the shade today because someone planted a tree a long time ago."</em> - Warren Buffett</p>
+  <p><em>"I avoid looking forward or backward, and try to keep looking upward."</em> - Charlotte Bronte</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Opportunities don't happen. You create them."</em> - Chris Grosser</p>
+  <p><em>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</em> - Epictetus</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +244,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>May 28, 2026</td>
-<td> 04:23 AM IST</td>
+<td>Friday</td>
+<td>May 29, 2026</td>
+<td> 04:18 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>May 29, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Saturday</td>
+<td>May 30, 2026</td>
+<td>~04:15 AM IST</td>
 </tr>
 </tbody>
 </table>
