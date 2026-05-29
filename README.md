@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ee7ff90fa4f68dff6d0a1e0ee97d99d14cf5a4dec2f2e568d8c8c1b61c7f3958/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.4 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,299h 41m</strong> (90,108 Streams)</p>
+<p>🎧 Spotify: <strong>5,301h 33m</strong> (90,141 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -90,9 +90,50 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Kotlin</td>
+<td>10 hrs 7 mins</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>48.0%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>7 hrs 41 mins</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.4%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 4 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.1%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>39 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.1%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>21 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.7%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>17 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.4%</td>
+</tr> 
+ <tr>
+<td>YAML</td>
+<td>10 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.8%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -101,9 +142,26 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Android Studio</td>
+<td>16 hrs 24 mins</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>77.7%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>2 hrs 55 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.8%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>1 hr 46 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.4%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -112,9 +170,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Windows</td>
+<td>21 hrs 7 mins</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -123,9 +186,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Pu94X</td>
+<td>21 hrs 7 mins</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -192,14 +260,16 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Jokes about anti-vaxxer parents never get old.</strong></p>
-<p><em>» Just like their kids.</em></p>
+<p><strong>Why was the designer always cold?</strong></p>
+<p><em>» Because they always used too much ice-olation.</em></p>
 <hr>
-<p><strong>Where does Kagome Higurashi clean her clothes?</strong></p>
-<p><em>» Inu-Washa</em></p>
+<p><strong>Finally realized why my plant sits around doing nothing all day...</strong></p>
+<p><em>» He loves his pot.</em></p>
 <hr>
-<p><strong>My wife left me because I'm too insecure and paranoid.</strong></p>
-<p><em>» Oh wait, never mind. She was just getting the mail.</em></p>
+<p>"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -208,11 +278,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A dime has 118 ridges around the edge. A quarter has 119.</p>
+<p>💡 Most American car horns honk in the key of F.</p>
 <hr>
-<p>💡 If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
+<p>💡 A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.</p>
 <hr>
-<p>💡 The people of France eat more cheese than any other country in the world.</p>
+<p>💡 It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -222,15 +292,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"To live a creative life, we must lose our fear of being wrong."</em> - Anonymous</p>
+  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I avoid looking forward or backward, and try to keep looking upward."</em> - Charlotte Bronte</p>
+  <p><em>"Don’t let what you cannot do interfere with what you can do."</em> - John R. Wooden</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</em> - Epictetus</p>
+  <p><em>"Let us make our future now, and let us make our dreams tomorrow’s reality."</em> - Malala Yousafzai</p>
 </blockquote>
 </details>
 <p>
@@ -244,14 +314,14 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>May 29, 2026</td>
-<td> 04:18 AM IST</td>
+<td>Saturday</td>
+<td>May 30, 2026</td>
+<td> 04:15 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>May 30, 2026</td>
+<td>Sunday</td>
+<td>May 31, 2026</td>
 <td>~04:15 AM IST</td>
 </tr>
 </tbody>
