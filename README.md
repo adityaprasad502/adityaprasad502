@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/ee7ff90fa4f68dff6d0a1e0ee97d99d14cf5a4dec2f2e568d8c8c1b61c7f3958/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/223141791966c984ed07808a37fdbd500f25d41c5649cb294fbeebf58e7e68f2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,301h 33m</strong> (90,141 Streams)</p>
+<p>🎧 Spotify: <strong>5,305h 8m</strong> (90,198 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,31 +95,25 @@ fun main() {
 <td>Kotlin</td>
 <td>10 hrs 7 mins</td>
 <td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>48.0%</td>
+<td>49.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>7 hrs 41 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.4%</td>
+<td>37.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 4 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>39 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.1%</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>21 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>1.8%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -128,10 +122,16 @@ fun main() {
 <td>1.4%</td>
 </tr> 
  <tr>
-<td>YAML</td>
-<td>10 mins</td>
+<td>Markdown</td>
+<td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.8%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>8 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -146,20 +146,20 @@ fun main() {
  <tbody><tr>
 <td>Android Studio</td>
 <td>16 hrs 24 mins</td>
-<td>███████████████████▒▒▒▒▒▒</td>
-<td>77.7%</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>80.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 55 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.8%</td>
+<td>2 hrs 18 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.2%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 46 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.4%</td>
+<td>8.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>21 hrs 7 mins</td>
+<td>20 hrs 30 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>21 hrs 7 mins</td>
+<td>20 hrs 30 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,16 +260,16 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why was the designer always cold?</strong></p>
-<p><em>» Because they always used too much ice-olation.</em></p>
+<p>Two reasons I don't give money to homeless people.
+1) They are going to spend it all on drugs and alcohol
+2) I am going to spend it all on drugs and alcohol.</p>
 <hr>
-<p><strong>Finally realized why my plant sits around doing nothing all day...</strong></p>
-<p><em>» He loves his pot.</em></p>
+<p><strong>What do Ted Bundy and the Space Shuttle Columbia have in common?</strong></p>
+<p><em>» They both left bodies in four states.</em></p>
 <hr>
-<p>"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.</p>
+<p>"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -278,11 +278,11 @@ He never returned.</p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Most American car horns honk in the key of F.</p>
+<p>💡 Pinocchio is Italian for "pine head."</p>
 <hr>
-<p>💡 A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.</p>
+<p>💡 Canadian researchers have found that Einstein's brain was 15% wider than normal.</p>
 <hr>
-<p>💡 It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</p>
+<p>💡 The plastic things on the end of shoelaces are called aglets.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -292,15 +292,15 @@ He never returned.</p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
+  <p><em>"If you do what you always did, you will get what you always got."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t let what you cannot do interfere with what you can do."</em> - John R. Wooden</p>
+  <p><em>"We may encounter many defeats but we must not be defeated."</em> - May Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Let us make our future now, and let us make our dreams tomorrow’s reality."</em> - Malala Yousafzai</p>
+  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
 </blockquote>
 </details>
 <p>
@@ -314,15 +314,15 @@ He never returned.</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>May 30, 2026</td>
-<td> 04:15 AM IST</td>
+<td>Sunday</td>
+<td>May 31, 2026</td>
+<td> 03:46 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>May 31, 2026</td>
-<td>~04:15 AM IST</td>
+<td>Monday</td>
+<td>June 01, 2026</td>
+<td>~03:45 AM IST</td>
 </tr>
 </tbody>
 </table>
