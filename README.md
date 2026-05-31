@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/223141791966c984ed07808a37fdbd500f25d41c5649cb294fbeebf58e7e68f2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,728+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,727+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>75.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,305h 8m</strong> (90,198 Streams)</p>
+<p>🎧 Spotify: <strong>5,309h 36m</strong> (90,269 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,35 +52,7 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
- <tr>
-<td>🌞 Morning</td>
-<td>16 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
-</tr> 
- <tr>
-<td>🌆 Daytime</td>
-<td>16 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
-</tr> 
- <tr>
-<td>🌃 Evening</td>
-<td>6 commits</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
-</tr> 
- <tr>
-<td>🌙 Night</td>
-<td>42 commits</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.5%</td>
-</tr>
-<tr>
-<td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>80 commits in May 2026</b></td>
-</tr>
+<tbody><tr><th colspan="4">📅 No commits found in June 2026</th></tr>
 </tbody></table>
 </details>
 <p>
@@ -95,19 +67,19 @@ fun main() {
 <td>Kotlin</td>
 <td>10 hrs 7 mins</td>
 <td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.4%</td>
+<td>49.9%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>7 hrs 41 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.5%</td>
+<td>37.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 4 mins</td>
+<td>1 hr 1 min</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
 <td>Java</td>
@@ -119,13 +91,13 @@ fun main() {
 <td>Text</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1.5%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>9 mins</td>
+<td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
+<td>0.7%</td>
 </tr> 
  <tr>
 <td>TOML</td>
@@ -147,19 +119,19 @@ fun main() {
 <td>Android Studio</td>
 <td>16 hrs 24 mins</td>
 <td>████████████████████▒▒▒▒▒</td>
-<td>80.1%</td>
+<td>80.9%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 18 mins</td>
+<td>2 hrs 6 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.2%</td>
+<td>10.3%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 46 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.7%</td>
+<td>8.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +145,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>20 hrs 30 mins</td>
+<td>20 hrs 17 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +161,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>20 hrs 30 mins</td>
+<td>20 hrs 17 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -205,39 +177,39 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>695.7 KiB</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.8%</td>
+<td>721.8 KiB</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>578.4 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.9%</td>
+<td>28.5%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.3%</td>
+<td>12.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>179.9 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.0%</td>
+<td>8.9%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.2%</td>
+<td>6.1%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>103.8 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
 <td>HTML</td>
@@ -260,16 +232,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.</p>
+<p><strong>Why was the river rich?</strong></p>
+<p><em>» Because it had two banks.</em></p>
 <hr>
-<p><strong>What do Ted Bundy and the Space Shuttle Columbia have in common?</strong></p>
-<p><em>» They both left bodies in four states.</em></p>
+<p><strong>What’s the difference between an African elephant and an Indian elephant?</strong></p>
+<p><em>» About 5000 miles.</em></p>
 <hr>
-<p>"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."</p>
+<p><strong>What’s E.T. short for?</strong></p>
+<p><em>» He’s only got little legs.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -278,11 +248,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Pinocchio is Italian for "pine head."</p>
+<p>💡 Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </p>
 <hr>
-<p>💡 Canadian researchers have found that Einstein's brain was 15% wider than normal.</p>
+<p>💡 There is a town in Newfoundland, Canada called Dildo.</p>
 <hr>
-<p>💡 The plastic things on the end of shoelaces are called aglets.</p>
+<p>💡 Prince Charles is an avid collecter of toilet seats.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -292,15 +262,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you do what you always did, you will get what you always got."</em> - Anonymous</p>
+  <p><em>"Don’t take too much pride in your accomplishments. They’re not all yours."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We may encounter many defeats but we must not be defeated."</em> - May Angelou</p>
+  <p><em>"Success is liking yourself, liking what you do, and liking how you do it."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing"</em> - George Bernard Shaw</p>
+  <p><em>"All our dreams can come true if we have the courage to pursue them."</em> - Walt Disney</p>
 </blockquote>
 </details>
 <p>
@@ -314,14 +284,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>May 31, 2026</td>
-<td> 03:46 AM IST</td>
+<td>Monday</td>
+<td>June 01, 2026</td>
+<td> 03:47 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 01, 2026</td>
+<td>Tuesday</td>
+<td>June 02, 2026</td>
 <td>~03:45 AM IST</td>
 </tr>
 </tbody>
