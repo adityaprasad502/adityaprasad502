@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/223141791966c984ed07808a37fdbd500f25d41c5649cb294fbeebf58e7e68f2/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373425323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C674%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/971df5dd6e1f50124acf1b89d8e7fe6b81ee786119e81ab0e78cda94e245cf82/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373625323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C676%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,727+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,732+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.5 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,309h 36m</strong> (90,269 Streams)</p>
+<p>🎧 Spotify: <strong>5,313h 36m</strong> (90,333 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,7 +52,35 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in June 2026</th></tr>
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>5 commits</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>5 commits in June 2026</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -65,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>10 hrs 7 mins</td>
-<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.9%</td>
+<td>11 hrs 19 mins</td>
+<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>53.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>7 hrs 41 mins</td>
+<td>7 hrs 56 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.9%</td>
+<td>37.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 1 min</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>36 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.9%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>21 mins</td>
+<td>33 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>17 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.5%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.7%</td>
+</tr> 
+ <tr>
+<td>SQL</td>
+<td>7 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.6%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>6 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -117,21 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>16 hrs 24 mins</td>
-<td>████████████████████▒▒▒▒▒</td>
-<td>80.9%</td>
+<td>18 hrs 2 mins</td>
+<td>█████████████████████▒▒▒▒</td>
+<td>85.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 6 mins</td>
+<td>1 hr 35 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.3%</td>
+<td>7.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 46 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.8%</td>
+<td>1 hr 20 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.4%</td>
+</tr> 
+ <tr>
+<td>DataGrip</td>
+<td>8 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>20 hrs 17 mins</td>
+<td>21 hrs 7 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -161,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>20 hrs 17 mins</td>
+<td>21 hrs 7 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -177,27 +211,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>721.8 KiB</td>
+<td>735.2 KiB</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.6%</td>
+<td>36.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>578.4 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.5%</td>
+<td>28.3%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.1%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>179.9 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.9%</td>
+<td>8.8%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
@@ -232,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why was the river rich?</strong></p>
-<p><em>» Because it had two banks.</em></p>
+<p><strong>Hey, dad, did you get a haircut?</strong></p>
+<p><em>» No, I got them all cut.</em></p>
 <hr>
-<p><strong>What’s the difference between an African elephant and an Indian elephant?</strong></p>
-<p><em>» About 5000 miles.</em></p>
+<p><strong>What did the digital clock say to the grandfather clock?</strong></p>
+<p><em>» Look, no hands!</em></p>
 <hr>
-<p><strong>What’s E.T. short for?</strong></p>
-<p><em>» He’s only got little legs.</em></p>
+<p><strong>Two guys walked into a bar.</strong></p>
+<p><em>» The third guy ducked.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -248,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </p>
+<p>💡 Al Capone’s business card said he was a used furniture dealer.</p>
 <hr>
-<p>💡 There is a town in Newfoundland, Canada called Dildo.</p>
+<p>💡 The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.</p>
 <hr>
-<p>💡 Prince Charles is an avid collecter of toilet seats.</p>
+<p>💡 More than 90% of the Nicaraguan people are Roman Catholic.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -262,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Don’t take too much pride in your accomplishments. They’re not all yours."</em> - Zat Rana</p>
+  <p><em>"It’s not what you look at that matters, it’s what you see."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success is liking yourself, liking what you do, and liking how you do it."</em> - Maya Angelou</p>
+  <p><em>"For the world to put you down, it first needs you to give it permission."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"All our dreams can come true if we have the courage to pursue them."</em> - Walt Disney</p>
+  <p><em>"Setting goals is the first step in turning the invisible into visible."</em> - Tony Robbins</p>
 </blockquote>
 </details>
 <p>
@@ -284,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>June 01, 2026</td>
-<td> 03:47 AM IST</td>
+<td>Tuesday</td>
+<td>June 02, 2026</td>
+<td> 04:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>June 02, 2026</td>
-<td>~03:45 AM IST</td>
+<td>Wednesday</td>
+<td>June 03, 2026</td>
+<td>~04:40 AM IST</td>
 </tr>
 </tbody>
 </table>
