@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/971df5dd6e1f50124acf1b89d8e7fe6b81ee786119e81ab0e78cda94e245cf82/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373625323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C676%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/96b18ad6d98674404fc94a4dcfa48b69b9faf8e7a181d782883b392e711aeb7a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373725323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C677%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,732+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,313h 36m</strong> (90,333 Streams)</p>
+<p>🎧 Spotify: <strong>5,314h 41m</strong> (90,350 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,25 +93,25 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>11 hrs 19 mins</td>
+<td>12 hrs 20 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.6%</td>
+<td>54.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>7 hrs 56 mins</td>
+<td>8 hrs 29 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.6%</td>
+<td>37.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>36 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
+<td>2.7%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>33 mins</td>
+<td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.6%</td>
 </tr> 
@@ -119,7 +119,7 @@ fun main() {
 <td>TOML</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>0.6%</td>
 </tr> 
  <tr>
 <td>SQL</td>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>18 hrs 2 mins</td>
+<td>19 hrs 40 mins</td>
 <td>█████████████████████▒▒▒▒</td>
-<td>85.4%</td>
+<td>86.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>1 hr 35 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.6%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 20 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.4%</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>0.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>21 hrs 7 mins</td>
+<td>22 hrs 45 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>21 hrs 7 mins</td>
+<td>22 hrs 45 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Hey, dad, did you get a haircut?</strong></p>
-<p><em>» No, I got them all cut.</em></p>
+<p><strong>Where does Napoleon keep his armies?</strong></p>
+<p><em>» In his sleevies.</em></p>
 <hr>
-<p><strong>What did the digital clock say to the grandfather clock?</strong></p>
-<p><em>» Look, no hands!</em></p>
+<p><strong>Did you hear about the Mexican train killer?</strong></p>
+<p><em>» He had loco motives</em></p>
 <hr>
-<p><strong>Two guys walked into a bar.</strong></p>
-<p><em>» The third guy ducked.</em></p>
+<p><strong>What kind of car did Whitney Houston drive?</strong></p>
+<p><em>» A Hyundaiiiiiiiiiiii</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Al Capone’s business card said he was a used furniture dealer.</p>
+<p>💡 The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.</p>
 <hr>
-<p>💡 The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.</p>
+<p>💡 One in seven workers in Boston, Massachusetts walks to work.</p>
 <hr>
-<p>💡 More than 90% of the Nicaraguan people are Roman Catholic.</p>
+<p>💡 The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It’s not what you look at that matters, it’s what you see."</em> - Anonymous</p>
+  <p><em>"Do not let what you cannot do interfere with what you can do."</em> - John Wooden</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"For the world to put you down, it first needs you to give it permission."</em> - Zat Rana</p>
+  <p><em>"Whenever you find yourself on the side of the majority, it is time to pause and reflect."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Setting goals is the first step in turning the invisible into visible."</em> - Tony Robbins</p>
+  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
 </blockquote>
 </details>
 <p>
@@ -318,14 +318,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 02, 2026</td>
+<td>Wednesday</td>
+<td>June 03, 2026</td>
 <td> 04:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 03, 2026</td>
+<td>Thursday</td>
+<td>June 04, 2026</td>
 <td>~04:40 AM IST</td>
 </tr>
 </tbody>
