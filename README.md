@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,333h 16m</strong> (90,646 Streams)</p>
+<p>🎧 Spotify: <strong>5,338h 28m</strong> (90,730 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,21 +93,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>12 hrs 24 mins</td>
+<td>12 hrs 11 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.7%</td>
+<td>53.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>8 hrs 47 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.0%</td>
+<td>38.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>36 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.7%</td>
 </tr> 
  <tr>
 <td>Java</td>
@@ -116,22 +116,22 @@ fun main() {
 <td>2.5%</td>
 </tr> 
  <tr>
-<td>TOML</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
-</tr> 
- <tr>
 <td>SQL</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.5%</td>
+<td>0.6%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>0.5%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>5 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>20 hrs 1 min</td>
+<td>19 hrs 45 mins</td>
 <td>█████████████████████▒▒▒▒</td>
-<td>86.6%</td>
+<td>86.7%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>1 hr 35 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>7.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 20 mins</td>
+<td>1 hr 18 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.8%</td>
+<td>5.7%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>23 hrs 6 mins</td>
+<td>22 hrs 47 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>23 hrs 6 mins</td>
+<td>22 hrs 47 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,13 +266,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the Python data scientist get arrested at customs?</strong></p>
-<p><em>» She was caught trying to import pandas!</em></p>
+<p><strong>What do you call a cow on a trampoline?</strong></p>
+<p><em>» A milk shake!</em></p>
 <hr>
-<p>Algorithm: A word used by programmers when they don't want to explain how their code works.</p>
+<p>"We messed up the keming again guys."</p>
 <hr>
-<p><strong>When does a joke become a dad joke?</strong></p>
-<p><em>» When it becomes apparent.</em></p>
+<p><strong>Why can't Python finish its breakfast?</strong></p>
+<p><em>» Because it always finds a syntax error in its cereal!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -281,11 +281,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The HyperMart outside of Garland Texas has 58 check-outs.</p>
-<hr>
 <p>💡 There`s a systematic lull in conversation every 7 minutes.</p>
 <hr>
-<p>💡 Prince Charles is an avid collecter of toilet seats.</p>
+<p>💡 Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.</p>
+<hr>
+<p>💡 John Lennon’s first girlfriend was named Thelma Pickles.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -295,15 +295,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</em> - Albert Einstein</p>
+  <p><em>"Motivation is what gets you started. Habit is what keeps you going."</em> - Jim Ryun</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."</em> - Albert Einstein</p>
+  <p><em>"A somebody was once a nobody who wanted to and did."</em> - John Burroughs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A man who flies from his fear may find that he has only taken a shortcut to meet it."</em> - Sador, Children of Húrin</p>
+  <p><em>"No one can make you feel inferior without your consent."</em> - Eleanor Roosevelt</p>
 </blockquote>
 </details>
 <p>
@@ -317,14 +317,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 09, 2026</td>
-<td> 04:22 AM IST</td>
+<td>Wednesday</td>
+<td>June 10, 2026</td>
+<td> 04:24 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 10, 2026</td>
+<td>Thursday</td>
+<td>June 11, 2026</td>
 <td>~04:20 AM IST</td>
 </tr>
 </tbody>
