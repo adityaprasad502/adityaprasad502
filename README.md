@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f07ba6836af94efbba6558321c4513b2e4159629630f9390b3d2bf07a35ac14c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373825323068727325323031352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C678%20hrs%2015%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/63b35cf9dd426ce304f9b34cd7a02601a97a0d9f7aa4961432df40d3725a96e8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373925323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C679%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,732+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.8 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,351h 45m</strong> (90,940 Streams)</p>
+<p>🎧 Spotify: <strong>5,359h 50m</strong> (91,077 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,13 +93,13 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>12 hrs 11 mins</td>
+<td>11 hrs 55 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.5%</td>
+<td>53.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>8 hrs 47 mins</td>
+<td>8 hrs 36 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>38.5%</td>
 </tr> 
@@ -113,7 +113,7 @@ fun main() {
 <td>Java</td>
 <td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>SQL</td>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>19 hrs 45 mins</td>
+<td>19 hrs 18 mins</td>
 <td>█████████████████████▒▒▒▒</td>
-<td>86.7%</td>
+<td>86.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>1 hr 35 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.0%</td>
+<td>7.2%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 18 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.7%</td>
+<td>5.8%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>22 hrs 47 mins</td>
+<td>22 hrs 20 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>22 hrs 47 mins</td>
+<td>22 hrs 20 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What happens when you anger a brain surgeon?</strong></p>
-<p><em>» They will give you a piece of your mind.</em></p>
+<p><strong>Why did the house go to the doctor?</strong></p>
+<p><em>» It was having window panes.</em></p>
 <hr>
-<p><strong>Did you watch the new comic book movie?</strong></p>
-<p><em>» It was very graphic!</em></p>
+<p><strong>What's the difference between a little girl and a fridge?</strong></p>
+<p><em>» Fridges don't scream when you put your meat in them.</em></p>
 <hr>
-<p><strong>Why couldn't the lifeguard save the hippie?</strong></p>
-<p><em>» He was too far out, man.</em></p>
+<p><strong>What do you call a singing Laptop</strong></p>
+<p><em>» A Dell</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The Black Widow spider eats her mate during or after sex.</p>
+<p>💡 Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
 <hr>
-<p>💡 Rugby, North Dakota is the geographical center of North America.</p>
+<p>💡 Right handed people live, on average, nine years longer than left-handed people</p>
 <hr>
-<p>💡 Thirty-five percent of the people who use personal ads for dating are already married.</p>
+<p>💡 Maine is the only state (in USA) whose name is just one syllable. </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
+  <p><em>"In the midst of movement and chaos, keep stillness inside of you."</em> - Deepak Chopra</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success is walking from failure to failure with no loss of enthusiasm."</em> - Winston Churchill</p>
+  <p><em>"Your mental and physical health come first. Everything else is secondary."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Strong lives are motivated by dynamic purposes."</em> - Kenneth Hildebrand</p>
+  <p><em>"There is no easy walk to freedom anywhere, and many of us will have to pass through the valley of the shadow of death again and again before we reach the mountaintop of our desires."</em> - Nelson Mandela</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>June 12, 2026</td>
-<td> 04:30 AM IST</td>
+<td>Saturday</td>
+<td>June 13, 2026</td>
+<td> 04:20 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>June 13, 2026</td>
-<td>~04:30 AM IST</td>
+<td>Sunday</td>
+<td>June 14, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
