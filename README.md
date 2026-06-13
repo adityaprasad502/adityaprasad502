@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,359h 50m</strong> (91,077 Streams)</p>
+<p>🎧 Spotify: <strong>5,363h 43m</strong> (91,143 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,43 +95,43 @@ fun main() {
 <td>Kotlin</td>
 <td>11 hrs 55 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.4%</td>
+<td>51.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>8 hrs 36 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>38.5%</td>
+<td>37.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>36 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.7%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.5%</td>
 </tr> 
  <tr>
-<td>SQL</td>
-<td>7 mins</td>
+<td>Lua</td>
+<td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>1.4%</td>
+</tr> 
+ <tr>
+<td>QML</td>
+<td>17 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>6 mins</td>
+<td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.5%</td>
-</tr> 
- <tr>
-<td>Text</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.4%</td>
+<td>0.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -146,20 +146,20 @@ fun main() {
  <tbody><tr>
 <td>Android Studio</td>
 <td>19 hrs 18 mins</td>
-<td>█████████████████████▒▒▒▒</td>
-<td>86.4%</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>83.3%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 35 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>2 hrs 26 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.5%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>1 hr 18 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.8%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
@@ -180,8 +180,14 @@ fun main() {
  <tbody><tr>
 <td>Windows</td>
 <td>22 hrs 20 mins</td>
-<td>█████████████████████████</td>
-<td>100.0%</td>
+<td>████████████████████████▒</td>
+<td>96.4%</td>
+</tr> 
+ <tr>
+<td>Linux</td>
+<td>50 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -196,8 +202,14 @@ fun main() {
  <tbody><tr>
 <td>Pu94X</td>
 <td>22 hrs 20 mins</td>
-<td>█████████████████████████</td>
-<td>100.0%</td>
+<td>████████████████████████▒</td>
+<td>96.4%</td>
+</tr> 
+ <tr>
+<td>xoarch</td>
+<td>50 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -266,14 +278,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the house go to the doctor?</strong></p>
-<p><em>» It was having window panes.</em></p>
+<p><strong>What is the best prefix for global variables?</strong></p>
+<p><em>» //</em></p>
 <hr>
-<p><strong>What's the difference between a little girl and a fridge?</strong></p>
-<p><em>» Fridges don't scream when you put your meat in them.</em></p>
+<p><strong>What's the best part about TCP jokes?</strong></p>
+<p><em>» I get to keep telling them until you get them.</em></p>
 <hr>
-<p><strong>What do you call a singing Laptop</strong></p>
-<p><em>» A Dell</em></p>
+<p>If you're here for the yodeling lesson, please form an orderly orderly orderly queue.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
+<p>💡 A whale`s penis is called a dork.</p>
 <hr>
-<p>💡 Right handed people live, on average, nine years longer than left-handed people</p>
+<p>💡 315 entries in Webster’s 1996 dictionary were misspelled.</p>
 <hr>
-<p>💡 Maine is the only state (in USA) whose name is just one syllable. </p>
+<p>💡 Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +307,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"In the midst of movement and chaos, keep stillness inside of you."</em> - Deepak Chopra</p>
+  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Your mental and physical health come first. Everything else is secondary."</em> - Zat Rana</p>
+  <p><em>"In every difficult situation is potential value. Believe this, then begin looking for it."</em> - Norman Vincent Peale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There is no easy walk to freedom anywhere, and many of us will have to pass through the valley of the shadow of death again and again before we reach the mountaintop of our desires."</em> - Nelson Mandela</p>
+  <p><em>"Too many of us are not living our dreams because we are living our fears."</em> - Les Brown</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>June 13, 2026</td>
-<td> 04:20 AM IST</td>
+<td>Sunday</td>
+<td>June 14, 2026</td>
+<td> 04:03 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>June 14, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Monday</td>
+<td>June 15, 2026</td>
+<td>~04:00 AM IST</td>
 </tr>
 </tbody>
 </table>
