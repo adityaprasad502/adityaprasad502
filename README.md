@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/63b35cf9dd426ce304f9b34cd7a02601a97a0d9f7aa4961432df40d3725a96e8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373925323068727325323031382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C679%20hrs%2018%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1bcf01599b98a3ffb3b938f2d1facead18af91a87505ebcc3ff672b1cbccdf1c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373925323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C679%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,732+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,363h 43m</strong> (91,143 Streams)</p>
+<p>🎧 Spotify: <strong>5,367h 49m</strong> (91,209 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>11 hrs 55 mins</td>
+<td>10 hrs 55 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>51.5%</td>
+<td>52.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>8 hrs 36 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.1%</td>
+<td>6 hrs 55 mins</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>36 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>47 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.8%</td>
 </tr> 
  <tr>
 <td>Lua</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1.6%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.2%</td>
+<td>1.4%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
+<td>0.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>19 hrs 18 mins</td>
-<td>████████████████████▒▒▒▒▒</td>
-<td>83.3%</td>
+<td>17 hrs 17 mins</td>
+<td>█████████████████████▒▒▒▒</td>
+<td>83.6%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 26 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.5%</td>
+<td>2 hrs 31 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>12.2%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>1 hr 18 mins</td>
+<td>43 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>3.5%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,15 +179,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>22 hrs 20 mins</td>
-<td>████████████████████████▒</td>
-<td>96.4%</td>
+<td>19 hrs 37 mins</td>
+<td>███████████████████████▒▒</td>
+<td>94.9%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>50 mins</td>
+<td>1 hr 3 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.6%</td>
+<td>5.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -201,15 +201,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>22 hrs 20 mins</td>
-<td>████████████████████████▒</td>
-<td>96.4%</td>
+<td>19 hrs 37 mins</td>
+<td>███████████████████████▒▒</td>
+<td>94.9%</td>
 </tr> 
  <tr>
 <td>xoarch</td>
-<td>50 mins</td>
+<td>1 hr 3 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.6%</td>
+<td>5.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -278,13 +278,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the best prefix for global variables?</strong></p>
-<p><em>» //</em></p>
+<p><strong>How do you generate a random string?</strong></p>
+<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
 <hr>
-<p><strong>What's the best part about TCP jokes?</strong></p>
-<p><em>» I get to keep telling them until you get them.</em></p>
+<p><strong>Why there is no sign of life on mars?</strong></p>
+<p><em>» SAITAMA has been to mars before That’s why there's no sign of life</em></p>
 <hr>
-<p>If you're here for the yodeling lesson, please form an orderly orderly orderly queue.</p>
+<p><strong>What did celery say when he broke up with his girlfriend?</strong></p>
+<p><em>» She wasn't right for me, so I really don't carrot all.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,11 +294,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A whale`s penis is called a dork.</p>
+<p>💡 The male seahorse carries the eggs until they hatch instead of the female.</p>
 <hr>
-<p>💡 315 entries in Webster’s 1996 dictionary were misspelled.</p>
+<p>💡 A cat has 32 muscles in each ear.</p>
 <hr>
-<p>💡 Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).</p>
+<p>💡 An ant always falls over on its right side when intoxicated.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -307,15 +308,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
+  <p><em>"It is better to fail in originality than to succeed in imitation."</em> - Herman Melville</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In every difficult situation is potential value. Believe this, then begin looking for it."</em> - Norman Vincent Peale</p>
+  <p><em>"If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles."</em> - Wayne Dyer</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Too many of us are not living our dreams because we are living our fears."</em> - Les Brown</p>
+  <p><em>"I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."</em> - Neil Armstrong</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +330,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 14, 2026</td>
-<td> 04:03 AM IST</td>
+<td>Monday</td>
+<td>June 15, 2026</td>
+<td> 04:07 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 15, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Tuesday</td>
+<td>June 16, 2026</td>
+<td>~04:05 AM IST</td>
 </tr>
 </tbody>
 </table>
