@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,367h 49m</strong> (91,209 Streams)</p>
+<p>🎧 Spotify: <strong>5,372h 24m</strong> (91,284 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>10 hrs 55 mins</td>
+<td>7 hrs 47 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.8%</td>
+<td>53.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>6 hrs 55 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.5%</td>
+<td>3 hrs 49 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>47 mins</td>
+<td>44 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>5.0%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>34 mins</td>
+<td>Other</td>
+<td>29 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>3.4%</td>
 </tr> 
  <tr>
 <td>Lua</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.6%</td>
+<td>2.3%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>2.0%</td>
 </tr> 
  <tr>
-<td>Other</td>
-<td>11 mins</td>
+<td>Java</td>
+<td>13 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>1.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>17 hrs 17 mins</td>
-<td>█████████████████████▒▒▒▒</td>
-<td>83.6%</td>
+<td>11 hrs 3 mins</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>76.0%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 31 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.2%</td>
+<td>3 hrs 4 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>43 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.5%</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.9%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>1.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,15 +179,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>19 hrs 37 mins</td>
-<td>███████████████████████▒▒</td>
-<td>94.9%</td>
+<td>12 hrs 50 mins</td>
+<td>██████████████████████▒▒▒</td>
+<td>88.4%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>1 hr 3 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>1 hr 41 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -201,15 +201,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>19 hrs 37 mins</td>
-<td>███████████████████████▒▒</td>
-<td>94.9%</td>
+<td>12 hrs 50 mins</td>
+<td>██████████████████████▒▒▒</td>
+<td>88.4%</td>
 </tr> 
  <tr>
 <td>xoarch</td>
-<td>1 hr 3 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>1 hr 41 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -278,14 +278,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>How do you generate a random string?</strong></p>
-<p><em>» Put a Windows user in front of Vim and tell them to exit.</em></p>
+<p><strong>My employer came running to me and said, "I was looking for you all day! Where the hell have you been?"</strong></p>
+<p><em>» I replied, "Good employees are hard to find."</em></p>
 <hr>
-<p><strong>Why there is no sign of life on mars?</strong></p>
-<p><em>» SAITAMA has been to mars before That’s why there's no sign of life</em></p>
+<p><strong>What do you call corn that joins the army?</strong></p>
+<p><em>» Kernel.</em></p>
 <hr>
-<p><strong>What did celery say when he broke up with his girlfriend?</strong></p>
-<p><em>» She wasn't right for me, so I really don't carrot all.</em></p>
+<p>My husband and I were happy for 20 years. And then we met.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -294,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The male seahorse carries the eggs until they hatch instead of the female.</p>
+<p>💡 A lion in the wild usually makes no more than 20 kills a year.</p>
 <hr>
-<p>💡 A cat has 32 muscles in each ear.</p>
+<p>💡 Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. </p>
 <hr>
-<p>💡 An ant always falls over on its right side when intoxicated.</p>
+<p>💡 Every acre of American crops harvested contains 100 pounds of insects.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -308,15 +307,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It is better to fail in originality than to succeed in imitation."</em> - Herman Melville</p>
+  <p><em>"If you genuinely want something, don’t wait for it — teach yourself to be impatient."</em> - Gurbaksh Chahal</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles."</em> - Wayne Dyer</p>
+  <p><em>"Strong lives are motivated by dynamic purposes."</em> - Kenneth Hildebrand</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."</em> - Neil Armstrong</p>
+  <p><em>"Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself."</em> - Harvey Fierstein</p>
 </blockquote>
 </details>
 <p>
@@ -330,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>June 15, 2026</td>
-<td> 04:07 AM IST</td>
+<td>Tuesday</td>
+<td>June 16, 2026</td>
+<td> 04:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>June 16, 2026</td>
-<td>~04:05 AM IST</td>
+<td>Wednesday</td>
+<td>June 17, 2026</td>
+<td>~04:40 AM IST</td>
 </tr>
 </tbody>
 </table>
