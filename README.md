@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1bcf01599b98a3ffb3b938f2d1facead18af91a87505ebcc3ff672b1cbccdf1c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336373925323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C679%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f343009480564f3bc170535f9b380fefe9883b7580935cd6a5a0ca2d2d5d907a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336383025323068727325323031392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C680%20hrs%2019%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,732+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,734+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,372h 24m</strong> (91,284 Streams)</p>
+<p>🎧 Spotify: <strong>5,376h 29m</strong> (91,350 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -73,13 +73,13 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>5 commits</td>
+<td>7 commits</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>5 commits in June 2026</b></td>
+<td colspan="2"><b>7 commits in June 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,19 +95,19 @@ fun main() {
 <td>Kotlin</td>
 <td>7 hrs 47 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.6%</td>
+<td>54.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 49 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.3%</td>
+<td>26.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>44 mins</td>
+<td>35 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>Other</td>
@@ -147,13 +147,13 @@ fun main() {
 <td>Android Studio</td>
 <td>11 hrs 3 mins</td>
 <td>███████████████████▒▒▒▒▒▒</td>
-<td>76.0%</td>
+<td>77.0%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 4 mins</td>
+<td>2 hrs 52 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
+<td>20.1%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
@@ -179,15 +179,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>12 hrs 50 mins</td>
+<td>12 hrs 39 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>88.4%</td>
+<td>88.2%</td>
 </tr> 
  <tr>
 <td>Linux</td>
 <td>1 hr 41 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.6%</td>
+<td>11.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -201,15 +201,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>12 hrs 50 mins</td>
+<td>12 hrs 39 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>88.4%</td>
+<td>88.2%</td>
 </tr> 
  <tr>
 <td>xoarch</td>
 <td>1 hr 41 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.6%</td>
+<td>11.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -229,9 +229,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Python</td>
-<td>578.4 KiB</td>
+<td>577.0 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.3%</td>
+<td>28.2%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -278,13 +278,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>My employer came running to me and said, "I was looking for you all day! Where the hell have you been?"</strong></p>
-<p><em>» I replied, "Good employees are hard to find."</em></p>
+<p><strong>How do you organize a space party?</strong></p>
+<p><em>» You planet.</em></p>
 <hr>
-<p><strong>What do you call corn that joins the army?</strong></p>
-<p><em>» Kernel.</em></p>
+<p><strong>What did one snowman say to the other snow man?</strong></p>
+<p><em>» Do you smell carrot?</em></p>
 <hr>
-<p>My husband and I were happy for 20 years. And then we met.</p>
+<p><strong>Why do mathematicians hate the U.S.?</strong></p>
+<p><em>» Because it's indivisible.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,11 +294,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A lion in the wild usually makes no more than 20 kills a year.</p>
+<p>💡 In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.</p>
 <hr>
-<p>💡 Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. </p>
+<p>💡 Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.</p>
 <hr>
-<p>💡 Every acre of American crops harvested contains 100 pounds of insects.</p>
+<p>💡 The original name for butterfly was flutterby.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -307,15 +308,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you genuinely want something, don’t wait for it — teach yourself to be impatient."</em> - Gurbaksh Chahal</p>
+  <p><em>"Your mental and physical health come first. Everything else is secondary."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Strong lives are motivated by dynamic purposes."</em> - Kenneth Hildebrand</p>
+  <p><em>"The secret to getting ahead is getting started."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself."</em> - Harvey Fierstein</p>
+  <p><em>"People rarely succeed unless they have fun in what they are doing."</em> - Dale Carnegie</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +330,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 16, 2026</td>
-<td> 04:42 AM IST</td>
+<td>Wednesday</td>
+<td>June 17, 2026</td>
+<td> 04:28 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 17, 2026</td>
-<td>~04:40 AM IST</td>
+<td>Thursday</td>
+<td>June 18, 2026</td>
+<td>~04:25 AM IST</td>
 </tr>
 </tbody>
 </table>
