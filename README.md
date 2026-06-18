@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c215ef491fd938be2beca4eb948eafd83344c1d483398785f3909e908f8300da/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336383025323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C680%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/147451c507ddfbf1d4f94f2c10904425d2261923f167431ac93b7316ef3cecbe/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336383025323068727325323035352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C680%20hrs%2055%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,735+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,736+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,382h 43m</strong> (91,462 Streams)</p>
+<p>🎧 Spotify: <strong>5,386h 54m</strong> (91,531 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -67,19 +67,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>1 commits</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>2 commits</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.2%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>7 commits</td>
-<td>██████████████████████▒▒▒</td>
-<td>87.5%</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>77.8%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>8 commits in June 2026</b></td>
+<td colspan="2"><b>9 commits in June 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>7 hrs 31 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.2%</td>
+<td>6 hrs 3 mins</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 47 mins</td>
+<td>3 hrs 7 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.3%</td>
+<td>25.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>35 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>4.8%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>31 mins</td>
+<td>34 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.7%</td>
+<td>4.7%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>22 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>3.0%</td>
 </tr> 
  <tr>
 <td>Lua</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>2.7%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>17 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.0%</td>
+<td>2.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Android Studio</td>
-<td>10 hrs 44 mins</td>
+<td>8 hrs 50 mins</td>
 <td>██████████████████▒▒▒▒▒▒▒</td>
-<td>74.6%</td>
+<td>71.9%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 14 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.5%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>16 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>3 hrs 19 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.0%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.0%</td>
+<td>1.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,15 +173,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Windows</td>
-<td>12 hrs 20 mins</td>
-<td>█████████████████████▒▒▒▒</td>
-<td>85.7%</td>
+<td>10 hrs 10 mins</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>82.7%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>2 hrs 3 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.3%</td>
+<td>2 hrs 7 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -201,15 +195,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Pu94X</td>
-<td>12 hrs 20 mins</td>
-<td>█████████████████████▒▒▒▒</td>
-<td>85.7%</td>
+<td>10 hrs 10 mins</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>82.7%</td>
 </tr> 
  <tr>
 <td>xoarch</td>
-<td>2 hrs 3 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.3%</td>
+<td>2 hrs 7 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -278,14 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you get when you cross a rabbit with a water hose?</strong></p>
-<p><em>» Hare spray.</em></p>
+<p><strong>.NET developers are picky when it comes to food.</strong></p>
+<p><em>» They only like chicken NuGet.</em></p>
 <hr>
-<p><strong>What do you call a bee that lives in America?</strong></p>
-<p><em>» A USB.</em></p>
+<p><strong>What does an angry pepper do?</strong></p>
+<p><em>» It gets jalapeño face.</em></p>
 <hr>
-<p><strong>Why did Santa's helper see the doctor?</strong></p>
-<p><em>» Because he had a low "elf" esteem!</em></p>
+<p><strong>What biscuit does a short person like?</strong></p>
+<p><em>» Shortbread. </em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -294,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 By raising your legs slowly and lying on your back, you cannot sink into quicksand.</p>
+<p>💡 Sigmund Freud had a morbid fear of ferns.</p>
 <hr>
-<p>💡 When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."</p>
+<p>💡 The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
 <hr>
-<p>💡 Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.</p>
+<p>💡 In the last 4000 years no new animals have been domesticated.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -308,15 +302,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"What you do today can improve all your tomorrows."</em> - Ralph Marston</p>
+  <p><em>"A goal is a dream with a deadline."</em> - Napoleon Hill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</em> - Roy T. Bennett</p>
+  <p><em>"Success is walking from failure to failure with no loss of enthusiasm."</em> - Winston Churchill</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
+  <p><em>"A No. 2 pencil and a dream can take you anywhere."</em> - Joyce Meyer</p>
 </blockquote>
 </details>
 <p>
@@ -330,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>June 18, 2026</td>
-<td> 04:24 AM IST</td>
+<td>Friday</td>
+<td>June 19, 2026</td>
+<td> 04:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>June 19, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Saturday</td>
+<td>June 20, 2026</td>
+<td>~04:40 AM IST</td>
 </tr>
 </tbody>
 </table>
