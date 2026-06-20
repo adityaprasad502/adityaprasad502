@@ -39,10 +39,10 @@ fun main() {
 <blockquote>
 <p>🏆 <strong>5,738+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>75.8 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>75.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,389h 31m</strong> (91,575 Streams)</p>
+<p>🎧 Spotify: <strong>5,391h 14m</strong> (91,603 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,43 +95,43 @@ fun main() {
 <td>Kotlin</td>
 <td>6 hrs 4 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.3%</td>
+<td>45.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 16 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.5%</td>
+<td>24.5%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>53 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.7%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>41 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>36 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>35 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>34 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.5%</td>
+<td>4.6%</td>
 </tr> 
  <tr>
 <td>Lua</td>
 <td>20 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.5%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>18 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.4%</td>
+<td>2.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -146,14 +146,14 @@ fun main() {
  <tbody><tr>
 <td>Android Studio</td>
 <td>9 hrs 22 mins</td>
-<td>██████████████████▒▒▒▒▒▒▒</td>
-<td>73.0%</td>
+<td>█████████████████▒▒▒▒▒▒▒▒</td>
+<td>70.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 19 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.9%</td>
+<td>3 hrs 51 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.8%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
@@ -175,13 +175,13 @@ fun main() {
 <td>Windows</td>
 <td>10 hrs 10 mins</td>
 <td>███████████████████▒▒▒▒▒▒</td>
-<td>79.3%</td>
+<td>76.1%</td>
 </tr> 
  <tr>
 <td>Linux</td>
-<td>2 hrs 39 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.7%</td>
+<td>3 hrs 12 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -197,13 +197,13 @@ fun main() {
 <td>Pu94X</td>
 <td>10 hrs 10 mins</td>
 <td>███████████████████▒▒▒▒▒▒</td>
-<td>79.3%</td>
+<td>76.1%</td>
 </tr> 
  <tr>
 <td>xoarch</td>
-<td>2 hrs 39 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.7%</td>
+<td>3 hrs 12 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -272,14 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the cowboy have a weiner dog?</strong></p>
-<p><em>» Somebody told him to get a long little doggy.</em></p>
+<p><strong>What did the shy pebble wish for?</strong></p>
+<p><em>» That she was a little boulder.</em></p>
 <hr>
-<p><strong>Why don't scientists trust atoms?</strong></p>
-<p><em>» Because they make up everything.</em></p>
+<p><strong>What did the duck say when he bought lipstick?</strong></p>
+<p><em>» Put it on my bill</em></p>
 <hr>
-<p><strong>Do you want a brief explanation of what an acorn is?</strong></p>
-<p><em>» In a nutshell, it's an oak tree.</em></p>
+<p><strong>What do you call an eagle who can play the piano?</strong></p>
+<p><em>» Talonted!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -288,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 An eighteenth-century German named Matthew Birchinger, known as "the little man of Nuremberg," played four musical instruments including the bagpipes, was an expert calligrapher, and was the most famous stage magician of his day. He performed tricks with the cup and balls that have never been explained. Yet Birchinger had no hands, legs, or thighs, and was less than 29 inches tall.</p>
+<p>💡 315 entries in Webster’s 1996 dictionary were misspelled.</p>
 <hr>
-<p>💡 Yo-yos were used as weapons by warriors in the Philippines in the 16th century.</p>
+<p>💡 Canada is the only country not to win a gold medal in the summer Olympic games while hosting.</p>
 <hr>
-<p>💡 "I am." is the shortest complete sentence in the English language.</p>
+<p>💡 The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -302,15 +302,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you're going through hell, keep going."</em> - Winston Churchill</p>
+  <p><em>"If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work."</em> - Thomas J. Watson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Either write something worth reading or do something worth writing."</em> - Benjamin Franklin</p>
+  <p><em>"All our dreams can come true if we have the courage to pursue them."</em> - Walt Disney</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</em> - Nelson Mandela</p>
+  <p><em>"The glow of one warm thought is to me worth more than money."</em> - Thomas Jefferson</p>
 </blockquote>
 </details>
 <p>
@@ -324,15 +324,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>June 20, 2026</td>
-<td> 03:45 AM IST</td>
+<td>Sunday</td>
+<td>June 21, 2026</td>
+<td> 04:07 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>June 21, 2026</td>
-<td>~03:45 AM IST</td>
+<td>Monday</td>
+<td>June 22, 2026</td>
+<td>~04:05 AM IST</td>
 </tr>
 </tbody>
 </table>
