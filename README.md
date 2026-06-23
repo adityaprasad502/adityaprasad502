@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/198ea631e816aa641068df9384ec3d8696a9d24d59df16bf00ec0100ae80ac34/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363932253230687273253230322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C692%20hrs%202%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2aaa48791f5b1d920cda11f3070f6c1d27be8c35c62ac4047f76198c8d3d645d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336393425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C694%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,745+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,749+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>76.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,403h 51m</strong> (91,810 Streams)</p>
+<p>🎧 Spotify: <strong>5,407h 57m</strong> (91,874 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -68,18 +68,18 @@ fun main() {
  <tr>
 <td>🌃 Evening</td>
 <td>4 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.2%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.2%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>14 commits</td>
-<td>███████████████████▒▒▒▒▒▒</td>
-<td>77.8%</td>
+<td>18 commits</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>81.8%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>18 commits in June 2026</b></td>
+<td colspan="2"><b>22 commits in June 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -92,46 +92,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Kotlin</td>
-<td>4 hrs 27 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.6%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>3 hrs 23 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.9%</td>
-</tr> 
- <tr>
 <td>JavaScript</td>
-<td>2 hrs 59 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.9%</td>
+<td>4 hrs 47 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.5%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>2 hrs 51 mins</td>
+<td>3 hrs 36 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.9%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>2 hrs 23 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.2%</td>
+<td>13.2%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 30 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.4%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>1 hr 24 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.8%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>53 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>5.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>48 mins</td>
+<td>52 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>47 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>4.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -144,28 +144,28 @@ fun main() {
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Android Studio</td>
-<td>7 hrs 42 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.9%</td>
+<td>Antigravity Desktop</td>
+<td>8 hrs 4 mins</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.6%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 16 mins</td>
+<td>5 hrs 9 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.0%</td>
+<td>28.6%</td>
 </tr> 
  <tr>
-<td>Antigravity Desktop</td>
-<td>5 hrs 14 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.8%</td>
+<td>Android Studio</td>
+<td>4 hrs 14 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.4%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
@@ -185,15 +185,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>10 hrs 23 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.1%</td>
+<td>13 hrs 46 mins</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>76.2%</td>
 </tr> 
  <tr>
 <td>Windows</td>
-<td>8 hrs 27 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.9%</td>
+<td>4 hrs 18 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -207,15 +207,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>10 hrs 23 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.1%</td>
+<td>13 hrs 46 mins</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>76.2%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>8 hrs 27 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.9%</td>
+<td>4 hrs 18 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -230,14 +230,14 @@ fun main() {
  <tbody><tr>
 <td>Kotlin</td>
 <td>735.2 KiB</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.5%</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>578.6 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.9%</td>
+<td>27.8%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -247,9 +247,9 @@ fun main() {
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>197.6 KiB</td>
+<td>207.6 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.5%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
@@ -259,7 +259,7 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>112.4 KiB</td>
+<td>113.0 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>5.4%</td>
 </tr> 
@@ -284,14 +284,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the most used language in programming?</strong></p>
-<p><em>» Profanity.</em></p>
+<p><strong>What do you call a pig with three eyes?</strong></p>
+<p><em>» Piiig</em></p>
 <hr>
-<p><strong>Why did the man run around his bed?</strong></p>
-<p><em>» Because he was trying to catch up on his sleep!</em></p>
+<p><strong>What did the beaver say to the tree?</strong></p>
+<p><em>» It's been nice gnawing you.</em></p>
 <hr>
-<p><strong>Why did the fireman wear red, white, and blue suspenders?</strong></p>
-<p><em>» To hold his pants up.</em></p>
+<p>A perfectionist walked into a bar... apparently, the bar was not set high enough.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +299,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 38% of American men say they love their cars more than women</p>
+<p>💡 It takes about 142.18 licks to reach the center of a Tootsie pop.</p>
 <hr>
-<p>💡 Most collect calls are made on father`s day.</p>
+<p>💡 Georgia's state motto is "Wisdom, Justice and Moderation."</p>
 <hr>
-<p>💡 When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
+<p>💡 Humans use a total of 72 different muscles in speech.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +313,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Failure is the condiment that gives success its flavor."</em> - Truman Capote</p>
+  <p><em>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</em> - Dale Carnegie</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Courage is grace under pressure."</em> - Ernest Hemingway</p>
+  <p><em>"An obstacle is often a stepping stone."</em> - Prescott</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Just when the caterpillar thought the world was ending, he turned into a butterfly."</em> - Proverb</p>
+  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
 </blockquote>
 </details>
 <p>
@@ -336,15 +335,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 23, 2026</td>
-<td> 04:27 AM IST</td>
+<td>Wednesday</td>
+<td>June 24, 2026</td>
+<td> 04:11 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>June 24, 2026</td>
-<td>~04:25 AM IST</td>
+<td>Thursday</td>
+<td>June 25, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
