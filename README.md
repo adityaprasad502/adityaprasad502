@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/2aaa48791f5b1d920cda11f3070f6c1d27be8c35c62ac4047f76198c8d3d645d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336393425323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C694%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1259b6c59892fd4c5b3ae557ae678dc66bf6b4a4a2becddbe8cdfdd48076b29d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363935253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C695%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,749+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,750+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>76.4 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>76.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,407h 57m</strong> (91,874 Streams)</p>
+<p>🎧 Spotify: <strong>5,413h 38m</strong> (91,966 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -67,19 +67,19 @@ fun main() {
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>4 commits</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.2%</td>
+<td>5 commits</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.7%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>18 commits</td>
-<td>████████████████████▒▒▒▒▒</td>
-<td>81.8%</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>78.3%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>22 commits in June 2026</b></td>
+<td colspan="2"><b>23 commits in June 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>JavaScript</td>
-<td>4 hrs 47 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.5%</td>
+<td>5 hrs 34 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.4%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>3 hrs 36 mins</td>
+<td>4 hrs 13 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.9%</td>
+<td>21.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>2 hrs 23 mins</td>
+<td>2 hrs 17 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.2%</td>
+<td>11.7%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>1 hr 35 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.1%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 30 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.4%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>1 hr 24 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.8%</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>53 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>4.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>52 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>4.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,33 +145,33 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>8 hrs 4 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.6%</td>
+<td>9 hrs 38 mins</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>49.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 9 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.6%</td>
+<td>5 hrs 13 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 14 mins</td>
+<td>4 hrs 8 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.4%</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.4%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -185,15 +185,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>13 hrs 46 mins</td>
+<td>15 hrs 24 mins</td>
 <td>███████████████████▒▒▒▒▒▒</td>
-<td>76.2%</td>
+<td>78.5%</td>
 </tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 18 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.8%</td>
+<td>4 hrs 12 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -207,15 +207,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>13 hrs 46 mins</td>
+<td>15 hrs 24 mins</td>
 <td>███████████████████▒▒▒▒▒▒</td>
-<td>76.2%</td>
+<td>78.5%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>4 hrs 18 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.8%</td>
+<td>4 hrs 12 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -231,13 +231,13 @@ fun main() {
 <td>Kotlin</td>
 <td>735.2 KiB</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.3%</td>
+<td>35.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>578.6 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.8%</td>
+<td>27.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -247,7 +247,7 @@ fun main() {
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>207.6 KiB</td>
+<td>208.7 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>10.0%</td>
 </tr> 
@@ -259,9 +259,9 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>113.0 KiB</td>
+<td>116.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.4%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>HTML</td>
@@ -284,13 +284,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a pig with three eyes?</strong></p>
-<p><em>» Piiig</em></p>
+<p><strong>Why did the invisible man turn down the job offer?</strong></p>
+<p><em>» He couldn't see himself doing it</em></p>
 <hr>
-<p><strong>What did the beaver say to the tree?</strong></p>
-<p><em>» It's been nice gnawing you.</em></p>
+<p><strong>Did you hear about the crime in the parking garage?</strong></p>
+<p><em>» It was wrong on so many levels.</em></p>
 <hr>
-<p>A perfectionist walked into a bar... apparently, the bar was not set high enough.</p>
+<p><strong>Why are oranges the smartest fruit?</strong></p>
+<p><em>» Because they are made to concentrate. </em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -299,11 +300,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 It takes about 142.18 licks to reach the center of a Tootsie pop.</p>
+<p>💡 The strongest muscle in the human body is the tongue. (the heart is not a muscle)</p>
 <hr>
-<p>💡 Georgia's state motto is "Wisdom, Justice and Moderation."</p>
+<p>💡 The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</p>
 <hr>
-<p>💡 Humans use a total of 72 different muscles in speech.</p>
+<p>💡 Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -313,15 +314,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</em> - Dale Carnegie</p>
+  <p><em>"Who you let into your life is a vital decision. Don’t leave it up to chance."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"An obstacle is often a stepping stone."</em> - Prescott</p>
+  <p><em>"I don’t want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well."</em> - Diane Ackerman</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
+  <p><em>"Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend."</em> - Albert Camus</p>
 </blockquote>
 </details>
 <p>
@@ -335,14 +336,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>June 24, 2026</td>
-<td> 04:11 AM IST</td>
+<td>Thursday</td>
+<td>June 25, 2026</td>
+<td> 04:12 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>June 25, 2026</td>
+<td>Friday</td>
+<td>June 26, 2026</td>
 <td>~04:10 AM IST</td>
 </tr>
 </tbody>
