@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>76.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,413h 38m</strong> (91,966 Streams)</p>
+<p>🎧 Spotify: <strong>5,413h 48m</strong> (91,969 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>JavaScript</td>
-<td>5 hrs 34 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.4%</td>
+<td>5 hrs 46 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.4%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>4 hrs 13 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.5%</td>
+<td>4 hrs 56 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 17 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.7%</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.9%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>1 hr 35 mins</td>
+<td>1 hr 58 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.1%</td>
+<td>9.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 30 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.7%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>53 mins</td>
+<td>59 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.6%</td>
+<td>4.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>52 mins</td>
+<td>54 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.5%</td>
+<td>4.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>9 hrs 38 mins</td>
-<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.1%</td>
+<td>11 hrs 1 min</td>
+<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>52.3%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 13 mins</td>
+<td>5 hrs 17 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.6%</td>
+<td>25.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 8 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
+<td>19.7%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.4%</td>
+<td>2.3%</td>
 </tr> 
  <tr>
 <td>DataGrip</td>
@@ -185,15 +185,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>15 hrs 24 mins</td>
-<td>███████████████████▒▒▒▒▒▒</td>
-<td>78.5%</td>
+<td>16 hrs 50 mins</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>80.0%</td>
 </tr> 
  <tr>
 <td>Windows</td>
 <td>4 hrs 12 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.5%</td>
+<td>20.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -207,15 +207,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>15 hrs 24 mins</td>
-<td>███████████████████▒▒▒▒▒▒</td>
-<td>78.5%</td>
+<td>16 hrs 50 mins</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>80.0%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>4 hrs 12 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.5%</td>
+<td>20.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -284,14 +284,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the invisible man turn down the job offer?</strong></p>
-<p><em>» He couldn't see himself doing it</em></p>
+<p><strong>Why didn't the skeleton go for prom?</strong></p>
+<p><em>» Because it had nobody.</em></p>
 <hr>
-<p><strong>Did you hear about the crime in the parking garage?</strong></p>
-<p><em>» It was wrong on so many levels.</em></p>
+<p><strong>What kind of award did the dentist receive?</strong></p>
+<p><em>» A little plaque.</em></p>
 <hr>
-<p><strong>Why are oranges the smartest fruit?</strong></p>
-<p><em>» Because they are made to concentrate. </em></p>
+<p><strong>If you boil a clown...</strong></p>
+<p><em>» Do you get a laughing stock?</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +300,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The strongest muscle in the human body is the tongue. (the heart is not a muscle)</p>
+<p>💡 It is impossible to lick your elbow.</p>
 <hr>
-<p>💡 The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</p>
+<p>💡 A man's beard grows fastest when he anticipates sex.</p>
 <hr>
-<p>💡 Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
+<p>💡 Banging your head against a wall uses 150 calories an hour.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +314,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Who you let into your life is a vital decision. Don’t leave it up to chance."</em> - Zat Rana</p>
+  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I don’t want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well."</em> - Diane Ackerman</p>
+  <p><em>"Let us make our future now, and let us make our dreams tomorrow’s reality."</em> - Malala Yousafzai</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend."</em> - Albert Camus</p>
+  <p><em>"Success is walking from failure to failure with no loss of enthusiasm."</em> - Winston Churchill</p>
 </blockquote>
 </details>
 <p>
@@ -336,15 +336,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>June 25, 2026</td>
-<td> 04:12 AM IST</td>
+<td>Friday</td>
+<td>June 26, 2026</td>
+<td> 04:21 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>June 26, 2026</td>
-<td>~04:10 AM IST</td>
+<td>Saturday</td>
+<td>June 27, 2026</td>
+<td>~04:20 AM IST</td>
 </tr>
 </tbody>
 </table>
