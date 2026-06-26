@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>76.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,413h 48m</strong> (91,969 Streams)</p>
+<p>🎧 Spotify: <strong>5,417h 1m</strong> (92,025 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -94,44 +94,44 @@ fun main() {
  <tbody><tr>
 <td>JavaScript</td>
 <td>5 hrs 46 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.4%</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>4 hrs 56 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.5%</td>
+<td>23.9%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 17 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.9%</td>
+<td>11.1%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>1 hr 58 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.4%</td>
+<td>9.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>1 hr 30 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>7.3%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>59 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
+<td>4.8%</td>
 </tr> 
  <tr>
-<td>Python</td>
-<td>54 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>Batchfile</td>
+<td>36 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,19 +147,19 @@ fun main() {
 <td>Antigravity Desktop</td>
 <td>11 hrs 1 min</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.3%</td>
+<td>53.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>5 hrs 17 mins</td>
+<td>4 hrs 52 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.1%</td>
+<td>23.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>4 hrs 8 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.7%</td>
+<td>20.1%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
@@ -187,13 +187,13 @@ fun main() {
 <td>Linux</td>
 <td>16 hrs 50 mins</td>
 <td>████████████████████▒▒▒▒▒</td>
-<td>80.0%</td>
+<td>81.6%</td>
 </tr> 
  <tr>
 <td>Windows</td>
-<td>4 hrs 12 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>3 hrs 48 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -209,13 +209,13 @@ fun main() {
 <td>xoarch</td>
 <td>16 hrs 50 mins</td>
 <td>████████████████████▒▒▒▒▒</td>
-<td>80.0%</td>
+<td>81.6%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>4 hrs 12 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>3 hrs 48 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -284,14 +284,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why didn't the skeleton go for prom?</strong></p>
-<p><em>» Because it had nobody.</em></p>
+<p><strong>How much did your chimney cost?</strong></p>
+<p><em>» Nothing, it was on the house.</em></p>
 <hr>
-<p><strong>What kind of award did the dentist receive?</strong></p>
-<p><em>» A little plaque.</em></p>
+<p><strong>Have you heard the rumor going around about butter?</strong></p>
+<p><em>» Never mind, I shouldn't spread it.</em></p>
 <hr>
-<p><strong>If you boil a clown...</strong></p>
-<p><em>» Do you get a laughing stock?</em></p>
+<p><strong>What do you call a sheep with no legs?</strong></p>
+<p><em>» A cloud.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +300,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 It is impossible to lick your elbow.</p>
+<p>💡 Los Angeles’ full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula”.</p>
 <hr>
-<p>💡 A man's beard grows fastest when he anticipates sex.</p>
+<p>💡 The most common name in Italy is Mario Rossi.</p>
 <hr>
-<p>💡 Banging your head against a wall uses 150 calories an hour.</p>
+<p>💡 Winston Churchill was born in a ladies room during a dance.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +314,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
+  <p><em>"Things do not happen. Things are made to happen."</em> - John F. Kennedy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Let us make our future now, and let us make our dreams tomorrow’s reality."</em> - Malala Yousafzai</p>
+  <p><em>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</em> - Eleanor Roosevelt</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success is walking from failure to failure with no loss of enthusiasm."</em> - Winston Churchill</p>
+  <p><em>"Start where you are. Use what you have. Do what you can."</em> - Arthur Ashe</p>
 </blockquote>
 </details>
 <p>
@@ -336,15 +336,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>June 26, 2026</td>
-<td> 04:21 AM IST</td>
+<td>Saturday</td>
+<td>June 27, 2026</td>
+<td> 04:09 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>June 27, 2026</td>
-<td>~04:20 AM IST</td>
+<td>Sunday</td>
+<td>June 28, 2026</td>
+<td>~04:05 AM IST</td>
 </tr>
 </tbody>
 </table>
