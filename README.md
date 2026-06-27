@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1259b6c59892fd4c5b3ae557ae678dc66bf6b4a4a2becddbe8cdfdd48076b29d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243363935253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C695%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/97907f2b02ba8f04363e017fd6d1b846728d85d7a3ce2bab9f3b78ca718d56af/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C695%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,750+</strong> Commits made on GitHub</p>
-<p>🗃️ <strong>5</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>76.5 MiB</strong> Used in GitHub Storage</p>
+<p>🏆 <strong>5,741+</strong> Commits made on GitHub</p>
+<p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
+<p>📦 <strong>76.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,417h 1m</strong> (92,025 Streams)</p>
+<p>🎧 Spotify: <strong>5,422h 8m</strong> (92,107 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,9 +55,9 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1 commits</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.2%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
@@ -69,17 +69,17 @@ fun main() {
 <td>🌃 Evening</td>
 <td>5 commits</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.7%</td>
+<td>20.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>18 commits</td>
-<td>███████████████████▒▒▒▒▒▒</td>
-<td>78.3%</td>
+<td>██████████████████▒▒▒▒▒▒▒</td>
+<td>75.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>23 commits in June 2026</b></td>
+<td colspan="2"><b>24 commits in June 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -231,43 +231,43 @@ fun main() {
 <td>Kotlin</td>
 <td>735.2 KiB</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>35.2%</td>
+<td>33.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>578.6 KiB</td>
+<td>636.6 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.7%</td>
+<td>28.8%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.8%</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>208.7 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.0%</td>
+<td>9.4%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.0%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>116.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>5.3%</td>
 </tr> 
  <tr>
-<td>HTML</td>
-<td>63.0 KiB</td>
+<td>Java</td>
+<td>68.1 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>3.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -284,14 +284,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>How much did your chimney cost?</strong></p>
-<p><em>» Nothing, it was on the house.</em></p>
+<p><strong>Why do trees seem suspicious on sunny days?</strong></p>
+<p><em>» Dunno, they're just a bit shady.</em></p>
 <hr>
-<p><strong>Have you heard the rumor going around about butter?</strong></p>
-<p><em>» Never mind, I shouldn't spread it.</em></p>
+<p><strong>How does a train eat?</strong></p>
+<p><em>» It choo-choos its food!</em></p>
 <hr>
-<p><strong>What do you call a sheep with no legs?</strong></p>
-<p><em>» A cloud.</em></p>
+<p><strong>What do you call a group of disorganized cats?</strong></p>
+<p><em>» A cat-tastrophe.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +300,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Los Angeles’ full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula”.</p>
+<p>💡 The sweat drops drawn in cartoon comic strips are called pleuts.</p>
 <hr>
-<p>💡 The most common name in Italy is Mario Rossi.</p>
+<p>💡 Dreamt is the only English word that ends in the letters “MT”.</p>
 <hr>
-<p>💡 Winston Churchill was born in a ladies room during a dance.</p>
+<p>💡 About 14% of injecting drug users are HIV positive.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +314,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Things do not happen. Things are made to happen."</em> - John F. Kennedy</p>
+  <p><em>"By failing to prepare, you are preparing to fail."</em> - Benjamin Franklin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</em> - Eleanor Roosevelt</p>
+  <p><em>"Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers."</em> - Jose Luis Borges</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Start where you are. Use what you have. Do what you can."</em> - Arthur Ashe</p>
+  <p><em>"Trust because you are willing to accept the risk, not because it’s safe or certain."</em> - Anonymous</p>
 </blockquote>
 </details>
 <p>
@@ -336,15 +336,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>June 27, 2026</td>
-<td> 04:09 AM IST</td>
+<td>Sunday</td>
+<td>June 28, 2026</td>
+<td> 04:02 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>June 28, 2026</td>
-<td>~04:05 AM IST</td>
+<td>Monday</td>
+<td>June 29, 2026</td>
+<td>~04:00 AM IST</td>
 </tr>
 </tbody>
 </table>
