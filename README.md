@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>76.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,422h 8m</strong> (92,107 Streams)</p>
+<p>🎧 Spotify: <strong>5,427h 52m</strong> (92,203 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,25 +95,25 @@ fun main() {
 <td>JavaScript</td>
 <td>5 hrs 46 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.9%</td>
+<td>27.8%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>4 hrs 56 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.9%</td>
+<td>23.8%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 17 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.1%</td>
+<td>11.0%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>1 hr 58 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>9.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
@@ -145,13 +145,13 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>11 hrs 1 min</td>
+<td>11 hrs 5 mins</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>53.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 52 mins</td>
+<td>4 hrs 54 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>23.6%</td>
 </tr> 
@@ -159,7 +159,7 @@ fun main() {
 <td>Android Studio</td>
 <td>4 hrs 8 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.1%</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
@@ -185,15 +185,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>16 hrs 50 mins</td>
+<td>16 hrs 56 mins</td>
 <td>████████████████████▒▒▒▒▒</td>
-<td>81.6%</td>
+<td>81.7%</td>
 </tr> 
  <tr>
 <td>Windows</td>
 <td>3 hrs 48 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.4%</td>
+<td>18.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -207,15 +207,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>16 hrs 50 mins</td>
+<td>16 hrs 56 mins</td>
 <td>████████████████████▒▒▒▒▒</td>
-<td>81.6%</td>
+<td>81.7%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
 <td>3 hrs 48 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.4%</td>
+<td>18.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -284,14 +284,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why do trees seem suspicious on sunny days?</strong></p>
-<p><em>» Dunno, they're just a bit shady.</em></p>
+<p><strong>What does a turkey dress up as for Halloween?</strong></p>
+<p><em>» A gobblin'!</em></p>
 <hr>
-<p><strong>How does a train eat?</strong></p>
-<p><em>» It choo-choos its food!</em></p>
+<p><strong>What's the difference between a baby and a watermelon?</strong></p>
+<p><em>» One's satisfying to hit with a sledgehammer. The other's a watermelon.</em></p>
 <hr>
-<p><strong>What do you call a group of disorganized cats?</strong></p>
-<p><em>» A cat-tastrophe.</em></p>
+<p><strong>What do you call someone with no nose?</strong></p>
+<p><em>» Nobody knows.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +300,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The sweat drops drawn in cartoon comic strips are called pleuts.</p>
+<p>💡 Honey is the only food which does not spoil.</p>
 <hr>
-<p>💡 Dreamt is the only English word that ends in the letters “MT”.</p>
+<p>💡 If Texas were a country, its GNP would be the fifth largest of any country in the world.</p>
 <hr>
-<p>💡 About 14% of injecting drug users are HIV positive.</p>
+<p>💡 A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +314,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"By failing to prepare, you are preparing to fail."</em> - Benjamin Franklin</p>
+  <p><em>"The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before."</em> - Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers."</em> - Jose Luis Borges</p>
+  <p><em>"Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it."</em> - Charles F. Kettering</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Trust because you are willing to accept the risk, not because it’s safe or certain."</em> - Anonymous</p>
+  <p><em>"Failure is another steppingstone to greatness."</em> - Oprah Winfrey</p>
 </blockquote>
 </details>
 <p>
@@ -336,14 +336,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>June 28, 2026</td>
-<td> 04:02 AM IST</td>
+<td>Monday</td>
+<td>June 29, 2026</td>
+<td> 04:01 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>June 29, 2026</td>
+<td>Tuesday</td>
+<td>June 30, 2026</td>
 <td>~04:00 AM IST</td>
 </tr>
 </tbody>
