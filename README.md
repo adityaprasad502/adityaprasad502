@@ -38,11 +38,11 @@ fun main() {
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,741+</strong> Commits made on GitHub</p>
-<p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>76.7 MiB</strong> Used in GitHub Storage</p>
+<p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
+<p>📦 <strong>76.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,427h 52m</strong> (92,203 Streams)</p>
+<p>🎧 Spotify: <strong>5,431h 31m</strong> (92,264 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -90,50 +90,9 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>JavaScript</td>
-<td>5 hrs 46 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.8%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>4 hrs 56 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.8%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>2 hrs 17 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.0%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>1 hr 58 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.5%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 30 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.3%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>59 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
-</tr> 
- <tr>
-<td>Batchfile</td>
-<td>36 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -142,38 +101,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Antigravity Desktop</td>
-<td>11 hrs 5 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>53.4%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>4 hrs 54 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.6%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>4 hrs 8 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
-</tr> 
- <tr>
-<td>Antigravity IDE</td>
-<td>28 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
-</tr> 
- <tr>
-<td>DataGrip</td>
-<td>8 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -182,20 +112,9 @@ fun main() {
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>Linux</td>
-<td>16 hrs 56 mins</td>
-<td>████████████████████▒▒▒▒▒</td>
-<td>81.7%</td>
-</tr> 
- <tr>
-<td>Windows</td>
-<td>3 hrs 48 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -204,20 +123,9 @@ fun main() {
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-<table>
- <tbody><tr>
-<td>xoarch</td>
-<td>16 hrs 56 mins</td>
-<td>████████████████████▒▒▒▒▒</td>
-<td>81.7%</td>
-</tr> 
- <tr>
-<td>Pu94X</td>
-<td>3 hrs 48 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
-</tr>
-</tbody></table>
+
+Didn't Touch PC Last Week
+<table></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -231,43 +139,43 @@ fun main() {
 <td>Kotlin</td>
 <td>735.2 KiB</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>34.3%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>636.6 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.8%</td>
+<td>29.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.1%</td>
+<td>11.4%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>208.7 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.4%</td>
+<td>9.7%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>5.8%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>116.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.4%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>68.1 KiB</td>
+<td>HTML</td>
+<td>63.0 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.1%</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -284,14 +192,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What does a turkey dress up as for Halloween?</strong></p>
-<p><em>» A gobblin'!</em></p>
+<p><strong>If you boil a clown...</strong></p>
+<p><em>» Do you get a laughing stock?</em></p>
 <hr>
-<p><strong>What's the difference between a baby and a watermelon?</strong></p>
-<p><em>» One's satisfying to hit with a sledgehammer. The other's a watermelon.</em></p>
+<p><strong>Did you hear about the guy whose whole left side was cut off?</strong></p>
+<p><em>» He's all right now.</em></p>
 <hr>
-<p><strong>What do you call someone with no nose?</strong></p>
-<p><em>» Nobody knows.</em></p>
+<p><strong>What happens to a frog's car when it breaks down?</strong></p>
+<p><em>» It gets toad away</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -300,11 +208,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Honey is the only food which does not spoil.</p>
+<p>💡 Sigmund Freud had a morbid fear of ferns.</p>
 <hr>
-<p>💡 If Texas were a country, its GNP would be the fifth largest of any country in the world.</p>
+<p>💡 In medieval France, unfaithful wives were made to chase a chicken through town naked.</p>
 <hr>
-<p>💡 A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.</p>
+<p>💡 The most common street name in the U.S. is Second Street.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -314,15 +222,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The woman who follows the crowd will usually go no further than the crowd. The woman who walks alone is likely to find herself in places no one has been before."</em> - Albert Einstein</p>
+  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it."</em> - Charles F. Kettering</p>
+  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Failure is another steppingstone to greatness."</em> - Oprah Winfrey</p>
+  <p><em>"What’s the point of being alive if you don’t at least try to do something remarkable."</em> - Anonymous</p>
 </blockquote>
 </details>
 <p>
@@ -336,14 +244,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>June 29, 2026</td>
-<td> 04:01 AM IST</td>
+<td>Tuesday</td>
+<td>June 30, 2026</td>
+<td> 04:04 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>June 30, 2026</td>
+<td>Wednesday</td>
+<td>July 01, 2026</td>
 <td>~04:00 AM IST</td>
 </tr>
 </tbody>
