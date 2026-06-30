@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>76.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,431h 31m</strong> (92,264 Streams)</p>
+<p>🎧 Spotify: <strong>5,435h 21m</strong> (92,329 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,35 +52,7 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
- <tr>
-<td>🌞 Morning</td>
-<td>1 commits</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
-</tr> 
- <tr>
-<td>🌆 Daytime</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
-</tr> 
- <tr>
-<td>🌃 Evening</td>
-<td>5 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.8%</td>
-</tr> 
- <tr>
-<td>🌙 Night</td>
-<td>18 commits</td>
-<td>██████████████████▒▒▒▒▒▒▒</td>
-<td>75.0%</td>
-</tr>
-<tr>
-<td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>24 commits in June 2026</b></td>
-</tr>
+<tbody><tr><th colspan="4">📅 No commits found in July 2026</th></tr>
 </tbody></table>
 </details>
 <p>
@@ -90,9 +62,50 @@ fun main() {
 </p>
 <details>
 <summary><b>⌨️ Languages (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>JavaScript</td>
+<td>5 hrs 47 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.5%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>4 hrs 56 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.6%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>2 hrs 17 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.5%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>1 hr 58 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.1%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>1 hr 32 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.1%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>1 hr 30 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.9%</td>
+</tr> 
+ <tr>
+<td>Other</td>
+<td>1 hr 3 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.8%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -101,9 +114,38 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Antigravity Desktop</td>
+<td>11 hrs 5 mins</td>
+<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>50.7%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>4 hrs 32 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.8%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>4 hrs 8 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.9%</td>
+</tr> 
+ <tr>
+<td>Antigravity IDE</td>
+<td>1 hr 57 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.9%</td>
+</tr> 
+ <tr>
+<td>DataGrip</td>
+<td>8 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.7%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -112,9 +154,20 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>🐧 Operating Systems (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>Linux</td>
+<td>18 hrs 6 mins</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>82.8%</td>
+</tr> 
+ <tr>
+<td>Windows</td>
+<td>3 hrs 45 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.2%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -123,9 +176,20 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
-
-Didn't Touch PC Last Week
-<table></table>
+<table>
+ <tbody><tr>
+<td>xoarch</td>
+<td>18 hrs 6 mins</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>82.8%</td>
+</tr> 
+ <tr>
+<td>Pu94X</td>
+<td>3 hrs 45 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.2%</td>
+</tr>
+</tbody></table>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -192,14 +256,14 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>If you boil a clown...</strong></p>
-<p><em>» Do you get a laughing stock?</em></p>
+<p><strong>Why was the river rich?</strong></p>
+<p><em>» Because it had two banks.</em></p>
 <hr>
-<p><strong>Did you hear about the guy whose whole left side was cut off?</strong></p>
-<p><em>» He's all right now.</em></p>
+<p><strong>Two guys walk into a bar . . .</strong></p>
+<p><em>» The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."</em></p>
 <hr>
-<p><strong>What happens to a frog's car when it breaks down?</strong></p>
-<p><em>» It gets toad away</em></p>
+<p><strong>What kind of music do welders like?</strong></p>
+<p><em>» Heavy metal.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -208,11 +272,11 @@ Didn't Touch PC Last Week
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Sigmund Freud had a morbid fear of ferns.</p>
+<p>💡 The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</p>
 <hr>
-<p>💡 In medieval France, unfaithful wives were made to chase a chicken through town naked.</p>
+<p>💡 If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 The most common street name in the U.S. is Second Street.</p>
+<p>💡 A giraffe can clean its ears with its 21-inch tongue!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -222,15 +286,15 @@ Didn't Touch PC Last Week
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
+  <p><em>"Creativity is intelligence having fun."</em> - Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</em> - Henry Ford</p>
+  <p><em>"If your actions inspire others to dream more, learn more, do more, and become more, you are a leader."</em> - John Quincy Adams</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"What’s the point of being alive if you don’t at least try to do something remarkable."</em> - Anonymous</p>
+  <p><em>"Believe with all of your heart that you will do what you were made to do."</em> - Orison Swett Marden</p>
 </blockquote>
 </details>
 <p>
@@ -244,15 +308,15 @@ Didn't Touch PC Last Week
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>June 30, 2026</td>
-<td> 04:04 AM IST</td>
+<td>Wednesday</td>
+<td>July 01, 2026</td>
+<td> 04:14 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 01, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Thursday</td>
+<td>July 02, 2026</td>
+<td>~04:10 AM IST</td>
 </tr>
 </tbody>
 </table>
