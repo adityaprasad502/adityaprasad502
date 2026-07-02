@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/97907f2b02ba8f04363e017fd6d1b846728d85d7a3ce2bab9f3b78ca718d56af/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C695%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,741+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,742+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>76.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,437h 54m</strong> (92,370 Streams)</p>
+<p>🎧 Spotify: <strong>5,438h 28m</strong> (92,379 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,7 +52,35 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in July 2026</th></tr>
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>1 commits</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>1 commits in July 2026</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -67,43 +95,43 @@ fun main() {
 <td>JavaScript</td>
 <td>5 hrs 47 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.8%</td>
+<td>31.4%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>4 hrs 56 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.6%</td>
+<td>26.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>1 hr 58 mins</td>
+<td>1 hr 57 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.8%</td>
+<td>10.6%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 32 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.7%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>1 hr 16 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.3%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 hr 5 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.5%</td>
+<td>8.4%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 3 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>5.7%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>43 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.9%</td>
+</tr> 
+ <tr>
+<td>Batchfile</td>
+<td>33 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -118,26 +146,26 @@ fun main() {
  <tbody><tr>
 <td>Antigravity Desktop</td>
 <td>11 hrs 5 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>55.2%</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.0%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>4 hrs 32 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>2 hrs 31 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.6%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>1 hr 57 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.7%</td>
+<td>10.6%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>53 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -152,14 +180,14 @@ fun main() {
  <tbody><tr>
 <td>Linux</td>
 <td>18 hrs 6 mins</td>
-<td>██████████████████████▒▒▒</td>
-<td>90.1%</td>
+<td>████████████████████████▒</td>
+<td>98.1%</td>
 </tr> 
  <tr>
 <td>Windows</td>
-<td>1 hr 59 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.9%</td>
+<td>21 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -174,14 +202,14 @@ fun main() {
  <tbody><tr>
 <td>xoarch</td>
 <td>18 hrs 6 mins</td>
-<td>██████████████████████▒▒▒</td>
-<td>90.1%</td>
+<td>████████████████████████▒</td>
+<td>98.1%</td>
 </tr> 
  <tr>
 <td>Pu94X</td>
-<td>1 hr 59 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.9%</td>
+<td>21 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -201,7 +229,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Python</td>
-<td>636.6 KiB</td>
+<td>636.2 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>29.7%</td>
 </tr> 
@@ -250,14 +278,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a nervous javelin thrower?</strong></p>
-<p><em>» Shakespeare.</em></p>
+<p>Hey girl are you a school? Because I want to shoot some kids up inside of you.</p>
 <hr>
-<p><strong>Did you hear about the cheese factory that exploded in France?</strong></p>
-<p><em>» There was nothing left but de Brie.</em></p>
+<p><strong>Why there is no sign of life on mars?</strong></p>
+<p><em>» SAITAMA has been to mars before That’s why there's no sign of life</em></p>
 <hr>
-<p><strong>Why does Santa go down the chimney?</strong></p>
-<p><em>» Because it soots him!</em></p>
+<p><strong>Where do rabbits go after they get married?</strong></p>
+<p><em>» On a bunny-moon.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -266,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A pig`s orgasm lasts for 30 minutes.</p>
+<p>💡 Lithuania has the highest suicide rate in the world.</p>
 <hr>
-<p>💡 Dreamt is the only English word that ends in the letters “MT”.</p>
+<p>💡 The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</p>
 <hr>
-<p>💡 When sharks take a bite, their eyes roll back and their teeth jut out.</p>
+<p>💡 The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -280,15 +307,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Speak less than you know; have more than you show."</em> - William Shakespeare</p>
+  <p><em>"In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it."</em> - Jane Smiley</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The function of leadership is to produce more leaders, not more followers."</em> - Ralph Nader</p>
+  <p><em>"It took me a long time not to judge myself through someone else's eyes"</em> - Sally Field</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The distance between insanity and genius is measured only by success."</em> - Bruce Feirstein</p>
+  <p><em>"Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it."</em> - Charles F. Kettering</p>
 </blockquote>
 </details>
 <p>
@@ -302,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>July 02, 2026</td>
-<td> 04:13 AM IST</td>
+<td>Friday</td>
+<td>July 03, 2026</td>
+<td> 04:01 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>July 03, 2026</td>
-<td>~04:10 AM IST</td>
+<td>Saturday</td>
+<td>July 04, 2026</td>
+<td>~04:00 AM IST</td>
 </tr>
 </tbody>
 </table>
