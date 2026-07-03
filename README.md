@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/97907f2b02ba8f04363e017fd6d1b846728d85d7a3ce2bab9f3b78ca718d56af/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C695%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,742+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,738+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>76.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,438h 28m</strong> (92,379 Streams)</p>
+<p>🎧 Spotify: <strong>5,442h 11m</strong> (92,437 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -94,42 +94,42 @@ fun main() {
  <tbody><tr>
 <td>JavaScript</td>
 <td>5 hrs 47 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.4%</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>4 hrs 56 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.8%</td>
+<td>27.3%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>1 hr 57 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.6%</td>
+<td>10.8%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 32 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.4%</td>
+<td>8.5%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 3 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.7%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>43 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>5.8%</td>
 </tr> 
  <tr>
 <td>Batchfile</td>
 <td>33 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.1%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>32 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>3.0%</td>
 </tr>
@@ -147,25 +147,25 @@ fun main() {
 <td>Antigravity Desktop</td>
 <td>11 hrs 5 mins</td>
 <td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>60.0%</td>
+<td>61.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>4 hrs 32 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.6%</td>
+<td>25.1%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>1 hr 57 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.6%</td>
+<td>10.8%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>53 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>31 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -180,14 +180,8 @@ fun main() {
  <tbody><tr>
 <td>Linux</td>
 <td>18 hrs 6 mins</td>
-<td>████████████████████████▒</td>
-<td>98.1%</td>
-</tr> 
- <tr>
-<td>Windows</td>
-<td>21 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -202,14 +196,8 @@ fun main() {
  <tbody><tr>
 <td>xoarch</td>
 <td>18 hrs 6 mins</td>
-<td>████████████████████████▒</td>
-<td>98.1%</td>
-</tr> 
- <tr>
-<td>Pu94X</td>
-<td>21 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -278,13 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Hey girl are you a school? Because I want to shoot some kids up inside of you.</p>
+<p><strong>What do you call a fat psychic?</strong></p>
+<p><em>» A four-chin teller.</em></p>
 <hr>
-<p><strong>Why there is no sign of life on mars?</strong></p>
-<p><em>» SAITAMA has been to mars before That’s why there's no sign of life</em></p>
+<p><strong>What's the worst thing about ancient history class?</strong></p>
+<p><em>» The teachers tend to Babylon.</em></p>
 <hr>
-<p><strong>Where do rabbits go after they get married?</strong></p>
-<p><em>» On a bunny-moon.</em></p>
+<p><strong>How many lips does a flower have?</strong></p>
+<p><em>» Tulips</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Lithuania has the highest suicide rate in the world.</p>
+<p>💡 Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week.</p>
 <hr>
-<p>💡 The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</p>
+<p>💡 In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</p>
 <hr>
-<p>💡 The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</p>
+<p>💡 California has issued 6 drivers licenses to people named "Jesus Christ."</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -307,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"In my experience, there is only one motivation, and that is desire. No reasons or principle contain it or stand against it."</em> - Jane Smiley</p>
+  <p><em>"I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."</em> - Neil Armstrong</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It took me a long time not to judge myself through someone else's eyes"</em> - Sally Field</p>
+  <p><em>"By failing to prepare, you are preparing to fail."</em> - Benjamin Franklin</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Keep on going, and the chances are that you will stumble on something, perhaps when you are least expecting it."</em> - Charles F. Kettering</p>
+  <p><em>"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."</em> - Aristotle</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>July 03, 2026</td>
-<td> 04:01 AM IST</td>
+<td>Saturday</td>
+<td>July 04, 2026</td>
+<td> 03:58 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>July 04, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Sunday</td>
+<td>July 05, 2026</td>
+<td>~03:55 AM IST</td>
 </tr>
 </tbody>
 </table>
