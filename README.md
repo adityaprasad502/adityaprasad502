@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/97907f2b02ba8f04363e017fd6d1b846728d85d7a3ce2bab9f3b78ca718d56af/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324336393525323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C695%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f46bc6e4c9657ed8dfebbb22f176605d437c699b76f1bb0c117ad2052f4ab8fd/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243373033253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C703%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,738+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,748+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>76.6 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>76.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,447h 15m</strong> (92,505 Streams)</p>
+<p>🎧 Spotify: <strong>5,457h 53m</strong> (92,679 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,18 +52,18 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
+<tbody><tr><th colspan="4"> 🥰 I'm an Early 🐤</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>2 commits</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.2%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>7 commits</td>
+<td>████████████████▒▒▒▒▒▒▒▒▒</td>
+<td>63.6%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -73,13 +73,13 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>1 commits</td>
-<td>█████████████████████████</td>
-<td>100.0%</td>
+<td>2 commits</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.2%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>1 commits in July 2026</b></td>
+<td colspan="2"><b>11 commits in July 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -211,45 +211,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>735.2 KiB</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.3%</td>
+<td>800.0 KiB</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>636.2 KiB</td>
+<td>639.7 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.7%</td>
+<td>28.9%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.4%</td>
+<td>11.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>208.7 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.7%</td>
+<td>9.4%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.8%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>116.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.4%</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>63.0 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.9%</td>
+<td>2.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Did you hear the news?</strong></p>
-<p><em>» FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.</em></p>
+<p><strong>Why would a guitarist become a good programmer?</strong></p>
+<p><em>» He's adept at riffing in C#.</em></p>
 <hr>
-<p><strong>What's the difference between a gay guy and a refrigerator?</strong></p>
-<p><em>» A refrigerator doesn't fart when I pull my meat out of it.</em></p>
+<p><strong>Why are cats so good at video games?</strong></p>
+<p><em>» They have nine lives.</em></p>
 <hr>
-<p><strong>What kind of pants do ghosts wear?</strong></p>
-<p><em>» Boo jeans.</em></p>
+<p><strong>Why did the butcher work extra hours at the shop?</strong></p>
+<p><em>» To make ends meat.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 There is a 1 in 4 chance that New York will have a white Christmas.</p>
+<p>💡 A “jiffy” is the scientific name for 1/100th of a second.</p>
 <hr>
-<p>💡 The average person laughs 10 times a day!</p>
+<p>💡 More than 1,000 different languages are spoken on the continent of Africa.</p>
 <hr>
-<p>💡 Your ribs move about 5 million times a year, every time you breathe!</p>
+<p>💡 Donald Duck`s middle name is Fauntleroy.  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It does not matter how slowly you go, so long as you do not stop."</em> - Confucius</p>
+  <p><em>"Everything is approximate. Don’t aim to be right. Aim to be less wrong."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life's too mysterious to take too serious."</em> - Mary Engelbreit</p>
+  <p><em>"The difference between winning and losing is most often not quitting."</em> - Walt Disney</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"When I dare to be powerful - to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</em> - Audre Lorde</p>
+  <p><em>"Things work out best for those who make the best of how things work out."</em> - John Wooden</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 05, 2026</td>
-<td> 03:44 AM IST</td>
+<td>Monday</td>
+<td>July 06, 2026</td>
+<td> 03:47 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 06, 2026</td>
-<td>~03:40 AM IST</td>
+<td>Tuesday</td>
+<td>July 07, 2026</td>
+<td>~03:45 AM IST</td>
 </tr>
 </tbody>
 </table>
