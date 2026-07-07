@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>76.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,461h 1m</strong> (92,735 Streams)</p>
+<p>🎧 Spotify: <strong>5,462h 6m</strong> (92,759 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,43 +95,43 @@ fun main() {
 <td>JavaScript</td>
 <td>5 hrs 47 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.3%</td>
+<td>20.6%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>5 hrs 44 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.4%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>4 hrs 56 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.0%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>4 hrs 10 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.1%</td>
+<td>17.6%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>3 hrs 5 mins</td>
+<td>3 hrs 35 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.9%</td>
+<td>12.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>2 hrs 13 mins</td>
+<td>2 hrs 16 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.6%</td>
+<td>8.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 40 mins</td>
+<td>1 hr 41 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.4%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 3 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>3.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>15 hrs 1 min</td>
+<td>16 hrs 1 min</td>
 <td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.8%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>4 hrs 43 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.1%</td>
+<td>57.0%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>4 hrs 17 mins</td>
+<td>5 hrs 23 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.5%</td>
+<td>19.1%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>4 hrs 46 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.0%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>1 hr 57 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>25 hrs 59 mins</td>
+<td>28 hrs 7 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>25 hrs 59 mins</td>
+<td>28 hrs 7 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why do birds fly south for the winter?</strong></p>
-<p><em>» Because it's too far to walk.</em></p>
+<p><strong>What is red and smells like blue paint?</strong></p>
+<p><em>» Red paint!</em></p>
 <hr>
-<p><strong>How many apples grow on a tree?</strong></p>
-<p><em>» All of them!</em></p>
+<p><strong>Why did the ghost go inside the bar?</strong></p>
+<p><em>» For the boos.</em></p>
 <hr>
-<p><strong>99.9% of the people are dumb!</strong></p>
-<p><em>» Fortunately I belong to the remaining 1%</em></p>
+<p><strong>What do you give a sick lemon?</strong></p>
+<p><em>» Lemonaid.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. </p>
+<p>💡 Nearly 80% of all animals on earth have six legs.</p>
 <hr>
-<p>💡 In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</p>
+<p>💡 40% of McDonald’s profits come from the sales of Happy Meals.</p>
 <hr>
-<p>💡 The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </p>
+<p>💡 Tom Sawyer was the first novel written on a typewriter.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Be kind whenever possible. It is always possible."</em> - Dalai Lama</p>
+  <p><em>"We become what we think about most of the time, and that's the strangest secret."</em> - Earl Nightingale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In order to be irreplaceable one must always be different."</em> - Coco Chanel</p>
+  <p><em>"Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us."</em> - Samuel Smiles</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"People often say that motivation doesn’t last. Well, neither does bathing and that is why we recommend it daily."</em> - Zig Ziglar</p>
+  <p><em>"Live as if you were to die tomorrow. Learn as if you were to live forever."</em> - Mahatma Gandhi</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 07, 2026</td>
-<td> 04:11 AM IST</td>
+<td>Wednesday</td>
+<td>July 08, 2026</td>
+<td> 04:03 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 08, 2026</td>
-<td>~04:10 AM IST</td>
+<td>Thursday</td>
+<td>July 09, 2026</td>
+<td>~04:00 AM IST</td>
 </tr>
 </tbody>
 </table>
