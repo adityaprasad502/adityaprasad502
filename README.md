@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6d2ee9b009d649649db4e715463e35e488eaae6a012bddfd73046c4f42956c0e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337303525323068727325323031332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C705%20hrs%2013%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,756+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,757+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>76.9 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,462h 6m</strong> (92,759 Streams)</p>
+<p>🎧 Spotify: <strong>5,465h 16m</strong> (92,816 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,13 +57,13 @@ fun main() {
 <td>🌞 Morning</td>
 <td>2 commits</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.5%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>7 commits</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.8%</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -73,13 +73,13 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>10 commits</td>
+<td>11 commits</td>
 <td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>52.6%</td>
+<td>55.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>19 commits in July 2026</b></td>
+<td colspan="2"><b>20 commits in July 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -219,7 +219,7 @@ fun main() {
 <td>Python</td>
 <td>639.7 KiB</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.8%</td>
+<td>28.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -229,7 +229,7 @@ fun main() {
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>208.7 KiB</td>
+<td>209.7 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>9.4%</td>
 </tr> 
@@ -241,7 +241,7 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>116.2 KiB</td>
+<td>116.3 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>5.2%</td>
 </tr> 
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is red and smells like blue paint?</strong></p>
-<p><em>» Red paint!</em></p>
+<p><strong>What do 9 out of 10 people enjoy?</strong></p>
+<p><em>» Gang rape.</em></p>
 <hr>
-<p><strong>Why did the ghost go inside the bar?</strong></p>
-<p><em>» For the boos.</em></p>
+<p><strong>What did the Java code say to the C code?</strong></p>
+<p><em>» You've got no class.</em></p>
 <hr>
-<p><strong>What do you give a sick lemon?</strong></p>
-<p><em>» Lemonaid.</em></p>
+<p><strong>Did you hear that the police have a warrant out on a midget psychic ripping people off?</strong></p>
+<p><em>» It reads "Small medium at large."</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Nearly 80% of all animals on earth have six legs.</p>
+<p>💡 The name of the girl on the statue of liberty is Mother of Exiles.</p>
 <hr>
-<p>💡 40% of McDonald’s profits come from the sales of Happy Meals.</p>
+<p>💡 "Dreamt" is the only English word that ends in the letters "mt."</p>
 <hr>
-<p>💡 Tom Sawyer was the first novel written on a typewriter.</p>
+<p>💡 The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
+  <p><em>"Everything you can imagine is real."</em> - Pablo Picasso</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Who you let into your life is a vital decision. Don’t leave it up to chance."</em> - Zat Rana</p>
+</blockquote>
+<hr>
+<blockquote>
   <p><em>"We become what we think about most of the time, and that's the strangest secret."</em> - Earl Nightingale</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us."</em> - Samuel Smiles</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"Live as if you were to die tomorrow. Learn as if you were to live forever."</em> - Mahatma Gandhi</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 08, 2026</td>
-<td> 04:03 AM IST</td>
+<td>Thursday</td>
+<td>July 09, 2026</td>
+<td> 03:57 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>July 09, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Friday</td>
+<td>July 10, 2026</td>
+<td>~03:55 AM IST</td>
 </tr>
 </tbody>
 </table>
