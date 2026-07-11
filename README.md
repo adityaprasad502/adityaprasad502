@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/097093d0627ab1b286c0fc29347af2ac1cd79f86dd613fdb122798f056a49a29/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337303625323068727325323031322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C706%20hrs%2012%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6c56d805e52c6b7ac41ee516a522807f3356ebaafaf3c1beabcc6f927762cc97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337303725323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C707%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,758+</strong> Commits made on GitHub</p>
-<p>🗃️ <strong>6</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>77.0 MiB</strong> Used in GitHub Storage</p>
+<p>🏆 <strong>5,766+</strong> Commits made on GitHub</p>
+<p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
+<p>📦 <strong>78.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,470h 8m</strong> (92,899 Streams)</p>
+<p>🎧 Spotify: <strong>5,477h 40m</strong> (93,029 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -56,30 +56,30 @@ fun main() {
  <tr>
 <td>🌞 Morning</td>
 <td>2 commits</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.5%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.9%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>7 commits</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>11 commits</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.9%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>3 commits</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.3%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>12 commits</td>
-<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.1%</td>
+<td>13 commits</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.8%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>21 commits in July 2026</b></td>
+<td colspan="2"><b>29 commits in July 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -210,46 +210,46 @@ fun main() {
 <summary><b>💽 Repo Distribution (Owned)</b></summary><br>
 <table>
  <tbody><tr>
+<td>QML</td>
+<td>1.9 MiB</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.8%</td>
+</tr> 
+ <tr>
 <td>Kotlin</td>
 <td>811.5 KiB</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.4%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>639.7 KiB</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.7%</td>
+<td>709.3 KiB</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.9%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>377.7 KiB</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.5%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.0%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>210.5 KiB</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.5%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>TypeScript</td>
 <td>124.2 KiB</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.8%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>116.2 KiB</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.2%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>63.0 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -266,14 +266,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What did the Zen Buddist say to the hotdog vendor?</strong></p>
-<p><em>» Make me one with everything.</em></p>
+<p><strong>What do you call a boomerang that won't come back?</strong></p>
+<p><em>» A stick.</em></p>
 <hr>
-<p><strong>I walked into a bar once.</strong></p>
-<p><em>» It really hurt my head.</em></p>
+<p><strong>What's the best way to watch a fly fishing tournament?</strong></p>
+<p><em>» Live stream.</em></p>
 <hr>
-<p><strong>Why was the river rich?</strong></p>
-<p><em>» Because it had two banks.</em></p>
+<p>I have a joke about trickle down economics, but 99% of you will never get it.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +281,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</p>
+<p>💡 315 entries in Webster’s 1996 dictionary were misspelled.</p>
 <hr>
-<p>💡 It's illegal to spit on the sidewalk in Norfolk, Virginia.</p>
+<p>💡 The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.</p>
 <hr>
-<p>💡 The average human eats 8 spiders in their lifetime at night.</p>
+<p>💡 Broccoli and cauliflower are the only vegetables that are flowers.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +295,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
+  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better."</em> - Jim Rohn</p>
+  <p><em>"Ask and it will be given to you; search and you will find; knock and the door will be opened for you."</em> - Jesus</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Sometimes you can't see yourself clearly until you see yourself through the eyes of others."</em> - Ellen DeGeneres</p>
+  <p><em>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."</em> - David Brinkley</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +317,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>July 11, 2026</td>
-<td> 03:58 AM IST</td>
+<td>Sunday</td>
+<td>July 12, 2026</td>
+<td> 03:40 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>July 12, 2026</td>
-<td>~03:55 AM IST</td>
+<td>Monday</td>
+<td>July 13, 2026</td>
+<td>~03:40 AM IST</td>
 </tr>
 </tbody>
 </table>
