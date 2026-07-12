@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6c56d805e52c6b7ac41ee516a522807f3356ebaafaf3c1beabcc6f927762cc97/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337303725323068727325323032352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C707%20hrs%2025%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6090dcb310318d50dc6f09aa9a180c55964ea26abd9a6615f7e970f8e9e9727a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243373134253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C714%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,766+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,776+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>78.1 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>78.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,477h 40m</strong> (93,029 Streams)</p>
+<p>🎧 Spotify: <strong>5,491h 25m</strong> (93,259 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>2 commits</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>3 commits</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>11 commits</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.9%</td>
+<td>13 commits</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.3%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>3 commits</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.3%</td>
+<td>6 commits</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.4%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>13 commits</td>
+<td>17 commits</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.8%</td>
+<td>43.6%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>29 commits in July 2026</b></td>
+<td colspan="2"><b>39 commits in July 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,43 +95,43 @@ fun main() {
 <td>JavaScript</td>
 <td>6 hrs 9 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.2%</td>
+<td>20.3%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>5 hrs 44 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.7%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>5 hrs 32 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.1%</td>
+<td>18.3%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 35 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.3%</td>
+<td>11.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>2 hrs 16 mins</td>
+<td>2 hrs 47 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.8%</td>
+<td>9.2%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>1 hr 41 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.8%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 3 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.6%</td>
+<td>3.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,25 +147,25 @@ fun main() {
 <td>Antigravity Desktop</td>
 <td>16 hrs 55 mins</td>
 <td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.2%</td>
+<td>55.8%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>6 hrs 2 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.9%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>5 hrs 23 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.5%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>4 hrs 50 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.6%</td>
+<td>17.8%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>1 hr 57 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>6.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>29 hrs 6 mins</td>
+<td>30 hrs 18 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>29 hrs 6 mins</td>
+<td>30 hrs 18 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -213,25 +213,25 @@ fun main() {
 <td>QML</td>
 <td>1.9 MiB</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.8%</td>
+<td>43.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>811.5 KiB</td>
+<td>841.3 KiB</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.2%</td>
+<td>18.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>709.3 KiB</td>
+<td>705.8 KiB</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.9%</td>
+<td>15.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>377.7 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.5%</td>
+<td>8.4%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -266,13 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a boomerang that won't come back?</strong></p>
-<p><em>» A stick.</em></p>
+<p><strong>Why are pirates called pirates?</strong></p>
+<p><em>» Because they arrr!</em></p>
 <hr>
-<p><strong>What's the best way to watch a fly fishing tournament?</strong></p>
-<p><em>» Live stream.</em></p>
+<p><strong>Why do programmers wear glasses?</strong></p>
+<p><em>» Because they need to C#</em></p>
 <hr>
-<p>I have a joke about trickle down economics, but 99% of you will never get it.</p>
+<p><strong>What do you call a belt made out of watches?</strong></p>
+<p><em>» A waist of time.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -281,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 315 entries in Webster’s 1996 dictionary were misspelled.</p>
+<p>💡 Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.</p>
 <hr>
-<p>💡 The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.</p>
+<p>💡 You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
 <hr>
-<p>💡 Broccoli and cauliflower are the only vegetables that are flowers.</p>
+<p>💡 One out of every 43 prisoners escapes from jail. 94% are recaptured.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -295,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
+  <p><em>"Be kind to yourself in the face of failures. They really don’t define you."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Ask and it will be given to you; search and you will find; knock and the door will be opened for you."</em> - Jesus</p>
+  <p><em>"There is no easy walk to freedom anywhere, and many of us will have to pass through the valley of the shadow of death again and again before we reach the mountaintop of our desires."</em> - Nelson Mandela</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."</em> - David Brinkley</p>
+  <p><em>"To me, business isn't about wearing suits or pleasing stockholders. It's about being true to yourself, your ideas and focusing on the essentials."</em> - Richard Branson</p>
 </blockquote>
 </details>
 <p>
@@ -317,14 +318,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>July 12, 2026</td>
+<td>Monday</td>
+<td>July 13, 2026</td>
 <td> 03:40 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>July 13, 2026</td>
+<td>Tuesday</td>
+<td>July 14, 2026</td>
 <td>~03:40 AM IST</td>
 </tr>
 </tbody>
