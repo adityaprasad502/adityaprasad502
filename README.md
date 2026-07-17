@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/6090dcb310318d50dc6f09aa9a180c55964ea26abd9a6615f7e970f8e9e9727a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243373134253230687273253230392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C714%20hrs%209%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4fc73c90a50108629f7c989cb15af6580655761b9043f96182d12165fd735735/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337313525323068727325323032322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C715%20hrs%2022%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,781+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>78.2 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>78.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>461</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,501h 26m</strong> (93,425 Streams)</p>
+<p>🎧 Spotify: <strong>5,504h 38m</strong> (93,480 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,43 +95,43 @@ fun main() {
 <td>Kotlin</td>
 <td>8 hrs 4 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.8%</td>
+<td>22.2%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>6 hrs 9 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.4%</td>
+<td>17.0%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>5 hrs 32 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.7%</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.3%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 17 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.1%</td>
+<td>11.8%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>3 hrs 4 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.7%</td>
+<td>8.4%</td>
 </tr> 
  <tr>
 <td>QML</td>
-<td>2 hrs 27 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.9%</td>
+<td>2 hrs 53 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
-<td>1 hr 30 mins</td>
+<td>1 hr 53 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>5.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,33 +145,33 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>20 hrs 44 mins</td>
+<td>20 hrs 47 mins</td>
 <td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>58.7%</td>
+<td>57.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>7 hrs 52 mins</td>
+<td>8 hrs 9 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.3%</td>
+<td>22.5%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 33 mins</td>
+<td>4 hrs 48 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.9%</td>
+<td>13.2%</td>
 </tr> 
  <tr>
 <td>Antigravity IDE</td>
 <td>1 hr 57 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.5%</td>
+<td>5.4%</td>
 </tr> 
  <tr>
 <td>Copilot CLI</td>
-<td>13 mins</td>
+<td>34 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>1.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>35 hrs 20 mins</td>
+<td>36 hrs 17 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -201,7 +201,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>35 hrs 20 mins</td>
+<td>36 hrs 17 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -272,15 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Hey, wanna hear a joke?</strong></p>
-<p><em>» Parsing HTML with regex.</em></p>
+<p><strong>What did the digital clock say to the grandfather clock?</strong></p>
+<p><em>» Look, no hands!</em></p>
 <hr>
-<p><strong>Went to the doctors for a prostate exam.
-During the exam he said it's not unusual to become aroused or even ejaculate.</strong></p>
-<p><em>» But still, I wish he hadn't.</em></p>
+<p><strong>Why do bees have sticky hair?</strong></p>
+<p><em>» Because they use honey combs!</em></p>
 <hr>
-<p><strong>How do you organize a space party?</strong></p>
-<p><em>» You planet.</em></p>
+<p><strong>What is a tornado's favorite game to play?</strong></p>
+<p><em>» Twister!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,11 +288,11 @@ During the exam he said it's not unusual to become aroused or even ejaculate.</s
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Humans and dolphins are the only species that have sex for pleasure.</p>
+<p>💡 One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.</p>
 <hr>
-<p>💡 It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
+<p>💡 The sperm of a mouse is actually longer than the sperm of an elephant.</p>
 <hr>
-<p>💡 Respiratory Disease is China's leading cause of death.</p>
+<p>💡 India has a Bill of Rights for cows.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -303,15 +302,15 @@ During the exam he said it's not unusual to become aroused or even ejaculate.</s
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"I don't want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well."</em> - Diane Ackerman</p>
+  <p><em>"Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us."</em> - Samuel Smiles</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you genuinely want something, don’t wait for it — teach yourself to be impatient."</em> - Gurbaksh Chahal</p>
+  <p><em>"People suck. But if you’re kind, you’ll get the best out of even the worst."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It is never too late to be what you might have been."</em> - George Eliot</p>
+  <p><em>"Identity is a prison you can never escape, but the way to redeem your past is not to run from it, but to try to understand it, and use it as a foundation to grow."</em> - Jay-Z</p>
 </blockquote>
 </details>
 <p>
@@ -325,15 +324,15 @@ During the exam he said it's not unusual to become aroused or even ejaculate.</s
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>July 16, 2026</td>
-<td> 03:47 AM IST</td>
+<td>Friday</td>
+<td>July 17, 2026</td>
+<td> 08:11 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>July 17, 2026</td>
-<td>~03:45 AM IST</td>
+<td>Saturday</td>
+<td>July 18, 2026</td>
+<td>~08:10 AM IST</td>
 </tr>
 </tbody>
 </table>
