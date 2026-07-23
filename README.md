@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9961b2b616ba4f7508ed62cfb932a087c532e12a458e7dbe263969f343df105c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d31253243373237253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C727%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/915bfed025ac7b44b5f17eb665b82394021c18992143e0dc428f7aa0cc22fb80/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d30253230736563732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-0%20secs-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,818+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>79.0 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,527h 11m</strong> (93,865 Streams)</p>
+<p>🎧 Spotify: <strong>5,528h 41m</strong> (93,893 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>12 hrs 52 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.8%</td>
+<td>5 hrs 44 mins</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>45.4%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>7 hrs 37 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
-</tr> 
- <tr>
-<td>Markdown</td>
-<td>3 hrs 21 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.8%</td>
-</tr> 
- <tr>
-<td>QML</td>
-<td>3 hrs 17 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.6%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>3 hrs 9 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.3%</td>
+<td>3 hrs 10 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.1%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>2 hrs 40 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.0%</td>
+<td>1 hr 19 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.5%</td>
 </tr> 
  <tr>
-<td>Java</td>
-<td>1 hr 3 mins</td>
+<td>Markdown</td>
+<td>42 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.6%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>37 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.0%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
+<td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>2.2%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>20 hrs 48 mins</td>
-<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>54.6%</td>
+<td>7 hrs 17 mins</td>
+<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.7%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>13 hrs 52 mins</td>
+<td>4 hrs 52 mins</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.4%</td>
+<td>38.5%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 45 mins</td>
+<td>28 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>3.7%</td>
 </tr> 
  <tr>
-<td>Copilot CLI</td>
-<td>41 mins</td>
+<td>Unknown Editor</td>
+<td>0 secs</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.8%</td>
+<td>0.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,9 +179,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>38 hrs 8 mins</td>
+<td>12 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
+</tr> 
+ <tr>
+<td>Unknown OS</td>
+<td>0 secs</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -195,7 +201,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>38 hrs 8 mins</td>
+<td>12 hrs 38 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +272,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>If you mix a melon and collie, what do you get?</strong></p>
-<p><em>» The Melancholy of Haruhi Suzumiya!</em></p>
+<p><strong>What do you call a nervous javelin thrower?</strong></p>
+<p><em>» Shakespeare.</em></p>
 <hr>
 <p><strong>What is the tallest building in the world?</strong></p>
 <p><em>» The library, it’s got the most stories!</em></p>
 <hr>
-<p><strong>Did you hear about the chameleon who couldn't change color?</strong></p>
-<p><em>» They had a reptile dysfunction.</em></p>
+<p><strong>Why are Assembly programmers always soaking wet?</strong></p>
+<p><em>» They work below C-level.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +288,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 You're born with 300 bones, but by the time you become an adult, you only have 206.</p>
+<p>💡 The glue on Israeli postage is certified kosher.</p>
 <hr>
-<p>💡 Albert Einstein and Charles Darwin both married their first cousins</p>
+<p>💡 Mr. Rogers was an ordained Presbyterian minister.</p>
 <hr>
-<p>💡 Mercury is the only planet whose orbit is coplanar with its equator.</p>
+<p>💡 The S in Harry S. Truman did not stand for anything.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,11 +302,11 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
+  <p><em>"Being strong means rejoicing in who you are, complete with imperfections"</em> - Margaret Woodhouse</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</em> - Eleanor Roosevelt</p>
+  <p><em>"Fortune sides with him who dares."</em> - Virgil</p>
 </blockquote>
 <hr>
 <blockquote>
@@ -318,14 +324,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Thursday</td>
-<td>July 23, 2026</td>
-<td> 03:58 AM IST</td>
+<td>Friday</td>
+<td>July 24, 2026</td>
+<td> 03:57 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Friday</td>
-<td>July 24, 2026</td>
+<td>Saturday</td>
+<td>July 25, 2026</td>
 <td>~03:55 AM IST</td>
 </tr>
 </tbody>
