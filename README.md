@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/90fe624c79923eab790a9864d580e4317ee0579ec4c29f9ac0dce1b09a749d3d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337323825323068727325323032332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C728%20hrs%2023%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/95c0131dc5b53762300f78d1940849e3f4d809332137ea5f85da7af41c45cac1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337323925323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C729%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,819+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,827+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
-<p>📦 <strong>79.3 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>79.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,540h 43m</strong> (94,094 Streams)</p>
+<p>🎧 Spotify: <strong>5,543h 23m</strong> (94,141 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>5 commits</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.1%</td>
+<td>5.6%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>15 commits</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
+<td>16.7%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>15 commits</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
+<td>16.7%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>47 commits</td>
-<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>57.3%</td>
+<td>55 commits</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>61.1%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>82 commits in July 2026</b></td>
+<td colspan="2"><b>90 commits in July 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,13 +95,13 @@ fun main() {
 <td>Kotlin</td>
 <td>13 hrs 3 mins</td>
 <td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.6%</td>
+<td>40.8%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>7 hrs 29 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.3%</td>
+<td>23.4%</td>
 </tr> 
  <tr>
 <td>QML</td>
@@ -145,19 +145,19 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>15 hrs 15 mins</td>
-<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.5%</td>
+<td>15 hrs 11 mins</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>47.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>14 hrs</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.6%</td>
+<td>43.8%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 9 mins</td>
+<td>2 hrs 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>6.7%</td>
 </tr> 
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>32 hrs 6 mins</td>
+<td>32 hrs 1 min</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr> 
@@ -207,7 +207,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>32 hrs 7 mins</td>
+<td>32 hrs 1 min</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -229,7 +229,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Kotlin</td>
-<td>865.7 KiB</td>
+<td>867.0 KiB</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>19.0%</td>
 </tr> 
@@ -278,13 +278,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you call a factory that sells passable products?</strong></p>
-<p><em>» A satisfactory</em></p>
+<p><strong>Why did the chicken cross the playground?</strong></p>
+<p><em>» To get to the other slide.</em></p>
 <hr>
-<p><strong>Why did the melon jump into the lake?</strong></p>
-<p><em>» It wanted to be a water-melon!</em></p>
+<p><strong>Why don't programmers like nature?</strong></p>
+<p><em>» There's too many bugs.</em></p>
 <hr>
-<p>Hey girl are you a school? Because I want to shoot some kids up inside of you.</p>
+<p><strong>So I made a graph of all my past relationships.</strong></p>
+<p><em>» It has an ex axis and a why axis.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,11 +294,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Canada makes up 6.67 percent of the Earth`s land area</p>
+<p>💡 When you sneeze, all your bodily functions stop even your heart.</p>
 <hr>
-<p>💡 The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</p>
+<p>💡 Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
 <hr>
-<p>💡 The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
+<p>💡 the bird is the word</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -307,15 +308,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The most effective way to do it, is to do it."</em> - Amelia Earhart</p>
+  <p><em>"In a gentle way, you can shake the world."</em> - Mahatma Gandhi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Things work out best for those who make the best of how things work out."</em> - John Wooden</p>
+  <p><em>"Don’t let what you cannot do interfere with what you can do."</em> - John R. Wooden</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Always work hard. Intensity clarifies. It creates not only momentum, but also the pressure you need to feel either friction, or fulfillment."</em> - Marcus Buckingham</p>
+  <p><em>"Your true success in life begins only when you make the commitment to become excellent at what you do."</em> - Brian Tracy</p>
 </blockquote>
 </details>
 <p>
@@ -329,15 +330,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>July 28, 2026</td>
-<td> 04:00 AM IST</td>
+<td>Wednesday</td>
+<td>July 29, 2026</td>
+<td> 03:58 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>July 29, 2026</td>
-<td>~04:00 AM IST</td>
+<td>Thursday</td>
+<td>July 30, 2026</td>
+<td>~03:55 AM IST</td>
 </tr>
 </tbody>
 </table>
