@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/95c0131dc5b53762300f78d1940849e3f4d809332137ea5f85da7af41c45cac1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337323925323068727325323033302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C729%20hrs%2030%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,827+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,828+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>79.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,543h 23m</strong> (94,141 Streams)</p>
+<p>🎧 Spotify: <strong>5,544h 42m</strong> (94,165 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>5 commits</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>15 commits</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.7%</td>
+<td>16.5%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>15 commits</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.7%</td>
+<td>16.5%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>55 commits</td>
+<td>56 commits</td>
 <td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
-<td>61.1%</td>
+<td>61.5%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>90 commits in July 2026</b></td>
+<td colspan="2"><b>91 commits in July 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>13 hrs 3 mins</td>
+<td>13 hrs 45 mins</td>
 <td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.8%</td>
+<td>41.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>7 hrs 29 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.4%</td>
+<td>7 hrs 46 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.5%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>3 hrs 27 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.8%</td>
+<td>10.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>2 hrs 11 mins</td>
+<td>2 hrs 13 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.8%</td>
+<td>6.7%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>1 hr 3 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.3%</td>
+<td>3.2%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>52 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.7%</td>
+<td>2.6%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>44 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>2.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>15 hrs 11 mins</td>
+<td>15 hrs 39 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.4%</td>
+<td>47.2%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs</td>
+<td>14 hrs 39 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.8%</td>
+<td>44.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>2 hrs 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>6.4%</td>
 </tr> 
  <tr>
 <td>Copilot CLI</td>
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>32 hrs 1 min</td>
+<td>33 hrs 8 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr> 
@@ -207,7 +207,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>32 hrs 1 min</td>
+<td>33 hrs 8 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -278,14 +278,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the chicken cross the playground?</strong></p>
-<p><em>» To get to the other slide.</em></p>
+<p><strong>What kind of bees produce milk?</strong></p>
+<p><em>» Boo-Bees.</em></p>
 <hr>
-<p><strong>Why don't programmers like nature?</strong></p>
-<p><em>» There's too many bugs.</em></p>
+<p>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</p>
 <hr>
-<p><strong>So I made a graph of all my past relationships.</strong></p>
-<p><em>» It has an ex axis and a why axis.</em></p>
+<p><strong>What do birds give out on Halloween?</strong></p>
+<p><em>» Tweets.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -294,11 +293,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 When you sneeze, all your bodily functions stop even your heart.</p>
+<p>💡 The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.</p>
 <hr>
-<p>💡 Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
+<p>💡 In every episode of Seinfeld there is a Superman somewhere.</p>
 <hr>
-<p>💡 the bird is the word</p>
+<p>💡 On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -308,15 +307,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"In a gentle way, you can shake the world."</em> - Mahatma Gandhi</p>
+  <p><em>"All our dreams can come true if we have the courage to pursue them."</em> - Walt Disney</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t let what you cannot do interfere with what you can do."</em> - John R. Wooden</p>
+  <p><em>"The two most important days in your life are the day you are born and the day you find out why."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Your true success in life begins only when you make the commitment to become excellent at what you do."</em> - Brian Tracy</p>
+  <p><em>"Don't worry about failure; you only have to be right once."</em> - Drew Houston</p>
 </blockquote>
 </details>
 <p>
@@ -330,15 +329,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>July 29, 2026</td>
-<td> 03:58 AM IST</td>
+<td>Thursday</td>
+<td>July 30, 2026</td>
+<td> 03:46 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>July 30, 2026</td>
-<td>~03:55 AM IST</td>
+<td>Friday</td>
+<td>July 31, 2026</td>
+<td>~03:45 AM IST</td>
 </tr>
 </tbody>
 </table>
