@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Kotlin</td>
-<td>13 hrs 45 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.5%</td>
+<td>9 hrs 34 mins</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.0%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>7 hrs 46 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.5%</td>
+<td>5 hrs 7 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.3%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>3 hrs 27 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.4%</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>13.7%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>2 hrs 13 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>1 hr 56 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>Java</td>
-<td>1 hr 3 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.2%</td>
+<td>56 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.7%</td>
 </tr> 
  <tr>
 <td>Text</td>
-<td>52 mins</td>
+<td>47 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>3.1%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>44 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.2%</td>
+<td>2.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>15 hrs 39 mins</td>
+<td>11 hrs 42 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.2%</td>
+<td>46.4%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>14 hrs 39 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.2%</td>
+<td>10 hrs 53 mins</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 8 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.4%</td>
+<td>1 hr 57 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>Copilot CLI</td>
 <td>41 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.1%</td>
+<td>2.7%</td>
 </tr> 
  <tr>
 <td>Unknown Editor</td>
@@ -185,7 +185,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>33 hrs 8 mins</td>
+<td>25 hrs 14 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr> 
@@ -207,7 +207,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>33 hrs 8 mins</td>
+<td>25 hrs 14 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -278,14 +278,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the least spoken language in the world?</strong></p>
-<p><em>» Sign language.</em></p>
+<p><strong>Hey, wanna hear a joke?</strong></p>
+<p><em>» Parsing HTML with regex.</em></p>
 <hr>
-<p><strong>Why do trees seem suspicious on sunny days?</strong></p>
-<p><em>» Dunno, they're just a bit shady.</em></p>
+<p><strong>What's Forrest Gump's password?</strong></p>
+<p><em>» 1Forrest1</em></p>
 <hr>
-<p><strong>What do you call a computer mouse that swears a lot?</strong></p>
-<p><em>» A cursor!</em></p>
+<p><strong>Why are mummys scared of vacation?</strong></p>
+<p><em>» They're afraid to unwind.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -294,11 +294,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 No word in the English language rhymes with month, orange, silver and purple.</p>
+<p>💡 The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`</p>
 <hr>
-<p>💡 The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</p>
+<p>💡 11% of the world is left-handed.</p>
 <hr>
-<p>💡 Most lipstick contains fish scales!</p>
+<p>💡 The state of Florida is bigger than England.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -308,15 +308,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."</em> - Charles Darwin</p>
+  <p><em>"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like."</em> - Mike Gafka</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Things work out best for those who make the best of how things work out."</em> - John Wooden</p>
+  <p><em>"You can't please everyone, and you can't make everyone like you."</em> - Katie Couric</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is not about finding yourself. Life is about creating yourself."</em> - Lolly Daskal</p>
+  <p><em>"Intelligence without ambition is a bird without wings."</em> - Salvador Dali</p>
 </blockquote>
 </details>
 <p>
@@ -330,14 +330,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>August 05, 2026</td>
-<td> 04:01 AM IST</td>
+<td>Thursday</td>
+<td>August 06, 2026</td>
+<td> 04:00 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>August 06, 2026</td>
+<td>Friday</td>
+<td>August 07, 2026</td>
 <td>~04:00 AM IST</td>
 </tr>
 </tbody>
