@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>80.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,571h 2m</strong> (94,617 Streams)</p>
+<p>🎧 Spotify: <strong>5,573h 46m</strong> (94,666 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -94,44 +94,44 @@ fun main() {
  <tbody><tr>
 <td>Kotlin</td>
 <td>8 hrs 1 min</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>34.4%</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>35.9%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>4 hrs 37 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.8%</td>
+<td>20.7%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>3 hrs 27 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.8%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.5%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>1 hr 56 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.3%</td>
+<td>8.7%</td>
 </tr> 
  <tr>
 <td>Java</td>
 <td>56 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
+<td>4.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>53 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>48 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.4%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,19 +145,19 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>11 hrs 1 min</td>
+<td>10 hrs 6 mins</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.3%</td>
+<td>45.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>9 hrs 47 mins</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>42.0%</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>43.8%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 49 mins</td>
+<td>1 hr 45 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>7.8%</td>
 </tr> 
@@ -165,7 +165,7 @@ fun main() {
 <td>Copilot CLI</td>
 <td>41 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>3.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>23 hrs 19 mins</td>
+<td>22 hrs 20 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>23 hrs 19 mins</td>
+<td>22 hrs 20 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,13 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What does a perverted frog say?</strong></p>
-<p><em>» Rubbit.</em></p>
+<p><strong>What does tofu and a dildo have in common?</strong></p>
+<p><em>» They're both meat substitutes.</em></p>
 <hr>
-<p><strong>Why did the scarecrow win an award?</strong></p>
-<p><em>» Because he was outstanding in his field.</em></p>
+<p><strong>I'm sure good looking lesbians look at fat lesbians and give them no chance.</strong></p>
+<p><em>» Until they see their fingers.</em></p>
 <hr>
-<p>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</p>
+<p><strong>Who is Santa's favourite singer?</strong></p>
+<p><em>» Elf-is Presley!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -281,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 James Bond`s car had three different license plates in Goldfinger</p>
+<p>💡 If a rooster can`t fully extend its neck, it can`t crow.</p>
 <hr>
-<p>💡 The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</p>
+<p>💡 Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. </p>
 <hr>
-<p>💡 The name of the girl on the statue of liberty is Mother of Exiles.</p>
+<p>💡 The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -295,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you do what you always did, you will get what you always got."</em> - Anonymous</p>
+  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
+  <p><em>"To know oneself, one should assert oneself."</em> - Albert Camus</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"I don't want to get to the end of my life and find that I lived just the length of it. I want to have lived the width of it as well."</em> - Diane Ackerman</p>
+  <p><em>"The only place where success comes before work is in the dictionary."</em> - Vidal Sassoon</p>
 </blockquote>
 </details>
 <p>
@@ -317,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 09, 2026</td>
-<td> 03:19 AM IST</td>
+<td>Monday</td>
+<td>August 10, 2026</td>
+<td> 03:22 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 10, 2026</td>
-<td>~03:15 AM IST</td>
+<td>Tuesday</td>
+<td>August 11, 2026</td>
+<td>~03:20 AM IST</td>
 </tr>
 </tbody>
 </table>
