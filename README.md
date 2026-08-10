@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/99e1c8b35d9faf9053ab38b0cc285ce309c67b3b321fa3451f81b7d09bc264d3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337323925323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C729%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,831+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,832+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>17</strong> Private Repositories</p>
 <p>📦 <strong>80.1 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,573h 46m</strong> (94,666 Streams)</p>
+<p>🎧 Spotify: <strong>5,574h 36m</strong> (94,679 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -56,8 +56,8 @@ fun main() {
  <tr>
 <td>🌞 Morning</td>
 <td>1 commits</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
@@ -73,13 +73,13 @@ fun main() {
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>2 commits</td>
-<td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>66.7%</td>
+<td>3 commits</td>
+<td>██████████████████▒▒▒▒▒▒▒</td>
+<td>75.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>3 commits in August 2026</b></td>
+<td colspan="2"><b>4 commits in August 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -213,7 +213,7 @@ fun main() {
 <td>QML</td>
 <td>1.9 MiB</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.6%</td>
+<td>43.5%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
@@ -229,7 +229,7 @@ fun main() {
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>383.0 KiB</td>
+<td>384.4 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>8.4%</td>
 </tr> 
@@ -247,9 +247,9 @@ fun main() {
 </tr> 
  <tr>
 <td>CSS</td>
-<td>116.3 KiB</td>
+<td>119.3 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What does tofu and a dildo have in common?</strong></p>
-<p><em>» They're both meat substitutes.</em></p>
+<p><strong>Two peanuts were walking.</strong></p>
+<p><em>» One was assaulted.</em></p>
 <hr>
-<p><strong>I'm sure good looking lesbians look at fat lesbians and give them no chance.</strong></p>
-<p><em>» Until they see their fingers.</em></p>
+<p><strong>Why did the banana go see a doctor?</strong></p>
+<p><em>» Because it wasn't peeling well.</em></p>
 <hr>
-<p><strong>Who is Santa's favourite singer?</strong></p>
-<p><em>» Elf-is Presley!</em></p>
+<p><strong>What are the strongest days of the week?</strong></p>
+<p><em>» Saturday and Sunday...the rest are weekdays.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 If a rooster can`t fully extend its neck, it can`t crow.</p>
+<p>💡 If you feed a seagull Alka-Seltzer, its stomach will explode.</p>
 <hr>
-<p>💡 Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. </p>
+<p>💡 Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.</p>
 <hr>
-<p>💡 The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </p>
+<p>💡 Hot water is heavier than cold.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</em> - Steve Jobs</p>
+  <p><em>"The distance between insanity and genius is measured only by success."</em> - Bruce Feirstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To know oneself, one should assert oneself."</em> - Albert Camus</p>
+  <p><em>"The biggest risk is not taking any risk...In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks."</em> - Mark Zuckerberg</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The only place where success comes before work is in the dictionary."</em> - Vidal Sassoon</p>
+  <p><em>"It does not matter how slowly you go, so long as you do not stop."</em> - Confucius</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>August 10, 2026</td>
-<td> 03:22 AM IST</td>
+<td>Tuesday</td>
+<td>August 11, 2026</td>
+<td> 03:31 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>August 11, 2026</td>
-<td>~03:20 AM IST</td>
+<td>Wednesday</td>
+<td>August 12, 2026</td>
+<td>~03:30 AM IST</td>
 </tr>
 </tbody>
 </table>
