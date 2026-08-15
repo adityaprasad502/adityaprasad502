@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/56a0b0d438570d784ead599e5fc90f10da4a6366762a9308dec3d731d1b19d98/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337333025323068727325323035332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C730%20hrs%2053%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4e9f13d2bc13eb30babfd46800330a5c4d95f9465c21639b678b04abddbeb556/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337333225323068727325323034352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C732%20hrs%2045%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,842+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>80.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,587h 49m</strong> (94,885 Streams)</p>
+<p>🎧 Spotify: <strong>5,589h 10m</strong> (94,908 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -94,44 +94,44 @@ fun main() {
  <tbody><tr>
 <td>Kotlin</td>
 <td>5 hrs 41 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.8%</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>34.7%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 55 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.4%</td>
+<td>23.9%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>1 hr 12 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>1 hr 9 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.1%</td>
 </tr> 
  <tr>
-<td>QML</td>
-<td>1 hr</td>
+<td>HTML</td>
+<td>50 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.5%</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>45 mins</td>
+<td>43 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>4.4%</td>
 </tr> 
  <tr>
-<td>JavaScript</td>
-<td>39 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>26 mins</td>
+<td>JSON</td>
+<td>32 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.8%</td>
+<td>3.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -144,28 +144,28 @@ fun main() {
 <summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Android Studio</td>
-<td>7 hrs 17 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>47.2%</td>
+<td>Antigravity Desktop</td>
+<td>8 hrs 27 mins</td>
+<td>█████████████▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>51.6%</td>
 </tr> 
  <tr>
-<td>Antigravity Desktop</td>
-<td>7 hrs 12 mins</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>46.6%</td>
+<td>Android Studio</td>
+<td>7 hrs 1 min</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>42.8%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>29 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.1%</td>
+<td>48 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.9%</td>
 </tr> 
  <tr>
 <td>Copilot CLI</td>
-<td>28 mins</td>
+<td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>0.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -179,7 +179,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>15 hrs 27 mins</td>
+<td>16 hrs 23 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +195,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>15 hrs 27 mins</td>
+<td>16 hrs 23 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,14 +266,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the A go to the bathroom and come out as an E?</strong></p>
-<p><em>» Because he had a vowel movement.</em></p>
+<p><strong>Why did the Clydesdale give the pony a glass of water?</strong></p>
+<p><em>» Because he was a little horse</em></p>
 <hr>
-<p><strong>Did you hear about the new restaurant on the moon?</strong></p>
-<p><em>» The food is great, but there’s just no atmosphere.</em></p>
+<p><strong>Why shouldn't you visit an expensive wig shop?</strong></p>
+<p><em>» It's too high a price "toupee."</em></p>
 <hr>
-<p><strong>What has ears but cannot hear?</strong></p>
-<p><em>» A field of corn.</em></p>
+<p><strong>What do you call fake spaghetti?</strong></p>
+<p><em>» An impasta.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -282,11 +282,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 CBS` "60 Minutes" is the only TV show without a theme song/music.</p>
+<p>💡 Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.</p>
 <hr>
-<p>💡 The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
+<p>💡 It’s estimated that at any one time around 0.7% of the world’s population is drunk.</p>
 <hr>
-<p>💡 Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.</p>
+<p>💡 The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -296,15 +296,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Life is 10% of what happens to me and 90% of how I react to it"</em> - John Maxwell</p>
+  <p><em>"People who are crazy enough to think they can change the world, are the ones who do."</em> - Rob Siltanen</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The number one reason people fail in life is because they listen to their friends, family, and neighbors."</em> - Napoleon Hill</p>
+  <p><em>"For the world to put you down, it first needs you to give it permission."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To know oneself, one should assert oneself."</em> - Albert Camus</p>
+  <p><em>"In the midst of movement and chaos, keep stillness inside of you."</em> - Deepak Chopra</p>
 </blockquote>
 </details>
 <p>
@@ -318,15 +318,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 15, 2026</td>
-<td> 03:14 AM IST</td>
+<td>Sunday</td>
+<td>August 16, 2026</td>
+<td> 03:09 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 16, 2026</td>
-<td>~03:10 AM IST</td>
+<td>Monday</td>
+<td>August 17, 2026</td>
+<td>~03:05 AM IST</td>
 </tr>
 </tbody>
 </table>
