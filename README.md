@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/082cfb6e39bb5b3db95d128db1da20fd2aeafa915c46d3663cbd6af8c7173a84/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337333425323068727325323035372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C734%20hrs%2057%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f7f135e23b323214803a64e483d30314ad093f964aac949b1259fe85ddc0c36f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337333825323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C738%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,852+</strong> Commits made on GitHub</p>
@@ -92,46 +92,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>HTML</td>
-<td>1 hr 39 mins</td>
+<td>XML</td>
+<td>4 hrs 25 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.1%</td>
+<td>27.2%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>2 hrs 30 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.5%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 12 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.6%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>59 mins</td>
+<td>1 hr 56 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.4%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>55 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.4%</td>
-</tr> 
- <tr>
-<td>JSON</td>
-<td>32 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.8%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>26 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.3%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>19 mins</td>
+<td>1 hr 35 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.8%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 17 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.0%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>1 hr 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
+<td>7.1%</td>
+</tr> 
+ <tr>
+<td>QML</td>
+<td>1 hr 4 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>4 hrs 26 mins</td>
+<td>10 hrs 40 mins</td>
 <td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>64.7%</td>
+<td>65.8%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 38 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.8%</td>
+<td>2 hrs 57 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>18.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>47 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.6%</td>
+<td>2 hrs 34 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>6 hrs 52 mins</td>
+<td>16 hrs 13 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>6 hrs 52 mins</td>
+<td>16 hrs 13 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,14 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why do programmers confuse Halloween and Christmas?</strong></p>
-<p><em>» Because Oct 31 = Dec 25</em></p>
+<p><strong>What does the mermaid wear to math class?</strong></p>
+<p><em>» Algae-bra.</em></p>
 <hr>
-<p><strong>What's the best part about TCP jokes?</strong></p>
-<p><em>» I get to keep telling them until you get them.</em></p>
+<p><strong>Why don't skeletons fight each other?</strong></p>
+<p><em>» They don't have the guts.</em></p>
 <hr>
-<p><strong>Why did the kid cross the playground?</strong></p>
-<p><em>» To get to the other slide.</em></p>
+<p><strong>Why did the girl smear peanut butter on the road?</strong></p>
+<p><em>» To go with the traffic jam.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 When we think of Big Ben in London, we think of the clock. Actually, it's the bell.</p>
+<p>💡 "I am." is the shortest complete sentence in the English language.</p>
 <hr>
 <p>💡 The "pound" key on your keyboard (#) is called an octotroph. </p>
 <hr>
-<p>💡 Bob Dylan's real name is Robert Zimmerman.</p>
+<p>💡 IBM’s motto is “Think”. Apple later made their motto “Think different”.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Failure is the condiment that gives success its flavor."</em> - Truman Capote</p>
+  <p><em>"I avoid looking forward or backward, and try to keep looking upward."</em> - Charlotte Bronte</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is short. Don’t tolerate bullsh*t. Don’t wait until it’s too late."</em> - Zat Rana</p>
+  <p><em>"In a gentle way, you can shake the world."</em> - Mahatma Gandhi</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"There is no easy walk to freedom anywhere, and many of us will have to pass through the valley of the shadow of death again and again before we reach the mountaintop of our desires."</em> - Nelson Mandela</p>
+  <p><em>"The biggest risk is not taking any risk...In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks."</em> - Mark Zuckerberg</p>
 </blockquote>
 </details>
 <p>
@@ -312,14 +312,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>August 22, 2026</td>
-<td> 03:13 AM IST</td>
+<td>Sunday</td>
+<td>August 23, 2026</td>
+<td> 03:10 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>August 23, 2026</td>
+<td>Monday</td>
+<td>August 24, 2026</td>
 <td>~03:10 AM IST</td>
 </tr>
 </tbody>
