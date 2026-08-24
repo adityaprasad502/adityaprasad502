@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/f7f135e23b323214803a64e483d30314ad093f964aac949b1259fe85ddc0c36f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337333825323068727325323031372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C738%20hrs%2017%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d847e5e4c65c10dd673214374b906a81624b29f83ef1eb2367d851886bb3fd9d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343025323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C740%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,855+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>80.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,622h 50m</strong> (95,462 Streams)</p>
+<p>🎧 Spotify: <strong>5,626h 28m</strong> (95,528 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,43 +95,43 @@ fun main() {
 <td>XML</td>
 <td>4 hrs 25 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.2%</td>
+<td>24.3%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>2 hrs 30 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.5%</td>
+<td>3 hrs 50 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 56 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.0%</td>
+<td>2 hrs</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.1%</td>
+</tr> 
+ <tr>
+<td>CSS</td>
+<td>1 hr 52 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.3%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 35 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.8%</td>
-</tr> 
- <tr>
-<td>CSS</td>
-<td>1 hr 17 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.0%</td>
+<td>8.7%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>1 hr 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.1%</td>
+<td>6.3%</td>
 </tr> 
  <tr>
 <td>QML</td>
 <td>1 hr 4 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>5.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>10 hrs 40 mins</td>
-<td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>65.8%</td>
+<td>11 hrs 23 mins</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>62.6%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 57 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>18.3%</td>
+<td>4 hrs 13 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.2%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>2 hrs 34 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.9%</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>16 hrs 13 mins</td>
+<td>18 hrs 11 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>16 hrs 13 mins</td>
+<td>18 hrs 11 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,14 +260,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the coffee file a police report?</strong></p>
-<p><em>» It got mugged.</em></p>
+<p><strong>I just got fired from my job at the keyboard factory.</strong></p>
+<p><em>» They told me I wasn't putting in enough shifts.</em></p>
 <hr>
-<p><strong>How do you fix a broken pizza?</strong></p>
-<p><em>» With tomato paste.</em></p>
+<p><strong>What do you call a thieving alligator?</strong></p>
+<p><em>» A crookodile!</em></p>
 <hr>
-<p><strong>Why did the web developer walk out of a resturant in disgust?</strong></p>
-<p><em>» The seating was laid out in tables.</em></p>
+<p>Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +275,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 On average, people fear spiders more than they do death.</p>
+<p>💡 101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.</p>
 <hr>
-<p>💡 The most common name in Italy is Mario Rossi.</p>
+<p>💡 You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
 <hr>
-<p>💡 To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</p>
+<p>💡 Meteorologists claim they`re right 85% of the time (think about that one!)</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +289,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Rarely have I seen a situation where doing less than the other guy is a good strategy."</em> - Jimmy Spithill</p>
+  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Do your work with your whole heart, and you will succeed – there’s so little competition."</em> - Elbert Hubbard</p>
+  <p><em>"We may encounter many defeats but we must not be defeated."</em> - May Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"We are what we repeatedly do. Excellence, therefore, is not an act but a habit."</em> - Aristotle</p>
+  <p><em>"A somebody was once a nobody who wanted to and did."</em> - John Burroughs</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +311,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>August 24, 2026</td>
-<td> 03:10 AM IST</td>
+<td>Tuesday</td>
+<td>August 25, 2026</td>
+<td> 03:18 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>August 25, 2026</td>
-<td>~03:10 AM IST</td>
+<td>Wednesday</td>
+<td>August 26, 2026</td>
+<td>~03:15 AM IST</td>
 </tr>
 </tbody>
 </table>
