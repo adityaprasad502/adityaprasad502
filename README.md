@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>80.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,635h 25m</strong> (95,677 Streams)</p>
+<p>🎧 Spotify: <strong>5,641h 11m</strong> (95,777 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>XML</td>
-<td>4 hrs 25 mins</td>
+<td>4 hrs 7 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>26.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 50 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.8%</td>
+<td>12.7%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 52 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.0%</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.8%</td>
 </tr> 
  <tr>
 <td>Other</td>
 <td>1 hr 35 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.3%</td>
-</tr> 
- <tr>
-<td>Kotlin</td>
-<td>1 hr 2 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.2%</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>55 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.5%</td>
+<td>5.8%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>30 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>10 hrs 59 mins</td>
+<td>10 hrs 31 mins</td>
 <td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>64.6%</td>
+<td>66.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>4 hrs 13 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.8%</td>
+<td>26.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>1 hr 47 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.6%</td>
+<td>1 hr 8 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>17 hrs 1 min</td>
+<td>15 hrs 53 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>17 hrs 1 min</td>
+<td>15 hrs 53 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,15 +260,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>I can't tell if i like this blender...</strong></p>
-<p><em>» It keeps giving me mixed results.</em></p>
+<p><strong>I was feeling depressed, my wife put her hand on my back and said "Earth."</strong></p>
+<p><em>» It meant the world to me.</em></p>
 <hr>
-<p>A horse walks into a bar.
-"Hey", the Bartender says.
-"Sure", the horse replies.</p>
+<p>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</p>
 <hr>
-<p><strong>Why did the girl smear peanut butter on the road?</strong></p>
-<p><em>» To go with the traffic jam.</em></p>
+<p><strong>What part of a vegetable are you not supposed to eat?</strong></p>
+<p><em>» The wheelchair.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -277,11 +275,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Conception occurs most in the month of December.</p>
+<p>💡 The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</p>
 <hr>
-<p>💡 Hedenophobic means fear of pleasure.</p>
+<p>💡 Venus and Uranus are the only planets that rotate opposite to the direction of their orbit.</p>
 <hr>
-<p>💡 Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.</p>
+<p>💡 Coca-Cola would be green if coloring weren’t added to it.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -291,15 +289,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"A man who flies from his fear may find that he has only taken a shortcut to meet it."</em> - Sador, Children of Húrin</p>
+  <p><em>"Hope never abandons you, you abandon it"</em> - George Weinberg</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The more you praise and celebrate your life, the more there is in life to celebrate."</em> - Oprah Winfrey</p>
+  <p><em>"The longer I live, the more beautiful life becomes."</em> - Frank Lloyd Wright</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you are offered a seat on a rocket ship, don’t ask what seat! Just get on."</em> - Sheryl Sandberg</p>
+  <p><em>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</em> - Ayn Rand</p>
 </blockquote>
 </details>
 <p>
@@ -313,15 +311,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>August 28, 2026</td>
-<td> 10:59 AM IST</td>
+<td>Saturday</td>
+<td>August 29, 2026</td>
+<td> 08:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>August 29, 2026</td>
-<td>~10:55 AM IST</td>
+<td>Sunday</td>
+<td>August 30, 2026</td>
+<td>~08:40 AM IST</td>
 </tr>
 </tbody>
 </table>
