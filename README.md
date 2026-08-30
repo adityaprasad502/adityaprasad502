@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d847e5e4c65c10dd673214374b906a81624b29f83ef1eb2367d851886bb3fd9d/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343025323068727325323031362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C740%20hrs%2016%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/bf82f51d9912bb04747fd2239234e0460577b75f37e416214832a69e84975550/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343025323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C740%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,855+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>80.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,645h 27m</strong> (95,847 Streams)</p>
+<p>🎧 Spotify: <strong>5,649h 31m</strong> (95,914 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -260,14 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?</strong></p>
-<p><em>» European</em></p>
+<p><strong>What kind of pants do ghosts wear?</strong></p>
+<p><em>» Boo jeans.</em></p>
 <hr>
-<p><strong>What did the ocean say to the shore?</strong></p>
-<p><em>» Nothing, it just waved.</em></p>
+<p><strong>What says Oh Oh Oh?</strong></p>
+<p><em>» Santa walking backwards!</em></p>
 <hr>
-<p><strong>99.9% of the people are dumb!</strong></p>
-<p><em>» Fortunately I belong to the remaining 1%</em></p>
+<p><strong>I'm thinking of setting up a comedy group to help people going through cancer treatment.</strong></p>
+<p><em>» I'll call it "A Sense of Tumor".</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Icelanders consume more Coca-Cola per Capita than any other nation.</p>
+<p>💡 The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
 <hr>
-<p>💡 Americans are responsible for about 1/5 of the world’s garbage annually.</p>
+<p>💡 Chameleons can move their eyes in two directions at the same time.</p>
 <hr>
-<p>💡 The average human eats 8 spiders in their lifetime at night.</p>
+<p>💡 In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Education costs money. But then so does ignorance."</em> - Sir Claus Moser</p>
+  <p><em>"All you need is the plan, the road map, and the courage to press on to your destination."</em> - Earl Nightingale</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The will to win, the desire to succeed, the urge to reach your full potential, these are the keys that will unlock the door to personal excellence."</em> - Confucius</p>
+  <p><em>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor...Explore. Dream. Discover."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you want to go fast, go alone. If you want to go far, go together."</em> - African proverb</p>
+  <p><em>"Less is almost always more. Simplicity is almost always the answer."</em> - Zat Rana</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +312,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>August 30, 2026</td>
-<td> 04:55 AM IST</td>
+<td>Monday</td>
+<td>August 31, 2026</td>
+<td> 05:05 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>August 31, 2026</td>
-<td>~04:55 AM IST</td>
+<td>Tuesday</td>
+<td>September 01, 2026</td>
+<td>~05:05 AM IST</td>
 </tr>
 </tbody>
 </table>
