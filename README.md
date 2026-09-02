@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/bf82f51d9912bb04747fd2239234e0460577b75f37e416214832a69e84975550/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343025323068727325323032342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C740%20hrs%2024%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e8e84cffd3e4555db15d6df84cf435ff4e0891cfe65270c8722a6844f8054505/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343025323068727325323033312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C740%20hrs%2031%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,860+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>80.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,653h 9m</strong> (95,974 Streams)</p>
+<p>🎧 Spotify: <strong>5,655h 43m</strong> (96,017 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -95,43 +95,43 @@ fun main() {
 <td>XML</td>
 <td>4 hrs 7 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.7%</td>
+<td>26.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 50 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.9%</td>
+<td>24.9%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>2 hrs</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>13.1%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 52 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.7%</td>
+<td>12.2%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>1 hr 35 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.9%</td>
+<td>56 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>55 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.8%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>JSON</td>
 <td>30 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.2%</td>
+<td>3.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>10 hrs 32 mins</td>
+<td>9 hrs 52 mins</td>
 <td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>65.7%</td>
+<td>64.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>4 hrs 21 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.1%</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 8 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>16 hrs 2 mins</td>
+<td>15 hrs 23 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>16 hrs 2 mins</td>
+<td>15 hrs 23 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,13 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Algorithm: A word used by programmers when they don't want to explain how their code works.</p>
+<p><strong>How much did your chimney cost?</strong></p>
+<p><em>» Nothing, it was on the house.</em></p>
 <hr>
-<p><strong>I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’</strong></p>
-<p><em>» I couldn’t turn it down.</em></p>
+<p><strong>What did one wall say to the other wall?</strong></p>
+<p><em>» I'll meet you at the corner!</em></p>
 <hr>
-<p><strong>What do you call a group of 8 Hobbits?</strong></p>
-<p><em>» A Hobbyte.</em></p>
+<p><strong>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</strong></p>
+<p><em>» A regular expression.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -275,11 +276,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Walt Disney was afraid of mice.</p>
+<p>💡 Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.</p>
 <hr>
-<p>💡 Gabriel, Michael, and Lucifer are the only angels named in the Bible.</p>
+<p>💡 The first license plate on a car in the United States was issued in Denver, Colorado in 1908.</p>
 <hr>
-<p>💡 Gary, Indiana is the murder capital of the U.S. - probably the world.</p>
+<p>💡 The house fly hums in the middle octave key of F. </p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,15 +290,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Sometimes thinking too much can destroy your momentum."</em> - Tom Watson</p>
+  <p><em>"If you are not willing to risk the usual, you will have to settle for the ordinary."</em> - Jim Rohn</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."</em> - Wayne Dyer</p>
+  <p><em>"Setting goals is the first step in turning the invisible into visible."</em> - Tony Robbins</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The way to get started is to quit talking and begin doing."</em> - Walt Disney</p>
+  <p><em>"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."</em> - Albert Einstein</p>
 </blockquote>
 </details>
 <p>
@@ -311,14 +312,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>September 02, 2026</td>
+<td>Thursday</td>
+<td>September 03, 2026</td>
 <td> 04:52 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>September 03, 2026</td>
+<td>Friday</td>
+<td>September 04, 2026</td>
 <td>~04:50 AM IST</td>
 </tr>
 </tbody>
