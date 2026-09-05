@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/b5af624e264981d9c7a4765853b97e0277eb07050a61c0e16314c0a77ac6b744/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343125323068727325323035302532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C741%20hrs%2050%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5a1f0c208f5c044572086756111e5b3df4110d73835c62dfd721aa65876e4df7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337343325323068727325323033332532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C743%20hrs%2033%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,865+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,862+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>18</strong> Private Repositories</p>
 <p>📦 <strong>82.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,660h 2m</strong> (96,089 Streams)</p>
+<p>🎧 Spotify: <strong>5,662h 35m</strong> (96,135 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -61,25 +61,25 @@ fun main() {
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1 commits</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>2 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>28.6%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>8 commits</td>
-<td>████████████████████▒▒▒▒▒</td>
-<td>80.0%</td>
+<td>4 commits</td>
+<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>57.1%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>10 commits in September 2026</b></td>
+<td colspan="2"><b>7 commits in September 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -213,7 +213,7 @@ fun main() {
 <td>Kotlin</td>
 <td>867.3 KiB</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.8%</td>
+<td>17.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
@@ -228,14 +228,14 @@ fun main() {
 <td>8.2%</td>
 </tr> 
  <tr>
-<td>Dart</td>
-<td>245.3 KiB</td>
+<td>Go</td>
+<td>247.6 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>5.1%</td>
 </tr> 
  <tr>
-<td>Go</td>
-<td>242.9 KiB</td>
+<td>Dart</td>
+<td>245.3 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>5.0%</td>
 </tr> 
@@ -260,13 +260,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.</p>
+<p>Women are like KFC, once you're done with the breasts and thighs, you just have a greasy box to put your bone in.</p>
 <hr>
-<p><strong>How many bones are in the human hand?</strong></p>
-<p><em>» A handful of them.</em></p>
+<p><strong>what do you call a dog that can do magic tricks?</strong></p>
+<p><em>» a labracadabrador</em></p>
 <hr>
-<p><strong>What's the best thing about Switzerland?</strong></p>
-<p><em>» I don't know, but their flag is a big plus.</em></p>
+<p><strong>How do you fix a damaged jack-o-lantern?</strong></p>
+<p><em>» You use a pumpkin patch.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -275,11 +275,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Intelligent people have more zinc and copper in their hair.</p>
+<p>💡 On average, Americans` favorite smell is banana.</p>
 <hr>
-<p>💡 Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</p>
+<p>💡 Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
 <hr>
-<p>💡 In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</p>
+<p>💡 God is not mentioned once in the book of Esther.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -289,15 +289,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"May you live every day of your life."</em> - Jonathan Swift</p>
+  <p><em>"Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind."</em> - Dr. Seuss</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The two most important days in your life are the day you are born and the day you find out why."</em> - Mark Twain</p>
+  <p><em>"Don’t be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success is most often achieved by those who don't know that failure is inevitable."</em> - Coco Chanel</p>
+  <p><em>"The more things you care about, the less meaningful caring becomes."</em> - Zat Rana</p>
 </blockquote>
 </details>
 <p>
@@ -311,15 +311,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>September 05, 2026</td>
-<td> 04:35 AM IST</td>
+<td>Sunday</td>
+<td>September 06, 2026</td>
+<td> 04:29 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>September 06, 2026</td>
-<td>~04:35 AM IST</td>
+<td>Monday</td>
+<td>September 07, 2026</td>
+<td>~04:25 AM IST</td>
 </tr>
 </tbody>
 </table>
