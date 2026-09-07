@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/cddb1a0ad7affecb3a5cd5d3e6d84c1e63e01f0ce443f8a99493e66a11e47287/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353025323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C750%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,874+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,864+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>18</strong> Private Repositories</p>
-<p>📦 <strong>82.3 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>82.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,670h 28m</strong> (96,264 Streams)</p>
+<p>🎧 Spotify: <strong>5,672h 28m</strong> (96,293 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>6 commits</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.6%</td>
+<td>1 commits</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>3 commits</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.8%</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>4 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
+<td>3 commits</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>30.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>6 commits</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.6%</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>60.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>19 commits in September 2026</b></td>
+<td colspan="2"><b>10 commits in September 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -92,46 +92,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
+<td>Other</td>
+<td>6 hrs 53 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.6%</td>
+</tr> 
+ <tr>
 <td>XML</td>
 <td>4 hrs 7 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.6%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.6%</td>
+</tr> 
+ <tr>
+<td>Go</td>
+<td>3 hrs 36 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>3 hrs 34 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.4%</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 57 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.2%</td>
+<td>7.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 52 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.7%</td>
-</tr> 
- <tr>
-<td>Other</td>
-<td>1 hr 52 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.7%</td>
-</tr> 
- <tr>
-<td>Go</td>
-<td>1 hr 11 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.8%</td>
+<td>7.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>55 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.3%</td>
+<td>3.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>12 hrs 5 mins</td>
-<td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>69.2%</td>
+<td>19 hrs 27 mins</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>78.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 14 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>24.3%</td>
+<td>4 hrs 18 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>4.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>17 hrs 28 mins</td>
+<td>24 hrs 54 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>17 hrs 28 mins</td>
+<td>24 hrs 54 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -229,7 +229,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Go</td>
-<td>295.9 KiB</td>
+<td>297.1 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>6.0%</td>
 </tr> 
@@ -260,17 +260,16 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Knock knock. 
- Who's there? 
- Cows go. 
- Cows go who?</strong></p>
-<p><em>» No, cows go moo.</em></p>
+<p>Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."</p>
 <hr>
-<p><strong>What kind of magic do cows believe in?</strong></p>
-<p><em>» MOODOO.</em></p>
+<p><strong>My girlfriend left me because I have a fetish for touching pasta.</strong></p>
+<p><em>» I'm feeling cannelloni now. :'(</em></p>
 <hr>
-<p><strong>What's the difference between a hot potato and a flying pig?</strong></p>
-<p><em>» One's a heated yam, the other's a yeeted ham.</em></p>
+<p><strong>Why did the cookie cry?</strong></p>
+<p><em>» Because his mother was a wafer so long</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -279,11 +278,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</p>
+<p>💡 The town of Calma, Chile in the Atacama Desert has never had rain.</p>
 <hr>
-<p>💡 King Louis XIX ruled France for 15 minutes.</p>
+<p>💡 Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
 <hr>
-<p>💡 If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.</p>
+<p>💡 The average cough comes out of your mouth at 60 miles (96.5 km) per hour.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -293,15 +292,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like."</em> - Mike Gafka</p>
+  <p><em>"Someone is sitting in the shade today because someone planted a tree a long time ago."</em> - Warren Buffett</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Accept responsibly for your life. Know that it is you who will get you where you want to go, no one else."</em> - Les Brown</p>
+  <p><em>"No one can make you feel inferior without your consent."</em> - Eleanor Roosevelt</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
+  <p><em>"In every difficult situation is potential value. Believe this, then begin looking for it."</em> - Norman Vincent Peale</p>
 </blockquote>
 </details>
 <p>
@@ -315,15 +314,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>September 07, 2026</td>
-<td> 04:25 AM IST</td>
+<td>Tuesday</td>
+<td>September 08, 2026</td>
+<td> 05:05 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>September 08, 2026</td>
-<td>~04:25 AM IST</td>
+<td>Wednesday</td>
+<td>September 09, 2026</td>
+<td>~05:05 AM IST</td>
 </tr>
 </tbody>
 </table>
