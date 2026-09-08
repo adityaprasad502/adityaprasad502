@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/cddb1a0ad7affecb3a5cd5d3e6d84c1e63e01f0ce443f8a99493e66a11e47287/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353025323068727325323035392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C750%20hrs%2059%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7332c7e81313b853db138791a704150a87bddcc3b9858630338184b72124c9ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353225323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C752%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,864+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>82.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,672h 28m</strong> (96,293 Streams)</p>
+<p>🎧 Spotify: <strong>5,675h 46m</strong> (96,341 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -260,16 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."</p>
+<p><strong>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?</strong></p>
+<p><em>» European</em></p>
 <hr>
-<p><strong>My girlfriend left me because I have a fetish for touching pasta.</strong></p>
-<p><em>» I'm feeling cannelloni now. :'(</em></p>
+<p><strong>A DHCP packet walks into a bar and asks for a beer.</strong></p>
+<p><em>» Bartender says, "here, but I’ll need that back in an hour!"</em></p>
 <hr>
-<p><strong>Why did the cookie cry?</strong></p>
-<p><em>» Because his mother was a wafer so long</em></p>
+<p><strong>How many seconds are in a year?</strong></p>
+<p><em>» 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -278,11 +276,11 @@ Me: "Damn."</p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The town of Calma, Chile in the Atacama Desert has never had rain.</p>
+<p>💡 Over 1000 birds a year die from smashing into windows!</p>
 <hr>
-<p>💡 Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
+<p>💡 Americans are responsible for about 1/5 of the world’s garbage annually.</p>
 <hr>
-<p>💡 The average cough comes out of your mouth at 60 miles (96.5 km) per hour.</p>
+<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -292,15 +290,15 @@ Me: "Damn."</p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Someone is sitting in the shade today because someone planted a tree a long time ago."</em> - Warren Buffett</p>
+  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"No one can make you feel inferior without your consent."</em> - Eleanor Roosevelt</p>
+  <p><em>"The will to win, the desire to succeed, the urge to reach your full potential, these are the keys that will unlock the door to personal excellence."</em> - Confucius</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"In every difficult situation is potential value. Believe this, then begin looking for it."</em> - Norman Vincent Peale</p>
+  <p><em>"It is always the simple that produces the marvelous."</em> - Amelia Barr</p>
 </blockquote>
 </details>
 <p>
@@ -314,15 +312,15 @@ Me: "Damn."</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 08, 2026</td>
-<td> 05:05 AM IST</td>
+<td>Wednesday</td>
+<td>September 09, 2026</td>
+<td> 04:57 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 09, 2026</td>
-<td>~05:05 AM IST</td>
+<td>Thursday</td>
+<td>September 10, 2026</td>
+<td>~04:55 AM IST</td>
 </tr>
 </tbody>
 </table>
