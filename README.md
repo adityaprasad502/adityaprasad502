@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/7332c7e81313b853db138791a704150a87bddcc3b9858630338184b72124c9ad/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353225323068727325323035312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C752%20hrs%2051%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/88b9f18ffa53d28b5f3c20aa264b66cd18c07fc90e7f33ef9d9bc0fb12b8f6de/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353425323068727325323033372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C754%20hrs%2037%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,864+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>82.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,679h 33m</strong> (96,402 Streams)</p>
+<p>🎧 Spotify: <strong>5,683h 5m</strong> (96,453 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,9 +55,9 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>1 commits</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>2 commits</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.5%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
@@ -69,17 +69,17 @@ fun main() {
 <td>🌃 Evening</td>
 <td>3 commits</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.7%</td>
+<td>15.8%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
 <td>14 commits</td>
-<td>███████████████████▒▒▒▒▒▒</td>
-<td>77.8%</td>
+<td>██████████████████▒▒▒▒▒▒▒</td>
+<td>73.7%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>18 commits in September 2026</b></td>
+<td colspan="2"><b>19 commits in September 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,43 +95,43 @@ fun main() {
 <td>Other</td>
 <td>6 hrs 55 mins</td>
 <td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>26.0%</td>
+<td>27.4%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>5 hrs 21 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.1%</td>
+<td>21.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
-<td>4 hrs 7 mins</td>
+<td>4 hrs 4 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.5%</td>
+<td>16.1%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>3 hrs 36 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.5%</td>
+<td>14.2%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>1 hr 57 mins</td>
+<td>1 hr 20 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.3%</td>
+<td>5.3%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 45 mins</td>
+<td>1 hr 6 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>4.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>55 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.5%</td>
+<td>3.7%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>20 hrs 55 mins</td>
+<td>19 hrs 47 mins</td>
 <td>███████████████████▒▒▒▒▒▒</td>
-<td>78.5%</td>
+<td>78.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs 35 mins</td>
+<td>4 hrs 22 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.2%</td>
+<td>17.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.3%</td>
+<td>4.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>26 hrs 39 mins</td>
+<td>25 hrs 18 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>26 hrs 39 mins</td>
+<td>25 hrs 18 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,14 +260,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do 9 out of 10 people enjoy?</strong></p>
-<p><em>» Gang rape.</em></p>
+<p><strong>Dark humor is like cancer.</strong></p>
+<p><em>» It's funnier when children get it.</em></p>
 <hr>
-<p>A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?"</p>
+<p><strong>What do you tell a woman with 2 black eyes?</strong></p>
+<p><em>» Nothing. You already told her twice.</em></p>
 <hr>
-<p><strong>Why do cows wear bells?</strong></p>
-<p><em>» Because their horns don't work!</em></p>
+<p><strong>Want to hear a chimney joke?</strong></p>
+<p><em>» Got stacks of em! First one's on the house</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +276,11 @@ It approaches, and asks "may I join you?"</p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Illinois has the highest number of personalized license plates than any other state.</p>
+<p>💡 There are 1,792 steps in the Eiffel Tower</p>
 <hr>
-<p>💡 If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.</p>
+<p>💡 Wyoming was the first state to give women the right to vote in 1869.</p>
 <hr>
-<p>💡 Fish that live more than 800 meters below the ocean surface don't have eyes.</p>
+<p>💡 In 1386, a pig in France was executed by public hanging for the murder of a child</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +290,15 @@ It approaches, and asks "may I join you?"</p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The only person you should try to be better than is the person you were yesterday."</em> - Anonymous</p>
+  <p><em>"There are no traffic jams along the extra mile."</em> - Roger Staubach</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you are not willing to risk the usual you will have to settle for the ordinary."</em> - Jim Rohn</p>
+  <p><em>"Don't limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."</em> - Mary Kay Ash</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success is...knowing your purpose in life, growing to reach your maximum potential, and sowing seeds that benefit others."</em> - John C. Maxwell</p>
+  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +312,15 @@ It approaches, and asks "may I join you?"</p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>September 11, 2026</td>
-<td> 04:44 AM IST</td>
+<td>Saturday</td>
+<td>September 12, 2026</td>
+<td> 04:51 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>September 12, 2026</td>
-<td>~04:40 AM IST</td>
+<td>Sunday</td>
+<td>September 13, 2026</td>
+<td>~04:50 AM IST</td>
 </tr>
 </tbody>
 </table>
