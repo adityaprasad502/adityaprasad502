@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8e1744104a36dadb7a0475964af7902fbb52635c26185483624c7b3cd728d964/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353725323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C757%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/1b2a067b67a43dbd307bc4ae9c18d8b808013582af2cd51614ea3c486c1e1b47/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337353925323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C759%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,884+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>82.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,689h 8m</strong> (96,557 Streams)</p>
+<p>🎧 Spotify: <strong>5,691h 8m</strong> (96,587 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,27 +93,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Other</td>
-<td>7 hrs 45 mins</td>
+<td>7 hrs 46 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.6%</td>
+<td>28.9%</td>
+</tr> 
+ <tr>
+<td>Go</td>
+<td>6 hrs 5 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.7%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>5 hrs 36 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.4%</td>
-</tr> 
- <tr>
-<td>Go</td>
-<td>5 hrs 32 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.1%</td>
+<td>20.9%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>3 hrs 56 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.1%</td>
+<td>14.7%</td>
 </tr> 
  <tr>
 <td>Python</td>
@@ -129,9 +129,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Text</td>
-<td>24 mins</td>
+<td>28 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.6%</td>
+<td>1.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>21 hrs 18 mins</td>
+<td>21 hrs 40 mins</td>
 <td>████████████████████▒▒▒▒▒</td>
-<td>81.2%</td>
+<td>80.7%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 46 mins</td>
+<td>4 hrs 3 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.4%</td>
+<td>15.1%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 8 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.4%</td>
+<td>4.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +173,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>26 hrs 13 mins</td>
+<td>26 hrs 52 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +189,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>26 hrs 13 mins</td>
+<td>26 hrs 52 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -260,14 +260,17 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Say what you want about pedophiles...</strong></p>
-<p><em>» But at least they drive slowly through the school zones.</em></p>
+<p>Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.</p>
 <hr>
-<p><strong>How can you tell an extroverted programmer?</strong></p>
-<p><em>» He looks at YOUR shoes when he's talking.</em></p>
+<p><strong>How does a dyslexic poet write?</strong></p>
+<p><em>» Inverse.</em></p>
 <hr>
-<p><strong>What is the leading cause of dry skin?</strong></p>
-<p><em>» Towels</em></p>
+<p><strong>What do you call a troublesome Canadian high schooler?</strong></p>
+<p><em>» A poutine.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +279,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 28% of Africa is classified as wilderness. In North America, its 38%.</p>
+<p>💡 Russians generally answer the phone by saying, "I'm listening".</p>
 <hr>
-<p>💡 Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.</p>
+<p>💡 There`s a systematic lull in conversation every 7 minutes.</p>
 <hr>
-<p>💡 People say “bless you” when you sneeze because your heart stops for a millisecond.</p>
+<p>💡 Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +293,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"An obstacle is often a stepping stone."</em> - Prescott</p>
+  <p><em>"Things work out best for those who make the best of how things work out."</em> - John Wooden</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t be afraid to give up the good to go for the great."</em> - John D. Rockefeller</p>
+  <p><em>"If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work."</em> - Thomas J. Watson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If you are not willing to risk the usual, you will have to settle for the ordinary."</em> - Jim Rohn</p>
+  <p><em>"A No. 2 pencil and a dream can take you anywhere."</em> - Joyce Meyer</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +315,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>September 15, 2026</td>
-<td> 05:24 AM IST</td>
+<td>Wednesday</td>
+<td>September 16, 2026</td>
+<td> 05:03 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>September 16, 2026</td>
-<td>~05:20 AM IST</td>
+<td>Thursday</td>
+<td>September 17, 2026</td>
+<td>~05:00 AM IST</td>
 </tr>
 </tbody>
 </table>
