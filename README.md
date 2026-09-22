@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/bb3078e078c0b3f1c7d1c51222f689354207325240cd70c96376b96c4e88f62c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337363725323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C767%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,903+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,904+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>19</strong> Private Repositories</p>
-<p>📦 <strong>83.7 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>83.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,702h 21m</strong> (96,776 Streams)</p>
+<p>🎧 Spotify: <strong>5,703h 18m</strong> (96,791 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>4 commits</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.3%</td>
+<td>8.2%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>4 commits</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.3%</td>
+<td>8.2%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>6 commits</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
+<td>12.2%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>34 commits</td>
+<td>35 commits</td>
 <td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>70.8%</td>
+<td>71.4%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>48 commits in September 2026</b></td>
+<td colspan="2"><b>49 commits in September 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Other</td>
-<td>10 hrs 43 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.5%</td>
+<td>11 hrs 4 mins</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>37.4%</td>
 </tr> 
  <tr>
 <td>Go</td>
-<td>6 hrs 5 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.1%</td>
+<td>6 hrs 12 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>21.0%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>5 hrs 42 mins</td>
+<td>5 hrs 14 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.9%</td>
+<td>17.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 59 mins</td>
+<td>2 hrs 56 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.4%</td>
-</tr> 
- <tr>
-<td>XML</td>
-<td>2 hrs 19 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>9.9%</td>
 </tr> 
  <tr>
 <td>YAML</td>
-<td>1 hr 46 mins</td>
+<td>2 hrs 11 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.6%</td>
+<td>7.4%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>1 hr 30 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.7%</td>
+<td>5.1%</td>
+</tr> 
+ <tr>
+<td>Git Config</td>
+<td>16 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>26 hrs 52 mins</td>
-<td>█████████████████████▒▒▒▒</td>
-<td>84.0%</td>
+<td>25 hrs 56 mins</td>
+<td>██████████████████████▒▒▒</td>
+<td>87.6%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>4 hrs</td>
+<td>3 hrs 40 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.5%</td>
-</tr> 
- <tr>
-<td>Android Studio</td>
-<td>1 hr 5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.4%</td>
+<td>12.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -173,7 +167,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>31 hrs 58 mins</td>
+<td>29 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -189,7 +183,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>31 hrs 58 mins</td>
+<td>29 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -229,7 +223,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Go</td>
-<td>389.9 KiB</td>
+<td>390.0 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>7.7%</td>
 </tr> 
@@ -260,14 +254,15 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What do you do when you see a space man?</strong></p>
-<p><em>» Park your car, man.</em></p>
+<p><strong>did you know the first French fries weren't cooked in France?</strong></p>
+<p><em>» they were cooked in Greece</em></p>
 <hr>
-<p><strong>What musical instrument is found in the bathroom?</strong></p>
-<p><em>» A tuba toothpaste.</em></p>
+<p><strong>What time did the man go to the dentist?</strong></p>
+<p><em>» Tooth hurt-y.</em></p>
 <hr>
-<p><strong>Why does Beyonce sing "to the left, to the left"?</strong></p>
-<p><em>» Because women don't have rights.</em></p>
+<p>"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -276,11 +271,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Every time you lick a stamp, you consume 1/10 of a calorie.</p>
+<p>💡 400-quarter pounders can be made from 1 cow.</p>
 <hr>
-<p>💡 1 in every 4 Americans has appeared someway or another on television.</p>
+<p>💡 The skeleton of Jeremy Bentham is present at all important meetings of the University of London</p>
 <hr>
-<p>💡 Koalas never drink water. They get fluids from the eucalyptus leaves they eat.</p>
+<p>💡 The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -290,15 +285,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"It’s true that some people have more innate talent. But talent isn’t enough."</em> - Zat Rana</p>
+  <p><em>"Success is liking yourself, liking what you do, and liking how you do it."</em> - Maya Angelou</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don’t take too much pride in your accomplishments. They’re not all yours."</em> - Zat Rana</p>
+  <p><em>"If you genuinely want something, don’t wait for it — teach yourself to be impatient."</em> - Gurbaksh Chahal</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Be kind whenever possible. It is always possible."</em> - Dalai Lama</p>
+  <p><em>"The only place where success comes before work is in the dictionary."</em> - Vidal Sassoon</p>
 </blockquote>
 </details>
 <p>
@@ -312,15 +307,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>September 21, 2026</td>
-<td> 04:48 AM IST</td>
+<td>Tuesday</td>
+<td>September 22, 2026</td>
+<td> 05:41 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>September 22, 2026</td>
-<td>~04:45 AM IST</td>
+<td>Wednesday</td>
+<td>September 23, 2026</td>
+<td>~05:40 AM IST</td>
 </tr>
 </tbody>
 </table>
