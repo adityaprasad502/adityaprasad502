@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/bb3078e078c0b3f1c7d1c51222f689354207325240cd70c96376b96c4e88f62c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337363725323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C767%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,904+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,905+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>19</strong> Private Repositories</p>
 <p>📦 <strong>83.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,705h 3m</strong> (96,822 Streams)</p>
+<p>🎧 Spotify: <strong>5,705h 28m</strong> (96,828 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>4 commits</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.2%</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>4 commits</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.2%</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>6 commits</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.2%</td>
+<td>12.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>35 commits</td>
-<td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>71.4%</td>
+<td>36 commits</td>
+<td>██████████████████▒▒▒▒▒▒▒</td>
+<td>72.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>49 commits in September 2026</b></td>
+<td colspan="2"><b>50 commits in September 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -94,44 +94,44 @@ fun main() {
  <tbody><tr>
 <td>Other</td>
 <td>11 hrs 4 mins</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>37.4%</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.1%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>6 hrs 12 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.0%</td>
+<td>22.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
-<td>5 hrs 14 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.7%</td>
+<td>3 hrs 55 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.2%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
-<td>2 hrs 56 mins</td>
+<td>2 hrs 52 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.9%</td>
+<td>10.4%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>2 hrs 11 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.4%</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.9%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>1 hr 30 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.1%</td>
+<td>55 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>16 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>1.0%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,15 +145,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>25 hrs 56 mins</td>
+<td>25 hrs 13 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>87.6%</td>
+<td>91.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>3 hrs 40 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.4%</td>
+<td>2 hrs 25 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -167,7 +167,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>29 hrs 37 mins</td>
+<td>27 hrs 38 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -183,7 +183,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>29 hrs 37 mins</td>
+<td>27 hrs 38 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -254,13 +254,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Algorithm: A word used by programmers when they don't want to explain how their code works.</p>
+<p><strong>.NET developers are picky when it comes to food.</strong></p>
+<p><em>» They only like chicken NuGet.</em></p>
 <hr>
-<p><strong>"99.9% of the people are dumb!"</strong></p>
-<p><em>» "Fortunately I belong to the remaining 1%"</em></p>
+<p><strong>Programming is like sex.</strong></p>
+<p><em>» Make one mistake and you end up supporting it for the rest of your life.</em></p>
 <hr>
-<p><strong>How many bones are in the human hand?</strong></p>
-<p><em>» A handful of them.</em></p>
+<p><strong>I just got fired from my job at the keyboard factory.</strong></p>
+<p><em>» They told me I wasn't putting in enough shifts.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -269,11 +270,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The average American/Canadian will eat about 11.9 pounds of cereal per year!</p>
+<p>💡 There are 269 steps to the top of the Leaning Tower of Pisa</p>
 <hr>
-<p>💡 Denver, Colorado lays claim to the invention of the cheeseburger.</p>
+<p>💡 Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.</p>
 <hr>
-<p>💡 55.1% of all US prisoners are in prison for drug offenses.</p>
+<p>💡 There is approximately one chicken for every human being in the world.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -283,15 +284,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Nothing great was ever achieved without enthusiasm."</em> - Ralph Waldo Emerson</p>
+  <p><em>"Do your work with your whole heart, and you will succeed – there’s so little competition."</em> - Elbert Hubbard</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
+  <p><em>"Don't cry because it's over, smile because it happened."</em> - Dr. Seuss</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Only put off until tomorrow what you are willing to die having left undone."</em> - Pablo Picasso</p>
+  <p><em>"Be kind whenever possible. It is always possible."</em> - Dalai Lama</p>
 </blockquote>
 </details>
 <p>
@@ -305,15 +306,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>September 23, 2026</td>
-<td> 05:08 AM IST</td>
+<td>Thursday</td>
+<td>September 24, 2026</td>
+<td> 05:17 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>September 24, 2026</td>
-<td>~05:05 AM IST</td>
+<td>Friday</td>
+<td>September 25, 2026</td>
+<td>~05:15 AM IST</td>
 </tr>
 </tbody>
 </table>
