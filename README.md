@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>83.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,720h 42m</strong> (97,076 Streams)</p>
+<p>🎧 Spotify: <strong>5,724h 3m</strong> (97,139 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -65,45 +65,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Other</td>
-<td>11 hrs 43 mins</td>
+<td>11 hrs 19 mins</td>
 <td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.0%</td>
+<td>33.9%</td>
 </tr> 
  <tr>
 <td>Go</td>
-<td>10 hrs 41 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.1%</td>
+<td>8 hrs 59 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>26.9%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 hrs 42 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.2%</td>
+<td>14.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 15 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.2%</td>
+<td>9.8%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>2 hrs 22 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.7%</td>
+<td>7.1%</td>
 </tr> 
  <tr>
 <td>Git Config</td>
 <td>1 hr 47 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.0%</td>
+<td>5.3%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>55 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.6%</td>
+<td>2.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -117,15 +117,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>32 hrs 32 mins</td>
-<td>███████████████████████▒▒</td>
-<td>91.6%</td>
+<td>30 hrs 27 mins</td>
+<td>██████████████████████▒▒▒</td>
+<td>91.1%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 59 mins</td>
+<td>2 hrs 58 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.4%</td>
+<td>8.9%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,7 +139,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>35 hrs 32 mins</td>
+<td>33 hrs 25 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -155,7 +155,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>35 hrs 32 mins</td>
+<td>33 hrs 25 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -226,14 +226,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Where do bees go to the bathroom?</strong></p>
-<p><em>» The BP station.</em></p>
+<p><strong>My wife left me because I'm too insecure and paranoid.</strong></p>
+<p><em>» Oh wait, never mind. She was just getting the mail.</em></p>
 <hr>
-<p><strong>What do you call fake spaghetti?</strong></p>
-<p><em>» An impasta.</em></p>
+<p><strong>Why couldn't the skeleton go to the Christmas party?</strong></p>
+<p><em>» Because he had no body to go with!</em></p>
 <hr>
-<p><strong>Why do programmers wear glasses?</strong></p>
-<p><em>» Because they need to C#</em></p>
+<p>Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -242,11 +241,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 John Lennon`s first girlfriend was named Thelma Pickles.</p>
+<p>💡 If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 <hr>
-<p>💡 One in seven workers in Boston, Massachusetts walks to work.</p>
+<p>💡 Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
 <hr>
-<p>💡 You can sail all the way around the world at latitude 60 degrees south.</p>
+<p>💡 A “quidnunc” is a person who is eager to know the latest news and gossip.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -256,15 +255,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The whole secret of a successful life is to find out what is one's destiny to do, and then do it."</em> - Henry Ford</p>
+  <p><em>"You have to be lucky to be successful, but luck can be engineered."</em> - Zat Rana</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Nothing lasts forever. Not even your troubles."</em> - Arnold H. Glasgow</p>
+  <p><em>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</em> - Roy T. Bennett</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."</em> - David Brinkley</p>
+  <p><em>"Imagine your life is perfect in every respect; what would it look like?"</em> - Brian Tracy</p>
 </blockquote>
 </details>
 <p>
@@ -278,15 +277,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 04, 2026</td>
-<td> 05:24 AM IST</td>
+<td>Monday</td>
+<td>October 05, 2026</td>
+<td> 05:29 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 05, 2026</td>
-<td>~05:20 AM IST</td>
+<td>Tuesday</td>
+<td>October 06, 2026</td>
+<td>~05:25 AM IST</td>
 </tr>
 </tbody>
 </table>
