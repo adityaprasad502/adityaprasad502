@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>83.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,731h 6m</strong> (97,242 Streams)</p>
+<p>🎧 Spotify: <strong>5,734h 42m</strong> (97,305 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -64,46 +64,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Other</td>
-<td>10 hrs 23 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.8%</td>
+<td>Go</td>
+<td>6 hrs 6 mins</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>27.0%</td>
 </tr> 
  <tr>
-<td>Go</td>
-<td>8 hrs 59 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.2%</td>
+<td>Other</td>
+<td>5 hrs 9 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.8%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>4 hrs 42 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.3%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.8%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 15 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.6%</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>14.4%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>2 hrs 22 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.7%</td>
+<td>10.5%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>55 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.0%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.1%</td>
 </tr> 
  <tr>
 <td>Text</td>
 <td>4 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.2%</td>
+<td>0.3%</td>
 </tr>
 </tbody></table>
 </details>
@@ -117,15 +117,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>27 hrs 59 mins</td>
+<td>19 hrs 56 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>91.1%</td>
+<td>88.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 44 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.9%</td>
+<td>2 hrs 40 mins</td>
+<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>11.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,7 +139,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>30 hrs 44 mins</td>
+<td>22 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -155,7 +155,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>30 hrs 44 mins</td>
+<td>22 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -226,14 +226,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why do programmers always get Christmas and Halloween mixed up?</strong></p>
-<p><em>» Because DEC 25 = OCT 31</em></p>
+<p><strong>Why don't React developers like nature?</strong></p>
+<p><em>» They prefer the virtual DOM.</em></p>
 <hr>
-<p><strong>What do you call an old snowman?</strong></p>
-<p><em>» Water.</em></p>
+<p><strong>Why did the functional programmer get thrown out of school?</strong></p>
+<p><em>» Because he refused to take classes.</em></p>
 <hr>
-<p><strong>What did the cell say when his sister cell stepped on his foot?</strong></p>
-<p><em>» Mitosis.</em></p>
+<p><strong>Why did the Python data scientist get arrested at customs?</strong></p>
+<p><em>» She was caught trying to import pandas!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -242,11 +242,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A shark can detect one part of blood in 100 million parts of water.</p>
+<p>💡 Albert Einstein and Charles Darwin both married their first cousins</p>
 <hr>
-<p>💡 Eskimos have over 15 words for the English word of 'Snow'</p>
+<p>💡 One quarter of the bones in your body, are in your feet!</p>
 <hr>
-<p>💡 Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.</p>
+<p>💡 Beethoven dipped his head in cold water before he composed.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -256,15 +256,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Set your goals high and don’t stop until you get there."</em> - Bo Jackson</p>
-</blockquote>
-<hr>
-<blockquote>
-  <p><em>"Try not to become a person of success, but rather try to become a person of value."</em> - Albert Einstein</p>
-</blockquote>
-<hr>
-<blockquote>
   <p><em>"Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway"</em> - Mary Kay Ash</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Live each day as if your life had just begun."</em> - Johann Wolfgang Von Goethe</p>
+</blockquote>
+<hr>
+<blockquote>
+  <p><em>"Accept responsibly for your life. Know that it is you who will get you where you want to go, no one else."</em> - Les Brown</p>
 </blockquote>
 </details>
 <p>
@@ -278,15 +278,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Wednesday</td>
-<td>October 07, 2026</td>
-<td> 06:18 AM IST</td>
+<td>Thursday</td>
+<td>October 08, 2026</td>
+<td> 06:34 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Thursday</td>
-<td>October 08, 2026</td>
-<td>~06:15 AM IST</td>
+<td>Friday</td>
+<td>October 09, 2026</td>
+<td>~06:30 AM IST</td>
 </tr>
 </tbody>
 </table>
