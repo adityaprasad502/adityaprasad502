@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/bb3078e078c0b3f1c7d1c51222f689354207325240cd70c96376b96c4e88f62c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e636525323032322f30312f323032322d3125324337363725323068727325323035342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%2022/01/2022-1%2C767%20hrs%2054%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,905+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,907+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>19</strong> Private Repositories</p>
-<p>📦 <strong>83.8 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>83.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,740h 57m</strong> (97,413 Streams)</p>
+<p>🎧 Spotify: <strong>5,746h 2m</strong> (97,501 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -52,7 +52,35 @@ fun main() {
 <details>
 <summary><b>🕐 Commit Patterns</b></summary><br>
 <table>
-<tbody><tr><th colspan="4">📅 No commits found in October 2026</th></tr>
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>2 commits</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>2 commits in October 2026</b></td>
+</tr>
 </tbody></table>
 </details>
 <p>
@@ -64,40 +92,40 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>Go</td>
-<td>5 hrs 19 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.4%</td>
-</tr> 
- <tr>
 <td>Other</td>
 <td>3 hrs 51 mins</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.6%</td>
+<td>23.2%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>3 hrs 15 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.4%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.6%</td>
+</tr> 
+ <tr>
+<td>Go</td>
+<td>3 hrs 14 mins</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.5%</td>
 </tr> 
  <tr>
 <td>HTML</td>
 <td>2 hrs 54 mins</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.5%</td>
+<td>17.5%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>2 hrs 22 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.7%</td>
+<td>14.3%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>55 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.9%</td>
+<td>5.5%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -117,15 +145,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>16 hrs 24 mins</td>
+<td>14 hrs 53 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>87.7%</td>
+<td>89.6%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2 hrs 18 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>12.3%</td>
+<td>1 hr 43 mins</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>10.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -139,7 +167,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>18 hrs 42 mins</td>
+<td>16 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -155,7 +183,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>18 hrs 42 mins</td>
+<td>16 hrs 37 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -195,7 +223,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Go</td>
-<td>390.0 KiB</td>
+<td>390.5 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>7.7%</td>
 </tr> 
@@ -226,14 +254,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>I like my girls how I like my COVID.</strong></p>
-<p><em>» 19 and easily spread.</em></p>
+<p><strong>"99.9% of the people are dumb!"</strong></p>
+<p><em>» "Fortunately I belong to the remaining 1%"</em></p>
 <hr>
-<p><strong>Why are oranges the smartest fruit?</strong></p>
-<p><em>» Because they are made to concentrate. </em></p>
+<p><strong>Why do ducks make great detectives?</strong></p>
+<p><em>» They always quack the case.</em></p>
 <hr>
-<p><strong>What is a dying programmer's last program?</strong></p>
-<p><em>» Goodbye, world!</em></p>
+<p><strong>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</strong></p>
+<p><em>» She still isn't talking to me.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -242,11 +270,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Dr. Jack Kevorkian first patient has Alzheimer`s disease.</p>
+<p>💡 Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
 <hr>
-<p>💡 When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
+<p>💡 Sex burns 360 calories per hour.</p>
 <hr>
-<p>💡 A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.</p>
+<p>💡 The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -256,15 +284,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"To me, business isn't about wearing suits or pleasing stockholders. It's about being true to yourself, your ideas and focusing on the essentials."</em> - Richard Branson</p>
+  <p><em>"The way to get started is to quit talking and begin doing."</em> - Walt Disney</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Nothing lasts forever. Not even your troubles."</em> - Arnold H. Glasgow</p>
+  <p><em>"The power of imagination makes us infinite."</em> - John Muir</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"If your actions inspire others to dream more, learn more, do more, and become more, you are a leader."</em> - John Quincy Adams</p>
+  <p><em>"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like."</em> - Mike Gafka</p>
 </blockquote>
 </details>
 <p>
@@ -278,15 +306,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>October 11, 2026</td>
-<td> 05:46 AM IST</td>
+<td>Monday</td>
+<td>October 12, 2026</td>
+<td> 06:08 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>October 12, 2026</td>
-<td>~05:45 AM IST</td>
+<td>Tuesday</td>
+<td>October 13, 2026</td>
+<td>~06:05 AM IST</td>
 </tr>
 </tbody>
 </table>
