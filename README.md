@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/9ecfc4fbe5ec2903a5905050ff761bc71d1a1749fd6f52955c93d40eeb9880ed/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324337373225323068727325323034382532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C772%20hrs%2048%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/76f52f67d53978b2b8d3f2cb4ba13f2b6dde16e1dd234a83907efae7f76c69f7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324337373325323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C773%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,918+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>84.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,092h 31m</strong> (87,859 Streams)</p>
+<p>🎧 Spotify: <strong>5,092h 34m</strong> (87,860 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Other</td>
-<td>4 hrs 46 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>29.8%</td>
+<td>4 hrs 47 mins</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.3%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>4 hrs 30 mins</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>28.2%</td>
+<td>31.4%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>2 hrs 21 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.8%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>16.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>2 hrs 10 mins</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>13.6%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>1 hr 8 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.1%</td>
+<td>15.1%</td>
 </tr> 
  <tr>
 <td>CSS</td>
-<td>55 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.7%</td>
+<td>20 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.4%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.7%</td>
+<td>0.8%</td>
+</tr> 
+ <tr>
+<td>HTML</td>
+<td>5 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.6%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,15 +145,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>14 hrs 36 mins</td>
+<td>13 hrs 7 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>91.3%</td>
+<td>91.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 22 mins</td>
+<td>1 hr 15 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.6%</td>
+<td>8.7%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
@@ -203,7 +203,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>15 hrs 59 mins</td>
+<td>14 hrs 23 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -219,7 +219,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>15 hrs 59 mins</td>
+<td>14 hrs 23 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -290,12 +290,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.</p>
+<p><strong>Why did the functional programmer get thrown out of school?</strong></p>
+<p><em>» Because he refused to take classes.</em></p>
 <hr>
-<p><strong>Why do programmers prefer using the dark mode?</strong></p>
-<p><em>» Because light attracts bugs.</em></p>
+<p>What's black and white and read all over? The newspaper.</p>
 <hr>
-<p>What did the Red light say to the Green light? Don't look at me I'm changing!</p>
+<p><strong>Why did the programmer quit his job?</strong></p>
+<p><em>» Because he didn't get arrays.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -304,11 +305,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A snail can sleep for 3 years.</p>
+<p>💡 40,000 Americans are injured by toilets each year.</p>
 <hr>
-<p>💡 The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.</p>
+<p>💡 ”Judge Judy” has a $25,000,000 salary, while Supreme Court Justice Ginsberg has a $190,100 salary.</p>
 <hr>
-<p>💡 Napoleon`s penis was sold to an American Urologist for $40,000.</p>
+<p>💡 An ostrich’s eye is bigger than its brain.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -318,15 +319,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Defeat is not bitter unless you swallow it."</em> - Joe Clark</p>
+  <p><em>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor...Explore. Dream. Discover."</em> - Mark Twain</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The whole secret of a successful life is to find out what is one's destiny to do, and then do it."</em> - Henry Ford</p>
+  <p><em>"Don't cry because it's over, smile because it happened."</em> - Dr. Seuss</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The best and most beautiful things in the world cannot be seen or even touched -- they must be felt with the heart."</em> - Helen Keller</p>
+  <p><em>"Life is short, and it is here to be lived."</em> - Kate Winslet</p>
 </blockquote>
 </details>
 <p>
@@ -340,14 +341,14 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 16, 2026</td>
-<td> 05:13 AM IST</td>
+<td>Saturday</td>
+<td>October 17, 2026</td>
+<td> 05:10 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 17, 2026</td>
+<td>Sunday</td>
+<td>October 18, 2026</td>
 <td>~05:10 AM IST</td>
 </tr>
 </tbody>
