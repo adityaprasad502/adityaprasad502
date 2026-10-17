@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>84.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,092h 34m</strong> (87,860 Streams)</p>
+<p>🎧 Spotify: <strong>5,095h 15m</strong> (87,901 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Other</td>
-<td>4 hrs 47 mins</td>
-<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>33.3%</td>
-</tr> 
- <tr>
-<td>JavaScript</td>
-<td>4 hrs 30 mins</td>
+<td>3 hrs</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.4%</td>
+<td>30.5%</td>
 </tr> 
  <tr>
 <td>YAML</td>
 <td>2 hrs 21 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.4%</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.0%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>2 hrs 10 mins</td>
-<td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.1%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>22.1%</td>
 </tr> 
  <tr>
-<td>CSS</td>
-<td>20 mins</td>
+<td>JavaScript</td>
+<td>1 hr 44 mins</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>17.6%</td>
+</tr> 
+ <tr>
+<td>Kotlin</td>
+<td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.4%</td>
+<td>2.0%</td>
+</tr> 
+ <tr>
+<td>Properties</td>
+<td>9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.6%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>5 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.6%</td>
+<td>1.2%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,15 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>13 hrs 7 mins</td>
-<td>██████████████████████▒▒▒</td>
-<td>91.2%</td>
+<td>8 hrs 29 mins</td>
+<td>█████████████████████▒▒▒▒</td>
+<td>86.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>1 hr 15 mins</td>
+<td>59 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.7%</td>
+<td>10.1%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>21 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.6%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
@@ -181,15 +187,15 @@ fun main() {
  <tr>
 <td>Gemini</td>
 <td>140 lines</td>
-<td>$4.62</td>
+<td>$4.69</td>
 <td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>45.0%</td>
 </tr>
  <tr>
 <td><b>Total</b></td>
 <td><b>311 lines</b></td>
-<td><b>$5.93</b></td>
-<td colspan="2"><b>2.38M tokens (2.18M in / 205.2k out)</b></td>
+<td><b>$6.00</b></td>
+<td colspan="2"><b>2.41M tokens (2.2M in / 206.4k out)</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -203,7 +209,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>14 hrs 23 mins</td>
+<td>9 hrs 51 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -219,7 +225,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>14 hrs 23 mins</td>
+<td>9 hrs 51 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -290,13 +296,12 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the functional programmer get thrown out of school?</strong></p>
-<p><em>» Because he refused to take classes.</em></p>
+<p>What did the pirate say on his 80th birthday? Aye Matey!</p>
 <hr>
-<p>What's black and white and read all over? The newspaper.</p>
+<p><strong>What do you get when you cross a rabbit with a water hose?</strong></p>
+<p><em>» Hare spray.</em></p>
 <hr>
-<p><strong>Why did the programmer quit his job?</strong></p>
-<p><em>» Because he didn't get arrays.</em></p>
+<p>I used to work in a shoe recycling shop. It was sole destroying.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -305,11 +310,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 40,000 Americans are injured by toilets each year.</p>
+<p>💡 The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.</p>
 <hr>
-<p>💡 ”Judge Judy” has a $25,000,000 salary, while Supreme Court Justice Ginsberg has a $190,100 salary.</p>
+<p>💡 A `jiffy` is a unit of time for 1/100th of a second.</p>
 <hr>
-<p>💡 An ostrich’s eye is bigger than its brain.</p>
+<p>💡 Cats have over one hundred vocal sounds; dogs only have about ten.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -319,15 +324,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor...Explore. Dream. Discover."</em> - Mark Twain</p>
+  <p><em>"Your true success in life begins only when you make the commitment to become excellent at what you do."</em> - Brian Tracy</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Don't cry because it's over, smile because it happened."</em> - Dr. Seuss</p>
+  <p><em>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much may be done if we are always doing."</em> - Thomas Jefferson</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Life is short, and it is here to be lived."</em> - Kate Winslet</p>
+  <p><em>"You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction."</em> - George Lorimer</p>
 </blockquote>
 </details>
 <p>
@@ -341,15 +346,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 17, 2026</td>
-<td> 05:10 AM IST</td>
+<td>Sunday</td>
+<td>October 18, 2026</td>
+<td> 04:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>October 18, 2026</td>
-<td>~05:10 AM IST</td>
+<td>Monday</td>
+<td>October 19, 2026</td>
+<td>~04:40 AM IST</td>
 </tr>
 </tbody>
 </table>
