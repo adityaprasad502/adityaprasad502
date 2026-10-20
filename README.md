@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/76f52f67d53978b2b8d3f2cb4ba13f2b6dde16e1dd234a83907efae7f76c69f7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324337373325323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C773%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e5a1f88f1cc4d2dee7558b17f570cf041f816b69910405a31e162e96763cbeee/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324337373325323068727325323033322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C773%20hrs%2032%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,918+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>84.6 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,100h 13m</strong> (87,981 Streams)</p>
+<p>🎧 Spotify: <strong>5,102h 20m</strong> (88,020 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -92,46 +92,46 @@ fun main() {
 <summary><b>⌨️ Languages (30D)</b></summary><br>
 <table>
  <tbody><tr>
-<td>YAML</td>
-<td>2 hrs 21 mins</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>27.8%</td>
-</tr> 
- <tr>
 <td>Markdown</td>
 <td>2 hrs 10 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.6%</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>33.5%</td>
 </tr> 
  <tr>
 <td>Other</td>
-<td>1 hr 55 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
+<td>1 hr 53 mins</td>
+<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>29.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 30 mins</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>17.8%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>23.3%</td>
+</tr> 
+ <tr>
+<td>YAML</td>
+<td>24 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.2%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>3.0%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>2.5%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>6 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,21 +145,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>7 hrs 16 mins</td>
-<td>█████████████████████▒▒▒▒</td>
-<td>85.7%</td>
-</tr> 
- <tr>
-<td>VS Code</td>
-<td>50 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.0%</td>
+<td>5 hrs 51 mins</td>
+<td>██████████████████████▒▒▒</td>
+<td>90.0%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>21 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>5.5%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>17 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>4.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
@@ -209,7 +209,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>8 hrs 29 mins</td>
+<td>6 hrs 30 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -225,7 +225,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>8 hrs 29 mins</td>
+<td>6 hrs 30 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -296,12 +296,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>I made a belt out of watches once... It was a waist of time.</p>
+<p><strong>What's the difference between a gay guy and a refrigerator?</strong></p>
+<p><em>» A refrigerator doesn't fart when I pull my meat out of it.</em></p>
 <hr>
-<p><strong>Want to hear a joke about a piece of paper?</strong></p>
-<p><em>» Never mind...it's tearable</em></p>
+<p>My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.</p>
 <hr>
-<p>UDP is better in the COVID era since it avoids unnecessary handshakes.</p>
+<p><strong>What’s E.T. short for?</strong></p>
+<p><em>» He’s only got little legs.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -310,11 +311,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Peter Falk, who played "Columbo," has a glass eye.</p>
+<p>💡 Lithuania has the highest suicide rate in the world.</p>
 <hr>
-<p>💡 A cat's jaw cannot move sideways.</p>
+<p>💡 An ant always falls over on its right side when intoxicated.</p>
 <hr>
-<p>💡 Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</p>
+<p>💡 Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -324,15 +325,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Everything is approximate. Don’t aim to be right. Aim to be less wrong."</em> - Zat Rana</p>
+  <p><em>"The way I see it, if you want the rainbow, you gotta put up with the rain."</em> - Dolly Parton</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Success does not consist in never making mistakes but in never making the same one a second time."</em> - George Bernard Shaw</p>
+  <p><em>"Real difficulties can be overcome; it is only the imaginary ones that are unconquerable."</em> - Theodore N. Vail</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
+  <p><em>"You can't connect the dots looking forward; you can only connect them looking backward...This approach has never let me down, and it has made all the difference in my life."</em> - Steve Jobs</p>
 </blockquote>
 </details>
 <p>
@@ -346,15 +347,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Tuesday</td>
-<td>October 20, 2026</td>
-<td> 05:56 AM IST</td>
+<td>Wednesday</td>
+<td>October 21, 2026</td>
+<td> 05:27 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Wednesday</td>
-<td>October 21, 2026</td>
-<td>~05:55 AM IST</td>
+<td>Thursday</td>
+<td>October 22, 2026</td>
+<td>~05:25 AM IST</td>
 </tr>
 </tbody>
 </table>
