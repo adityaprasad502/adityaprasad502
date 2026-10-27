@@ -34,7 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/df90c92584095962c97e8c3d6c387258b8c1c21ca859e831f762209d0dc7e5e7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324337373725323068727325323034392532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C777%20hrs%2049%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/723814d9d5a3ebaca221f0b4a3b3d18cd1c260cf641303e8bd552a218935fbcf/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d31253243373835253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C785%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>5,926+</strong> Commits made on GitHub</p>
@@ -42,7 +42,7 @@ fun main() {
 <p>📦 <strong>84.5 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,121h 47m</strong> (88,339 Streams)</p>
+<p>🎧 Spotify: <strong>5,123h 26m</strong> (88,365 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -93,45 +93,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Other</td>
-<td>4 hrs 14 mins</td>
-<td>████████████▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>49.9%</td>
+<td>5 hrs 57 mins</td>
+<td>██████████████▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>55.9%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>2 hrs 10 mins</td>
-<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>25.6%</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.4%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 40 mins</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.6%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>15.7%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
+<td>13 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.1%</td>
+</tr> 
+ <tr>
+<td>TOML</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>1.9%</td>
+</tr> 
+ <tr>
+<td>XML</td>
+<td>9 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>1.5%</td>
 </tr> 
  <tr>
 <td>Properties</td>
 <td>9 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
-</tr> 
- <tr>
-<td>HTML</td>
-<td>2 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.4%</td>
-</tr> 
- <tr>
-<td>Java Properties</td>
-<td>1 min</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.3%</td>
+<td>1.5%</td>
 </tr>
 </tbody></table>
 </details>
@@ -145,27 +145,27 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity Desktop</td>
-<td>7 hrs 53 mins</td>
-<td>███████████████████████▒▒</td>
-<td>92.7%</td>
+<td>9 hrs 37 mins</td>
+<td>██████████████████████▒▒▒</td>
+<td>90.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
-<td>21 mins</td>
+<td>45 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.2%</td>
+<td>7.2%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>8 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.7%</td>
+<td>1.4%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
 <td>7 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>1.1%</td>
 </tr>
 </tbody></table>
 </details>
@@ -187,7 +187,7 @@ fun main() {
  <tr>
 <td>Gemini</td>
 <td>140 lines</td>
-<td>$6.42</td>
+<td>$7.30</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>29.7%</td>
 </tr> 
@@ -201,8 +201,8 @@ fun main() {
  <tr>
 <td><b>Total</b></td>
 <td><b>472 lines</b></td>
-<td><b>$8.41</b></td>
-<td colspan="2"><b>3.65M tokens (3.38M in / 266k out)</b></td>
+<td><b>$9.29</b></td>
+<td colspan="2"><b>4.05M tokens (3.77M in / 274.5k out)</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -216,7 +216,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>8 hrs 31 mins</td>
+<td>10 hrs 39 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -232,7 +232,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>8 hrs 31 mins</td>
+<td>10 hrs 39 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -303,13 +303,11 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why did the burglar hang his mugshot on the wall?</strong></p>
-<p><em>» To prove that he was framed!</em></p>
+<p>What do bees do after they are married? They go on a honeymoon.</p>
 <hr>
-<p><strong>Why do C# and Java developers keep breaking their keyboards?</strong></p>
-<p><em>» Because they use a strongly typed language.</em></p>
+<p>Why did the knife dress up in a suit? Because it wanted to look sharp</p>
 <hr>
-<p>Parallel lines have so much in common. It’s a shame they’ll never meet.</p>
+<p>What happens to a frog's car when it breaks down? It gets toad.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -318,11 +316,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Americans on the average eat 18 acres of pizza every day.</p>
+<p>💡 Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</p>
 <hr>
-<p>💡 The average person will accidentally eat just under a pound of insects every year.</p>
+<p>💡 To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.</p>
 <hr>
-<p>💡 Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</p>
+<p>💡 South Dakota is the only U.S state which shares no letters with the name of it`s capital</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -332,15 +330,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Creativity is intelligence having fun."</em> - Albert Einstein</p>
+  <p><em>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."</em> - David Brinkley</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself."</em> - Harvey Fierstein</p>
+  <p><em>"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."</em> - Albert Einstein</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</em> - Ralph Waldo Emerson</p>
+  <p><em>"In three words I can sum up everything I've learned about life: it goes on."</em> - Robert Frost</p>
 </blockquote>
 </details>
 <p>
@@ -354,15 +352,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Monday</td>
-<td>October 26, 2026</td>
-<td> 04:50 AM IST</td>
+<td>Tuesday</td>
+<td>October 27, 2026</td>
+<td> 06:04 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Tuesday</td>
-<td>October 27, 2026</td>
-<td>~04:50 AM IST</td>
+<td>Wednesday</td>
+<td>October 28, 2026</td>
+<td>~06:00 AM IST</td>
 </tr>
 </tbody>
 </table>
