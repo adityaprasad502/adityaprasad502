@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/58a753d66d3d39774266378c27b57b0218d8acaa499ab193cdd6899a52731a5a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324337393025323068727325323034342532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C790%20hrs%2044%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c8d5bab5a3a402fe5a286b44a13a089002e98851a84d2a5609a867363f9b5ab3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d31253243373931253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C791%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,950+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,957+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>19</strong> Private Repositories</p>
-<p>📦 <strong>84.6 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>84.8 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,152h 1m</strong> (88,826 Streams)</p>
+<p>🎧 Spotify: <strong>5,155h 51m</strong> (88,888 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>9 commits</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.0%</td>
+<td>10 commits</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.2%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>2 commits</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.4%</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>14 commits</td>
-<td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.1%</td>
+<td>19 commits</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>36.5%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>20 commits</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>44.4%</td>
+<td>21 commits</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.4%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>45 commits in October 2026</b></td>
+<td colspan="2"><b>52 commits in October 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -95,43 +95,43 @@ fun main() {
 <td>Other</td>
 <td>15 hrs 8 mins</td>
 <td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>66.0%</td>
+<td>64.2%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>2 hrs 10 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.5%</td>
+<td>9.2%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 1 min</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.9%</td>
+<td>8.6%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 45 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.7%</td>
+<td>7.5%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>56 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>4.0%</td>
 </tr> 
  <tr>
 <td>QML</td>
-<td>19 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.4%</td>
+<td>54 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.8%</td>
 </tr> 
  <tr>
 <td>TOML</td>
 <td>11 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.9%</td>
+<td>0.8%</td>
 </tr>
 </tbody></table>
 </details>
@@ -147,25 +147,25 @@ fun main() {
 <td>Antigravity Desktop</td>
 <td>20 hrs 43 mins</td>
 <td>██████████████████████▒▒▒</td>
-<td>90.4%</td>
+<td>87.9%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 26 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.3%</td>
+<td>6.1%</td>
+</tr> 
+ <tr>
+<td>Antigravity</td>
+<td>48 mins</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.4%</td>
 </tr> 
  <tr>
 <td>Opencode Cli</td>
 <td>26 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>1.9%</td>
-</tr> 
- <tr>
-<td>Antigravity</td>
-<td>10 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.8%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
@@ -187,22 +187,43 @@ fun main() {
 <td>DeepSeek</td>
 <td>1,076 lines</td>
 <td>$64.52</td>
-<td>█████████████████▒▒▒▒▒▒▒▒</td>
-<td>69.5%</td>
+<td>████████████████▒▒▒▒▒▒▒▒▒</td>
+<td>66.3%</td>
 </tr> 
  <tr>
 <td>Sonnet</td>
 <td>332 lines</td>
 <td>$1.98</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>21.4%</td>
+<td>20.5%</td>
 </tr> 
  <tr>
 <td>Gemini</td>
 <td>140 lines</td>
 <td>$11.58</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.0%</td>
+<td>8.6%</td>
+</tr> 
+ <tr>
+<td>Flint</td>
+<td>37 lines</td>
+<td>$12.22</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.3%</td>
+</tr> 
+ <tr>
+<td>GLM</td>
+<td>37 lines</td>
+<td>$4.05</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.3%</td>
+</tr> 
+ <tr>
+<td>Gemma</td>
+<td>0 lines</td>
+<td>$0.03</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>Opencode-Cli</td>
@@ -213,9 +234,9 @@ fun main() {
 </tr>
  <tr>
 <td><b>Total</b></td>
-<td><b>1,548 lines</b></td>
-<td><b>$78.09</b></td>
-<td colspan="2"><b>6.38M tokens (5.88M in / 495.3k out)</b></td>
+<td><b>1,622 lines</b></td>
+<td><b>$94.40</b></td>
+<td colspan="2"><b>6.62M tokens (6.08M in / 544.3k out)</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -229,7 +250,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>22 hrs 55 mins</td>
+<td>23 hrs 34 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -245,7 +266,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>22 hrs 55 mins</td>
+<td>23 hrs 34 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -262,8 +283,8 @@ fun main() {
  <tbody><tr>
 <td>QML</td>
 <td>2.1 MiB</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.5%</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>39.4%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
@@ -273,9 +294,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Python</td>
-<td>794.4 KiB</td>
+<td>801.6 KiB</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.9%</td>
+<td>15.1%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -285,7 +306,7 @@ fun main() {
 </tr> 
  <tr>
 <td>Go</td>
-<td>401.0 KiB</td>
+<td>401.2 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>7.5%</td>
 </tr> 
@@ -316,12 +337,11 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”</p>
+<p>Where do sheep go to get their hair cut? The baa-baa shop.</p>
 <hr>
-<p><strong>What does the mermaid wear to math class?</strong></p>
-<p><em>» Algae-bra.</em></p>
+<p>Why can't eggs have love? They will break up too soon.</p>
 <hr>
-<p>I used to work for an origami company but they folded.</p>
+<p>Why did the scarecrow win an award? Because he was outstanding in his field.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -330,11 +350,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The U.S. Post Office handles 43 percent of the world’s mail.</p>
+<p>💡 The toothbrush was invented in China in 1498.</p>
 <hr>
-<p>💡 Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</p>
+<p>💡 The average person will accidentally eat just under a pound of insects every year.</p>
 <hr>
-<p>💡 A shark is the only fish that can blink with both eyes.</p>
+<p>💡 In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -344,15 +364,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"The more you praise and celebrate your life, the more there is in life to celebrate."</em> - Oprah Winfrey</p>
+  <p><em>"There isn't a way things should be. There's just what happens, and what we do."</em> - Terry Pratchett, A Hat Full of Sky</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."</em> - Mark Caine</p>
+  <p><em>"It often requires more courage to dare to do right than to fear to do wrong."</em> - Abraham Lincoln</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</em> - Eleanor Roosevelt</p>
+  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
 </blockquote>
 </details>
 <p>
@@ -366,15 +386,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>October 30, 2026</td>
-<td> 06:38 AM IST</td>
+<td>Saturday</td>
+<td>October 31, 2026</td>
+<td> 06:22 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>October 31, 2026</td>
-<td>~06:35 AM IST</td>
+<td>Sunday</td>
+<td>November 01, 2026</td>
+<td>~06:20 AM IST</td>
 </tr>
 </tbody>
 </table>
