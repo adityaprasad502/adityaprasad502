@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/c8d5bab5a3a402fe5a286b44a13a089002e98851a84d2a5609a867363f9b5ab3/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d31253243373931253230687273253230352532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C791%20hrs%205%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/64b1923785afaf6287fd07f596bf964101207ce9052b46442eabb23a677d6bc6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d31253243373931253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C791%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,957+</strong> Commits made on GitHub</p>
-<p>🗃️ <strong>7</strong> Public • <strong>19</strong> Private Repositories</p>
-<p>📦 <strong>84.8 MiB</strong> Used in GitHub Storage</p>
+<p>🏆 <strong>5,963+</strong> Commits made on GitHub</p>
+<p>🗃️ <strong>7</strong> Public • <strong>20</strong> Private Repositories</p>
+<p>📦 <strong>87.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,155h 51m</strong> (88,888 Streams)</p>
+<p>🎧 Spotify: <strong>5,161h 33m</strong> (88,978 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -55,31 +55,31 @@ fun main() {
 <tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
  <tr>
 <td>🌞 Morning</td>
-<td>10 commits</td>
-<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>19.2%</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>2 commits</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
-<td>19 commits</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>36.5%</td>
+<td>0 commits</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>21 commits</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.4%</td>
+<td>4 commits</td>
+<td>█████████████████████████</td>
+<td>100.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>52 commits in October 2026</b></td>
+<td colspan="2"><b>4 commits in November 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -94,38 +94,38 @@ fun main() {
  <tbody><tr>
 <td>Other</td>
 <td>15 hrs 8 mins</td>
-<td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>64.2%</td>
+<td>███████████████▒▒▒▒▒▒▒▒▒▒</td>
+<td>63.3%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
 <td>2 hrs 10 mins</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.2%</td>
+<td>9.1%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>2 hrs 1 min</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.6%</td>
+<td>8.5%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>1 hr 45 mins</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.3%</td>
+</tr> 
+ <tr>
+<td>QML</td>
+<td>1 hr 14 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.2%</td>
 </tr> 
  <tr>
 <td>XML</td>
 <td>56 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.0%</td>
-</tr> 
- <tr>
-<td>QML</td>
-<td>54 mins</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.8%</td>
+<td>3.9%</td>
 </tr> 
  <tr>
 <td>TOML</td>
@@ -146,26 +146,26 @@ fun main() {
  <tbody><tr>
 <td>Antigravity Desktop</td>
 <td>20 hrs 43 mins</td>
-<td>██████████████████████▒▒▒</td>
-<td>87.9%</td>
+<td>█████████████████████▒▒▒▒</td>
+<td>86.6%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
 <td>1 hr 26 mins</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.1%</td>
+<td>6.0%</td>
 </tr> 
  <tr>
 <td>Antigravity</td>
-<td>48 mins</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.4%</td>
+<td>49 mins</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.5%</td>
 </tr> 
  <tr>
 <td>Opencode Cli</td>
-<td>26 mins</td>
+<td>46 mins</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>1.9%</td>
+<td>3.3%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
@@ -185,38 +185,38 @@ fun main() {
 <table>
  <tbody><tr>
 <td>DeepSeek</td>
-<td>1,076 lines</td>
-<td>$64.52</td>
-<td>████████████████▒▒▒▒▒▒▒▒▒</td>
-<td>66.3%</td>
+<td>1,198 lines</td>
+<td>$106.38</td>
+<td>█████████████████▒▒▒▒▒▒▒▒</td>
+<td>68.7%</td>
 </tr> 
  <tr>
 <td>Sonnet</td>
 <td>332 lines</td>
 <td>$1.98</td>
-<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>20.5%</td>
+<td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>19.0%</td>
 </tr> 
  <tr>
 <td>Gemini</td>
 <td>140 lines</td>
 <td>$11.58</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.6%</td>
+<td>8.0%</td>
 </tr> 
  <tr>
 <td>Flint</td>
 <td>37 lines</td>
 <td>$12.22</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>2.1%</td>
 </tr> 
  <tr>
 <td>GLM</td>
 <td>37 lines</td>
 <td>$4.05</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.3%</td>
+<td>2.1%</td>
 </tr> 
  <tr>
 <td>Gemma</td>
@@ -234,9 +234,9 @@ fun main() {
 </tr>
  <tr>
 <td><b>Total</b></td>
-<td><b>1,622 lines</b></td>
-<td><b>$94.40</b></td>
-<td colspan="2"><b>6.62M tokens (6.08M in / 544.3k out)</b></td>
+<td><b>1,744 lines</b></td>
+<td><b>$136.27</b></td>
+<td colspan="2"><b>7M tokens (6.4M in / 608.8k out)</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -250,7 +250,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>23 hrs 34 mins</td>
+<td>23 hrs 55 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -266,7 +266,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>23 hrs 34 mins</td>
+<td>23 hrs 55 mins</td>
 <td>█████████████████████████</td>
 <td>100.0%</td>
 </tr>
@@ -282,45 +282,45 @@ fun main() {
 <table>
  <tbody><tr>
 <td>QML</td>
-<td>2.1 MiB</td>
-<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.4%</td>
+<td>2.2 MiB</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.7%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>894.9 KiB</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.8%</td>
+<td>16.5%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>801.6 KiB</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>15.1%</td>
+<td>14.7%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
 <td>461.2 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.7%</td>
+<td>8.5%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>401.2 KiB</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.5%</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.4%</td>
 </tr> 
  <tr>
 <td>Dart</td>
 <td>245.3 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.6%</td>
+<td>4.5%</td>
 </tr> 
  <tr>
 <td>CSS</td>
 <td>130.5 KiB</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.4%</td>
 </tr>
 </tbody></table>
 </details>
@@ -337,11 +337,14 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Where do sheep go to get their hair cut? The baa-baa shop.</p>
+<p><strong>What is the most used language in programming?</strong></p>
+<p><em>» Profanity.</em></p>
 <hr>
-<p>Why can't eggs have love? They will break up too soon.</p>
+<p><strong>When does a joke become a dad joke?</strong></p>
+<p><em>» When it becomes apparent.</em></p>
 <hr>
-<p>Why did the scarecrow win an award? Because he was outstanding in his field.</p>
+<p><strong>How come the stadium got hot after the game?</strong></p>
+<p><em>» Because all of the fans left.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -350,11 +353,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The toothbrush was invented in China in 1498.</p>
+<p>💡 Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.</p>
 <hr>
-<p>💡 The average person will accidentally eat just under a pound of insects every year.</p>
+<p>💡 The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
 <hr>
-<p>💡 In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</p>
+<p>💡 If you feed a seagull Alka-Seltzer, its stomach will explode.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -364,15 +367,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"There isn't a way things should be. There's just what happens, and what we do."</em> - Terry Pratchett, A Hat Full of Sky</p>
+  <p><em>"When you cease to dream you cease to live."</em> - Malcolm Forbes</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It often requires more courage to dare to do right than to fear to do wrong."</em> - Abraham Lincoln</p>
+  <p><em>"Follow your bliss and the universe will open doors where there were only walls."</em> - Joseph Campbell</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Little minds are tamed and subdued by misfortune; but great minds rise above it."</em> - Washington Irving</p>
+  <p><em>"It does not matter how slowly you go, so long as you do not stop."</em> - Confucius</p>
 </blockquote>
 </details>
 <p>
@@ -386,15 +389,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>October 31, 2026</td>
-<td> 06:22 AM IST</td>
+<td>Sunday</td>
+<td>November 01, 2026</td>
+<td> 05:42 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 01, 2026</td>
-<td>~06:20 AM IST</td>
+<td>Monday</td>
+<td>November 02, 2026</td>
+<td>~05:40 AM IST</td>
 </tr>
 </tbody>
 </table>
