@@ -37,12 +37,12 @@ fun main() {
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/64b1923785afaf6287fd07f596bf964101207ce9052b46442eabb23a677d6bc6/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d31253243373931253230687273253230362532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C791%20hrs%206%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>5,963+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>5,964+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>7</strong> Public • <strong>20</strong> Private Repositories</p>
 <p>📦 <strong>87.7 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,161h 33m</strong> (88,978 Streams)</p>
+<p>🎧 Spotify: <strong>5,171h 18m</strong> (89,139 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -61,9 +61,9 @@ fun main() {
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
-<td>0 commits</td>
-<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>0.0%</td>
+<td>1 commits</td>
+<td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>20.0%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
@@ -74,12 +74,12 @@ fun main() {
  <tr>
 <td>🌙 Night</td>
 <td>4 commits</td>
-<td>█████████████████████████</td>
-<td>100.0%</td>
+<td>████████████████████▒▒▒▒▒</td>
+<td>80.0%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>4 commits in November 2026</b></td>
+<td colspan="2"><b>5 commits in November 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -284,13 +284,13 @@ fun main() {
 <td>QML</td>
 <td>2.2 MiB</td>
 <td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.7%</td>
+<td>41.0%</td>
 </tr> 
  <tr>
 <td>Kotlin</td>
 <td>894.9 KiB</td>
 <td>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>16.5%</td>
+<td>16.4%</td>
 </tr> 
  <tr>
 <td>Python</td>
@@ -302,13 +302,13 @@ fun main() {
 <td>JavaScript</td>
 <td>461.2 KiB</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>8.5%</td>
+<td>8.4%</td>
 </tr> 
  <tr>
 <td>Go</td>
 <td>401.2 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.4%</td>
+<td>7.3%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -337,14 +337,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>What is the most used language in programming?</strong></p>
-<p><em>» Profanity.</em></p>
+<p>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</p>
 <hr>
-<p><strong>When does a joke become a dad joke?</strong></p>
-<p><em>» When it becomes apparent.</em></p>
+<p><strong>Why was the mushroom always invited to parties?</strong></p>
+<p><em>» Cause he's a fungi.</em></p>
 <hr>
-<p><strong>How come the stadium got hot after the game?</strong></p>
-<p><em>» Because all of the fans left.</em></p>
+<p><strong>What's the difference between a guitar and a fish?</strong></p>
+<p><em>» You can tune a guitar but you can't "tuna"fish!</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -353,11 +352,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.</p>
+<p>💡 An average human loses about 200 head hairs per day.</p>
 <hr>
-<p>💡 The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
+<p>💡 Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 <hr>
-<p>💡 If you feed a seagull Alka-Seltzer, its stomach will explode.</p>
+<p>💡 A jellyfish is 95 percent water!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -367,15 +366,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"When you cease to dream you cease to live."</em> - Malcolm Forbes</p>
+  <p><em>"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it."</em> - Anonymous</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Follow your bliss and the universe will open doors where there were only walls."</em> - Joseph Campbell</p>
+  <p><em>"Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body be full of that idea, and just leave every other idea alone. This is the way to success."</em> - Swami Vivekananda</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"It does not matter how slowly you go, so long as you do not stop."</em> - Confucius</p>
+  <p><em>"For the world to put you down, it first needs you to give it permission."</em> - Zat Rana</p>
 </blockquote>
 </details>
 <p>
@@ -389,15 +388,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Sunday</td>
-<td>November 01, 2026</td>
-<td> 05:42 AM IST</td>
+<td>Monday</td>
+<td>November 02, 2026</td>
+<td> 06:22 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Monday</td>
-<td>November 02, 2026</td>
-<td>~05:40 AM IST</td>
+<td>Tuesday</td>
+<td>November 03, 2026</td>
+<td>~06:20 AM IST</td>
 </tr>
 </tbody>
 </table>
