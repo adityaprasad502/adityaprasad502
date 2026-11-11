@@ -34,6 +34,7 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/11b2820de9ae72c52e90f1a775dc34968f0ec6ec58a63769cbe02e4ae15d0a75/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324339313625323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C916%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
 <p>🏆 <strong>6,009+</strong> Commits made on GitHub</p>
@@ -41,8 +42,253 @@ fun main() {
 <p>📦 <strong>88.2 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,230h 43m</strong> (90,078 Streams)</p>
+<p>🎧 Spotify: <strong>5,231h 56m</strong> (90,099 Streams)</p>
 </blockquote>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>🕐 Commit Patterns</b></summary><br>
+<table>
+<tbody><tr><th colspan="4"> 👻 I'm a Night 🦉</th></tr> 
+ <tr>
+<td>🌞 Morning</td>
+<td>3 commits</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.0%</td>
+</tr> 
+ <tr>
+<td>🌆 Daytime</td>
+<td>16 commits</td>
+<td>████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>32.0%</td>
+</tr> 
+ <tr>
+<td>🌃 Evening</td>
+<td>12 commits</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.0%</td>
+</tr> 
+ <tr>
+<td>🌙 Night</td>
+<td>19 commits</td>
+<td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>38.0%</td>
+</tr>
+<tr>
+<td colspan="2"><b>📊 Total Commits</b></td>
+<td colspan="2"><b>50 commits in November 2026</b></td>
+</tr>
+</tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>⌨️ Languages &amp; Ops (30D)</b></summary><br>
+<table>
+ <tbody><tr>
+<td>AgentOps<sup>*</sup>
+</td>
+<td>47h 49m 38s</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>41.0%</td>
+</tr> 
+ <tr>
+<td>QML</td>
+<td>29h 25m 21s</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>25.2%</td>
+</tr> 
+ <tr>
+<td>Python</td>
+<td>9h 21m 23s</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>8.0%</td>
+</tr> 
+ <tr>
+<td>Markdown</td>
+<td>6h 2m 53s</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>5.2%</td>
+</tr> 
+ <tr>
+<td>JSON</td>
+<td>4h 29m</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.8%</td>
+</tr> 
+ <tr>
+<td>Java</td>
+<td>3h 13m 5s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.8%</td>
+</tr> 
+ <tr>
+<td>JavaScript</td>
+<td>2h 35m 41s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.2%</td>
+</tr>
+</tbody></table>
+<br><sub>* Ad-hoc scripting, device tuning, desktop ricing &amp; agent-driven system tasks.</sub>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>🛠️ Editors &amp; IDEs (30D)</b></summary><br>
+<table>
+ <tbody><tr>
+<td>Antigravity</td>
+<td>109h 46m 47s</td>
+<td>███████████████████████▒▒</td>
+<td>94.1%</td>
+</tr> 
+ <tr>
+<td>OpenCode</td>
+<td>3h 17m 59s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.8%</td>
+</tr> 
+ <tr>
+<td>VS Code</td>
+<td>2h 34m 34s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>2.2%</td>
+</tr> 
+ <tr>
+<td>Android Studio</td>
+<td>58m 25s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.8%</td>
+</tr> 
+ <tr>
+<td>Vscodium</td>
+<td>4m 13s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.1%</td>
+</tr> 
+ <tr>
+<td>Unknown Editor</td>
+<td>25s</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr>
+</tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>🤖 Top AI Models (30D)</b></summary><br>
+<table>
+ <tbody><tr>
+<td>Gemini</td>
+<td>97,475 lines</td>
+<td>██████████████████████▒▒▒</td>
+<td>89.7%</td>
+</tr> 
+ <tr>
+<td>Sonnet</td>
+<td>7,081 lines</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>6.5%</td>
+</tr> 
+ <tr>
+<td>DeepSeek</td>
+<td>3,852 lines</td>
+<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>3.5%</td>
+</tr> 
+ <tr>
+<td>GLM</td>
+<td>101 lines</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.1%</td>
+</tr> 
+ <tr>
+<td>Antigravity-Desktop</td>
+<td>86 lines</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.1%</td>
+</tr> 
+ <tr>
+<td>Vscode</td>
+<td>54 lines</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr> 
+ <tr>
+<td>Flint</td>
+<td>20 lines</td>
+<td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>0.0%</td>
+</tr>
+ <tr>
+<td><b>Total</b></td>
+<td><b>108,669 lines</b></td>
+<td colspan="2"><b>196.65M tokens (180.34M in / 16.3M out)</b></td>
+</tr>
+</tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>🐧 Operating Systems (30D)</b></summary><br>
+<table>
+ <tbody><tr>
+<td>Linux</td>
+<td>88h 29m 25s</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>75.8%</td>
+</tr> 
+ <tr>
+<td>Unknown OS</td>
+<td>28h 12m 58s</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.2%</td>
+</tr>
+</tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
+<details>
+<summary><b>👨‍💻 Dev Workstations (30D)</b></summary><br>
+<table>
+ <tbody><tr>
+<td>xoarch</td>
+<td>88h 28m 49s</td>
+<td>███████████████████▒▒▒▒▒▒</td>
+<td>75.8%</td>
+</tr> 
+ <tr>
+<td>Unknown Hostname</td>
+<td>28h 13m 34s</td>
+<td>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>24.2%</td>
+</tr>
+</tbody></table>
+</details>
+<p>
+    <a href="https://a.devh.in" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
+    </a>
+</p>
 <details>
 <summary><b>💽 Repo Distribution (Owned)</b></summary><br>
 <table>
@@ -103,13 +349,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.</p>
+<p>To the guy who invented zero... thanks for nothing.</p>
 <hr>
-<p>What do you call a nervous javelin thrower? Shakespeare.</p>
+<p><strong>One time I masturbated on a plane.</strong></p>
+<p><em>» I called it "highjacking".</em></p>
 <hr>
-<p><strong>why do python programmers wear glasses?</strong></p>
-<p><em>» Because they can't C.</em></p>
+<p><strong>What do you call a bird sitting with their legs spread?</strong></p>
+<p><em>» A prostitweety.</em></p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -118,11 +364,11 @@ Now you can talk about Botox and nobody raises an eyebrow.</p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.</p>
+<p>💡 It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</p>
 <hr>
-<p>💡 Ketchup was sold in the 1830s as medicine.</p>
+<p>💡 The first toilet ever seen on television was on "Leave It to Beaver."</p>
 <hr>
-<p>💡 100% of lottery winners do gain weight</p>
+<p>💡 1,800 cigarettes are smoked per person each year in China.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -146,13 +392,13 @@ Now you can talk about Botox and nobody raises an eyebrow.</p>
 <td>Last Refresh</td>
 <td>Wednesday</td>
 <td>November 11, 2026</td>
-<td> 06:49 AM IST</td>
+<td> 14:03 PM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
 <td>Thursday</td>
 <td>November 12, 2026</td>
-<td>~06:45 AM IST</td>
+<td>~14:00 PM IST</td>
 </tr>
 </tbody>
 </table>
