@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/d6549499a5471e390ce66bdf4bd47a38b82d0ff6cf7363442b0485c1bd55c1fc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324339333425323068727325323031312532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C934%20hrs%2011%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5f16949322256414833320f4933525b953cd63f9c5326af2d7a9a93949c0bc03/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324339333625323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C936%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>6,020+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>4,858+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>8</strong> Public • <strong>23</strong> Private Repositories</p>
 <p>📦 <strong>88.3 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,245h 23m</strong> (90,308 Streams)</p>
+<p>🎧 Spotify: <strong>5,247h 57m</strong> (90,351 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>3 commits</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.9%</td>
+<td>4.8%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>19 commits</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>31.1%</td>
+<td>30.6%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>14 commits</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>23.0%</td>
+<td>22.6%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>25 commits</td>
+<td>26 commits</td>
 <td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.0%</td>
+<td>41.9%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>61 commits in November 2026</b></td>
+<td colspan="2"><b>62 commits in November 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,46 +93,46 @@ fun main() {
 <table>
  <tbody><tr>
 <td>QML</td>
-<td>46h 46m 38s</td>
-<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>43.6%</td>
+<td>45h 50m 1s</td>
+<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>40.2%</td>
 </tr> 
  <tr>
 <td>AgentOps<sup>*</sup>
 </td>
-<td>11h 34m 59s</td>
+<td>12h 52m 33s</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.8%</td>
-</tr> 
- <tr>
-<td>Python</td>
-<td>10h 40m 35s</td>
-<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>10.0%</td>
+<td>11.3%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>10h 24m 35s</td>
+<td>10h 57m 40s</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.7%</td>
+<td>9.6%</td>
 </tr> 
  <tr>
-<td>Text</td>
-<td>6h 7m 43s</td>
-<td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>5.7%</td>
+<td>Python</td>
+<td>10h 42m 23s</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>9.4%</td>
 </tr> 
  <tr>
 <td>Image (png)</td>
-<td>5h 6m 29s</td>
+<td>8h 37m 51s</td>
+<td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>7.6%</td>
+</tr> 
+ <tr>
+<td>Text</td>
+<td>6h 46m</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>5.9%</td>
 </tr> 
  <tr>
 <td>Go</td>
-<td>4h 8m 19s</td>
+<td>3h 58m 26s</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>3.9%</td>
+<td>3.5%</td>
 </tr>
 </tbody></table>
 <br><sub>* Ad-hoc scripting, device tuning, desktop ricing &amp; agent-driven system tasks.</sub>
@@ -147,21 +147,21 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity</td>
-<td>98h 59m 3s</td>
+<td>105h 55s</td>
 <td>███████████████████████▒▒</td>
-<td>92.3%</td>
+<td>92.2%</td>
 </tr> 
  <tr>
 <td>OpenCode</td>
-<td>4h 22m 52s</td>
+<td>5h 32s</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.1%</td>
+<td>4.4%</td>
 </tr> 
  <tr>
 <td>VS Code</td>
 <td>2h 39m 11s</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>2.5%</td>
+<td>2.3%</td>
 </tr> 
  <tr>
 <td>Android Studio</td>
@@ -187,15 +187,15 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Gemini</td>
-<td>49,416 lines</td>
+<td>49,440 lines</td>
 <td>███████████████████████▒▒</td>
-<td>92.2%</td>
+<td>92.0%</td>
 </tr> 
  <tr>
 <td>DeepSeek</td>
-<td>3,852 lines</td>
+<td>3,984 lines</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.2%</td>
+<td>7.4%</td>
 </tr> 
  <tr>
 <td>Sonnet</td>
@@ -217,8 +217,8 @@ fun main() {
 </tr>
  <tr>
 <td><b>Total</b></td>
-<td><b>53,576 lines</b></td>
-<td colspan="2"><b>144.21M tokens (129.85M in / 14.36M out)</b></td>
+<td><b>53,732 lines</b></td>
+<td colspan="2"><b>158.63M tokens (143.2M in / 15.43M out)</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -232,9 +232,9 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>107h 3m 45s</td>
+<td>113h 43m 17s</td>
 <td>█████████████████████████</td>
-<td>99.8%</td>
+<td>99.9%</td>
 </tr> 
  <tr>
 <td>Unknown OS</td>
@@ -254,9 +254,9 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>107h 3m 45s</td>
+<td>113h 43m 17s</td>
 <td>█████████████████████████</td>
-<td>99.8%</td>
+<td>99.9%</td>
 </tr> 
  <tr>
 <td>Unknown Hostname</td>
@@ -331,15 +331,13 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p><strong>Why can't Helen Keller see why kids love the taste of Cinnamon Toast Crunch?</strong></p>
-<p><em>» She's dead.</em></p>
+<p>Two reasons I don't give money to homeless people.
+1) They are going to spend it all on drugs and alcohol
+2) I am going to spend it all on drugs and alcohol.</p>
 <hr>
-<p><strong>Why did the crab get arrested?</strong></p>
-<p><em>» It was a crabby crime.</em></p>
+<p>What did the shy pebble wish for? That she was a little boulder.</p>
 <hr>
-<p><strong>The average penis has...</strong></p>
-<p><em>» Been in and around my ex-girlfriend's mouth.
-Fuck you, Karen!</em></p>
+<p>A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -348,11 +346,11 @@ Fuck you, Karen!</em></p>
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 Annual growth of WWW traffic is 314,000%</p>
+<p>💡 The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
 <hr>
-<p>💡 The Great Wall of China is the only man-made structure visible from space.</p>
+<p>💡 Ants closely resemble human manners:  When they wake, they stretch &amp; appear to yawn in a human manner before taking up the tasks of the day.</p>
 <hr>
-<p>💡 In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.</p>
+<p>💡 The name Wendy was made up for the book "Peter Pan."</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -362,15 +360,15 @@ Fuck you, Karen!</em></p>
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"If you smile when no one else is around, you really mean it."</em> - Andy Rooney</p>
+  <p><em>"Philosophy is good advice; and no one can give advice at the top of his lungs."</em> - Seneca</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"To win true freedom you must be a slave to philosophy."</em> - Seneca</p>
+  <p><em>"What is death? Either a transition or an end. I am not afraid of coming to an end, this being the same as never having begun, nor of transition, for I shall never be in confinement quite so cramped anywhere else as I am here."</em> - Seneca</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Is freedom anything else than the right to live as we wish? Nothing else."</em> - Epictetus</p>
+  <p><em>"Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"</em> - Bill Bradley</p>
 </blockquote>
 </details>
 <p>
@@ -384,15 +382,15 @@ Fuck you, Karen!</em></p>
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Friday</td>
-<td>November 13, 2026</td>
-<td> 07:26 AM IST</td>
+<td>Saturday</td>
+<td>November 14, 2026</td>
+<td> 06:59 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Saturday</td>
-<td>November 14, 2026</td>
-<td>~07:25 AM IST</td>
+<td>Sunday</td>
+<td>November 15, 2026</td>
+<td>~06:55 AM IST</td>
 </tr>
 </tbody>
 </table>
