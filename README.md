@@ -1,15 +1,18 @@
-<h2 align='center'><a href="https://a.devh.in" rel="nofollow"><img src="https://media4.giphy.com/media/rar203X81bEN2bVdYJ/giphy.gif" height="120" width="120"></a><br><code>// Howdy, &lt;Peepers /&gt;</code><br>
-<!-- <a href="https://a.devh.in" rel="nofollow">
-    <img src="https://media3.giphy.com/media/WKF4d7M8OpGmqxOsHb/giphy.gif" height="36" width="36">
-  </a>
-  Howdy < Peepers />! 
+<div align="center">
   <a href="https://a.devh.in" rel="nofollow">
-    <img src="https://media4.giphy.com/media/B6m7Q7Bak35QaLtmcy/giphy.gif" height="36" width="36">
-  </a><br> -->
-</h2>
+    <img src="https://media4.giphy.com/media/rar203X81bEN2bVdYJ/giphy.gif" height="194" width="194" alt="">
+  </a>
+
+  <br>
+
+  <h1>
+    <a href="https://a.devh.in" rel="nofollow"><img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy-downsized.gif" height="39" width="38" alt="" align="middle"></a>
+    Howdy, &lt;Peepers /&gt;
+    <a href="https://a.devh.in" rel="nofollow"><img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" height="40" width="40" alt="" align="middle"></a>
+  </h1>
+</div>
 
 ```kt 
-
 // try this on a Kotlin IDE, IntelliJ IDEA? 
 // (avoid online compiler && notebooks) 
 fun main() {
@@ -30,10 +33,8 @@ fun main() {
 }
 ``` 
 
-<h1 align='center'><a href="https://a.devh.in" rel="nofollow"><img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy-downsized.gif" height="32" width="32"></a> Github Stats <a href="https://a.devh.in" rel="nofollow"><img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" height="31" width="31"></a></h1>
 
-
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8d8758ba453580fbdb546209480aa0a39c8d582a80f16a02be02a7fad3a90989/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324339333925323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C939%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
