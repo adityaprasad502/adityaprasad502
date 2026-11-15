@@ -34,15 +34,15 @@ fun main() {
 
 
   <!--START_SECTION:waka-->
-<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/5f16949322256414833320f4933525b953cd63f9c5326af2d7a9a93949c0bc03/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324339333625323068727325323032372532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C936%20hrs%2027%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
+<p><a href="https://a.devh.in" rel="nofollow"><img src="https://camo.githubusercontent.com/8d8758ba453580fbdb546209480aa0a39c8d582a80f16a02be02a7fad3a90989/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d6525323073696e63652532304672692532304a616e25323032317374253230323032322d3125324339333925323068727325323034322532306d696e732d626c75653f6c6f676f3d77616b6174696d65" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time%20since%20Fri%20Jan%2021st%202022-1%2C939%20hrs%2042%20mins-blue?logo=wakatime" style="max-width: 100%;"></a></p>
 <p><strong>👨‍💻 Dev Profile Summary (All-Time)</strong></p>
 <blockquote>
-<p>🏆 <strong>4,858+</strong> Commits made on GitHub</p>
+<p>🏆 <strong>6,024+</strong> Commits made on GitHub</p>
 <p>🗃️ <strong>8</strong> Public • <strong>23</strong> Private Repositories</p>
-<p>📦 <strong>88.3 MiB</strong> Used in GitHub Storage</p>
+<p>📦 <strong>88.4 MiB</strong> Used in GitHub Storage</p>
 <p>⚡ LeetCode: <strong>91</strong> Solved (77E • 12M • 2H)</p>
 <p>🏅 StackOverflow: <strong>471</strong> Rep (1G • 5S • 8B)</p>
-<p>🎧 Spotify: <strong>5,247h 57m</strong> (90,351 Streams)</p>
+<p>🎧 Spotify: <strong>5,250h 23m</strong> (90,388 Streams)</p>
 </blockquote>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -57,29 +57,29 @@ fun main() {
 <td>🌞 Morning</td>
 <td>3 commits</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>4.8%</td>
+<td>4.6%</td>
 </tr> 
  <tr>
 <td>🌆 Daytime</td>
 <td>19 commits</td>
 <td>███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>30.6%</td>
+<td>29.2%</td>
 </tr> 
  <tr>
 <td>🌃 Evening</td>
 <td>14 commits</td>
 <td>█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>22.6%</td>
+<td>21.5%</td>
 </tr> 
  <tr>
 <td>🌙 Night</td>
-<td>26 commits</td>
-<td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>41.9%</td>
+<td>29 commits</td>
+<td>███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
+<td>44.6%</td>
 </tr>
 <tr>
 <td colspan="2"><b>📊 Total Commits</b></td>
-<td colspan="2"><b>62 commits in November 2026</b></td>
+<td colspan="2"><b>65 commits in November 2026</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -93,34 +93,34 @@ fun main() {
 <table>
  <tbody><tr>
 <td>QML</td>
-<td>45h 50m 1s</td>
+<td>45h 51m 27s</td>
 <td>██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>40.2%</td>
+<td>39.9%</td>
 </tr> 
  <tr>
 <td>AgentOps<sup>*</sup>
 </td>
-<td>12h 52m 33s</td>
+<td>13h 5m 24s</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>11.3%</td>
+<td>11.4%</td>
 </tr> 
  <tr>
 <td>Markdown</td>
-<td>10h 57m 40s</td>
+<td>11h 22m 39s</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.6%</td>
+<td>9.9%</td>
 </tr> 
  <tr>
 <td>Python</td>
 <td>10h 42m 23s</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>9.4%</td>
+<td>9.3%</td>
 </tr> 
  <tr>
 <td>Image (png)</td>
-<td>8h 37m 51s</td>
+<td>8h 47m 6s</td>
 <td>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>7.6%</td>
+<td>7.7%</td>
 </tr> 
  <tr>
 <td>Text</td>
@@ -147,9 +147,9 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Antigravity</td>
-<td>105h 55s</td>
+<td>105h 57m 32s</td>
 <td>███████████████████████▒▒</td>
-<td>92.2%</td>
+<td>92.3%</td>
 </tr> 
  <tr>
 <td>OpenCode</td>
@@ -159,7 +159,7 @@ fun main() {
 </tr> 
  <tr>
 <td>VS Code</td>
-<td>2h 39m 11s</td>
+<td>2h 40m 37s</td>
 <td>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
 <td>2.3%</td>
 </tr> 
@@ -187,7 +187,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Gemini</td>
-<td>49,440 lines</td>
+<td>49,532 lines</td>
 <td>███████████████████████▒▒</td>
 <td>92.0%</td>
 </tr> 
@@ -217,8 +217,8 @@ fun main() {
 </tr>
  <tr>
 <td><b>Total</b></td>
-<td><b>53,732 lines</b></td>
-<td colspan="2"><b>158.63M tokens (143.2M in / 15.43M out)</b></td>
+<td><b>53,824 lines</b></td>
+<td colspan="2"><b>160.77M tokens (145.17M in / 15.6M out)</b></td>
 </tr>
 </tbody></table>
 </details>
@@ -232,7 +232,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>Linux</td>
-<td>113h 43m 17s</td>
+<td>114h 41m 20s</td>
 <td>█████████████████████████</td>
 <td>99.9%</td>
 </tr> 
@@ -254,7 +254,7 @@ fun main() {
 <table>
  <tbody><tr>
 <td>xoarch</td>
-<td>113h 43m 17s</td>
+<td>114h 41m 20s</td>
 <td>█████████████████████████</td>
 <td>99.9%</td>
 </tr> 
@@ -278,7 +278,7 @@ fun main() {
 <td>QML</td>
 <td>2.4 MiB</td>
 <td>█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>39.2%</td>
+<td>39.1%</td>
 </tr> 
  <tr>
 <td>Python</td>
@@ -290,7 +290,7 @@ fun main() {
 <td>Kotlin</td>
 <td>894.9 KiB</td>
 <td>███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>14.5%</td>
+<td>14.4%</td>
 </tr> 
  <tr>
 <td>JavaScript</td>
@@ -300,9 +300,9 @@ fun main() {
 </tr> 
  <tr>
 <td>Go</td>
-<td>405.8 KiB</td>
+<td>416.8 KiB</td>
 <td>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</td>
-<td>6.6%</td>
+<td>6.7%</td>
 </tr> 
  <tr>
 <td>Dart</td>
@@ -331,13 +331,12 @@ fun main() {
 </p>
 <details>
 <summary><b>😄 Laugh Break</b></summary><br>
-<p>Two reasons I don't give money to homeless people.
-1) They are going to spend it all on drugs and alcohol
-2) I am going to spend it all on drugs and alcohol.</p>
+<p><strong>How many programmers does it take to change a light bulb?</strong></p>
+<p><em>» It's a hardware problem.</em></p>
 <hr>
-<p>What did the shy pebble wish for? That she was a little boulder.</p>
+<p>Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.</p>
 <hr>
-<p>A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”</p>
+<p>What is a witch's favorite subject in school? Spelling!</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -346,11 +345,11 @@ fun main() {
 </p>
 <details>
 <summary><b>💡 Did You Know</b></summary><br>
-<p>💡 The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
+<p>💡 55.1% of all US prisoners are in prison for drug offenses.</p>
 <hr>
-<p>💡 Ants closely resemble human manners:  When they wake, they stretch &amp; appear to yawn in a human manner before taking up the tasks of the day.</p>
+<p>💡 Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
 <hr>
-<p>💡 The name Wendy was made up for the book "Peter Pan."</p>
+<p>💡 Dr. Jack Kevorkian first patient has Alzheimer`s disease.</p>
 </details>
 <p>
     <a href="https://a.devh.in" rel="nofollow">
@@ -360,15 +359,15 @@ fun main() {
 <details>
 <summary><b>✨ Inspiration</b></summary><br>
 <blockquote>
-  <p><em>"Philosophy is good advice; and no one can give advice at the top of his lungs."</em> - Seneca</p>
+  <p><em>"The universe is made of stories, not atoms."</em> - Muriel Rukeyser</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"What is death? Either a transition or an end. I am not afraid of coming to an end, this being the same as never having begun, nor of transition, for I shall never be in confinement quite so cramped anywhere else as I am here."</em> - Seneca</p>
+  <p><em>"To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation, this is the greatest blessing."</em> - The Buddha</p>
 </blockquote>
 <hr>
 <blockquote>
-  <p><em>"Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"</em> - Bill Bradley</p>
+  <p><em>"From wonder into wonder existence opens."</em> - Laozi</p>
 </blockquote>
 </details>
 <p>
@@ -382,15 +381,15 @@ fun main() {
 <tbody>
 <tr>
 <td>Last Refresh</td>
-<td>Saturday</td>
-<td>November 14, 2026</td>
-<td> 06:59 AM IST</td>
+<td>Sunday</td>
+<td>November 15, 2026</td>
+<td> 06:36 AM IST</td>
 </tr>
 <tr>
 <td>Next Refresh</td>
-<td>Sunday</td>
-<td>November 15, 2026</td>
-<td>~06:55 AM IST</td>
+<td>Monday</td>
+<td>November 16, 2026</td>
+<td>~06:35 AM IST</td>
 </tr>
 </tbody>
 </table>
