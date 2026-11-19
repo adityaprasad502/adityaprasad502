@@ -38,8 +38,8 @@ fun main() {
 
 <p align="center">
   <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/OS-Arch%20Linux-1793d1?logo=archlinux&logoColor=white" alt="Arch Linux"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-1%2C949%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C255%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-1%2C957%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C262%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 ```
@@ -72,23 +72,23 @@ fun main() {
                                            Tokens          176.00M      ·  159.02M input / 16.97M output
                                          ────────────────────────────────────────────────────────────────
                                          All-Time
-                                           Commits              6,031+  ·  72 (30D) · 48.6% night commits
-                                           Repos              31 repos  ·  8 pub   · 23 priv   · 88.4 MiB
+                                           Commits              6,033+  ·  74 (30D) · 50.0% night commits
+                                           Repos              31 repos  ·  7 pub   · 24 priv   · 88.5 MiB
                                            LeetCode          91 solved  ·  77 Easy · 12 Medium ·   2 Hard
                                            Stack Overflow      471 rep  ·  1 Gold  · 5 Silver  · 8 Bronze
-                                           Spotify           5,255 hrs  ·  90,470 streams
+                                           Spotify           5,262 hrs  ·  90,582 streams
                                          ────────────────────────────────────────────────────────────────
                                            *scripting, device tuning, ricing & agent tasks
 ```
 
 ---
 
-> *"Programming isn't about what you know; it's about what you can figure out."*  — Chris Pine
+> *"If you learn how to solve problems, you can go through life and do pretty well."*  — Gary Kildall
 
 ---
 
 <p align="center">
-  <code>sync: 2026-11-18 08:28 IST</code> &nbsp;·&nbsp; <code>next: ~08:28 IST</code><br>
+  <code>sync: 2026-11-19 08:09 IST</code> &nbsp;·&nbsp; <code>next: ~08:09 IST</code><br>
   <sub>Metrics reflect a fraction of total activity across tracked environments.<br>
   Copyright © 2020 - 2026 | Aditya Prasad S</sub><br><br>
   <a href="https://a.devh.in" rel="nofollow"><img alt="Hits" src="https://da.gd/track0" width="94"></a>
