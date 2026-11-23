@@ -38,8 +38,8 @@ fun main() {
 
 <p align="center">
   <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/OS-Arch%20Linux-1793d1?logo=archlinux&logoColor=white" alt="Arch Linux"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-1%2C987%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C284%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-2%2C002%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C293%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 ```
@@ -49,46 +49,46 @@ fun main() {
                   -`                     pu94x@xoarch
                  .o+`                    ────────────
                 `ooo/                    OS              Arch Linux x86_64
-               `+oooo:                   Host            xoarch (150h 00m / 30D)
+               `+oooo:                   Host            xoarch (164h 09m / 30D)
               `+oooooo:                  Terminal        kitty (fish)
-              -+oooooo+:                 Editors         Antigravity (134h 37m · 89.7%)
-            `/:-:++oooo+:                                OpenCode (7h 31m · 5.0%)
-           `/++++/+++++++:                               VSCodium (4h 33m · 3.0%)
+              -+oooooo+:                 Editors         Antigravity (146h 46m · 89.3%)
+            `/:-:++oooo+:                                OpenCode (8h 28m · 5.2%)
+           `/++++/+++++++:                               VSCodium (5h 00m · 3.0%)
           `/++++++++++++++:              WM              Hyprland (Wayland) [riced]
          `/+++ooooooooooooo/`            Uptime          Since 2020 (tracked since 21st 2022)
         ./ooosssso++osssssso+`           ────────────────────────────────────────────────────────────────
        .oossssso-````/ossssss+`          30D Runtime
-      -osssssso.      :ssssssso.           QML                 45h 51m  [########################]  30.5%
-     :osssssss/        osssso+++.          AgentOps*           24h 41m  [#############-----------]  16.4%
-    /ossssssss/        +ssssooo/-          Markdown            17h 37m  [#########---------------]  11.7%
-  `/ossssso+/:-        -:/+osssso+-        Python              14h 13m  [#######-----------------]   9.5%
- `+sso+:-`                 `.-/+oso:       Text                 7h 19m  [####--------------------]   4.9%
+      -osssssso.      :ssssssso.           QML                 45h 58m  [########################]  28.0%
+     :osssssss/        osssso+++.          AgentOps*           28h 39m  [###############---------]  17.4%
+    /ossssssss/        +ssssooo/-          Markdown            18h 27m  [##########--------------]  11.2%
+  `/ossssso+/:-        -:/+osssso+-        Python              17h 11m  [#########---------------]  10.5%
+ `+sso+:-`                 `.-/+oso:       Text                 7h 20m  [####--------------------]   4.5%
 `++:.                           `-/+/    ────────────────────────────────────────────────────────────────
 .`                                 `/    AI Orchestration · 30D
-                                           Gemini          57.1k lines  [########################]  90.7%
-                                           DeepSeek         4.0k lines  [##----------------------]   6.3%
-                                           Sonnet           1.1k lines  [------------------------]   1.8%
-                                           Total           63.0k lines  ·  total generated
-                                           Tokens          201.10M      ·  182.91M input / 18.19M output
+                                           Gemini          62.2k lines  [########################]  87.2%
+                                           DeepSeek         6.4k lines  [##----------------------]   9.0%
+                                           Sonnet           1.1k lines  [------------------------]   1.6%
+                                           Total           71.3k lines  ·  total generated
+                                           Tokens          217.96M      ·  197.92M input / 20.03M output
                                          ────────────────────────────────────────────────────────────────
                                          All-Time
-                                           Commits              6,035+  ·  76 (30D) · 52.6% night commits
-                                           Repos              30 repos  ·  6 pub   · 24 priv   · 88.5 MiB
+                                           Commits              6,060+  ·  101 (30D) · 47.5% night commits
+                                           Repos              30 repos  ·  6 pub   · 24 priv   · 88.8 MiB
                                            LeetCode          91 solved  ·  77 Easy · 12 Medium ·   2 Hard
                                            Stack Overflow      471 rep  ·  1 Gold  · 5 Silver  · 8 Bronze
-                                           Spotify           5,284 hrs  ·  90,930 streams
+                                           Spotify           5,293 hrs  ·  91,087 streams
                                          ────────────────────────────────────────────────────────────────
                                            *scripting, device tuning, ricing & agent tasks
 ```
 
 ---
 
-> *"Truth can only be found in one place: the code."*  — Robert C. Martin
+> *"The purpose of computing is insight, not numbers."*  — Richard Hamming
 
 ---
 
 <p align="center">
-  <code>sync: 2026-11-22 06:55 IST</code> &nbsp;·&nbsp; <code>next: ~06:55 IST</code><br>
+  <code>sync: 2026-11-23 07:19 IST</code> &nbsp;·&nbsp; <code>next: ~07:19 IST</code><br>
   <sub>Metrics reflect a fraction of total activity across tracked environments.<br>
   Copyright © 2020 - 2026 | Aditya Prasad S</sub><br><br>
   <a href="https://a.devh.in" rel="nofollow"><img alt="Hits" src="https://da.gd/track0" width="94"></a>
