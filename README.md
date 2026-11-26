@@ -38,8 +38,8 @@ fun main() {
 
 <p align="center">
   <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/OS-Arch%20Linux-1793d1?logo=archlinux&logoColor=white" alt="Arch Linux"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-2%2C024%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C311%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-2%2C037%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C316%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 ```
@@ -49,46 +49,46 @@ fun main() {
                   -`                     pu94x@xoarch
                  .o+`                    ────────────
                 `ooo/                    OS              Arch Linux x86_64
-               `+oooo:                   Host            xoarch (184h 51m / 30D)
+               `+oooo:                   Host            xoarch (195h 14m / 30D)
               `+oooooo:                  Terminal        kitty (fish)
-              -+oooooo+:                 Editors         Antigravity (151h 56m · 82.1%)
-            `/:-:++oooo+:                                Claude Code (13h 56m · 7.5%)
-           `/++++/+++++++:                               OpenCode (11h 15m · 6.1%)
+              -+oooooo+:                 Editors         Antigravity (152h 01m · 77.9%)
+            `/:-:++oooo+:                                Claude Code (23h 51m · 12.2%)
+           `/++++/+++++++:                               OpenCode (11h 24m · 5.8%)
           `/++++++++++++++:              WM              Hyprland (Wayland) [riced]
          `/+++ooooooooooooo/`            Uptime          Since 2020 (tracked since 21st 2022)
         ./ooosssso++osssssso+`           ────────────────────────────────────────────────────────────────
        .oossssso-````/ossssss+`          30D Runtime
-      -osssssso.      :ssssssso.           QML                 57h 53m  [########################]  31.3%
-     :osssssss/        osssso+++.          AgentOps*           31h 35m  [#############-----------]  17.1%
-    /ossssssss/        +ssssooo/-          Markdown            19h 50m  [########----------------]  10.7%
-  `/ossssso+/:-        -:/+osssso+-        Python              17h 43m  [#######-----------------]   9.6%
- `+sso+:-`                 `.-/+oso:       Text                 7h 20m  [###---------------------]   4.0%
+      -osssssso.      :ssssssso.           QML                 57h 03m  [########################]  29.2%
+     :osssssss/        osssso+++.          AgentOps*           34h 02m  [##############----------]  17.4%
+    /ossssssss/        +ssssooo/-          Markdown            19h 50m  [########----------------]  10.2%
+  `/ossssso+/:-        -:/+osssso+-        Python              17h 43m  [#######-----------------]   9.1%
+ `+sso+:-`                 `.-/+oso:       Text                 7h 20m  [###---------------------]   3.8%
 `++:.                           `-/+/    ────────────────────────────────────────────────────────────────
 .`                                 `/    AI Orchestration · 30D
-                                           Gemini          65.0k lines  [########################]  84.4%
+                                           Gemini          64.8k lines  [########################]  84.4%
                                            DeepSeek         6.4k lines  [##----------------------]   8.3%
                                            Tencent Hy       4.0k lines  [#-----------------------]   5.2%
-                                           Total           77.0k lines  ·  total generated
-                                           Tokens          231.99M      ·  209.48M input / 22.50M output
+                                           Total           76.8k lines  ·  total generated
+                                           Tokens          241.46M      ·  217.66M input / 23.80M output
                                          ────────────────────────────────────────────────────────────────
                                          All-Time
-                                           Commits              6,099+  ·  140 (30D) · 46.4% night commits
-                                           Repos              30 repos  ·  6 pub   · 24 priv   · 93.5 MiB
+                                           Commits              6,108+  ·  149 (30D) · 48.3% night commits
+                                           Repos              31 repos  ·  6 pub   · 25 priv   · 93.8 MiB
                                            LeetCode          91 solved  ·  77 Easy · 12 Medium ·   2 Hard
                                            Stack Overflow      471 rep  ·  1 Gold  · 5 Silver  · 8 Bronze
-                                           Spotify           5,311 hrs  ·  91,356 streams
+                                           Spotify           5,316 hrs  ·  91,442 streams
                                          ────────────────────────────────────────────────────────────────
                                            *scripting, device tuning, ricing & agent tasks
 ```
 
 ---
 
-> *"The cost to repair an error goes up dramatically as project moves towards completion and beyond."*  — Daniel T. Barry
+> *"Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road."*  — Stewart Brand
 
 ---
 
 <p align="center">
-  <code>sync: 2026-11-25 09:49 IST</code> &nbsp;·&nbsp; <code>next: ~09:49 IST</code><br>
+  <code>sync: 2026-11-26 09:08 IST</code> &nbsp;·&nbsp; <code>next: ~09:08 IST</code><br>
   <sub>Metrics reflect a fraction of total activity across tracked environments.<br>
   Copyright © 2020 - 2026 | Aditya Prasad S</sub><br><br>
   <a href="https://a.devh.in" rel="nofollow"><img alt="Hits" src="https://da.gd/track0" width="94"></a>
