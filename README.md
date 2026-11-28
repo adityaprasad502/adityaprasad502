@@ -38,8 +38,8 @@ fun main() {
 
 <p align="center">
   <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/OS-Arch%20Linux-1793d1?logo=archlinux&logoColor=white" alt="Arch Linux"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-2%2C044%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
-  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C320%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Code%20Time-2%2C055%20hrs-f2c35c?logo=wakatime&logoColor=white" alt="Code Time"></a>
+  <a href="https://a.devh.in" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-5%2C325%20hrs-1db954?logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 ```
@@ -49,46 +49,46 @@ fun main() {
                   -`                     pu94x@xoarch
                  .o+`                    ────────────
                 `ooo/                    OS              Arch Linux x86_64
-               `+oooo:                   Host            xoarch (209h 01m / 30D)
+               `+oooo:                   Host            xoarch (212h 12m / 30D)
               `+oooooo:                  Terminal        kitty (fish)
-              -+oooooo+:                 Editors         Antigravity (162h 55m · 78.0%)
-            `/:-:++oooo+:                                Claude Code (24h 56m · 11.9%)
-           `/++++/+++++++:                               OpenCode (12h 44m · 6.1%)
+              -+oooooo+:                 Editors         Antigravity (164h 13m · 77.4%)
+            `/:-:++oooo+:                                Claude Code (27h 04m · 12.8%)
+           `/++++/+++++++:                               OpenCode (12h 44m · 6.0%)
           `/++++++++++++++:              WM              Hyprland (Wayland) [riced]
          `/+++ooooooooooooo/`            Uptime          Since 2020 (tracked since 21st 2022)
         ./ooosssso++osssssso+`           ────────────────────────────────────────────────────────────────
        .oossssso-````/ossssss+`          30D Runtime
-      -osssssso.      :ssssssso.           QML                 63h 34m  [########################]  30.4%
-     :osssssss/        osssso+++.          AgentOps*           39h 25m  [###############---------]  18.9%
-    /ossssssss/        +ssssooo/-          Markdown            19h 50m  [#######-----------------]   9.5%
-  `/ossssso+/:-        -:/+osssso+-        Python              18h 00m  [#######-----------------]   8.6%
- `+sso+:-`                 `.-/+oso:       Text                 7h 20m  [###---------------------]   3.5%
+      -osssssso.      :ssssssso.           QML                 62h 36m  [########################]  29.5%
+     :osssssss/        osssso+++.          AgentOps*           43h 50m  [#################-------]  20.7%
+    /ossssssss/        +ssssooo/-          Markdown            19h 58m  [########----------------]   9.4%
+  `/ossssso+/:-        -:/+osssso+-        Python              18h 00m  [#######-----------------]   8.5%
+ `+sso+:-`                 `.-/+oso:       Text                 7h 19m  [###---------------------]   3.5%
 `++:.                           `-/+/    ────────────────────────────────────────────────────────────────
 .`                                 `/    AI Orchestration · 30D
-                                           Gemini          64.8k lines  [########################]  84.1%
+                                           Gemini          62.4k lines  [########################]  81.1%
                                            DeepSeek         6.4k lines  [##----------------------]   8.3%
-                                           Tencent Hy       4.0k lines  [#-----------------------]   5.2%
-                                           Total           77.1k lines  ·  total generated
-                                           Tokens          243.00M      ·  219.02M input / 23.99M output
+                                           Tencent Hy       4.0k lines  [##----------------------]   5.2%
+                                           Total           76.9k lines  ·  total generated
+                                           Tokens          239.59M      ·  215.77M input / 23.81M output
                                          ────────────────────────────────────────────────────────────────
                                          All-Time
-                                           Commits              6,117+  ·  158 (30D) · 50.0% night commits
-                                           Repos              31 repos  ·  6 pub   · 25 priv   · 97.4 MiB
+                                           Commits              6,123+  ·  164 (30D) · 50.0% night commits
+                                           Repos              31 repos  ·  6 pub   · 25 priv   · 97.8 MiB
                                            LeetCode          91 solved  ·  77 Easy · 12 Medium ·   2 Hard
                                            Stack Overflow      471 rep  ·  1 Gold  · 5 Silver  · 8 Bronze
-                                           Spotify           5,320 hrs  ·  91,516 streams
+                                           Spotify           5,325 hrs  ·  91,598 streams
                                          ────────────────────────────────────────────────────────────────
                                            *scripting, device tuning, ricing & agent tasks
 ```
 
 ---
 
-> *"The act of describing a program in unambiguous detail and the act of programming are one and the same."*  — Kevlin Henney
+> *"Programming is the ultimate field for someone who likes to tinker."*  — Ray Ozzie
 
 ---
 
 <p align="center">
-  <code>sync: 2026-11-27 09:10 IST</code> &nbsp;·&nbsp; <code>next: ~09:10 IST</code><br>
+  <code>sync: 2026-11-28 08:51 IST</code> &nbsp;·&nbsp; <code>next: ~08:51 IST</code><br>
   <sub>Metrics reflect a fraction of total activity across tracked environments.<br>
   Copyright © 2020 - 2026 | Aditya Prasad S</sub><br><br>
   <a href="https://a.devh.in" rel="nofollow"><img alt="Hits" src="https://da.gd/track0" width="94"></a>
